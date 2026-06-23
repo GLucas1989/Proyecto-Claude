@@ -7,25 +7,95 @@
     "avatar": "https://i.pravatar.cc/150?u=lewpac",
     "bioShort": "El creador más veterano de Albion Online. Guías de builds, economía y PvP a alto nivel.",
     "bioLong": "Lewpac lleva años siendo el referente de la comunidad de Albion Online. Sus guías cubren todos los aspectos del juego: desde las mejores builds por rol hasta estrategias avanzadas de economía en el mercado. Reconocido por su claridad explicativa y la profundidad de su análisis, es el primer nombre que cualquier jugador nuevo debería buscar. Sus streams en Twitch son eventos comunitarios donde analiza partidas en vivo.",
-    "contentType": ["competitive", "educational"],
-    "gameMode": ["pvp", "pve", "economy", "guild"],
-    "languages": ["en"],
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "gameMode": [
+      "pvp",
+      "pve",
+      "economy",
+      "guild"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@lewpac",
       "twitch": "lewpac",
       "twitter": "https://twitter.com/lewpac"
     },
     "latestVideos": [
-      {"id": "vid-lw-001","title": "Best Builds for Solo PvP — Current Meta Guide","thumbnail": "https://picsum.photos/seed/lw001/640/360","url": "https://www.youtube.com/watch?v=albex1","publishedAt": "2026-06-22"},
-      {"id": "vid-lw-002","title": "How to Make 10M Silver Per Day — Economy Guide","thumbnail": "https://picsum.photos/seed/lw002/640/360","url": "https://www.youtube.com/watch?v=albex2","publishedAt": "2026-06-19"},
-      {"id": "vid-lw-003","title": "ZvZ Guide: Positioning and Caller Fundamentals","thumbnail": "https://picsum.photos/seed/lw003/640/360","url": "https://www.youtube.com/watch?v=albex3","publishedAt": "2026-06-16"},
-      {"id": "vid-lw-004","title": "Corrupted Dungeons Deep Dive — Solo Invader","thumbnail": "https://picsum.photos/seed/lw004/640/360","url": "https://www.youtube.com/watch?v=albex4","publishedAt": "2026-06-13"},
-      {"id": "vid-lw-005","title": "New Player Roadmap 2026 — From T4 to T8","thumbnail": "https://picsum.photos/seed/lw005/640/360","url": "https://www.youtube.com/watch?v=albex5","publishedAt": "2026-06-10"},
-      {"id": "vid-lw-006","title": "Mage Build Tier List — Every Staff Ranked","thumbnail": "https://picsum.photos/seed/lw006/640/360","url": "https://www.youtube.com/watch?v=albex6","publishedAt": "2026-06-07"},
-      {"id": "vid-lw-007","title": "Crafting Profit Guide — Best Items to Craft","thumbnail": "https://picsum.photos/seed/lw007/640/360","url": "https://www.youtube.com/watch?v=albex7","publishedAt": "2026-06-04"},
-      {"id": "vid-lw-008","title": "Avalonian Dungeons — Best Groups and Comps","thumbnail": "https://picsum.photos/seed/lw008/640/360","url": "https://www.youtube.com/watch?v=albex8","publishedAt": "2026-06-01"},
-      {"id": "vid-lw-009","title": "Ganking Guide: How Pros Pick Their Targets","thumbnail": "https://picsum.photos/seed/lw009/640/360","url": "https://www.youtube.com/watch?v=albex9","publishedAt": "2026-05-29"},
-      {"id": "vid-lw-010","title": "Guild Wars — Calling Strats for Small Guilds","thumbnail": "https://picsum.photos/seed/lw010/640/360","url": "https://www.youtube.com/watch?v=albex10","publishedAt": "2026-05-26"}
+      {
+        "id": "vid-lw-001",
+        "title": "Best Builds for Solo PvP — Current Meta Guide",
+        "thumbnail": "https://picsum.photos/seed/lw001/640/360",
+        "url": "https://www.youtube.com/watch?v=albex1",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-lw-002",
+        "title": "How to Make 10M Silver Per Day — Economy Guide",
+        "thumbnail": "https://picsum.photos/seed/lw002/640/360",
+        "url": "https://www.youtube.com/watch?v=albex2",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-lw-003",
+        "title": "ZvZ Guide: Positioning and Caller Fundamentals",
+        "thumbnail": "https://picsum.photos/seed/lw003/640/360",
+        "url": "https://www.youtube.com/watch?v=albex3",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-lw-004",
+        "title": "Corrupted Dungeons Deep Dive — Solo Invader",
+        "thumbnail": "https://picsum.photos/seed/lw004/640/360",
+        "url": "https://www.youtube.com/watch?v=albex4",
+        "publishedAt": "2026-06-13"
+      },
+      {
+        "id": "vid-lw-005",
+        "title": "New Player Roadmap 2026 — From T4 to T8",
+        "thumbnail": "https://picsum.photos/seed/lw005/640/360",
+        "url": "https://www.youtube.com/watch?v=albex5",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-lw-006",
+        "title": "Mage Build Tier List — Every Staff Ranked",
+        "thumbnail": "https://picsum.photos/seed/lw006/640/360",
+        "url": "https://www.youtube.com/watch?v=albex6",
+        "publishedAt": "2026-06-07"
+      },
+      {
+        "id": "vid-lw-007",
+        "title": "Crafting Profit Guide — Best Items to Craft",
+        "thumbnail": "https://picsum.photos/seed/lw007/640/360",
+        "url": "https://www.youtube.com/watch?v=albex7",
+        "publishedAt": "2026-06-04"
+      },
+      {
+        "id": "vid-lw-008",
+        "title": "Avalonian Dungeons — Best Groups and Comps",
+        "thumbnail": "https://picsum.photos/seed/lw008/640/360",
+        "url": "https://www.youtube.com/watch?v=albex8",
+        "publishedAt": "2026-06-01"
+      },
+      {
+        "id": "vid-lw-009",
+        "title": "Ganking Guide: How Pros Pick Their Targets",
+        "thumbnail": "https://picsum.photos/seed/lw009/640/360",
+        "url": "https://www.youtube.com/watch?v=albex9",
+        "publishedAt": "2026-05-29"
+      },
+      {
+        "id": "vid-lw-010",
+        "title": "Guild Wars — Calling Strats for Small Guilds",
+        "thumbnail": "https://picsum.photos/seed/lw010/640/360",
+        "url": "https://www.youtube.com/watch?v=albex10",
+        "publishedAt": "2026-05-26"
+      }
     ]
   },
   {
@@ -36,54 +106,93 @@
     "avatar": "https://i.pravatar.cc/150?u=fwuffy-alb",
     "bioShort": "Streamer de Albion especializado en PvP open world y small-scale. Conocido por sus clips virales.",
     "bioLong": "Fwuffy es uno de los jugadores de PvP más reconocidos de Albion Online. Su especialidad son los combates small-scale y el roaming en zonas de riesgo elevado. Sus clips de combates épicos 1v5 se vuelven virales regularmente en la comunidad. Además de entretener, ofrece análisis post-combat que explican las decisiones tomadas en cada enfrentamiento.",
-    "contentType": ["competitive", "casual"],
-    "gameMode": ["pvp", "ganking"],
-    "languages": ["en"],
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "gameMode": [
+      "pvp",
+      "ganking"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@fwuffy",
       "twitch": "fwuffy",
       "twitter": "https://twitter.com/fwuffy"
     },
     "latestVideos": [
-      {"id": "vid-fw-001","title": "1v5 Clutch in Red Zone — Insane PvP Montage","thumbnail": "https://picsum.photos/seed/fw001/640/360","url": "https://www.youtube.com/watch?v=albex11","publishedAt": "2026-06-23"},
-      {"id": "vid-fw-002","title": "Best Open World PvP Moments This Week","thumbnail": "https://picsum.photos/seed/fw002/640/360","url": "https://www.youtube.com/watch?v=albex12","publishedAt": "2026-06-20"},
-      {"id": "vid-fw-003","title": "Crossbow Build That Deletes Everyone","thumbnail": "https://picsum.photos/seed/fw003/640/360","url": "https://www.youtube.com/watch?v=albex13","publishedAt": "2026-06-17"},
-      {"id": "vid-fw-004","title": "Roaming Black Zone — 20 Kills in One Hour","thumbnail": "https://picsum.photos/seed/fw004/640/360","url": "https://www.youtube.com/watch?v=albex14","publishedAt": "2026-06-14"},
-      {"id": "vid-fw-005","title": "Small Scale Comp — 5v5 Full Breakdown","thumbnail": "https://picsum.photos/seed/fw005/640/360","url": "https://www.youtube.com/watch?v=albex15","publishedAt": "2026-06-11"},
-      {"id": "vid-fw-006","title": "Dagger Pair Montage — Fastest Burst in the Game","thumbnail": "https://picsum.photos/seed/fw006/640/360","url": "https://www.youtube.com/watch?v=albex16","publishedAt": "2026-06-08"},
-      {"id": "vid-fw-007","title": "Stream Highlights: Best Ganks of the Month","thumbnail": "https://picsum.photos/seed/fw007/640/360","url": "https://www.youtube.com/watch?v=albex17","publishedAt": "2026-06-05"},
-      {"id": "vid-fw-008","title": "How I Died 3 Times and Still Made Profit","thumbnail": "https://picsum.photos/seed/fw008/640/360","url": "https://www.youtube.com/watch?v=albex18","publishedAt": "2026-06-02"},
-      {"id": "vid-fw-009","title": "Rating Viewer PvP Clips — Roast Sessions","thumbnail": "https://picsum.photos/seed/fw009/640/360","url": "https://www.youtube.com/watch?v=albex19","publishedAt": "2026-05-30"},
-      {"id": "vid-fw-010","title": "Why Open World PvP Is the Best Endgame","thumbnail": "https://picsum.photos/seed/fw010/640/360","url": "https://www.youtube.com/watch?v=albex20","publishedAt": "2026-05-27"}
-    ]
-  },
-  {
-    "id": "albion-en-espanol",
-    "name": "Albion en Español",
-    "channelId": "UCalbionesp_example",
-    "channelUrl": "https://www.youtube.com/@albionespanol",
-    "avatar": "https://i.pravatar.cc/150?u=albion-es",
-    "bioShort": "La comunidad hispana de Albion Online. Guías en español, eventos y streams semanales.",
-    "bioLong": "Albion en Español es el punto de encuentro de la comunidad latinoamericana y española de Albion Online. Cubre todas las facetas del juego con guías completas en castellano: PvP, PvE, economía, guilds y mucho más. Organiza eventos comunitarios, torneos internos y streams semanales donde los jugadores pueden aprender y divertirse juntos.",
-    "contentType": ["educational", "casual", "competitive"],
-    "gameMode": ["pvp", "pve", "economy", "guild"],
-    "languages": ["es"],
-    "socials": {
-      "youtube": "https://www.youtube.com/@albionespanol",
-      "twitch": "albionespanol",
-      "twitter": "https://twitter.com/albionespanol"
-    },
-    "latestVideos": [
-      {"id": "vid-ae-001","title": "Guía Definitiva para Principiantes 2026 — Todo lo Esencial","thumbnail": "https://picsum.photos/seed/ae001/640/360","url": "https://www.youtube.com/watch?v=albex21","publishedAt": "2026-06-22"},
-      {"id": "vid-ae-002","title": "Cómo Ganar Plata Rápido — Las Mejores Rutas de Farmeo","thumbnail": "https://picsum.photos/seed/ae002/640/360","url": "https://www.youtube.com/watch?v=albex22","publishedAt": "2026-06-19"},
-      {"id": "vid-ae-003","title": "PvP para Principiantes — Tus Primeros Combates","thumbnail": "https://picsum.photos/seed/ae003/640/360","url": "https://www.youtube.com/watch?v=albex23","publishedAt": "2026-06-16"},
-      {"id": "vid-ae-004","title": "Las Mejores Guildas Hispanas de Albion — Ranking","thumbnail": "https://picsum.photos/seed/ae004/640/360","url": "https://www.youtube.com/watch?v=albex24","publishedAt": "2026-06-13"},
-      {"id": "vid-ae-005","title": "Build de Tanque para ZvZ — Aguanta Todo","thumbnail": "https://picsum.photos/seed/ae005/640/360","url": "https://www.youtube.com/watch?v=albex25","publishedAt": "2026-06-10"},
-      {"id": "vid-ae-006","title": "Torneo de la Comunidad Hispana — Highlights","thumbnail": "https://picsum.photos/seed/ae006/640/360","url": "https://www.youtube.com/watch?v=albex26","publishedAt": "2026-06-07"},
-      {"id": "vid-ae-007","title": "Economía de Albion — Cómo Funciona el Mercado","thumbnail": "https://picsum.photos/seed/ae007/640/360","url": "https://www.youtube.com/watch?v=albex27","publishedAt": "2026-06-04"},
-      {"id": "vid-ae-008","title": "Mazmorras en Grupo — La Guía Más Completa","thumbnail": "https://picsum.photos/seed/ae008/640/360","url": "https://www.youtube.com/watch?v=albex28","publishedAt": "2026-06-01"},
-      {"id": "vid-ae-009","title": "¿Vale la Pena Jugar Albion en 2026? Review Honesta","thumbnail": "https://picsum.photos/seed/ae009/640/360","url": "https://www.youtube.com/watch?v=albex29","publishedAt": "2026-05-29"},
-      {"id": "vid-ae-010","title": "Stream Especial: Evento de Comunidad en Vivo","thumbnail": "https://picsum.photos/seed/ae010/640/360","url": "https://www.youtube.com/watch?v=albex30","publishedAt": "2026-05-26"}
+      {
+        "id": "vid-fw-001",
+        "title": "1v5 Clutch in Red Zone — Insane PvP Montage",
+        "thumbnail": "https://picsum.photos/seed/fw001/640/360",
+        "url": "https://www.youtube.com/watch?v=albex11",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-fw-002",
+        "title": "Best Open World PvP Moments This Week",
+        "thumbnail": "https://picsum.photos/seed/fw002/640/360",
+        "url": "https://www.youtube.com/watch?v=albex12",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-fw-003",
+        "title": "Crossbow Build That Deletes Everyone",
+        "thumbnail": "https://picsum.photos/seed/fw003/640/360",
+        "url": "https://www.youtube.com/watch?v=albex13",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-fw-004",
+        "title": "Roaming Black Zone — 20 Kills in One Hour",
+        "thumbnail": "https://picsum.photos/seed/fw004/640/360",
+        "url": "https://www.youtube.com/watch?v=albex14",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-fw-005",
+        "title": "Small Scale Comp — 5v5 Full Breakdown",
+        "thumbnail": "https://picsum.photos/seed/fw005/640/360",
+        "url": "https://www.youtube.com/watch?v=albex15",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-fw-006",
+        "title": "Dagger Pair Montage — Fastest Burst in the Game",
+        "thumbnail": "https://picsum.photos/seed/fw006/640/360",
+        "url": "https://www.youtube.com/watch?v=albex16",
+        "publishedAt": "2026-06-08"
+      },
+      {
+        "id": "vid-fw-007",
+        "title": "Stream Highlights: Best Ganks of the Month",
+        "thumbnail": "https://picsum.photos/seed/fw007/640/360",
+        "url": "https://www.youtube.com/watch?v=albex17",
+        "publishedAt": "2026-06-05"
+      },
+      {
+        "id": "vid-fw-008",
+        "title": "How I Died 3 Times and Still Made Profit",
+        "thumbnail": "https://picsum.photos/seed/fw008/640/360",
+        "url": "https://www.youtube.com/watch?v=albex18",
+        "publishedAt": "2026-06-02"
+      },
+      {
+        "id": "vid-fw-009",
+        "title": "Rating Viewer PvP Clips — Roast Sessions",
+        "thumbnail": "https://picsum.photos/seed/fw009/640/360",
+        "url": "https://www.youtube.com/watch?v=albex19",
+        "publishedAt": "2026-05-30"
+      },
+      {
+        "id": "vid-fw-010",
+        "title": "Why Open World PvP Is the Best Endgame",
+        "thumbnail": "https://picsum.photos/seed/fw010/640/360",
+        "url": "https://www.youtube.com/watch?v=albex20",
+        "publishedAt": "2026-05-27"
+      }
     ]
   },
   {
@@ -94,25 +203,94 @@
     "avatar": "https://i.pravatar.cc/150?u=captain-lust",
     "bioShort": "Experto en economía y crafting de Albion. Sus guías de mercado son las más precisas de la comunidad.",
     "bioLong": "Captain Lust es el economista de referencia de Albion Online. Sus análisis del mercado, guías de crafting y estrategias de inversión tienen un nivel de detalle difícil de igualar. Si quieres entender cómo funciona la economía del juego a fondo — desde el arbitraje entre ciudades hasta las mejores inversiones de crafting — este es tu canal.",
-    "contentType": ["educational", "casual"],
-    "gameMode": ["economy", "crafting", "pve"],
-    "languages": ["en"],
+    "contentType": [
+      "educational",
+      "casual"
+    ],
+    "gameMode": [
+      "economy",
+      "crafting",
+      "pve"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@captainlust",
       "twitch": "captainlust",
       "twitter": "https://twitter.com/captainlust"
     },
     "latestVideos": [
-      {"id": "vid-cl-001","title": "Market Manipulation Guide — Ethical Silver Making","thumbnail": "https://picsum.photos/seed/cl001/640/360","url": "https://www.youtube.com/watch?v=albex31","publishedAt": "2026-06-21"},
-      {"id": "vid-cl-002","title": "Best Cities to Craft In — 2026 Updated Guide","thumbnail": "https://picsum.photos/seed/cl002/640/360","url": "https://www.youtube.com/watch?v=albex32","publishedAt": "2026-06-18"},
-      {"id": "vid-cl-003","title": "T8 Crafting Profit Calculator — Live Demo","thumbnail": "https://picsum.photos/seed/cl003/640/360","url": "https://www.youtube.com/watch?v=albex33","publishedAt": "2026-06-15"},
-      {"id": "vid-cl-004","title": "How I Made 500M Silver in One Month F2P","thumbnail": "https://picsum.photos/seed/cl004/640/360","url": "https://www.youtube.com/watch?v=albex34","publishedAt": "2026-06-12"},
-      {"id": "vid-cl-005","title": "Island Farming Setup — Max Passive Income","thumbnail": "https://picsum.photos/seed/cl005/640/360","url": "https://www.youtube.com/watch?v=albex35","publishedAt": "2026-06-09"},
-      {"id": "vid-cl-006","title": "Patch Economy Impact — Winners and Losers","thumbnail": "https://picsum.photos/seed/cl006/640/360","url": "https://www.youtube.com/watch?v=albex36","publishedAt": "2026-06-06"},
-      {"id": "vid-cl-007","title": "Resource Flipping 101 — Low Risk High Return","thumbnail": "https://picsum.photos/seed/cl007/640/360","url": "https://www.youtube.com/watch?v=albex37","publishedAt": "2026-06-03"},
-      {"id": "vid-cl-008","title": "Best Solo Farming Spots by Zone Risk Level","thumbnail": "https://picsum.photos/seed/cl008/640/360","url": "https://www.youtube.com/watch?v=albex38","publishedAt": "2026-05-31"},
-      {"id": "vid-cl-009","title": "Guild Economy 101 — Funding War and Growth","thumbnail": "https://picsum.photos/seed/cl009/640/360","url": "https://www.youtube.com/watch?v=albex39","publishedAt": "2026-05-28"},
-      {"id": "vid-cl-010","title": "Is Premium Worth It? Full Cost-Benefit Analysis","thumbnail": "https://picsum.photos/seed/cl010/640/360","url": "https://www.youtube.com/watch?v=albex40","publishedAt": "2026-05-25"}
+      {
+        "id": "vid-cl-001",
+        "title": "Market Manipulation Guide — Ethical Silver Making",
+        "thumbnail": "https://picsum.photos/seed/cl001/640/360",
+        "url": "https://www.youtube.com/watch?v=albex31",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-cl-002",
+        "title": "Best Cities to Craft In — 2026 Updated Guide",
+        "thumbnail": "https://picsum.photos/seed/cl002/640/360",
+        "url": "https://www.youtube.com/watch?v=albex32",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-cl-003",
+        "title": "T8 Crafting Profit Calculator — Live Demo",
+        "thumbnail": "https://picsum.photos/seed/cl003/640/360",
+        "url": "https://www.youtube.com/watch?v=albex33",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-cl-004",
+        "title": "How I Made 500M Silver in One Month F2P",
+        "thumbnail": "https://picsum.photos/seed/cl004/640/360",
+        "url": "https://www.youtube.com/watch?v=albex34",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-cl-005",
+        "title": "Island Farming Setup — Max Passive Income",
+        "thumbnail": "https://picsum.photos/seed/cl005/640/360",
+        "url": "https://www.youtube.com/watch?v=albex35",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "id": "vid-cl-006",
+        "title": "Patch Economy Impact — Winners and Losers",
+        "thumbnail": "https://picsum.photos/seed/cl006/640/360",
+        "url": "https://www.youtube.com/watch?v=albex36",
+        "publishedAt": "2026-06-06"
+      },
+      {
+        "id": "vid-cl-007",
+        "title": "Resource Flipping 101 — Low Risk High Return",
+        "thumbnail": "https://picsum.photos/seed/cl007/640/360",
+        "url": "https://www.youtube.com/watch?v=albex37",
+        "publishedAt": "2026-06-03"
+      },
+      {
+        "id": "vid-cl-008",
+        "title": "Best Solo Farming Spots by Zone Risk Level",
+        "thumbnail": "https://picsum.photos/seed/cl008/640/360",
+        "url": "https://www.youtube.com/watch?v=albex38",
+        "publishedAt": "2026-05-31"
+      },
+      {
+        "id": "vid-cl-009",
+        "title": "Guild Economy 101 — Funding War and Growth",
+        "thumbnail": "https://picsum.photos/seed/cl009/640/360",
+        "url": "https://www.youtube.com/watch?v=albex39",
+        "publishedAt": "2026-05-28"
+      },
+      {
+        "id": "vid-cl-010",
+        "title": "Is Premium Worth It? Full Cost-Benefit Analysis",
+        "thumbnail": "https://picsum.photos/seed/cl010/640/360",
+        "url": "https://www.youtube.com/watch?v=albex40",
+        "publishedAt": "2026-05-25"
+      }
     ]
   }
 ]

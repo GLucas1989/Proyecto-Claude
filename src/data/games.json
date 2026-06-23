@@ -41,8 +41,8 @@
     "slug": "dark-and-darker",
     "description": "Dungeon crawler PvPvE de extracción. Entra a las mazmorras, mata rivales y sal con vida.",
     "coverImage": "/images/games/dark-and-darker.jpg",
-    "active": true,
-    "comingSoon": false,
+    "active": false,
+    "comingSoon": true,
     "emoji": "🏚️",
     "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2016590/header.jpg",
     "filters": ["contentType", "class", "language"]
@@ -77,8 +77,8 @@
     "slug": "diablo-immortal",
     "description": "El universo de Diablo en la palma de tu mano. Hack & slash infinito en dispositivos móviles.",
     "coverImage": "/images/games/diablo-immortal.jpg",
-    "active": true,
-    "comingSoon": false,
+    "active": false,
+    "comingSoon": true,
     "emoji": "💀",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Diablo_Immortal_cover_art.jpg/460px-Diablo_Immortal_cover_art.jpg",
     "filters": ["contentType", "class", "language"]

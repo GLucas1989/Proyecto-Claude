@@ -7,46 +7,191 @@
     "avatar": "https://i.pravatar.cc/150?u=reid-duke",
     "bioShort": "Pro Tour champion y uno de los jugadores más respetados del mundo competitivo de Magic.",
     "bioLong": "Reid Duke es un jugador profesional de Magic: The Gathering con múltiples títulos de Pro Tour. Conocido por su análisis profundo y su estilo de juego disciplinado, Reid crea contenido enfocado en mejorar tus habilidades competitivas. Su serie 'Level One Magic' es considerada el mejor recurso para jugadores intermedios que quieren dar el salto al nivel competitivo.",
-    "contentType": ["competitive", "draft"],
-    "formats": ["standard", "explorer", "historic"],
-    "languages": ["en"],
-    "socials": { "youtube": "https://www.youtube.com/@reiddukemagic", "twitter": "https://twitter.com/reiderrabbit" },
+    "contentType": [
+      "competitive",
+      "draft"
+    ],
+    "formats": [
+      "standard",
+      "explorer",
+      "historic"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@reiddukemagic",
+      "twitter": "https://twitter.com/reiderrabbit"
+    },
     "latestVideos": [
-      { "id": "vid-rd-001", "title": "Standard Mythic Ranked — Esper Midrange Deep Dive", "thumbnail": "https://picsum.photos/seed/rd001/640/360", "url": "https://www.youtube.com/watch?v=example1", "publishedAt": "2026-06-20" },
-      { "id": "vid-rd-002", "title": "Explorer Bo3 — Rakdos Midrange vs The Field", "thumbnail": "https://picsum.photos/seed/rd002/640/360", "url": "https://www.youtube.com/watch?v=example2", "publishedAt": "2026-06-17" },
-      { "id": "vid-rd-003", "title": "Draft Guide: Tarkir Dragonstorm First Picks", "thumbnail": "https://picsum.photos/seed/rd003/640/360", "url": "https://www.youtube.com/watch?v=example3", "publishedAt": "2026-06-14" },
-      { "id": "vid-rd-004", "title": "Historic Mythic Run — Azorius Soldiers Is Back", "thumbnail": "https://picsum.photos/seed/rd004/640/360", "url": "https://www.youtube.com/watch?v=example4", "publishedAt": "2026-06-11" },
-      { "id": "vid-rd-005", "title": "Level One Magic: How to Play Around Wraths", "thumbnail": "https://picsum.photos/seed/rd005/640/360", "url": "https://www.youtube.com/watch?v=example5", "publishedAt": "2026-06-08" },
-      { "id": "vid-rd-006", "title": "Standard Tier List — Post-Rotation Update", "thumbnail": "https://picsum.photos/seed/rd006/640/360", "url": "https://www.youtube.com/watch?v=example6", "publishedAt": "2026-06-05" },
-      { "id": "vid-rd-007", "title": "Explorer: Gruul Aggro 7-0 Ranked Gauntlet", "thumbnail": "https://picsum.photos/seed/rd007/640/360", "url": "https://www.youtube.com/watch?v=example7", "publishedAt": "2026-06-02" },
-      { "id": "vid-rd-008", "title": "Draft Walkthrough: Building a Perfect Curve", "thumbnail": "https://picsum.photos/seed/rd008/640/360", "url": "https://www.youtube.com/watch?v=example8", "publishedAt": "2026-05-30" },
-      { "id": "vid-rd-009", "title": "Standard Open Preparation — Deck Selection", "thumbnail": "https://picsum.photos/seed/rd009/640/360", "url": "https://www.youtube.com/watch?v=example9", "publishedAt": "2026-05-27" },
-      { "id": "vid-rd-010", "title": "Sideboard Guide: 10 Must-Know Matchups", "thumbnail": "https://picsum.photos/seed/rd010/640/360", "url": "https://www.youtube.com/watch?v=example10", "publishedAt": "2026-05-24" }
+      {
+        "id": "vid-rd-001",
+        "title": "Standard Mythic Ranked — Esper Midrange Deep Dive",
+        "thumbnail": "https://picsum.photos/seed/rd001/640/360",
+        "url": "https://www.youtube.com/watch?v=example1",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-rd-002",
+        "title": "Explorer Bo3 — Rakdos Midrange vs The Field",
+        "thumbnail": "https://picsum.photos/seed/rd002/640/360",
+        "url": "https://www.youtube.com/watch?v=example2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-rd-003",
+        "title": "Draft Guide: Tarkir Dragonstorm First Picks",
+        "thumbnail": "https://picsum.photos/seed/rd003/640/360",
+        "url": "https://www.youtube.com/watch?v=example3",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-rd-004",
+        "title": "Historic Mythic Run — Azorius Soldiers Is Back",
+        "thumbnail": "https://picsum.photos/seed/rd004/640/360",
+        "url": "https://www.youtube.com/watch?v=example4",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-rd-005",
+        "title": "Level One Magic: How to Play Around Wraths",
+        "thumbnail": "https://picsum.photos/seed/rd005/640/360",
+        "url": "https://www.youtube.com/watch?v=example5",
+        "publishedAt": "2026-06-08"
+      },
+      {
+        "id": "vid-rd-006",
+        "title": "Standard Tier List — Post-Rotation Update",
+        "thumbnail": "https://picsum.photos/seed/rd006/640/360",
+        "url": "https://www.youtube.com/watch?v=example6",
+        "publishedAt": "2026-06-05"
+      },
+      {
+        "id": "vid-rd-007",
+        "title": "Explorer: Gruul Aggro 7-0 Ranked Gauntlet",
+        "thumbnail": "https://picsum.photos/seed/rd007/640/360",
+        "url": "https://www.youtube.com/watch?v=example7",
+        "publishedAt": "2026-06-02"
+      },
+      {
+        "id": "vid-rd-008",
+        "title": "Draft Walkthrough: Building a Perfect Curve",
+        "thumbnail": "https://picsum.photos/seed/rd008/640/360",
+        "url": "https://www.youtube.com/watch?v=example8",
+        "publishedAt": "2026-05-30"
+      },
+      {
+        "id": "vid-rd-009",
+        "title": "Standard Open Preparation — Deck Selection",
+        "thumbnail": "https://picsum.photos/seed/rd009/640/360",
+        "url": "https://www.youtube.com/watch?v=example9",
+        "publishedAt": "2026-05-27"
+      },
+      {
+        "id": "vid-rd-010",
+        "title": "Sideboard Guide: 10 Must-Know Matchups",
+        "thumbnail": "https://picsum.photos/seed/rd010/640/360",
+        "url": "https://www.youtube.com/watch?v=example10",
+        "publishedAt": "2026-05-24"
+      }
     ]
   },
   {
-    "id": "izzet-league",
-    "name": "The Izzet League",
-    "channelId": "UCxyz_izzet_example",
-    "channelUrl": "https://www.youtube.com/@izzetleague",
-    "avatar": "https://i.pravatar.cc/150?u=izzet-league",
-    "bioShort": "El canal en español más completo para jugadores competitivos de MTG Arena en Latinoamérica.",
-    "bioLong": "The Izzet League nació como un proyecto para llevar contenido competitivo de alta calidad al público hispanohablante. Cubren todos los formatos con análisis detallados de mazos, guías de sideboard y gameplay en Mítico.",
-    "contentType": ["competitive", "draft"],
-    "formats": ["standard", "explorer", "alchemy", "historic"],
-    "languages": ["es"],
-    "socials": { "youtube": "https://www.youtube.com/@izzetleague", "twitch": "https://twitch.tv/izzetleague", "twitter": "https://twitter.com/izzetleague" },
+    "id": "mundotk",
+    "name": "MundoTK",
+    "channelId": "UCmundotk_placeholder",
+    "channelUrl": "https://www.youtube.com/@TKMagicBlog",
+    "avatar": "https://i.pravatar.cc/150?u=mundotk",
+    "bioShort": "Magic Arena en español: mazos free-to-play, guías de Standard e Historic y directos para todos los niveles.",
+    "bioLong": "MundoTK (TK Magic Blog) es uno de los creadores hispanohablantes más constantes de Magic: The Gathering Arena. Su canal y su blog se especializan en mazos free-to-play accesibles, guías de Standard e Historic, y directos donde explica el meta y la construcción de mazos de forma clara. Ideal para quien quiere competir en Arena sin gastar una fortuna en wildcards.",
+    "contentType": [
+      "educational",
+      "casual",
+      "competitive"
+    ],
+    "formats": [
+      "standard",
+      "historic",
+      "explorer"
+    ],
+    "languages": [
+      "es"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@TKMagicBlog",
+      "twitch": "tkmagicblog"
+    },
     "latestVideos": [
-      { "id": "vid-il-001", "title": "MÍTICO con Mono Red en Standard | MTG Arena", "thumbnail": "https://picsum.photos/seed/il001/640/360", "url": "https://www.youtube.com/watch?v=example11", "publishedAt": "2026-06-21" },
-      { "id": "vid-il-002", "title": "Guía Completa: Azorius Soldiers en Explorer", "thumbnail": "https://picsum.photos/seed/il002/640/360", "url": "https://www.youtube.com/watch?v=example12", "publishedAt": "2026-06-18" },
-      { "id": "vid-il-003", "title": "Draft Premier: ¿Vale la pena el Set de Tarkir?", "thumbnail": "https://picsum.photos/seed/il003/640/360", "url": "https://www.youtube.com/watch?v=example13", "publishedAt": "2026-06-15" },
-      { "id": "vid-il-004", "title": "Alchemy Tier List Junio 2026 — Lo Mejor del Formato", "thumbnail": "https://picsum.photos/seed/il004/640/360", "url": "https://www.youtube.com/watch?v=example14", "publishedAt": "2026-06-12" },
-      { "id": "vid-il-005", "title": "Historic: Llegan los Dragones — Reanimator Guide", "thumbnail": "https://picsum.photos/seed/il005/640/360", "url": "https://www.youtube.com/watch?v=example15", "publishedAt": "2026-06-09" },
-      { "id": "vid-il-006", "title": "Análisis del Meta Standard Post-Tarkir", "thumbnail": "https://picsum.photos/seed/il006/640/360", "url": "https://www.youtube.com/watch?v=example16", "publishedAt": "2026-06-06" },
-      { "id": "vid-il-007", "title": "Explorer: Rakdos Midrange — La Mejor Guía", "thumbnail": "https://picsum.photos/seed/il007/640/360", "url": "https://www.youtube.com/watch?v=example17", "publishedAt": "2026-06-03" },
-      { "id": "vid-il-008", "title": "Draft en Español: 7 Victorias con Simic", "thumbnail": "https://picsum.photos/seed/il008/640/360", "url": "https://www.youtube.com/watch?v=example18", "publishedAt": "2026-05-31" },
-      { "id": "vid-il-009", "title": "Top Decks de la Semana — Standard y Explorer", "thumbnail": "https://picsum.photos/seed/il009/640/360", "url": "https://www.youtube.com/watch?v=example19", "publishedAt": "2026-05-28" },
-      { "id": "vid-il-010", "title": "Cómo Llegar a Mítico en MTG Arena — Guía 2026", "thumbnail": "https://picsum.photos/seed/il010/640/360", "url": "https://www.youtube.com/watch?v=example20", "publishedAt": "2026-05-25" }
+      {
+        "id": "vid-tk-001",
+        "title": "Mazo FTP de Standard — Sin Gastar Wildcards",
+        "thumbnail": "https://picsum.photos/seed/tk001/640/360",
+        "url": "https://www.youtube.com/watch?v=tk1",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-002",
+        "title": "Guía del Meta de Standard — Mejores Mazos",
+        "thumbnail": "https://picsum.photos/seed/tk002/640/360",
+        "url": "https://www.youtube.com/watch?v=tk2",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-003",
+        "title": "Cómo Conseguir Cualquier Mazo Gratis en Arena",
+        "thumbnail": "https://picsum.photos/seed/tk003/640/360",
+        "url": "https://www.youtube.com/watch?v=tk3",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-004",
+        "title": "Historic: Mazo Competitivo de Bajo Coste",
+        "thumbnail": "https://picsum.photos/seed/tk004/640/360",
+        "url": "https://www.youtube.com/watch?v=tk4",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-005",
+        "title": "Tier List de Standard — Actualizada",
+        "thumbnail": "https://picsum.photos/seed/tk005/640/360",
+        "url": "https://www.youtube.com/watch?v=tk5",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-006",
+        "title": "Mejores Mazos Aggro para Subir Rápido",
+        "thumbnail": "https://picsum.photos/seed/tk006/640/360",
+        "url": "https://www.youtube.com/watch?v=tk6",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-007",
+        "title": "Draft en Español — Guía para Principiantes",
+        "thumbnail": "https://picsum.photos/seed/tk007/640/360",
+        "url": "https://www.youtube.com/watch?v=tk7",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-008",
+        "title": "Cómo Gastar tus Wildcards de Forma Inteligente",
+        "thumbnail": "https://picsum.photos/seed/tk008/640/360",
+        "url": "https://www.youtube.com/watch?v=tk8",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-009",
+        "title": "Explorer: Mazo Midrange Paso a Paso",
+        "thumbnail": "https://picsum.photos/seed/tk009/640/360",
+        "url": "https://www.youtube.com/watch?v=tk9",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-tk-010",
+        "title": "Directo: Llegando a Mítico desde Cero",
+        "thumbnail": "https://picsum.photos/seed/tk010/640/360",
+        "url": "https://www.youtube.com/watch?v=tk10",
+        "publishedAt": "2026-06-20"
+      }
     ]
   },
   {
@@ -57,21 +202,94 @@
     "avatar": "https://i.pravatar.cc/150?u=numot",
     "bioShort": "Streamer veterano conocido por su dominio del Limited y su energía única en stream.",
     "bioLong": "Numot the Nummy es uno de los creadores más veteranos de la comunidad de Magic. Con miles de horas de Draft en su haber, es considerado una autoridad en formatos Limited. Su personalidad energética y su profundo conocimiento hacen de su contenido una experiencia de aprendizaje única.",
-    "contentType": ["draft", "casual"],
-    "formats": ["standard", "historic", "brawl"],
-    "languages": ["en"],
-    "socials": { "youtube": "https://www.youtube.com/@numotthenummy", "twitch": "https://twitch.tv/numotthenummy", "twitter": "https://twitter.com/numotthenummy" },
+    "contentType": [
+      "draft",
+      "casual"
+    ],
+    "formats": [
+      "standard",
+      "historic",
+      "brawl"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@numotthenummy",
+      "twitch": "https://twitch.tv/numotthenummy",
+      "twitter": "https://twitter.com/numotthenummy"
+    },
     "latestVideos": [
-      { "id": "vid-nn-001", "title": "Historic Brawl: Omnath Landfall Chaos Build", "thumbnail": "https://picsum.photos/seed/nn001/640/360", "url": "https://www.youtube.com/watch?v=example21", "publishedAt": "2026-06-22" },
-      { "id": "vid-nn-002", "title": "Premier Draft 7-0 with Simic Ramp", "thumbnail": "https://picsum.photos/seed/nn002/640/360", "url": "https://www.youtube.com/watch?v=example22", "publishedAt": "2026-06-19" },
-      { "id": "vid-nn-003", "title": "Fun Deckbuilding: 5-Color Nonsense in Alchemy", "thumbnail": "https://picsum.photos/seed/nn003/640/360", "url": "https://www.youtube.com/watch?v=example23", "publishedAt": "2026-06-16" },
-      { "id": "vid-nn-004", "title": "Sealed Deck: Building the Perfect Pool", "thumbnail": "https://picsum.photos/seed/nn004/640/360", "url": "https://www.youtube.com/watch?v=example24", "publishedAt": "2026-06-13" },
-      { "id": "vid-nn-005", "title": "Draft Guide: Reading Signals at the Table", "thumbnail": "https://picsum.photos/seed/nn005/640/360", "url": "https://www.youtube.com/watch?v=example25", "publishedAt": "2026-06-10" },
-      { "id": "vid-nn-006", "title": "Brawl: Every Dragon Commander Ranked", "thumbnail": "https://picsum.photos/seed/nn006/640/360", "url": "https://www.youtube.com/watch?v=example26", "publishedAt": "2026-06-07" },
-      { "id": "vid-nn-007", "title": "Tarkir Prerrelease — Sealed Deck Build Along", "thumbnail": "https://picsum.photos/seed/nn007/640/360", "url": "https://www.youtube.com/watch?v=example27", "publishedAt": "2026-06-04" },
-      { "id": "vid-nn-008", "title": "Historic: Jund Sacrifice Goes Undefeated", "thumbnail": "https://picsum.photos/seed/nn008/640/360", "url": "https://www.youtube.com/watch?v=example28", "publishedAt": "2026-06-01" },
-      { "id": "vid-nn-009", "title": "Cube Draft Stream Highlights: Best Plays", "thumbnail": "https://picsum.photos/seed/nn009/640/360", "url": "https://www.youtube.com/watch?v=example29", "publishedAt": "2026-05-29" },
-      { "id": "vid-nn-010", "title": "Why I Love Limited: A Love Letter to Draft", "thumbnail": "https://picsum.photos/seed/nn010/640/360", "url": "https://www.youtube.com/watch?v=example30", "publishedAt": "2026-05-26" }
+      {
+        "id": "vid-nn-001",
+        "title": "Historic Brawl: Omnath Landfall Chaos Build",
+        "thumbnail": "https://picsum.photos/seed/nn001/640/360",
+        "url": "https://www.youtube.com/watch?v=example21",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-nn-002",
+        "title": "Premier Draft 7-0 with Simic Ramp",
+        "thumbnail": "https://picsum.photos/seed/nn002/640/360",
+        "url": "https://www.youtube.com/watch?v=example22",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-nn-003",
+        "title": "Fun Deckbuilding: 5-Color Nonsense in Alchemy",
+        "thumbnail": "https://picsum.photos/seed/nn003/640/360",
+        "url": "https://www.youtube.com/watch?v=example23",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-nn-004",
+        "title": "Sealed Deck: Building the Perfect Pool",
+        "thumbnail": "https://picsum.photos/seed/nn004/640/360",
+        "url": "https://www.youtube.com/watch?v=example24",
+        "publishedAt": "2026-06-13"
+      },
+      {
+        "id": "vid-nn-005",
+        "title": "Draft Guide: Reading Signals at the Table",
+        "thumbnail": "https://picsum.photos/seed/nn005/640/360",
+        "url": "https://www.youtube.com/watch?v=example25",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-nn-006",
+        "title": "Brawl: Every Dragon Commander Ranked",
+        "thumbnail": "https://picsum.photos/seed/nn006/640/360",
+        "url": "https://www.youtube.com/watch?v=example26",
+        "publishedAt": "2026-06-07"
+      },
+      {
+        "id": "vid-nn-007",
+        "title": "Tarkir Prerrelease — Sealed Deck Build Along",
+        "thumbnail": "https://picsum.photos/seed/nn007/640/360",
+        "url": "https://www.youtube.com/watch?v=example27",
+        "publishedAt": "2026-06-04"
+      },
+      {
+        "id": "vid-nn-008",
+        "title": "Historic: Jund Sacrifice Goes Undefeated",
+        "thumbnail": "https://picsum.photos/seed/nn008/640/360",
+        "url": "https://www.youtube.com/watch?v=example28",
+        "publishedAt": "2026-06-01"
+      },
+      {
+        "id": "vid-nn-009",
+        "title": "Cube Draft Stream Highlights: Best Plays",
+        "thumbnail": "https://picsum.photos/seed/nn009/640/360",
+        "url": "https://www.youtube.com/watch?v=example29",
+        "publishedAt": "2026-05-29"
+      },
+      {
+        "id": "vid-nn-010",
+        "title": "Why I Love Limited: A Love Letter to Draft",
+        "thumbnail": "https://picsum.photos/seed/nn010/640/360",
+        "url": "https://www.youtube.com/watch?v=example30",
+        "publishedAt": "2026-05-26"
+      }
     ]
   },
   {
@@ -82,46 +300,94 @@
     "avatar": "https://i.pravatar.cc/150?u=crokeyz",
     "bioShort": "Especialista en Standard competitivo, famoso por innovar con mazos rogue que rompen el meta.",
     "bioLong": "Crokeyz es uno de los jugadores más creativos del circuito competitivo de MTG Arena. Su especialidad es encontrar estrategias rogue y mazos fuera del meta establecido que sorprenden a sus oponentes.",
-    "contentType": ["competitive", "casual"],
-    "formats": ["standard", "alchemy", "explorer"],
-    "languages": ["en"],
-    "socials": { "youtube": "https://www.youtube.com/@crokeyz", "twitch": "https://twitch.tv/crokeyz", "twitter": "https://twitter.com/crokeyz" },
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "formats": [
+      "standard",
+      "alchemy",
+      "explorer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@crokeyz",
+      "twitch": "https://twitch.tv/crokeyz",
+      "twitter": "https://twitter.com/crokeyz"
+    },
     "latestVideos": [
-      { "id": "vid-cr-001", "title": "Mythic #1 with Underrated Orzhov Tokens", "thumbnail": "https://picsum.photos/seed/cr001/640/360", "url": "https://www.youtube.com/watch?v=example31", "publishedAt": "2026-06-23" },
-      { "id": "vid-cr-002", "title": "This Rogue Deck DEMOLISHED the Ladder", "thumbnail": "https://picsum.photos/seed/cr002/640/360", "url": "https://www.youtube.com/watch?v=example32", "publishedAt": "2026-06-20" },
-      { "id": "vid-cr-003", "title": "Alchemy Brewing Session: New Set Exploits", "thumbnail": "https://picsum.photos/seed/cr003/640/360", "url": "https://www.youtube.com/watch?v=example33", "publishedAt": "2026-06-17" },
-      { "id": "vid-cr-004", "title": "Explorer: Is Creativity Combo Actually Tier 1?", "thumbnail": "https://picsum.photos/seed/cr004/640/360", "url": "https://www.youtube.com/watch?v=example34", "publishedAt": "2026-06-14" },
-      { "id": "vid-cr-005", "title": "Standard: Breaking the Meta with Mardu Control", "thumbnail": "https://picsum.photos/seed/cr005/640/360", "url": "https://www.youtube.com/watch?v=example35", "publishedAt": "2026-06-11" },
-      { "id": "vid-cr-006", "title": "Ladder Challenge: Mythic with a Budget Deck", "thumbnail": "https://picsum.photos/seed/cr006/640/360", "url": "https://www.youtube.com/watch?v=example36", "publishedAt": "2026-06-08" },
-      { "id": "vid-cr-007", "title": "Alchemy: New Cards Are Broken — Here's Why", "thumbnail": "https://picsum.photos/seed/cr007/640/360", "url": "https://www.youtube.com/watch?v=example37", "publishedAt": "2026-06-05" },
-      { "id": "vid-cr-008", "title": "Standard Open Top 8 — Tournament Recap", "thumbnail": "https://picsum.photos/seed/cr008/640/360", "url": "https://www.youtube.com/watch?v=example38", "publishedAt": "2026-06-02" },
-      { "id": "vid-cr-009", "title": "Deck Tech: 5-0 League with Jund Midrange", "thumbnail": "https://picsum.photos/seed/cr009/640/360", "url": "https://www.youtube.com/watch?v=example39", "publishedAt": "2026-05-30" },
-      { "id": "vid-cr-010", "title": "What's the Best Deck in Standard Right Now?", "thumbnail": "https://picsum.photos/seed/cr010/640/360", "url": "https://www.youtube.com/watch?v=example40", "publishedAt": "2026-05-27" }
-    ]
-  },
-  {
-    "id": "el-mago-del-mazo",
-    "name": "El Mago del Mazo",
-    "channelId": "UCelmagodelmazo_example",
-    "channelUrl": "https://www.youtube.com/@elmagodelmaze",
-    "avatar": "https://i.pravatar.cc/150?u=elmagodelmazo",
-    "bioShort": "El mejor canal de lore y narrativa de Magic en español. Historias, lore y construcción de mazos temáticos.",
-    "bioLong": "El Mago del Mazo es el referente indiscutible para los fans del universo narrativo de Magic: The Gathering en español. Su canal combina explicaciones profundas del lore de los planos de Magic, historia de los Planeswalkers, y construcción de mazos temáticos.",
-    "contentType": ["lore", "casual"],
-    "formats": ["brawl", "historic", "standard"],
-    "languages": ["es"],
-    "socials": { "youtube": "https://www.youtube.com/@elmagodelmaze", "twitter": "https://twitter.com/elmagodelmaze" },
-    "latestVideos": [
-      { "id": "vid-em-001", "title": "La Historia Completa de Tarkir: De Dragones a Dragones", "thumbnail": "https://picsum.photos/seed/em001/640/360", "url": "https://www.youtube.com/watch?v=example41", "publishedAt": "2026-06-22" },
-      { "id": "vid-em-002", "title": "Mazo Temático: Los Dragones de Ugin en Brawl", "thumbnail": "https://picsum.photos/seed/em002/640/360", "url": "https://www.youtube.com/watch?v=example42", "publishedAt": "2026-06-19" },
-      { "id": "vid-em-003", "title": "¿Quién es Sarkhan? Historia y Evolución del Planeswalker", "thumbnail": "https://picsum.photos/seed/em003/640/360", "url": "https://www.youtube.com/watch?v=example43", "publishedAt": "2026-06-16" },
-      { "id": "vid-em-004", "title": "El Lore de Phyrexia: Todo lo que Necesitas Saber", "thumbnail": "https://picsum.photos/seed/em004/640/360", "url": "https://www.youtube.com/watch?v=example44", "publishedAt": "2026-06-13" },
-      { "id": "vid-em-005", "title": "Brawl Temático: Jace, el Planeswalker Más Poderoso", "thumbnail": "https://picsum.photos/seed/em005/640/360", "url": "https://www.youtube.com/watch?v=example45", "publishedAt": "2026-06-10" },
-      { "id": "vid-em-006", "title": "Los 5 Planos Más Importantes de Magic — Ranking", "thumbnail": "https://picsum.photos/seed/em006/640/360", "url": "https://www.youtube.com/watch?v=example46", "publishedAt": "2026-06-07" },
-      { "id": "vid-em-007", "title": "Historia de Zendikar: Eldrazi, Héroes y Traición", "thumbnail": "https://picsum.photos/seed/em007/640/360", "url": "https://www.youtube.com/watch?v=example47", "publishedAt": "2026-06-04" },
-      { "id": "vid-em-008", "title": "Mazo Casual: 60 Cartas de Puro Flavor de Innistrad", "thumbnail": "https://picsum.photos/seed/em008/640/360", "url": "https://www.youtube.com/watch?v=example48", "publishedAt": "2026-06-01" },
-      { "id": "vid-em-009", "title": "¿Por qué Fracasó the Gatewatch? Análisis Narrativo", "thumbnail": "https://picsum.photos/seed/em009/640/360", "url": "https://www.youtube.com/watch?v=example49", "publishedAt": "2026-05-29" },
-      { "id": "vid-em-010", "title": "Guía de Lore para Nuevos Jugadores de Magic", "thumbnail": "https://picsum.photos/seed/em010/640/360", "url": "https://www.youtube.com/watch?v=example50", "publishedAt": "2026-05-26" }
+      {
+        "id": "vid-cr-001",
+        "title": "Mythic #1 with Underrated Orzhov Tokens",
+        "thumbnail": "https://picsum.photos/seed/cr001/640/360",
+        "url": "https://www.youtube.com/watch?v=example31",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-cr-002",
+        "title": "This Rogue Deck DEMOLISHED the Ladder",
+        "thumbnail": "https://picsum.photos/seed/cr002/640/360",
+        "url": "https://www.youtube.com/watch?v=example32",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-cr-003",
+        "title": "Alchemy Brewing Session: New Set Exploits",
+        "thumbnail": "https://picsum.photos/seed/cr003/640/360",
+        "url": "https://www.youtube.com/watch?v=example33",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-cr-004",
+        "title": "Explorer: Is Creativity Combo Actually Tier 1?",
+        "thumbnail": "https://picsum.photos/seed/cr004/640/360",
+        "url": "https://www.youtube.com/watch?v=example34",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-cr-005",
+        "title": "Standard: Breaking the Meta with Mardu Control",
+        "thumbnail": "https://picsum.photos/seed/cr005/640/360",
+        "url": "https://www.youtube.com/watch?v=example35",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-cr-006",
+        "title": "Ladder Challenge: Mythic with a Budget Deck",
+        "thumbnail": "https://picsum.photos/seed/cr006/640/360",
+        "url": "https://www.youtube.com/watch?v=example36",
+        "publishedAt": "2026-06-08"
+      },
+      {
+        "id": "vid-cr-007",
+        "title": "Alchemy: New Cards Are Broken — Here's Why",
+        "thumbnail": "https://picsum.photos/seed/cr007/640/360",
+        "url": "https://www.youtube.com/watch?v=example37",
+        "publishedAt": "2026-06-05"
+      },
+      {
+        "id": "vid-cr-008",
+        "title": "Standard Open Top 8 — Tournament Recap",
+        "thumbnail": "https://picsum.photos/seed/cr008/640/360",
+        "url": "https://www.youtube.com/watch?v=example38",
+        "publishedAt": "2026-06-02"
+      },
+      {
+        "id": "vid-cr-009",
+        "title": "Deck Tech: 5-0 League with Jund Midrange",
+        "thumbnail": "https://picsum.photos/seed/cr009/640/360",
+        "url": "https://www.youtube.com/watch?v=example39",
+        "publishedAt": "2026-05-30"
+      },
+      {
+        "id": "vid-cr-010",
+        "title": "What's the Best Deck in Standard Right Now?",
+        "thumbnail": "https://picsum.photos/seed/cr010/640/360",
+        "url": "https://www.youtube.com/watch?v=example40",
+        "publishedAt": "2026-05-27"
+      }
     ]
   }
 ]

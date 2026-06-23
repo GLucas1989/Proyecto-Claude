@@ -7,71 +7,93 @@
     "avatar": "https://i.pravatar.cc/150?u=bar-official",
     "bioShort": "Canal oficial de Beyond All Reason. Actualizaciones, torneos y highlights de la comunidad.",
     "bioLong": "El canal oficial de Beyond All Reason es la fuente primaria de noticias, actualizaciones y torneos del juego. Publica highlights de los mejores partidas de la comunidad, developer diaries y transmisiones en directo de los principales torneos.",
-    "contentType": ["competitive", "educational"],
-    "faction": ["arm", "core", "mixed"],
-    "languages": ["en"],
-    "socials": { "youtube": "https://www.youtube.com/@beyondallreason", "twitter": "https://twitter.com/bar_rts" },
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "faction": [
+      "arm",
+      "core",
+      "mixed"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@beyondallreason",
+      "twitter": "https://twitter.com/bar_rts"
+    },
     "latestVideos": [
-      { "id": "vid-bar-001", "title": "BAR Championship Series — Grand Finals Highlights", "thumbnail": "https://picsum.photos/seed/bar001/640/360", "url": "https://www.youtube.com/watch?v=barex1", "publishedAt": "2026-06-22" },
-      { "id": "vid-bar-002", "title": "Update 2.4 — New Units and Balance Changes", "thumbnail": "https://picsum.photos/seed/bar002/640/360", "url": "https://www.youtube.com/watch?v=barex2", "publishedAt": "2026-06-18" },
-      { "id": "vid-bar-003", "title": "Developer Diary: Upcoming Map Overhauls", "thumbnail": "https://picsum.photos/seed/bar003/640/360", "url": "https://www.youtube.com/watch?v=barex3", "publishedAt": "2026-06-14" },
-      { "id": "vid-bar-004", "title": "Community Highlight Reel — Best Plays of the Month", "thumbnail": "https://picsum.photos/seed/bar004/640/360", "url": "https://www.youtube.com/watch?v=barex4", "publishedAt": "2026-06-10" },
-      { "id": "vid-bar-005", "title": "Ranked Season 8 — Starting Now", "thumbnail": "https://picsum.photos/seed/bar005/640/360", "url": "https://www.youtube.com/watch?v=barex5", "publishedAt": "2026-06-06" },
-      { "id": "vid-bar-006", "title": "1v1 Ladder Tournament — Full Bracket", "thumbnail": "https://picsum.photos/seed/bar006/640/360", "url": "https://www.youtube.com/watch?v=barex6", "publishedAt": "2026-06-02" },
-      { "id": "vid-bar-007", "title": "Why BAR Is the Best Free RTS in 2026", "thumbnail": "https://picsum.photos/seed/bar007/640/360", "url": "https://www.youtube.com/watch?v=barex7", "publishedAt": "2026-05-29" },
-      { "id": "vid-bar-008", "title": "Modding Showcase — Community Creations", "thumbnail": "https://picsum.photos/seed/bar008/640/360", "url": "https://www.youtube.com/watch?v=barex8", "publishedAt": "2026-05-25" },
-      { "id": "vid-bar-009", "title": "Team Game Deep Dive — 4v4 Strategy Explained", "thumbnail": "https://picsum.photos/seed/bar009/640/360", "url": "https://www.youtube.com/watch?v=barex9", "publishedAt": "2026-05-21" },
-      { "id": "vid-bar-010", "title": "New Player Guide — First Steps in BAR", "thumbnail": "https://picsum.photos/seed/bar010/640/360", "url": "https://www.youtube.com/watch?v=barex10", "publishedAt": "2026-05-17" }
-    ]
-  },
-  {
-    "id": "skasi-bar",
-    "name": "Skasi",
-    "channelId": "UCskasi_bar_example",
-    "channelUrl": "https://www.youtube.com/@skasirts",
-    "avatar": "https://i.pravatar.cc/150?u=skasi-bar",
-    "bioShort": "Uno de los mejores jugadores 1v1 de BAR. Análisis tácticos y replays comentados de alto nivel.",
-    "bioLong": "Skasi es considerado uno de los mejores jugadores competitivos de Beyond All Reason. Sus vídeos de replays comentados son una clase magistral de estrategia RTS.",
-    "contentType": ["competitive"],
-    "faction": ["arm", "core"],
-    "languages": ["en"],
-    "socials": { "youtube": "https://www.youtube.com/@skasirts", "twitch": "https://twitch.tv/skasi" },
-    "latestVideos": [
-      { "id": "vid-sk-001", "title": "Ladder #1 — How I Win My 1v1 Games", "thumbnail": "https://picsum.photos/seed/sk001/640/360", "url": "https://www.youtube.com/watch?v=barex11", "publishedAt": "2026-06-21" },
-      { "id": "vid-sk-002", "title": "Eco vs Aggro — When to Tech and When to Push", "thumbnail": "https://picsum.photos/seed/sk002/640/360", "url": "https://www.youtube.com/watch?v=barex12", "publishedAt": "2026-06-17" },
-      { "id": "vid-sk-003", "title": "ARM T2 Air Transition — The Decisive Timing", "thumbnail": "https://picsum.photos/seed/sk003/640/360", "url": "https://www.youtube.com/watch?v=barex13", "publishedAt": "2026-06-13" },
-      { "id": "vid-sk-004", "title": "Core Krogoth Rush — Is It Still Viable?", "thumbnail": "https://picsum.photos/seed/sk004/640/360", "url": "https://www.youtube.com/watch?v=barex14", "publishedAt": "2026-06-09" },
-      { "id": "vid-sk-005", "title": "Replay Review: Pro vs Pro Championship Match", "thumbnail": "https://picsum.photos/seed/sk005/640/360", "url": "https://www.youtube.com/watch?v=barex15", "publishedAt": "2026-06-05" },
-      { "id": "vid-sk-006", "title": "Mexan vs Skasi — Full Series Grand Finals", "thumbnail": "https://picsum.photos/seed/sk006/640/360", "url": "https://www.youtube.com/watch?v=barex16", "publishedAt": "2026-06-01" },
-      { "id": "vid-sk-007", "title": "Metal Extractor Placement — Optimal Opening Builds", "thumbnail": "https://picsum.photos/seed/sk007/640/360", "url": "https://www.youtube.com/watch?v=barex17", "publishedAt": "2026-05-28" },
-      { "id": "vid-sk-008", "title": "Unit Micro Tutorial — Kiting, Flanking and Retreat", "thumbnail": "https://picsum.photos/seed/sk008/640/360", "url": "https://www.youtube.com/watch?v=barex18", "publishedAt": "2026-05-24" },
-      { "id": "vid-sk-009", "title": "Scouting Guide: Reading Your Opponent's Strategy", "thumbnail": "https://picsum.photos/seed/sk009/640/360", "url": "https://www.youtube.com/watch?v=barex19", "publishedAt": "2026-05-20" },
-      { "id": "vid-sk-010", "title": "Air Control Guide — Dominating the Sky", "thumbnail": "https://picsum.photos/seed/sk010/640/360", "url": "https://www.youtube.com/watch?v=barex20", "publishedAt": "2026-05-16" }
-    ]
-  },
-  {
-    "id": "bar-en-espanol",
-    "name": "BAR en Español",
-    "channelId": "UCbarespanol_example",
-    "channelUrl": "https://www.youtube.com/@barenespanol",
-    "avatar": "https://i.pravatar.cc/150?u=bar-es",
-    "bioShort": "La comunidad hispanohablante de Beyond All Reason. Tutoriales, torneos y partidas comentadas.",
-    "bioLong": "BAR en Español es el hogar de los jugadores latinoamericanos y españoles de Beyond All Reason. Cubre desde tutoriales básicos hasta análisis tácticos avanzados y organiza torneos mensuales para la comunidad hispana.",
-    "contentType": ["educational", "competitive", "casual"],
-    "faction": ["arm", "core", "mixed"],
-    "languages": ["es"],
-    "socials": { "youtube": "https://www.youtube.com/@barenespanol", "twitch": "https://twitch.tv/barenespanol", "twitter": "https://twitter.com/barenespanol" },
-    "latestVideos": [
-      { "id": "vid-be-001", "title": "Guía para Nuevos Jugadores — Primeros Pasos en BAR", "thumbnail": "https://picsum.photos/seed/be001/640/360", "url": "https://www.youtube.com/watch?v=barex21", "publishedAt": "2026-06-23" },
-      { "id": "vid-be-002", "title": "Torneo Hispano de BAR — Gran Final Comentada", "thumbnail": "https://picsum.photos/seed/be002/640/360", "url": "https://www.youtube.com/watch?v=barex22", "publishedAt": "2026-06-20" },
-      { "id": "vid-be-003", "title": "ARM vs CORE — Diferencias Clave para Principiantes", "thumbnail": "https://picsum.photos/seed/be003/640/360", "url": "https://www.youtube.com/watch?v=barex23", "publishedAt": "2026-06-17" },
-      { "id": "vid-be-004", "title": "Gestión de Economía en BAR — La Clave del RTS", "thumbnail": "https://picsum.photos/seed/be004/640/360", "url": "https://www.youtube.com/watch?v=barex24", "publishedAt": "2026-06-14" },
-      { "id": "vid-be-005", "title": "Cómo Mejorar tu Micro de Unidades — Guía Paso a Paso", "thumbnail": "https://picsum.photos/seed/be005/640/360", "url": "https://www.youtube.com/watch?v=barex25", "publishedAt": "2026-06-11" },
-      { "id": "vid-be-006", "title": "Partida 1v1 Comentada — Análisis Táctico Completo", "thumbnail": "https://picsum.photos/seed/be006/640/360", "url": "https://www.youtube.com/watch?v=barex26", "publishedAt": "2026-06-08" },
-      { "id": "vid-be-007", "title": "Las Mejores Unidades del Meta Actual — Ranking", "thumbnail": "https://picsum.photos/seed/be007/640/360", "url": "https://www.youtube.com/watch?v=barex27", "publishedAt": "2026-06-05" },
-      { "id": "vid-be-008", "title": "4v4 con la Comunidad — ¿Podemos Ganar al Top?", "thumbnail": "https://picsum.photos/seed/be008/640/360", "url": "https://www.youtube.com/watch?v=barex28", "publishedAt": "2026-06-02" },
-      { "id": "vid-be-009", "title": "Construcción de Base Óptima — Dónde Colocar Cada Estructura", "thumbnail": "https://picsum.photos/seed/be009/640/360", "url": "https://www.youtube.com/watch?v=barex29", "publishedAt": "2026-05-30" },
-      { "id": "vid-be-010", "title": "Review del Parche — Cambios de Balance Analizados", "thumbnail": "https://picsum.photos/seed/be010/640/360", "url": "https://www.youtube.com/watch?v=barex30", "publishedAt": "2026-05-27" }
+      {
+        "id": "vid-bar-001",
+        "title": "BAR Championship Series — Grand Finals Highlights",
+        "thumbnail": "https://picsum.photos/seed/bar001/640/360",
+        "url": "https://www.youtube.com/watch?v=barex1",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-bar-002",
+        "title": "Update 2.4 — New Units and Balance Changes",
+        "thumbnail": "https://picsum.photos/seed/bar002/640/360",
+        "url": "https://www.youtube.com/watch?v=barex2",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-bar-003",
+        "title": "Developer Diary: Upcoming Map Overhauls",
+        "thumbnail": "https://picsum.photos/seed/bar003/640/360",
+        "url": "https://www.youtube.com/watch?v=barex3",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-bar-004",
+        "title": "Community Highlight Reel — Best Plays of the Month",
+        "thumbnail": "https://picsum.photos/seed/bar004/640/360",
+        "url": "https://www.youtube.com/watch?v=barex4",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-bar-005",
+        "title": "Ranked Season 8 — Starting Now",
+        "thumbnail": "https://picsum.photos/seed/bar005/640/360",
+        "url": "https://www.youtube.com/watch?v=barex5",
+        "publishedAt": "2026-06-06"
+      },
+      {
+        "id": "vid-bar-006",
+        "title": "1v1 Ladder Tournament — Full Bracket",
+        "thumbnail": "https://picsum.photos/seed/bar006/640/360",
+        "url": "https://www.youtube.com/watch?v=barex6",
+        "publishedAt": "2026-06-02"
+      },
+      {
+        "id": "vid-bar-007",
+        "title": "Why BAR Is the Best Free RTS in 2026",
+        "thumbnail": "https://picsum.photos/seed/bar007/640/360",
+        "url": "https://www.youtube.com/watch?v=barex7",
+        "publishedAt": "2026-05-29"
+      },
+      {
+        "id": "vid-bar-008",
+        "title": "Modding Showcase — Community Creations",
+        "thumbnail": "https://picsum.photos/seed/bar008/640/360",
+        "url": "https://www.youtube.com/watch?v=barex8",
+        "publishedAt": "2026-05-25"
+      },
+      {
+        "id": "vid-bar-009",
+        "title": "Team Game Deep Dive — 4v4 Strategy Explained",
+        "thumbnail": "https://picsum.photos/seed/bar009/640/360",
+        "url": "https://www.youtube.com/watch?v=barex9",
+        "publishedAt": "2026-05-21"
+      },
+      {
+        "id": "vid-bar-010",
+        "title": "New Player Guide — First Steps in BAR",
+        "thumbnail": "https://picsum.photos/seed/bar010/640/360",
+        "url": "https://www.youtube.com/watch?v=barex10",
+        "publishedAt": "2026-05-17"
+      }
     ]
   }
 ]

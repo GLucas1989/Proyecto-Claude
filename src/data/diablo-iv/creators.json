@@ -7,25 +7,92 @@
     "avatar": "https://i.pravatar.cc/150?u=rhykker",
     "bioShort": "El referente del género ARPG. Guías de Diablo IV, builds por temporada y análisis del endgame.",
     "bioLong": "Rhykker es el creador de contenido más veterano y respetado de la escena ARPG en YouTube. Lleva años cubriendo Diablo, Path of Exile y otros hack & slash con un nivel de detalle excepcional. En Diablo IV es tu guía definitiva para entender el endgame, las temporadas y las mejores builds para cada clase. Su presentación clara y accesible lo hace perfecto tanto para nuevos jugadores como para veteranos.",
-    "contentType": ["educational", "competitive"],
-    "class": ["all"],
-    "languages": ["en"],
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@Rhykker",
       "twitch": "rhykker",
       "twitter": "rhykker"
     },
     "latestVideos": [
-      { "id": "vid-rh-001", "title": "Season 8 Best Builds — Every Class Ranked", "thumbnail": "https://picsum.photos/seed/rh001/640/360", "url": "https://www.youtube.com/watch?v=d4rh1", "publishedAt": "2026-06-22" },
-      { "id": "vid-rh-002", "title": "Diablo IV Endgame Guide — Pit, Undercity and Beyond", "thumbnail": "https://picsum.photos/seed/rh002/640/360", "url": "https://www.youtube.com/watch?v=d4rh2", "publishedAt": "2026-06-19" },
-      { "id": "vid-rh-003", "title": "Necromancer Season 8 Build — Bone Spear Devastator", "thumbnail": "https://picsum.photos/seed/rh003/640/360", "url": "https://www.youtube.com/watch?v=d4rh3", "publishedAt": "2026-06-16" },
-      { "id": "vid-rh-004", "title": "Paragon Boards Explained — Min-Max Your Character", "thumbnail": "https://picsum.photos/seed/rh004/640/360", "url": "https://www.youtube.com/watch?v=d4rh4", "publishedAt": "2026-06-13" },
-      { "id": "vid-rh-005", "title": "Best Uniques to Farm in Season 8", "thumbnail": "https://picsum.photos/seed/rh005/640/360", "url": "https://www.youtube.com/watch?v=d4rh5", "publishedAt": "2026-06-10" },
-      { "id": "vid-rh-006", "title": "Spiritborn Deep Dive — Strongest Class in the Game?", "thumbnail": "https://picsum.photos/seed/rh006/640/360", "url": "https://www.youtube.com/watch?v=d4rh6", "publishedAt": "2026-06-07" },
-      { "id": "vid-rh-007", "title": "Gold Farming Guide — 100M Gold per Hour", "thumbnail": "https://picsum.photos/seed/rh007/640/360", "url": "https://www.youtube.com/watch?v=d4rh7", "publishedAt": "2026-06-04" },
-      { "id": "vid-rh-008", "title": "Diablo IV vs Path of Exile 2 — Which to Play in 2026?", "thumbnail": "https://picsum.photos/seed/rh008/640/360", "url": "https://www.youtube.com/watch?v=d4rh8", "publishedAt": "2026-06-01" },
-      { "id": "vid-rh-009", "title": "Legendary Aspects Tier List — Best in Slot for Every Class", "thumbnail": "https://picsum.photos/seed/rh009/640/360", "url": "https://www.youtube.com/watch?v=d4rh9", "publishedAt": "2026-05-29" },
-      { "id": "vid-rh-010", "title": "Season 8 Patch Notes Breakdown — Everything Changed", "thumbnail": "https://picsum.photos/seed/rh010/640/360", "url": "https://www.youtube.com/watch?v=d4rh10", "publishedAt": "2026-05-26" }
+      {
+        "id": "vid-rh-001",
+        "title": "Season 8 Best Builds — Every Class Ranked",
+        "thumbnail": "https://picsum.photos/seed/rh001/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh1",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-rh-002",
+        "title": "Diablo IV Endgame Guide — Pit, Undercity and Beyond",
+        "thumbnail": "https://picsum.photos/seed/rh002/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh2",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-rh-003",
+        "title": "Necromancer Season 8 Build — Bone Spear Devastator",
+        "thumbnail": "https://picsum.photos/seed/rh003/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh3",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-rh-004",
+        "title": "Paragon Boards Explained — Min-Max Your Character",
+        "thumbnail": "https://picsum.photos/seed/rh004/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh4",
+        "publishedAt": "2026-06-13"
+      },
+      {
+        "id": "vid-rh-005",
+        "title": "Best Uniques to Farm in Season 8",
+        "thumbnail": "https://picsum.photos/seed/rh005/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh5",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-rh-006",
+        "title": "Spiritborn Deep Dive — Strongest Class in the Game?",
+        "thumbnail": "https://picsum.photos/seed/rh006/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh6",
+        "publishedAt": "2026-06-07"
+      },
+      {
+        "id": "vid-rh-007",
+        "title": "Gold Farming Guide — 100M Gold per Hour",
+        "thumbnail": "https://picsum.photos/seed/rh007/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh7",
+        "publishedAt": "2026-06-04"
+      },
+      {
+        "id": "vid-rh-008",
+        "title": "Diablo IV vs Path of Exile 2 — Which to Play in 2026?",
+        "thumbnail": "https://picsum.photos/seed/rh008/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh8",
+        "publishedAt": "2026-06-01"
+      },
+      {
+        "id": "vid-rh-009",
+        "title": "Legendary Aspects Tier List — Best in Slot for Every Class",
+        "thumbnail": "https://picsum.photos/seed/rh009/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh9",
+        "publishedAt": "2026-05-29"
+      },
+      {
+        "id": "vid-rh-010",
+        "title": "Season 8 Patch Notes Breakdown — Everything Changed",
+        "thumbnail": "https://picsum.photos/seed/rh010/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rh10",
+        "publishedAt": "2026-05-26"
+      }
     ]
   },
   {
@@ -36,54 +103,189 @@
     "avatar": "https://i.pravatar.cc/150?u=raxxanterax",
     "bioShort": "Speedrunner y teórico del meta. Sus builds rotas encuentran los límites del juego temporada a temporada.",
     "bioLong": "Raxxanterax es conocido por ser de los primeros jugadores en encontrar y documentar las builds más poderosas de cada temporada de Diablo IV. Su enfoque analítico y sus videos de speedrunning de contenido endgame lo han convertido en referencia obligada para cualquier jugador que quiera estar en la vanguardia del meta. Sus streams muestran el juego llevado al límite.",
-    "contentType": ["competitive"],
-    "class": ["sorcerer", "necromancer", "barbarian"],
-    "languages": ["en"],
+    "contentType": [
+      "competitive"
+    ],
+    "class": [
+      "sorcerer",
+      "necromancer",
+      "barbarian"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@Raxxanterax",
       "twitch": "raxxanterax",
       "twitter": "raxxanterax"
     },
     "latestVideos": [
-      { "id": "vid-rx-001", "title": "Broken Sorcerer Build Clears Pit 150 in 2 Minutes", "thumbnail": "https://picsum.photos/seed/rx001/640/360", "url": "https://www.youtube.com/watch?v=d4rx1", "publishedAt": "2026-06-23" },
-      { "id": "vid-rx-002", "title": "Day 1 Season 8 — Leveling to 100 in Record Time", "thumbnail": "https://picsum.photos/seed/rx002/640/360", "url": "https://www.youtube.com/watch?v=d4rx2", "publishedAt": "2026-06-20" },
-      { "id": "vid-rx-003", "title": "Best Season Start Build — 0 to Endgame Speedrun", "thumbnail": "https://picsum.photos/seed/rx003/640/360", "url": "https://www.youtube.com/watch?v=d4rx3", "publishedAt": "2026-06-17" },
-      { "id": "vid-rx-004", "title": "Barbarian Whirlwind — Still Broken in S8", "thumbnail": "https://picsum.photos/seed/rx004/640/360", "url": "https://www.youtube.com/watch?v=d4rx4", "publishedAt": "2026-06-14" },
-      { "id": "vid-rx-005", "title": "How I Farm 500 Ancestral Items in 2 Hours", "thumbnail": "https://picsum.photos/seed/rx005/640/360", "url": "https://www.youtube.com/watch?v=d4rx5", "publishedAt": "2026-06-11" },
-      { "id": "vid-rx-006", "title": "Tempering and Masterworking — Complete Optimization Guide", "thumbnail": "https://picsum.photos/seed/rx006/640/360", "url": "https://www.youtube.com/watch?v=d4rx6", "publishedAt": "2026-06-08" },
-      { "id": "vid-rx-007", "title": "Tormented Boss One-Shot Guide — All Bosses", "thumbnail": "https://picsum.photos/seed/rx007/640/360", "url": "https://www.youtube.com/watch?v=d4rx7", "publishedAt": "2026-06-05" },
-      { "id": "vid-rx-008", "title": "S-Tier Builds That Survived the Patch", "thumbnail": "https://picsum.photos/seed/rx008/640/360", "url": "https://www.youtube.com/watch?v=d4rx8", "publishedAt": "2026-06-02" },
-      { "id": "vid-rx-009", "title": "Most Efficient XP Route — Nightmare Dungeon vs Helltide", "thumbnail": "https://picsum.photos/seed/rx009/640/360", "url": "https://www.youtube.com/watch?v=d4rx9", "publishedAt": "2026-05-30" },
-      { "id": "vid-rx-010", "title": "Season Journey Rewards — Complete All in One Day", "thumbnail": "https://picsum.photos/seed/rx010/640/360", "url": "https://www.youtube.com/watch?v=d4rx10", "publishedAt": "2026-05-27" }
+      {
+        "id": "vid-rx-001",
+        "title": "Broken Sorcerer Build Clears Pit 150 in 2 Minutes",
+        "thumbnail": "https://picsum.photos/seed/rx001/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx1",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-rx-002",
+        "title": "Day 1 Season 8 — Leveling to 100 in Record Time",
+        "thumbnail": "https://picsum.photos/seed/rx002/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx2",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-rx-003",
+        "title": "Best Season Start Build — 0 to Endgame Speedrun",
+        "thumbnail": "https://picsum.photos/seed/rx003/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx3",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-rx-004",
+        "title": "Barbarian Whirlwind — Still Broken in S8",
+        "thumbnail": "https://picsum.photos/seed/rx004/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx4",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-rx-005",
+        "title": "How I Farm 500 Ancestral Items in 2 Hours",
+        "thumbnail": "https://picsum.photos/seed/rx005/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx5",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-rx-006",
+        "title": "Tempering and Masterworking — Complete Optimization Guide",
+        "thumbnail": "https://picsum.photos/seed/rx006/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx6",
+        "publishedAt": "2026-06-08"
+      },
+      {
+        "id": "vid-rx-007",
+        "title": "Tormented Boss One-Shot Guide — All Bosses",
+        "thumbnail": "https://picsum.photos/seed/rx007/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx7",
+        "publishedAt": "2026-06-05"
+      },
+      {
+        "id": "vid-rx-008",
+        "title": "S-Tier Builds That Survived the Patch",
+        "thumbnail": "https://picsum.photos/seed/rx008/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx8",
+        "publishedAt": "2026-06-02"
+      },
+      {
+        "id": "vid-rx-009",
+        "title": "Most Efficient XP Route — Nightmare Dungeon vs Helltide",
+        "thumbnail": "https://picsum.photos/seed/rx009/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx9",
+        "publishedAt": "2026-05-30"
+      },
+      {
+        "id": "vid-rx-010",
+        "title": "Season Journey Rewards — Complete All in One Day",
+        "thumbnail": "https://picsum.photos/seed/rx010/640/360",
+        "url": "https://www.youtube.com/watch?v=d4rx10",
+        "publishedAt": "2026-05-27"
+      }
     ]
   },
   {
-    "id": "diablo-en-espanol",
-    "name": "Diablo en Español",
-    "channelId": "UCdiabloespanol",
-    "channelUrl": "https://www.youtube.com/@diabloespanol",
-    "avatar": "https://i.pravatar.cc/150?u=diablo-espanol",
-    "bioShort": "La comunidad hispana de Diablo IV. Guías en castellano, builds accesibles y temporadas explicadas paso a paso.",
-    "bioLong": "Diablo en Español es el punto de encuentro de todos los jugadores hispanohablantes del Santuario. Ofrece guías completas en castellano para cada clase y temporada, explicando mecánicas complejas de forma accesible. Cubre desde el leveling inicial hasta el endgame más profundo, con builds probadas y explicadas sin jerga técnica innecesaria.",
-    "contentType": ["educational", "casual"],
-    "class": ["all"],
-    "languages": ["es"],
+    "id": "lexyu",
+    "name": "Lexyu",
+    "channelId": "UClexyu_placeholder",
+    "channelUrl": "https://www.youtube.com/@Lexyu",
+    "avatar": "https://i.pravatar.cc/150?u=lexyu",
+    "bioShort": "Diablo Partner, theorycrafter y redactor de Icy Veins. Builds optimizadas y análisis profundo del endgame.",
+    "bioLong": "Lexyu es un creador asociado oficial de Diablo, theorycrafter y redactor de guías para Icy Veins. Su contenido se centra en builds optimizadas al máximo, análisis del endgame y desglose de las novedades de cada temporada de Diablo IV. Si querés entender por qué funciona una build y exprimir cada punto de daño, su canal es de los mejores recursos disponibles.",
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
-      "youtube": "https://www.youtube.com/@diabloespanol",
-      "twitch": "diabloespanol",
-      "twitter": "diabloespanol"
+      "youtube": "https://www.youtube.com/@Lexyu",
+      "twitch": "lexyu",
+      "twitter": "lexyu"
     },
     "latestVideos": [
-      { "id": "vid-de-001", "title": "Guía Definitiva de Temporada 8 — Todo lo que Necesitás Saber", "thumbnail": "https://picsum.photos/seed/de001/640/360", "url": "https://www.youtube.com/watch?v=d4de1", "publishedAt": "2026-06-22" },
-      { "id": "vid-de-002", "title": "Mejor Build de Nigromante en Español — Temporada 8", "thumbnail": "https://picsum.photos/seed/de002/640/360", "url": "https://www.youtube.com/watch?v=d4de2", "publishedAt": "2026-06-19" },
-      { "id": "vid-de-003", "title": "Cómo Farmear Equipo Ancestral — Guía para Principiantes", "thumbnail": "https://picsum.photos/seed/de003/640/360", "url": "https://www.youtube.com/watch?v=d4de3", "publishedAt": "2026-06-16" },
-      { "id": "vid-de-004", "title": "Las Mazmorras de Pesadilla Más Rápidas para Subir de Nivel", "thumbnail": "https://picsum.photos/seed/de004/640/360", "url": "https://www.youtube.com/watch?v=d4de4", "publishedAt": "2026-06-13" },
-      { "id": "vid-de-005", "title": "Hechicero Bola de Fuego — La Build Más Divertida de S8", "thumbnail": "https://picsum.photos/seed/de005/640/360", "url": "https://www.youtube.com/watch?v=d4de5", "publishedAt": "2026-06-10" },
-      { "id": "vid-de-006", "title": "¿Vale la Pena Diablo IV en 2026? Review Honesta", "thumbnail": "https://picsum.photos/seed/de006/640/360", "url": "https://www.youtube.com/watch?v=d4de6", "publishedAt": "2026-06-07" },
-      { "id": "vid-de-007", "title": "Sistema de Temples y Obra Maestra — Guía Completa", "thumbnail": "https://picsum.photos/seed/de007/640/360", "url": "https://www.youtube.com/watch?v=d4de7", "publishedAt": "2026-06-04" },
-      { "id": "vid-de-008", "title": "Helltide Optimizada — Máximo Loot en Menos Tiempo", "thumbnail": "https://picsum.photos/seed/de008/640/360", "url": "https://www.youtube.com/watch?v=d4de8", "publishedAt": "2026-06-01" },
-      { "id": "vid-de-009", "title": "Barbaro Torbellino — Aún el Rey del Endgame", "thumbnail": "https://picsum.photos/seed/de009/640/360", "url": "https://www.youtube.com/watch?v=d4de9", "publishedAt": "2026-05-29" },
-      { "id": "vid-de-010", "title": "Tablas de Paragón Explicadas para Humanos", "thumbnail": "https://picsum.photos/seed/de010/640/360", "url": "https://www.youtube.com/watch?v=d4de10", "publishedAt": "2026-05-26" }
+      {
+        "id": "vid-lx-001",
+        "title": "Best Builds of the Season — Full Tier List",
+        "thumbnail": "https://picsum.photos/seed/lx001/640/360",
+        "url": "https://www.youtube.com/watch?v=lx1",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-002",
+        "title": "Endgame Optimization — Pit Pushing Guide",
+        "thumbnail": "https://picsum.photos/seed/lx002/640/360",
+        "url": "https://www.youtube.com/watch?v=lx2",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-003",
+        "title": "Theorycrafting: How Damage Buckets Really Work",
+        "thumbnail": "https://picsum.photos/seed/lx003/640/360",
+        "url": "https://www.youtube.com/watch?v=lx3",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-004",
+        "title": "Best Uniques to Target Farm This Season",
+        "thumbnail": "https://picsum.photos/seed/lx004/640/360",
+        "url": "https://www.youtube.com/watch?v=lx4",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-005",
+        "title": "Paragon Board Optimization — Min-Max Guide",
+        "thumbnail": "https://picsum.photos/seed/lx005/640/360",
+        "url": "https://www.youtube.com/watch?v=lx5",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-006",
+        "title": "Patch Notes Breakdown — What Actually Changed",
+        "thumbnail": "https://picsum.photos/seed/lx006/640/360",
+        "url": "https://www.youtube.com/watch?v=lx6",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-007",
+        "title": "Tempering and Masterworking Explained",
+        "thumbnail": "https://picsum.photos/seed/lx007/640/360",
+        "url": "https://www.youtube.com/watch?v=lx7",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-008",
+        "title": "Speedfarming Build — 100M+ XP per Hour",
+        "thumbnail": "https://picsum.photos/seed/lx008/640/360",
+        "url": "https://www.youtube.com/watch?v=lx8",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-009",
+        "title": "Boss Material Farming — Most Efficient Routes",
+        "thumbnail": "https://picsum.photos/seed/lx009/640/360",
+        "url": "https://www.youtube.com/watch?v=lx9",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-lx-010",
+        "title": "Which Class Should You Play This Season?",
+        "thumbnail": "https://picsum.photos/seed/lx010/640/360",
+        "url": "https://www.youtube.com/watch?v=lx10",
+        "publishedAt": "2026-06-20"
+      }
     ]
   },
   {
@@ -94,25 +296,94 @@
     "avatar": "https://i.pravatar.cc/150?u=moxsy-d4",
     "bioShort": "Maestro de builds creativas en Diablo IV. Encuentra combinaciones únicas que nadie más prueba.",
     "bioLong": "Moxsy es famoso en la comunidad ARPG por su capacidad para crear builds originales y sorprendentes que rompen el meta o simplemente son increíblemente entretenidas de jugar. En Diablo IV lleva esa filosofía al máximo: encuentra interacciones únicas, builds off-meta que funcionan mejor de lo esperado, y siempre presenta sus guías con energía y claridad.",
-    "contentType": ["competitive", "casual"],
-    "class": ["druid", "spiritborn", "rogue"],
-    "languages": ["en"],
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "class": [
+      "druid",
+      "spiritborn",
+      "rogue"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@Moxsy",
       "twitch": "moxsy",
       "twitter": "moxsy"
     },
     "latestVideos": [
-      { "id": "vid-mx-001", "title": "Druid Werewolf Build That Nobody Talks About", "thumbnail": "https://picsum.photos/seed/mx001/640/360", "url": "https://www.youtube.com/watch?v=d4mx1", "publishedAt": "2026-06-21" },
-      { "id": "vid-mx-002", "title": "Rogue Twisting Blades — Off Meta but BROKEN", "thumbnail": "https://picsum.photos/seed/mx002/640/360", "url": "https://www.youtube.com/watch?v=d4mx2", "publishedAt": "2026-06-18" },
-      { "id": "vid-mx-003", "title": "Spiritborn Landslide Druid Hybrid — Unique Interaction", "thumbnail": "https://picsum.photos/seed/mx003/640/360", "url": "https://www.youtube.com/watch?v=d4mx3", "publishedAt": "2026-06-15" },
-      { "id": "vid-mx-004", "title": "Creative Builds That Actually Work — Season 8 Edition", "thumbnail": "https://picsum.photos/seed/mx004/640/360", "url": "https://www.youtube.com/watch?v=d4mx4", "publishedAt": "2026-06-12" },
-      { "id": "vid-mx-005", "title": "Best Non-Meta Builds to Have Fun With", "thumbnail": "https://picsum.photos/seed/mx005/640/360", "url": "https://www.youtube.com/watch?v=d4mx5", "publishedAt": "2026-06-09" },
-      { "id": "vid-mx-006", "title": "How to Build Correctly Around Unique Items", "thumbnail": "https://picsum.photos/seed/mx006/640/360", "url": "https://www.youtube.com/watch?v=d4mx6", "publishedAt": "2026-06-06" },
-      { "id": "vid-mx-007", "title": "Hardcore Build — What I Run to Stay Alive at Pit 100", "thumbnail": "https://picsum.photos/seed/mx007/640/360", "url": "https://www.youtube.com/watch?v=d4mx7", "publishedAt": "2026-06-03" },
-      { "id": "vid-mx-008", "title": "Rogue Flurry Is Better Than You Think", "thumbnail": "https://picsum.photos/seed/mx008/640/360", "url": "https://www.youtube.com/watch?v=d4mx8", "publishedAt": "2026-05-31" },
-      { "id": "vid-mx-009", "title": "Reacting to Viewer Builds — Live Fixes and Tips", "thumbnail": "https://picsum.photos/seed/mx009/640/360", "url": "https://www.youtube.com/watch?v=d4mx9", "publishedAt": "2026-05-28" },
-      { "id": "vid-mx-010", "title": "Budget Builds for New Players — Zero Ancestrals Needed", "thumbnail": "https://picsum.photos/seed/mx010/640/360", "url": "https://www.youtube.com/watch?v=d4mx10", "publishedAt": "2026-05-25" }
+      {
+        "id": "vid-mx-001",
+        "title": "Druid Werewolf Build That Nobody Talks About",
+        "thumbnail": "https://picsum.photos/seed/mx001/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-mx-002",
+        "title": "Rogue Twisting Blades — Off Meta but BROKEN",
+        "thumbnail": "https://picsum.photos/seed/mx002/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx2",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-mx-003",
+        "title": "Spiritborn Landslide Druid Hybrid — Unique Interaction",
+        "thumbnail": "https://picsum.photos/seed/mx003/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx3",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-mx-004",
+        "title": "Creative Builds That Actually Work — Season 8 Edition",
+        "thumbnail": "https://picsum.photos/seed/mx004/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx4",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-mx-005",
+        "title": "Best Non-Meta Builds to Have Fun With",
+        "thumbnail": "https://picsum.photos/seed/mx005/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx5",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "id": "vid-mx-006",
+        "title": "How to Build Correctly Around Unique Items",
+        "thumbnail": "https://picsum.photos/seed/mx006/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx6",
+        "publishedAt": "2026-06-06"
+      },
+      {
+        "id": "vid-mx-007",
+        "title": "Hardcore Build — What I Run to Stay Alive at Pit 100",
+        "thumbnail": "https://picsum.photos/seed/mx007/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx7",
+        "publishedAt": "2026-06-03"
+      },
+      {
+        "id": "vid-mx-008",
+        "title": "Rogue Flurry Is Better Than You Think",
+        "thumbnail": "https://picsum.photos/seed/mx008/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx8",
+        "publishedAt": "2026-05-31"
+      },
+      {
+        "id": "vid-mx-009",
+        "title": "Reacting to Viewer Builds — Live Fixes and Tips",
+        "thumbnail": "https://picsum.photos/seed/mx009/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx9",
+        "publishedAt": "2026-05-28"
+      },
+      {
+        "id": "vid-mx-010",
+        "title": "Budget Builds for New Players — Zero Ancestrals Needed",
+        "thumbnail": "https://picsum.photos/seed/mx010/640/360",
+        "url": "https://www.youtube.com/watch?v=d4mx10",
+        "publishedAt": "2026-05-25"
+      }
     ]
   }
 ]
