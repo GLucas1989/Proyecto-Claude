@@ -71,9 +71,9 @@ export default async function HomePage() {
             </p>
           </div>
 
-          <div className="flex flex-col gap-16">
-            {activeWithCreators.map(({ game, creators }) => (
-              <GameShowcase key={game.id} game={game} creators={creators} />
+          <div className="flex flex-col gap-3">
+            {activeWithCreators.map(({ game, creators }, i) => (
+              <GameShowcase key={game.id} game={game} creators={creators} defaultOpen={i === 0} />
             ))}
           </div>
 

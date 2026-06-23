@@ -1,7 +1,10 @@
+'use client';
+
+import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { Creator, Game } from "@/types";
-import { ArrowRight, Play } from "lucide-react";
+import { ArrowRight, Play, ChevronDown } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const accentColors: Record<string, string> = {
@@ -19,16 +22,26 @@ const accentColors: Record<string, string> = {
 interface GameShowcaseProps {
   game: Game;
   creators: Creator[];
+  defaultOpen?: boolean;
 }
 
-export function GameShowcase({ game, creators }: GameShowcaseProps) {
+export function GameShowcase({ game, creators, defaultOpen = false }: GameShowcaseProps) {
+  const [open, setOpen] = useState(defaultOpen);
   const accent = accentColors[game.id] ?? "text-white";
   const emoji = game.emoji ?? "🎮";
 
   return (
-    <section className="scroll-mt-24" id={game.slug}>
-      {/* Header del juego */}
-      <div className="flex items-center gap-4 mb-6">
+    <section
+      id={game.slug}
+      className="scroll-mt-24 rounded-2xl border border-white/10 bg-white/[0.02] overflow-hidden transition-colors hover:border-white/20"
+    >
+      {/* Título desplegable */}
+      <button
+        type="button"
+        onClick={() => setOpen((o) => !o)}
+        aria-expanded={open}
+        className="w-full flex items-center gap-4 p-4 sm:p-5 text-left hover:bg-white/[0.03] transition-colors"
+      >
         <div className="relative h-12 w-12 shrink-0 rounded-xl overflow-hidden border border-white/10 bg-white/5 flex items-center justify-center">
           {game.logoUrl ? (
             <Image src={game.logoUrl} alt={game.name} fill className="object-cover" sizes="48px" />
@@ -37,27 +50,57 @@ export function GameShowcase({ game, creators }: GameShowcaseProps) {
           )}
         </div>
         <div className="min-w-0">
-          <h2 className="text-2xl font-black text-white tracking-tight leading-none">{game.name}</h2>
+          <h2 className="text-xl sm:text-2xl font-black text-white tracking-tight leading-none">{game.name}</h2>
           <p className="text-xs text-white/40 mt-1">{creators.length} creadores destacados</p>
         </div>
-        <Link
-          href={`/${game.slug}`}
+        <ChevronDown
           className={cn(
-            "ml-auto shrink-0 inline-flex items-center gap-1.5 text-sm font-semibold transition-colors hover:underline underline-offset-4",
+            "ml-auto h-5 w-5 shrink-0 text-white/40 transition-transform duration-300",
+            open && "rotate-180",
             accent
           )}
-        >
-          Ver juego
-          <ArrowRight className="h-4 w-4" />
-        </Link>
-      </div>
+        />
+      </button>
 
-      {/* Grid de creadores */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {creators.map((creator) => (
-          <CreatorBlock key={creator.id} creator={creator} gameSlug={game.slug} />
-        ))}
-      </div>
+      {/* Contenido desplegable con fondo del juego */}
+      {open && (
+        <div className="relative border-t border-white/10">
+          {/* Imagen de fondo acorde al juego */}
+          {game.logoUrl && (
+            <Image
+              src={game.logoUrl}
+              alt=""
+              aria-hidden
+              fill
+              className="object-cover scale-110 blur-sm opacity-25 pointer-events-none"
+              sizes="100vw"
+            />
+          )}
+          <div className="absolute inset-0 bg-gradient-to-b from-background/85 via-background/90 to-background/95 pointer-events-none" />
+
+          {/* Creadores */}
+          <div className="relative z-10 p-4 sm:p-5">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {creators.map((creator) => (
+                <CreatorBlock key={creator.id} creator={creator} gameSlug={game.slug} />
+              ))}
+            </div>
+
+            <div className="mt-5 flex justify-end">
+              <Link
+                href={`/${game.slug}`}
+                className={cn(
+                  "inline-flex items-center gap-1.5 text-sm font-semibold transition-colors hover:underline underline-offset-4",
+                  accent
+                )}
+              >
+                Ver juego completo
+                <ArrowRight className="h-4 w-4" />
+              </Link>
+            </div>
+          </div>
+        </div>
+      )}
     </section>
   );
 }
@@ -66,7 +109,7 @@ function CreatorBlock({ creator, gameSlug }: { creator: Creator; gameSlug: strin
   const videos = creator.latestVideos.slice(0, 3);
 
   return (
-    <div className="flex flex-col rounded-2xl border border-white/8 bg-gradient-to-b from-white/[0.06] to-white/[0.02] p-4 hover:border-white/20 transition-colors duration-300">
+    <div className="flex flex-col rounded-2xl border border-white/8 bg-background/60 backdrop-blur-sm p-4 hover:border-white/20 transition-colors duration-300">
       {/* Cabecera del creador */}
       <Link href={`/${gameSlug}/${creator.id}`} className="group flex items-center gap-3 mb-3">
         <div className="relative h-10 w-10 shrink-0 rounded-lg overflow-hidden border border-white/15 group-hover:border-white/30 transition-colors">
