@@ -51,7 +51,7 @@ export interface Game {
   active: boolean;
   comingSoon?: boolean;
   emoji?: string;
-  logoUrl?: string;
+  logoUrl?: string | null;
   filters?: string[];
 }
 

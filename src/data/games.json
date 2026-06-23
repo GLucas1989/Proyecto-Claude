@@ -24,7 +24,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🏆",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/League_of_Legends_Wild_Rift_logo.png/440px-League_of_Legends_Wild_Rift_logo.png",
+    "logoUrl": null,
     "filters": [
       "contentType",
       "role",
@@ -104,7 +104,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "💀",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Diablo_Immortal_cover_art.jpg/460px-Diablo_Immortal_cover_art.jpg",
+    "logoUrl": null,
     "filters": [
       "contentType",
       "class",

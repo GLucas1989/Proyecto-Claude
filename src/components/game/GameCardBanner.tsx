@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Clock } from "lucide-react";
 
 interface GameCardBannerProps {
-  logoUrl?: string;
+  logoUrl?: string | null;
   name: string;
   emoji: string;
   active: boolean;

@@ -19,6 +19,18 @@ const accentColors: Record<string, string> = {
   "diablo-iv": "text-orange-400",
 };
 
+const gameGradients: Record<string, string> = {
+  "mtg-arena": "from-amber-900/40 via-amber-950/60",
+  "wild-rift": "from-blue-900/40 via-blue-950/60",
+  "raid-shadow-legends": "from-violet-900/40 via-violet-950/60",
+  "dark-and-darker": "from-stone-800/40 via-stone-900/60",
+  "beyond-all-reason": "from-emerald-900/40 via-emerald-950/60",
+  "albion-online": "from-yellow-900/40 via-yellow-950/60",
+  "diablo-immortal": "from-red-950/50 via-red-950/70",
+  "league-of-legends": "from-sky-900/40 via-sky-950/60",
+  "diablo-iv": "from-orange-950/50 via-orange-950/70",
+};
+
 interface GameShowcaseProps {
   game: Game;
   creators: Creator[];
@@ -27,7 +39,9 @@ interface GameShowcaseProps {
 
 export function GameShowcase({ game, creators, defaultOpen = false }: GameShowcaseProps) {
   const [open, setOpen] = useState(defaultOpen);
+  const [logoError, setLogoError] = useState(false);
   const accent = accentColors[game.id] ?? "text-white";
+  const gradient = gameGradients[game.id] ?? "from-white/10 via-white/5";
   const emoji = game.emoji ?? "🎮";
 
   return (
@@ -35,7 +49,6 @@ export function GameShowcase({ game, creators, defaultOpen = false }: GameShowca
       id={game.slug}
       className="scroll-mt-24 rounded-2xl border border-white/10 bg-white/[0.02] overflow-hidden transition-colors hover:border-white/20"
     >
-      {/* Título desplegable */}
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
@@ -43,8 +56,15 @@ export function GameShowcase({ game, creators, defaultOpen = false }: GameShowca
         className="w-full flex items-center gap-4 p-4 sm:p-5 text-left hover:bg-white/[0.03] transition-colors"
       >
         <div className="relative h-12 w-12 shrink-0 rounded-xl overflow-hidden border border-white/10 bg-white/5 flex items-center justify-center">
-          {game.logoUrl ? (
-            <Image src={game.logoUrl} alt={game.name} fill className="object-cover" sizes="48px" />
+          {game.logoUrl && !logoError ? (
+            <Image
+              src={game.logoUrl}
+              alt={game.name}
+              fill
+              className="object-cover"
+              sizes="48px"
+              onError={() => setLogoError(true)}
+            />
           ) : (
             <span className="text-2xl leading-none">{emoji}</span>
           )}
@@ -62,23 +82,17 @@ export function GameShowcase({ game, creators, defaultOpen = false }: GameShowca
         />
       </button>
 
-      {/* Contenido desplegable con fondo del juego */}
       {open && (
-        <div className="relative border-t border-white/10">
-          {/* Imagen de fondo acorde al juego */}
-          {game.logoUrl && (
-            <Image
-              src={game.logoUrl}
-              alt=""
+        <div className={cn("relative border-t border-white/10 bg-gradient-to-b to-background", gradient)}>
+          {game.logoUrl && !logoError && (
+            <div
               aria-hidden
-              fill
-              className="object-cover scale-110 blur-sm opacity-25 pointer-events-none"
-              sizes="100vw"
+              className="absolute inset-0 bg-cover bg-center scale-110 blur-sm opacity-20 pointer-events-none"
+              style={{ backgroundImage: `url(${game.logoUrl})` }}
             />
           )}
-          <div className="absolute inset-0 bg-gradient-to-b from-background/85 via-background/90 to-background/95 pointer-events-none" />
+          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-background/60 to-background/90 pointer-events-none" />
 
-          {/* Creadores */}
           <div className="relative z-10 p-4 sm:p-5">
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
               {creators.map((creator) => (
