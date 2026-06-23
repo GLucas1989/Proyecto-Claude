@@ -21,7 +21,7 @@ export default async function HomePage() {
   return (
     <div className="flex flex-col">
       {/* ── CYBERPUNK HERO BANNER ── */}
-      <section className="relative flex flex-col items-center justify-center px-4 py-24 text-center overflow-hidden min-h-[88vh]">
+      <section className="relative flex flex-col items-center justify-center px-4 pt-16 pb-20 text-center overflow-hidden">
 
         {/* Cyber grid */}
         <div className="absolute inset-0 bg-[linear-gradient(to_right,#22d3ee06_1px,transparent_1px),linear-gradient(to_bottom,#22d3ee06_1px,transparent_1px)] bg-[size:3.5rem_3.5rem]" />
@@ -46,7 +46,7 @@ export default async function HomePage() {
         <div className="relative z-10 max-w-5xl mx-auto">
 
           {/* System badge */}
-          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/8 text-cyan-400 text-xs font-mono uppercase tracking-[0.2em] mb-10">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/8 text-cyan-400 text-xs font-mono uppercase tracking-[0.2em] mb-6">
             <Zap className="h-3 w-3" />
             Gaming Creator Directory // sys.v2
           </div>
@@ -66,7 +66,7 @@ export default async function HomePage() {
           <p className="font-mono text-xs sm:text-sm text-cyan-400/50 tracking-[0.3em] uppercase mb-3">
             &gt;_ inicializando directorio de creadores...
           </p>
-          <p className="text-white/40 text-sm sm:text-base max-w-xl mx-auto leading-relaxed mb-12">
+          <p className="text-white/40 text-sm sm:text-base max-w-xl mx-auto leading-relaxed mb-8">
             YouTubers y streamers especializados en videojuegos competitivos.<br className="hidden sm:block" />
             Filtrá por formato, idioma y tipo de contenido.
           </p>
