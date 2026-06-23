@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mtg-arena",
+    "name": "MTG Arena",
+    "slug": "mtg-arena",
+    "description": "Magic: The Gathering Arena — El juego de cartas más estratégico del mundo en formato digital.",
+    "coverImage": "/images/games/mtg-arena.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "⚔️",
+    "filters": ["contentType", "format", "language"]
+  },
+  {
+    "id": "wild-rift",
+    "name": "Wild Rift",
+    "slug": "wild-rift",
+    "description": "League of Legends adaptado para móvil y consola. Partidas rápidas, estrategia infinita.",
+    "coverImage": "/images/games/wild-rift.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "🏆",
+    "filters": ["contentType", "role", "language"]
+  },
+  {
+    "id": "raid-shadow-legends",
+    "name": "Raid: Shadow Legends",
+    "slug": "raid-shadow-legends",
+    "description": "RPG de colección de campeones con profundo sistema de builds, mazmorras y clan boss.",
+    "coverImage": "/images/games/raid-shadow-legends.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "🗡️",
+    "filters": ["contentType", "gameMode", "language"]
+  },
+  {
+    "id": "dark-and-darker",
+    "name": "Dark and Darker",
+    "slug": "dark-and-darker",
+    "description": "Dungeon crawler PvPvE de extracción. Entra a las mazmorras, mata rivales y sal con vida.",
+    "coverImage": "/images/games/dark-and-darker.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "🏖️",
+    "filters": ["contentType", "class", "language"]
+  },
+  {
+    "id": "beyond-all-reason",
+    "name": "Beyond All Reason",
+    "slug": "beyond-all-reason",
+    "description": "RTS de código abierto inspirado en Total Annihilation. Gratis, masivo y con comunidad apasionada.",
+    "coverImage": "/images/games/beyond-all-reason.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "🚀",
+    "filters": ["contentType", "faction", "language"]
+  },
+  {
+    "id": "albion-online",
+    "name": "Albion Online",
+    "slug": "albion-online",
+    "description": "MMORPG sandbox con economía completamente dirigida por jugadores. PvP, gremios, crafting y conquista de territorios.",
+    "coverImage": "/images/games/albion-online.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "⚔️",
+    "filters": ["contentType", "gameMode", "language"]
+  },
+  {
+    "id": "diablo-immortal",
+    "name": "Diablo Immortal",
+    "slug": "diablo-immortal",
+    "description": "El universo de Diablo en la palma de tu mano. Hack & slash infinito en dispositivos móviles.",
+    "coverImage": "/images/games/diablo-immortal.jpg",
+    "active": false,
+    "comingSoon": true,
+    "emoji": "💀",
+    "filters": ["contentType", "class", "language"]
+  }
+]
