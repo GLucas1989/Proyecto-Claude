@@ -47,15 +47,15 @@ export function GameShowcase({ game, creators, defaultOpen = false }: GameShowca
   return (
     <section
       id={game.slug}
-      className="scroll-mt-24 rounded-2xl border border-white/10 bg-white/[0.02] overflow-hidden transition-colors hover:border-white/20"
+      className="scroll-mt-24 rounded-xl border border-cyan-500/10 bg-cyan-500/[0.02] overflow-hidden transition-colors hover:border-cyan-500/25"
     >
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
         aria-expanded={open}
-        className="w-full flex items-center gap-4 p-4 sm:p-5 text-left hover:bg-white/[0.03] transition-colors"
+        className="w-full flex items-center gap-4 p-4 sm:p-5 text-left hover:bg-cyan-500/[0.03] transition-colors"
       >
-        <div className="relative h-12 w-12 shrink-0 rounded-xl overflow-hidden border border-white/10 bg-white/5 flex items-center justify-center">
+        <div className="relative h-12 w-12 shrink-0 rounded-lg overflow-hidden border border-cyan-500/20 bg-cyan-500/5 flex items-center justify-center">
           {game.logoUrl && !logoError ? (
             <Image
               src={game.logoUrl}
@@ -123,7 +123,7 @@ function CreatorBlock({ creator, gameSlug }: { creator: Creator; gameSlug: strin
   const videos = creator.latestVideos.slice(0, 3);
 
   return (
-    <div className="flex flex-col rounded-2xl border border-white/8 bg-background/60 backdrop-blur-sm p-4 hover:border-white/20 transition-colors duration-300">
+    <div className="flex flex-col rounded-xl border border-cyan-500/10 bg-background/70 backdrop-blur-sm p-4 hover:border-cyan-500/30 transition-colors duration-300">
       {/* Cabecera del creador */}
       <Link href={`/${gameSlug}/${creator.id}`} className="group flex items-center gap-3 mb-3">
         <div className="relative h-10 w-10 shrink-0 rounded-lg overflow-hidden border border-white/15 group-hover:border-white/30 transition-colors">
