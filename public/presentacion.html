@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gaming Hub — Presentación</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg: #080808;
+    --surface: #111111;
+    --surface2: #1a1a1a;
+    --border: rgba(255,255,255,0.08);
+    --border-hover: rgba(255,255,255,0.2);
+    --amber: #f59e0b;
+    --amber-dim: rgba(245,158,11,0.15);
+    --text: #ffffff;
+    --text-muted: rgba(255,255,255,0.5);
+    --text-faint: rgba(255,255,255,0.25);
+    --red: #f87171;
+    --purple: #a78bfa;
+    --sky: #38bdf8;
+    --green: #4ade80;
+  }
+
+  html { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); overflow: hidden; height: 100%; }
+  body { height: 100vh; overflow: hidden; }
+
+  .deck { width: 100vw; height: 100vh; position: relative; }
+  .slide {
+    position: absolute; inset: 0;
+    display: flex; flex-direction: column;
+    opacity: 0; pointer-events: none;
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    transform: translateX(60px);
+  }
+  .slide.active { opacity: 1; pointer-events: all; transform: translateX(0); }
+  .slide.prev { opacity: 0; transform: translateX(-60px); }
+
+  .nav {
+    position: fixed; bottom: 32px; left: 50%; transform: translateX(-50%);
+    display: flex; align-items: center; gap: 16px;
+    background: rgba(17,17,17,0.9); border: 1px solid var(--border);
+    border-radius: 999px; padding: 10px 20px; z-index: 100;
+    backdrop-filter: blur(12px);
+  }
+  .nav button {
+    background: none; border: none; color: var(--text-muted);
+    cursor: pointer; font-size: 18px; line-height: 1;
+    padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+  }
+  .nav button:hover { background: var(--border); color: var(--text); }
+  .nav-dots { display: flex; gap: 6px; }
+  .dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--text-faint); cursor: pointer;
+    transition: all 0.2s;
+  }
+  .dot.active { background: var(--amber); width: 20px; border-radius: 3px; }
+  .slide-counter { font-size: 12px; color: var(--text-faint); min-width: 40px; text-align: center; }
+
+  .slide-inner {
+    flex: 1; display: flex; flex-direction: column;
+    align-items: center; justify-content: center;
+    padding: 40px 60px; gap: 40px; overflow: hidden;
+  }
+  .slide-label {
+    font-size: 11px; font-weight: 700; letter-spacing: 3px;
+    text-transform: uppercase; color: var(--amber); opacity: 0.8;
+  }
+  .slide-title { font-size: 42px; font-weight: 900; line-height: 1.1; text-align: center; }
+  .slide-subtitle { font-size: 16px; color: var(--text-muted); text-align: center; max-width: 560px; line-height: 1.6; }
+
+  .browser {
+    width: 100%; max-width: 960px;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; overflow: hidden;
+    box-shadow: 0 32px 80px rgba(0,0,0,0.6);
+  }
+  .browser-bar {
+    background: var(--surface2); padding: 10px 16px;
+    display: flex; align-items: center; gap: 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  .browser-dots { display: flex; gap: 6px; }
+  .browser-dots span { width: 10px; height: 10px; border-radius: 50%; }
+  .browser-dots span:nth-child(1) { background: #ff5f57; }
+  .browser-dots span:nth-child(2) { background: #febc2e; }
+  .browser-dots span:nth-child(3) { background: #28c840; }
+  .browser-url {
+    flex: 1; background: rgba(255,255,255,0.05); border-radius: 6px;
+    padding: 4px 12px; font-size: 12px; color: var(--text-faint);
+    border: 1px solid var(--border);
+  }
+  .browser-body { padding: 0; overflow: hidden; }
+
+  .badge {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 10px; font-weight: 700; padding: 2px 8px;
+    border-radius: 999px; border: 1px solid;
+  }
+  .badge-amber { background: rgba(245,158,11,0.15); color: #fbbf24; border-color: rgba(245,158,11,0.3); }
+  .badge-green { background: rgba(74,222,128,0.12); color: #4ade80; border-color: rgba(74,222,128,0.25); }
+  .badge-red { background: rgba(248,113,113,0.12); color: #f87171; border-color: rgba(248,113,113,0.25); }
+  .badge-violet { background: rgba(167,139,250,0.12); color: #a78bfa; border-color: rgba(167,139,250,0.25); }
+  .badge-blue { background: rgba(56,189,248,0.12); color: #38bdf8; border-color: rgba(56,189,248,0.25); }
+  .badge-slate { background: rgba(148,163,184,0.12); color: #94a3b8; border-color: rgba(148,163,184,0.25); }
+  .badge-live { background: rgba(248,113,113,0.15); color: #f87171; border-color: rgba(185,28,28,0.4); animation: pulse-border 1.5s infinite; }
+
+  @keyframes pulse-border { 0%,100% { border-color: rgba(185,28,28,0.4); } 50% { border-color: rgba(248,113,113,0.7); } }
+  @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.4; } }
+
+  .btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px; font-weight: 600; padding: 6px 14px;
+    border-radius: 8px; border: 1px solid; cursor: pointer;
+    text-decoration: none;
+  }
+  .btn-ghost { background: rgba(255,255,255,0.05); border-color: rgba(255,255,255,0.1); color: rgba(255,255,255,0.7); }
+  .btn-yt { background: rgba(239,68,68,0.15); border-color: rgba(239,68,68,0.3); color: #fca5a5; }
+  .btn-twitch { background: rgba(167,139,250,0.15); border-color: rgba(167,139,250,0.3); color: #c4b5fd; }
+  .btn-twitter { background: rgba(56,189,248,0.15); border-color: rgba(56,189,248,0.3); color: #7dd3fc; }
+  .btn-amber { background: var(--amber-dim); border-color: rgba(245,158,11,0.4); color: #fbbf24; }
+
+  #slide-0 { background: radial-gradient(ellipse at 50% 0%, rgba(245,158,11,0.08) 0%, transparent 70%); }
+  .logo-mark {
+    width: 72px; height: 72px; border-radius: 20px;
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 32px; box-shadow: 0 0 40px rgba(245,158,11,0.4);
+  }
+  .tech-pills { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; }
+  .tech-pill {
+    font-size: 11px; font-weight: 600; padding: 4px 12px;
+    background: rgba(255,255,255,0.04); border: 1px solid var(--border);
+    border-radius: 999px; color: var(--text-faint);
+  }
+
+  .navbar-mock {
+    background: rgba(8,8,8,0.9); border-bottom: 1px solid var(--border);
+    padding: 12px 24px; display: flex; align-items: center; gap: 8px;
+  }
+  .hero-section {
+    padding: 40px 32px 28px;
+    background: linear-gradient(180deg, rgba(245,158,11,0.04) 0%, transparent 100%);
+    text-align: center;
+  }
+  .hero-title { font-size: 32px; font-weight: 900; line-height: 1.1; }
+  .hero-subtitle { font-size: 13px; color: var(--text-muted); margin-top: 10px; }
+  .stats-bar {
+    display: flex; justify-content: center; gap: 32px;
+    padding: 14px 0; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+    margin-top: 20px;
+  }
+  .stat-item { text-align: center; }
+  .stat-num { font-size: 20px; font-weight: 900; color: var(--amber); }
+  .stat-label { font-size: 10px; color: var(--text-faint); margin-top: 1px; }
+  .games-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;
+    padding: 20px 24px;
+  }
+  .game-card {
+    border-radius: 12px; border: 1px solid; padding: 14px;
+    position: relative; overflow: hidden;
+  }
+  .game-card-mtg { background: linear-gradient(135deg, rgba(120,53,15,0.4), rgba(124,45,18,0.3)); border-color: rgba(180,83,9,0.3); }
+  .game-card-wr { background: linear-gradient(135deg, rgba(23,37,84,0.4), rgba(7,89,133,0.3)); border-color: rgba(37,99,235,0.3); }
+  .game-card-rsl { background: linear-gradient(135deg, rgba(76,29,149,0.4), rgba(112,26,117,0.3)); border-color: rgba(109,40,217,0.3); }
+  .game-card-dad { background: linear-gradient(135deg, rgba(28,25,23,0.6), rgba(39,39,42,0.5)); border-color: rgba(120,113,108,0.3); }
+  .game-card-bar { background: linear-gradient(135deg, rgba(6,78,59,0.4), rgba(19,78,74,0.3)); border-color: rgba(16,185,129,0.3); }
+  .game-card-alb { background: linear-gradient(135deg, rgba(113,63,18,0.4), rgba(120,53,15,0.3)); border-color: rgba(202,138,4,0.3); }
+  .game-card-emoji { font-size: 28px; margin-bottom: 8px; display: block; }
+  .game-card-name { font-size: 13px; font-weight: 800; }
+  .game-card-desc { font-size: 10px; color: var(--text-faint); margin-top: 4px; line-height: 1.4; }
+  .game-card-footer { margin-top: 10px; font-size: 10px; font-weight: 700; display: flex; align-items: center; gap: 4px; }
+  .game-card-mtg .game-card-footer { color: #fbbf24; }
+  .game-card-wr .game-card-footer { color: #60a5fa; }
+  .game-card-rsl .game-card-footer { color: #c084fc; }
+  .game-card-dad .game-card-footer { color: #d6d3d1; }
+  .game-card-bar .game-card-footer { color: #34d399; }
+  .game-card-alb .game-card-footer { color: #fde047; }
+
+  .page-header {
+    padding: 16px 24px 12px;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; gap: 8px;
+  }
+  .breadcrumb { font-size: 11px; color: var(--text-faint); display: flex; align-items: center; gap: 6px; }
+  .breadcrumb .sep { opacity: 0.4; }
+  .breadcrumb .current { color: rgba(255,255,255,0.6); }
+  .filters-bar {
+    padding: 10px 24px; display: flex; gap: 8px; align-items: center;
+    border-bottom: 1px solid var(--border);
+  }
+  .filter-chip {
+    font-size: 11px; padding: 4px 12px; border-radius: 999px;
+    border: 1px solid var(--border); color: var(--text-faint);
+    background: rgba(255,255,255,0.03);
+  }
+  .filter-chip.active { border-color: rgba(245,158,11,0.5); color: #fbbf24; background: rgba(245,158,11,0.08); }
+  .creators-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;
+    padding: 16px 24px;
+  }
+  .creator-card {
+    border-radius: 12px; border: 1px solid var(--border);
+    background: linear-gradient(180deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.02) 100%);
+    overflow: hidden; position: relative;
+  }
+  .creator-card::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(245,158,11,0.5), transparent);
+    opacity: 0;
+  }
+  .creator-card:nth-child(2)::before { opacity: 1; }
+  .creator-card-body { padding: 12px; display: flex; gap: 10px; }
+  .avatar {
+    width: 44px; height: 44px; border-radius: 10px; flex-shrink: 0;
+    border: 1px solid rgba(255,255,255,0.12); overflow: hidden;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 20px;
+    position: relative;
+  }
+  .avatar img { width: 100%; height: 100%; object-fit: cover; }
+  .lang-flag { position: absolute; bottom: -3px; right: -3px; font-size: 9px; }
+  .creator-info { flex: 1; min-width: 0; }
+  .creator-name-row { display: flex; align-items: center; gap: 6px; justify-content: space-between; }
+  .creator-name { font-size: 13px; font-weight: 700; }
+  .creator-bio { font-size: 10px; color: var(--text-faint); margin-top: 3px; line-height: 1.4; }
+  .star-compact { display: flex; align-items: center; gap: 3px; font-size: 10px; color: #fbbf24; margin-top: 4px; }
+  .creator-badges { padding: 0 12px 8px; display: flex; flex-wrap: wrap; gap: 4px; }
+  .creator-footer { padding: 8px 12px; border-top: 1px solid rgba(255,255,255,0.05); display: flex; align-items: center; justify-content: space-between; }
+  .social-icons { display: flex; gap: 4px; }
+  .social-icon {
+    width: 24px; height: 24px; border-radius: 6px; border: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 10px; color: var(--text-faint);
+    background: rgba(255,255,255,0.03);
+  }
+  .ver-btn {
+    font-size: 10px; font-weight: 600; padding: 3px 10px;
+    border-radius: 6px; border: 1px solid var(--border);
+    background: rgba(255,255,255,0.05); color: var(--text-muted);
+    display: flex; align-items: center; gap: 3px;
+  }
+
+  .bio-hero {
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--border);
+    background: linear-gradient(135deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
+    position: relative;
+  }
+  .bio-hero::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(245,158,11,0.5), transparent);
+  }
+  .bio-hero-inner { display: flex; gap: 20px; align-items: flex-start; }
+  .bio-avatar {
+    width: 80px; height: 80px; border-radius: 16px; flex-shrink: 0;
+    border: 2px solid rgba(255,255,255,0.12);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 36px; background: rgba(255,255,255,0.05);
+  }
+  .bio-name-row { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 6px; }
+  .bio-name { font-size: 26px; font-weight: 900; }
+  .bio-badges { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 8px; }
+  .bio-text { font-size: 12px; color: var(--text-muted); line-height: 1.6; margin-bottom: 12px; max-width: 500px; }
+  .bio-socials { display: flex; gap: 6px; margin-bottom: 12px; }
+  .star-full { display: flex; flex-direction: column; gap: 5px; }
+  .stars-row { display: flex; align-items: center; gap: 3px; }
+  .star { font-size: 18px; cursor: pointer; transition: transform 0.15s; }
+  .star:hover { transform: scale(1.15); }
+  .star.filled { color: #f59e0b; }
+  .star.empty { color: rgba(255,255,255,0.15); }
+  .star-avg { font-size: 11px; color: var(--text-faint); }
+  .star-avg span { color: #fbbf24; font-weight: 700; }
+  .stats-mini {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px;
+    padding: 12px 24px;
+  }
+  .stat-mini {
+    border-radius: 10px; border: 1px solid var(--border);
+    background: rgba(255,255,255,0.02); padding: 10px; text-align: center;
+  }
+  .stat-mini-num { font-size: 22px; font-weight: 900; }
+  .stat-mini-label { font-size: 10px; color: var(--text-faint); margin-top: 2px; }
+  .videos-section { padding: 12px 24px; }
+  .section-title { font-size: 14px; font-weight: 700; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+  .videos-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+  .video-card { border-radius: 8px; overflow: hidden; border: 1px solid var(--border); background: var(--surface2); }
+  .video-thumb {
+    height: 70px;
+    background: linear-gradient(135deg, rgba(245,158,11,0.1), rgba(0,0,0,0.5));
+    display: flex; align-items: center; justify-content: center; font-size: 20px;
+  }
+  .video-info { padding: 8px; }
+  .video-title { font-size: 10px; font-weight: 600; line-height: 1.3; color: rgba(255,255,255,0.8); }
+  .video-date { font-size: 9px; color: var(--text-faint); margin-top: 3px; }
+
+  .live-demo { display: flex; flex-direction: column; gap: 20px; align-items: center; width: 100%; max-width: 700px; }
+  .live-flow { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; justify-content: center; }
+  .flow-box {
+    border-radius: 12px; border: 1px solid var(--border);
+    background: var(--surface); padding: 16px 20px; text-align: center;
+    min-width: 140px;
+  }
+  .flow-box-title { font-size: 11px; font-weight: 700; color: var(--text-muted); margin-bottom: 6px; }
+  .flow-box-content { font-size: 13px; font-weight: 700; }
+  .flow-arrow { font-size: 20px; color: var(--text-faint); }
+  .api-card {
+    border-radius: 12px; border: 1px solid rgba(167,139,250,0.3);
+    background: rgba(167,139,250,0.05); padding: 16px 24px;
+    font-family: 'SF Mono', 'Fira Code', monospace; font-size: 12px;
+    width: 100%; max-width: 500px;
+  }
+  .api-get { color: #34d399; font-weight: 700; }
+  .api-path { color: #a78bfa; }
+  .api-param { color: #fbbf24; }
+  .api-comment { color: rgba(255,255,255,0.3); }
+  .api-response { color: #4ade80; }
+  .live-states { display: flex; gap: 12px; }
+  .live-state {
+    border-radius: 10px; border: 1px solid var(--border);
+    background: var(--surface); padding: 12px 16px;
+    display: flex; align-items: center; gap: 10px; flex: 1;
+  }
+  .live-avatar { width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 18px; background: rgba(255,255,255,0.05); border: 1px solid var(--border); }
+  .live-name { font-size: 13px; font-weight: 700; }
+  .live-status { font-size: 10px; color: var(--text-faint); margin-top: 2px; }
+
+  .rating-demo { display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; justify-content: center; width: 100%; max-width: 760px; }
+  .rating-card {
+    border-radius: 12px; border: 1px solid var(--border);
+    background: var(--surface); padding: 20px; flex: 1; min-width: 220px; max-width: 260px;
+  }
+  .rating-card-title { font-size: 12px; font-weight: 700; color: var(--text-muted); margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px; }
+  .storage-pill {
+    display: flex; align-items: center; gap: 6px;
+    font-size: 11px; font-family: monospace;
+    background: rgba(255,255,255,0.04); border: 1px solid var(--border);
+    border-radius: 6px; padding: 6px 10px; margin-top: 8px;
+    color: var(--text-faint);
+  }
+  .storage-key { color: #a78bfa; }
+  .storage-val { color: #4ade80; }
+
+  .arch-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; width: 100%; max-width: 800px; }
+  .arch-card {
+    border-radius: 12px; border: 1px solid var(--border);
+    background: var(--surface); padding: 16px;
+  }
+  .arch-icon { font-size: 24px; margin-bottom: 8px; }
+  .arch-title { font-size: 13px; font-weight: 800; margin-bottom: 4px; }
+  .arch-detail { font-size: 11px; color: var(--text-faint); line-height: 1.5; }
+  .arch-tag { font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 4px; background: var(--amber-dim); color: var(--amber); display: inline-block; margin-top: 6px; }
+
+  #slide-7 { background: radial-gradient(ellipse at 50% 30%, rgba(245,158,11,0.06) 0%, transparent 70%); }
+  .feature-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 600px; width: 100%; }
+  .feature-item {
+    border-radius: 10px; border: 1px solid var(--border);
+    background: rgba(255,255,255,0.03); padding: 12px 14px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .feature-icon { font-size: 20px; flex-shrink: 0; }
+  .feature-text { font-size: 12px; color: var(--text-muted); line-height: 1.4; }
+  .feature-text strong { color: var(--text); display: block; font-size: 13px; margin-bottom: 1px; }
+
+  .slide.active .browser { animation: slideUp 0.5s ease forwards; }
+  .slide.active .slide-title { animation: fadeIn 0.4s ease forwards; }
+  .slide.active .slide-subtitle { animation: fadeIn 0.5s 0.1s ease both; }
+  @keyframes slideUp { from { opacity:0; transform: translateY(20px); } to { opacity:1; transform: translateY(0); } }
+  @keyframes fadeIn { from { opacity:0; transform: translateY(8px); } to { opacity:1; transform: translateY(0); } }
+
+  .progress { position: fixed; top: 0; left: 0; height: 2px; background: var(--amber); transition: width 0.4s ease; z-index: 200; }
+  .kbd-hint { position: fixed; top: 20px; right: 24px; font-size: 11px; color: var(--text-faint); display: flex; gap: 8px; align-items: center; }
+  .kbd { border: 1px solid var(--border); border-radius: 4px; padding: 2px 6px; font-size: 10px; }
+</style>
+</head>
+<body>
+
+<div class="progress" id="progress"></div>
+
+<div class="kbd-hint">
+  <span class="kbd">←</span><span class="kbd">→</span> navegar &nbsp;|&nbsp; <span class="kbd">Space</span> siguiente
+</div>
+
+<div class="deck" id="deck">
+
+  <div class="slide active" id="slide-0">
+    <div class="slide-inner" style="gap:24px;">
+      <div class="logo-mark">🎮</div>
+      <div>
+        <div class="slide-label" style="text-align:center;margin-bottom:12px;">Gaming Content Creator Hub</div>
+        <div class="slide-title">Descubre los mejores<br>creadores de tu juego</div>
+      </div>
+      <div class="slide-subtitle">
+        Plataforma multi-juego para explorar streamers y youtubers,<br>
+        con filtros, indicador LIVE de Twitch y sistema de valoraciones.
+      </div>
+      <div class="tech-pills">
+        <span class="tech-pill">Next.js 16</span>
+        <span class="tech-pill">TypeScript</span>
+        <span class="tech-pill">Tailwind CSS v4</span>
+        <span class="tech-pill">Twitch Helix API</span>
+        <span class="tech-pill">localStorage</span>
+        <span class="tech-pill">SSG · 32 páginas</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide" id="slide-1">
+    <div class="slide-inner" style="gap:24px;">
+      <div>
+        <div class="slide-label" style="text-align:center;margin-bottom:8px;">Sección 1</div>
+        <div class="slide-title" style="font-size:32px;">Landing Page</div>
+        <div class="slide-subtitle" style="font-size:14px;margin-top:8px;">Hero, métricas globales y selector de juegos</div>
+      </div>
+      <div class="browser" style="max-width:820px;">
+        <div class="browser-bar">
+          <div class="browser-dots"><span></span><span></span><span></span></div>
+          <div class="browser-url">localhost:3000</div>
+        </div>
+        <div class="browser-body">
+          <div class="navbar-mock">
+            <span style="font-size:16px;">🎮</span>
+            <span style="font-size:13px;font-weight:800;color:#f59e0b;">Gaming</span>
+            <span style="font-size:13px;font-weight:800;">Hub</span>
+          </div>
+          <div class="hero-section">
+            <div class="hero-title">Encuentra tu<br><span style="color:#f59e0b;">creador favorito</span></div>
+            <div class="hero-subtitle">El directorio de referencia para la comunidad gamer hispana</div>
+            <div class="stats-bar">
+              <div class="stat-item"><div class="stat-num">26</div><div class="stat-label">Creadores</div></div>
+              <div class="stat-item"><div class="stat-num">6</div><div class="stat-label">Juegos activos</div></div>
+              <div class="stat-item"><div class="stat-num">260+</div><div class="stat-label">Videos indexados</div></div>
+            </div>
+          </div>
+          <div class="games-grid">
+            <div class="game-card game-card-mtg"><span class="game-card-emoji">⚔️</span><div class="game-card-name">MTG Arena</div><div class="game-card-desc">El juego de cartas más estratégico del mundo en digital.</div><div class="game-card-footer">Explorar creadores →</div></div>
+            <div class="game-card game-card-wr"><span class="game-card-emoji">🏆</span><div class="game-card-name">Wild Rift</div><div class="game-card-desc">League of Legends para móvil y consola.</div><div class="game-card-footer">Explorar creadores →</div></div>
+            <div class="game-card game-card-rsl"><span class="game-card-emoji">🗡️</span><div class="game-card-name">Raid: Shadow Legends</div><div class="game-card-desc">RPG de colección con mazmorras y clan boss.</div><div class="game-card-footer">Explorar creadores →</div></div>
+            <div class="game-card game-card-dad"><span class="game-card-emoji">🏚️</span><div class="game-card-name">Dark and Darker</div><div class="game-card-desc">Dungeon crawler PvPvE de extracción.</div><div class="game-card-footer">Explorar creadores →</div></div>
+            <div class="game-card game-card-bar"><span class="game-card-emoji">🚀</span><div class="game-card-name">Beyond All Reason</div><div class="game-card-desc">RTS open source, gratis y masivo.</div><div class="game-card-footer">Explorar creadores →</div></div>
+            <div class="game-card game-card-alb"><span class="game-card-emoji">⚔️</span><div class="game-card-name">Albion Online</div><div class="game-card-desc">MMORPG sandbox con economía de jugadores.</div><div class="game-card-footer">Explorar creadores →</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide" id="slide-2">
+    <div class="slide-inner" style="gap:20px;">
+      <div>
+        <div class="slide-label" style="text-align:center;margin-bottom:8px;">Sección 2</div>
+        <div class="slide-title" style="font-size:32px;">Directorio de Creadores</div>
+        <div class="slide-subtitle" style="font-size:14px;margin-top:8px;">Filtros por tipo de contenido, formato e idioma</div>
+      </div>
+      <div class="browser" style="max-width:820px;">
+        <div class="browser-bar">
+          <div class="browser-dots"><span></span><span></span><span></span></div>
+          <div class="browser-url">localhost:3000/albion-online</div>
+        </div>
+        <div class="browser-body">
+          <div class="page-header"><div class="breadcrumb"><span>Inicio</span><span class="sep">›</span><span class="current">Albion Online</span></div></div>
+          <div class="filters-bar">
+            <span style="font-size:10px;color:var(--text-faint);font-weight:700;">FILTRAR:</span>
+            <div class="filter-chip active">Todos</div>
+            <div class="filter-chip">Competitivo</div>
+            <div class="filter-chip">Educativo</div>
+            <div class="filter-chip">Casual</div>
+            <div class="filter-chip" style="margin-left:auto;">🇪🇸 ES</div>
+            <div class="filter-chip">🇺🇸 EN</div>
+          </div>
+          <div class="creators-grid">
+            <div class="creator-card">
+              <div class="creator-card-body">
+                <div class="avatar">🧑‍💻<span class="lang-flag">🇺🇸</span></div>
+                <div class="creator-info">
+                  <div class="creator-name-row"><span class="creator-name">Lewpac</span><span class="badge badge-live" style="font-size:9px;padding:1px 5px;">● LIVE</span></div>
+                  <div class="creator-bio">El referente de Albion. Builds, economía y PvP a alto nivel.</div>
+                  <div class="star-compact">★ 4.3</div>
+                </div>
+              </div>
+              <div class="creator-badges"><span class="badge badge-red">Competitivo</span><span class="badge badge-blue">Educativo</span></div>
+              <div class="creator-footer"><div class="social-icons"><div class="social-icon">▶</div><div class="social-icon">📺</div><div class="social-icon">@</div></div><div class="ver-btn">Ver Perfil ↗</div></div>
+            </div>
+            <div class="creator-card" style="border-color:rgba(245,158,11,0.3);">
+              <div class="creator-card-body">
+                <div class="avatar">🎮<span class="lang-flag">🇺🇸</span></div>
+                <div class="creator-info">
+                  <div class="creator-name-row"><span class="creator-name">Fwuffy</span></div>
+                  <div class="creator-bio">PvP open world y small-scale. Clips virales de combates 1v5.</div>
+                  <div class="star-compact">★ 4.7</div>
+                </div>
+              </div>
+              <div class="creator-badges"><span class="badge badge-red">Competitivo</span><span class="badge badge-green">Casual</span></div>
+              <div class="creator-footer"><div class="social-icons"><div class="social-icon">▶</div><div class="social-icon">📺</div><div class="social-icon">@</div></div><div class="ver-btn">Ver Perfil ↗</div></div>
+            </div>
+            <div class="creator-card">
+              <div class="creator-card-body">
+                <div class="avatar">🇪🇸<span class="lang-flag">🇪🇸</span></div>
+                <div class="creator-info">
+                  <div class="creator-name-row"><span class="creator-name">Albion ES</span></div>
+                  <div class="creator-bio">La comunidad hispana de Albion. Guías, eventos y streams.</div>
+                  <div class="star-compact">★ 3.8</div>
+                </div>
+              </div>
+              <div class="creator-badges"><span class="badge badge-blue">Educativo</span><span class="badge badge-green">Casual</span></div>
+              <div class="creator-footer"><div class="social-icons"><div class="social-icon">▶</div><div class="social-icon">📺</div><div class="social-icon">@</div></div><div class="ver-btn">Ver Perfil ↗</div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide" id="slide-3">
+    <div class="slide-inner" style="gap:20px;">
+      <div>
+        <div class="slide-label" style="text-align:center;margin-bottom:8px;">Sección 3</div>
+        <div class="slide-title" style="font-size:32px;">Perfil del Creador</div>
+        <div class="slide-subtitle" style="font-size:14px;margin-top:8px;">Bio detallada, redes sociales, últimos videos y valoración</div>
+      </div>
+      <div class="browser" style="max-width:820px;">
+        <div class="browser-bar">
+          <div class="browser-dots"><span></span><span></span><span></span></div>
+          <div class="browser-url">localhost:3000/albion-online/lewpac</div>
+        </div>
+        <div class="browser-body">
+          <div class="page-header"><div class="breadcrumb"><span>Inicio</span><span class="sep">›</span><span>Albion Online</span><span class="sep">›</span><span class="current">Lewpac</span></div></div>
+          <div class="bio-hero">
+            <div class="bio-hero-inner">
+              <div class="bio-avatar">🧑‍💻</div>
+              <div style="flex:1;">
+                <div class="bio-name-row"><span class="bio-name">Lewpac</span><span class="badge badge-live">📺 LIVE</span><span class="badge badge-slate">🇺🇸 English</span></div>
+                <div class="bio-badges"><span class="badge badge-red">Competitivo</span><span class="badge badge-blue">Educativo</span></div>
+                <div class="bio-text">Lewpac lleva años siendo el referente de la comunidad de Albion Online. Sus guías cubren todos los aspectos del juego: desde las mejores builds por rol hasta estrategias avanzadas de economía en el mercado.</div>
+                <div class="bio-socials"><span class="btn btn-yt">▶ YouTube</span><span class="btn btn-twitch">📺 Twitch</span><span class="btn btn-twitter">@ Twitter</span></div>
+                <div class="star-full">
+                  <div class="stars-row"><span class="star filled">★</span><span class="star filled">★</span><span class="star filled">★</span><span class="star filled">★</span><span class="star empty">★</span><span style="font-size:11px;color:var(--text-faint);margin-left:8px;">Tu calificación: 4/5</span></div>
+                  <div class="star-avg">Promedio comunidad: <span>4.3</span> / 5</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="stats-mini">
+            <div class="stat-mini"><div class="stat-mini-num">10</div><div class="stat-mini-label">Videos recientes</div></div>
+            <div class="stat-mini"><div class="stat-mini-num">0</div><div class="stat-mini-label">Formatos</div></div>
+            <div class="stat-mini"><div class="stat-mini-num">2</div><div class="stat-mini-label">Tipos contenido</div></div>
+          </div>
+          <div class="videos-section">
+            <div class="section-title"><span style="background:rgba(239,68,68,0.15);border:1px solid rgba(239,68,68,0.2);border-radius:6px;padding:3px 6px;">▶</span> Últimos Videos</div>
+            <div class="videos-grid">
+              <div class="video-card"><div class="video-thumb">🎬</div><div class="video-info"><div class="video-title">Best Builds for Solo PvP — Meta Guide</div><div class="video-date">Jun 22, 2026</div></div></div>
+              <div class="video-card"><div class="video-thumb" style="background:linear-gradient(135deg,rgba(167,139,250,0.1),rgba(0,0,0,0.5));">🎬</div><div class="video-info"><div class="video-title">How to Make 10M Silver Per Day</div><div class="video-date">Jun 19, 2026</div></div></div>
+              <div class="video-card"><div class="video-thumb" style="background:linear-gradient(135deg,rgba(56,189,248,0.1),rgba(0,0,0,0.5));">🎬</div><div class="video-info"><div class="video-title">ZvZ Guide: Positioning and Caller</div><div class="video-date">Jun 16, 2026</div></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide" id="slide-4">
+    <div class="slide-inner" style="gap:28px;">
+      <div>
+        <div class="slide-label" style="text-align:center;margin-bottom:8px;">Feature</div>
+        <div class="slide-title" style="font-size:32px;">Indicador LIVE de Twitch</div>
+        <div class="slide-subtitle" style="font-size:14px;margin-top:8px;">API server-side con caché de token OAuth + 2 min por canal</div>
+      </div>
+      <div class="live-demo">
+        <div class="live-flow">
+          <div class="flow-box"><div class="flow-box-title">Componente cliente</div><div class="flow-box-content" style="color:#a78bfa;">TwitchLiveBadge</div></div>
+          <div class="flow-arrow">→</div>
+          <div class="flow-box" style="border-color:rgba(245,158,11,0.3);"><div class="flow-box-title">API Route</div><div class="flow-box-content" style="color:#f59e0b;">/api/twitch/live</div></div>
+          <div class="flow-arrow">→</div>
+          <div class="flow-box" style="border-color:rgba(167,139,250,0.3);"><div class="flow-box-title">Twitch Helix</div><div class="flow-box-content" style="color:#c084fc;">streams?user_login=</div></div>
+        </div>
+        <div class="api-card">
+          <span class="api-get">GET</span> <span class="api-path">/api/twitch/live</span><span class="api-param">?channels=lewpac,fwuffy</span><br><br>
+          <span class="api-comment">// Respuesta</span><br>
+          <span class="api-response">{ "lewpac": true, "fwuffy": false }</span><br><br>
+          <span class="api-comment">// Graceful degradation sin credenciales:</span><br>
+          <span class="api-response">{ "lewpac": false, "fwuffy": false }</span>
+        </div>
+        <div class="live-states">
+          <div class="live-state" style="border-color:rgba(239,68,68,0.3);background:rgba(239,68,68,0.04);">
+            <div class="live-avatar">🧑‍💻</div>
+            <div><div class="live-name">Lewpac <span class="badge badge-live" style="vertical-align:middle;font-size:9px;">● LIVE</span></div><div class="live-status">Streameando ahora · Albion PvP</div></div>
+          </div>
+          <div class="live-state">
+            <div class="live-avatar">🎮</div>
+            <div><div class="live-name">Fwuffy</div><div class="live-status">Offline · Último stream hace 3h</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide" id="slide-5">
+    <div class="slide-inner" style="gap:28px;">
+      <div>
+        <div class="slide-label" style="text-align:center;margin-bottom:8px;">Feature</div>
+        <div class="slide-title" style="font-size:32px;">Sistema de Valoraciones</div>
+        <div class="slide-subtitle" style="font-size:14px;margin-top:8px;">1–5 estrellas persistido en localStorage · promedio simulado por creador</div>
+      </div>
+      <div class="rating-demo">
+        <div class="rating-card">
+          <div class="rating-card-title">Vista Compacta · Card</div>
+          <div style="display:flex;align-items:center;gap:10px;">
+            <div class="avatar" style="width:40px;height:40px;">🧑‍💻</div>
+            <div><div style="font-size:13px;font-weight:700;">Lewpac</div><div class="star-compact" style="margin-top:2px;">★ 4.3</div></div>
+          </div>
+        </div>
+        <div class="rating-card" style="border-color:rgba(245,158,11,0.25);min-width:280px;">
+          <div class="rating-card-title">Vista Completa · Bio Page</div>
+          <div class="star-full">
+            <div class="stars-row" style="gap:4px;"><span class="star filled" style="font-size:22px;">★</span><span class="star filled" style="font-size:22px;">★</span><span class="star filled" style="font-size:22px;">★</span><span class="star filled" style="font-size:22px;">★</span><span class="star empty" style="font-size:22px;">★</span></div>
+            <div style="font-size:11px;color:var(--text-faint);margin-top:2px;">Tu calificación: <strong style="color:var(--text);">4</strong> / 5</div>
+            <div class="star-avg" style="margin-top:4px;">Promedio comunidad: <span>4.3</span> / 5</div>
+          </div>
+          <div class="storage-pill"><span class="storage-key">rating:lewpac</span><span style="color:var(--text-faint);">=</span><span class="storage-val">"4"</span><span style="margin-left:auto;font-size:9px;color:var(--text-faint);">localStorage</span></div>
+        </div>
+        <div class="rating-card">
+          <div class="rating-card-title">Cómo funciona</div>
+          <div style="font-size:12px;color:var(--text-muted);line-height:1.7;">
+            <div>📌 Promedio <strong style="color:var(--text);">determinístico</strong> por ID<br><span style="color:var(--text-faint);font-size:10px;">hash(creatorId) → 3.0–4.9</span></div>
+            <div style="margin-top:8px;">💾 Tu voto se guarda en<br><strong style="color:#a78bfa;">localStorage</strong> del navegador</div>
+            <div style="margin-top:8px;">⚡ <strong style="color:var(--text);">Sin servidor</strong> ni base de datos necesarios</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide" id="slide-6">
+    <div class="slide-inner" style="gap:28px;">
+      <div>
+        <div class="slide-label" style="text-align:center;margin-bottom:8px;">Bajo el capó</div>
+        <div class="slide-title" style="font-size:32px;">Arquitectura Escalable</div>
+        <div class="slide-subtitle" style="font-size:14px;margin-top:8px;">Agregar un juego nuevo = 1 JSON de juego + 1 JSON de creadores</div>
+      </div>
+      <div class="arch-grid">
+        <div class="arch-card"><div class="arch-icon">📂</div><div class="arch-title">Data Layer</div><div class="arch-detail"><code style="font-size:10px;color:#a78bfa;">src/data/[game]/creators.json</code><br>Cada juego vive en su propio directorio. Sin tocar código.</div><div class="arch-tag">JSON puro</div></div>
+        <div class="arch-card"><div class="arch-icon">🗺️</div><div class="arch-title">SSG Dinámico</div><div class="arch-detail"><code style="font-size:10px;color:#4ade80;">generateStaticParams()</code> lee los juegos activos y genera rutas automáticamente.</div><div class="arch-tag">32 páginas</div></div>
+        <div class="arch-card"><div class="arch-icon">⚡</div><div class="arch-title">API Route</div><div class="arch-detail"><code style="font-size:10px;color:#f59e0b;">/api/twitch/live</code><br>Server-side. Secretos fuera del cliente. Caché en memoria.</div><div class="arch-tag">Edge-ready</div></div>
+        <div class="arch-card"><div class="arch-icon">🤖</div><div class="arch-title">GitHub Actions</div><div class="arch-detail">Cron semanal que actualiza videos vía YouTube API v3 con fallback RSS. Solo commitea si hay cambios.</div><div class="arch-tag">CI/CD</div></div>
+        <div class="arch-card"><div class="arch-icon">🎨</div><div class="arch-title">Tailwind v4</div><div class="arch-detail">Tema oscuro con variables CSS. Gradientes únicos por juego. Shadcn/ui instalado manualmente.</div><div class="arch-tag">Dark theme</div></div>
+        <div class="arch-card"><div class="arch-icon">📦</div><div class="arch-title">TypeScript</div><div class="arch-detail">Tipos genéricos con <code style="font-size:10px;color:#a78bfa;">[key: string]: unknown</code> permiten campos específicos por juego sin romper tipos.</div><div class="arch-tag">Strict mode</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide" id="slide-7">
+    <div class="slide-inner" style="gap:28px;">
+      <div class="logo-mark">🎮</div>
+      <div>
+        <div class="slide-label" style="text-align:center;margin-bottom:8px;">Resumen</div>
+        <div class="slide-title">Todo lo que incluye</div>
+      </div>
+      <div class="feature-list">
+        <div class="feature-item"><div class="feature-icon">🎮</div><div class="feature-text"><strong>6 juegos activos</strong>MTG, Wild Rift, RAID, DaD, BAR, Albion Online</div></div>
+        <div class="feature-item"><div class="feature-icon">👥</div><div class="feature-text"><strong>26 creadores</strong>Con bio, videos, filtros y redes sociales</div></div>
+        <div class="feature-item"><div class="feature-icon">📺</div><div class="feature-text"><strong>LIVE en Twitch</strong>API route con OAuth y caché de 2 minutos</div></div>
+        <div class="feature-item"><div class="feature-icon">⭐</div><div class="feature-text"><strong>Valoraciones 1–5</strong>Persistidas en localStorage por navegador</div></div>
+        <div class="feature-item"><div class="feature-icon">🔗</div><div class="feature-text"><strong>Redes sociales</strong>YouTube, Twitch y Twitter en cada creador</div></div>
+        <div class="feature-item"><div class="feature-icon">🤖</div><div class="feature-text"><strong>Automatización</strong>GitHub Actions actualiza videos cada semana</div></div>
+      </div>
+      <div style="text-align:center;">
+        <div style="font-size:13px;color:var(--text-faint);margin-bottom:8px;">Para correr localmente:</div>
+        <code style="font-size:14px;background:rgba(255,255,255,0.05);border:1px solid var(--border);border-radius:8px;padding:8px 20px;color:#4ade80;">npm run dev</code>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="nav">
+  <button onclick="go(-1)" title="Anterior">‹</button>
+  <div class="nav-dots" id="dots"></div>
+  <button onclick="go(1)" title="Siguiente">›</button>
+  <span class="slide-counter" id="counter">1 / 8</span>
+</div>
+
+<script>
+  const TOTAL = 8;
+  let current = 0;
+
+  const dotsEl = document.getElementById('dots');
+  const counterEl = document.getElementById('counter');
+  const progressEl = document.getElementById('progress');
+
+  for (let i = 0; i < TOTAL; i++) {
+    const d = document.createElement('div');
+    d.className = 'dot' + (i === 0 ? ' active' : '');
+    d.onclick = () => goTo(i);
+    dotsEl.appendChild(d);
+  }
+
+  function goTo(n) {
+    const slides = document.querySelectorAll('.slide');
+    slides[current].className = 'slide prev';
+    current = Math.max(0, Math.min(TOTAL - 1, n));
+    slides[current].className = 'slide active';
+    setTimeout(() => {
+      slides.forEach((s, i) => { if (i !== current) s.className = 'slide'; });
+    }, 500);
+    document.querySelectorAll('.dot').forEach((d, i) => {
+      d.className = 'dot' + (i === current ? ' active' : '');
+    });
+    counterEl.textContent = (current + 1) + ' / ' + TOTAL;
+    progressEl.style.width = ((current + 1) / TOTAL * 100) + '%';
+  }
+
+  function go(dir) { goTo(current + dir); }
+
+  document.addEventListener('keydown', e => {
+    if (e.key === 'ArrowRight' || e.key === ' ') { e.preventDefault(); go(1); }
+    if (e.key === 'ArrowLeft') { e.preventDefault(); go(-1); }
+  });
+
+  let startX = 0;
+  document.addEventListener('touchstart', e => startX = e.touches[0].clientX);
+  document.addEventListener('touchend', e => {
+    const dx = e.changedTouches[0].clientX - startX;
+    if (Math.abs(dx) > 50) go(dx < 0 ? 1 : -1);
+  });
+
+  progressEl.style.width = (1 / TOTAL * 100) + '%';
+</script>
+</body>
+</html>
