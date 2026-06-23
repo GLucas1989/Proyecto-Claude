@@ -58,7 +58,7 @@ export default async function HomePage() {
             </span>
             <span className="block text-6xl sm:text-8xl lg:text-[9.5rem] text-transparent bg-clip-text bg-gradient-to-r from-violet-400 via-purple-400 to-fuchsia-400"
               style={{ filter: "drop-shadow(0 0 30px rgba(168,85,247,0.4))" }}>
-              SHUB
+              S-HUB
             </span>
           </h1>
 
