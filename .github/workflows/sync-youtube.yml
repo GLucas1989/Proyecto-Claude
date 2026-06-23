@@ -1,0 +1,78 @@
+name: Sync YouTube
+
+# Trae los videos y avatares reales de cada creador desde la API de YouTube
+# y commitea los cambios al repo. No requiere PC: corre en la nube.
+#
+# Requisito: definir el secret YOUTUBE_API_KEY en
+#   Settings → Secrets and variables → Actions → New repository secret
+#
+# Formas de dispararlo:
+#   - Manual: pestaña Actions → "Sync YouTube" → "Run workflow"
+#     (el botón solo aparece si el workflow está en la rama por defecto, main)
+#   - Automático: cada push (ignorando src/data para no entrar en bucle)
+#   - Programado: todos los lunes 06:00 UTC (solo desde la rama main)
+
+on:
+  workflow_dispatch:
+    inputs:
+      game:
+        description: "Slug del juego a sincronizar (vacío = todos)"
+        required: false
+        default: ""
+      dry_run:
+        description: "Dry run: solo muestra resultados, no escribe ni commitea"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "0 6 * * 1"
+  push:
+    branches:
+      - main
+      - claude/friendly-maxwell-8r0ikv
+    paths-ignore:
+      - "src/data/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-youtube-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Sincronizar con YouTube
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GAME: ${{ github.event.inputs.game }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: |
+          ARGS=""
+          if [ -n "$GAME" ]; then ARGS="$ARGS --game=$GAME"; fi
+          if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          echo "Ejecutando: npm run fetch-videos -- $ARGS"
+          npm run fetch-videos -- $ARGS
+
+      - name: Commit y push de cambios
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain src/data)" ]; then
+            git add src/data
+            git commit -m "chore: sync de videos y avatares de YouTube [skip ci]"
+            git push
+          else
+            echo "Sin cambios que commitear"
+          fi
