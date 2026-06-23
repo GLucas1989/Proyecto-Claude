@@ -6,9 +6,13 @@ export interface Video {
   publishedAt: string;
 }
 
+// MTG Arena specific
 export type ContentType = "competitive" | "casual" | "draft" | "lore" | "educational";
 export type MTGFormat = "standard" | "explorer" | "alchemy" | "historic" | "brawl";
+
+// Wild Rift specific
 export type WRRole = "top" | "jungle" | "mid" | "adc" | "support";
+
 export type Language = "es" | "en";
 
 export interface Socials {
@@ -17,6 +21,7 @@ export interface Socials {
   twitter?: string;
 }
 
+// Generic creator — each game can have its own extra fields
 export interface Creator {
   id: string;
   name: string;
@@ -29,8 +34,11 @@ export interface Creator {
   languages: Language[];
   socials: Socials;
   latestVideos: Video[];
+  // MTG Arena
   formats?: MTGFormat[];
+  // Wild Rift
   roles?: WRRole[];
+  // Future games can add their own optional fields
   [key: string]: unknown;
 }
 
@@ -43,6 +51,7 @@ export interface Game {
   active: boolean;
   comingSoon?: boolean;
   emoji?: string;
+  logoUrl?: string;
   filters?: string[];
 }
 

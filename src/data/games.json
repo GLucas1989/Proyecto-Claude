@@ -8,6 +8,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "⚔️",
+    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2141910/header.jpg",
     "filters": ["contentType", "format", "language"]
   },
   {
@@ -30,6 +31,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🗡️",
+    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1145640/header.jpg",
     "filters": ["contentType", "gameMode", "language"]
   },
   {
@@ -41,6 +43,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🏚️",
+    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2016590/header.jpg",
     "filters": ["contentType", "class", "language"]
   },
   {
@@ -52,6 +55,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🚀",
+    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1276820/header.jpg",
     "filters": ["contentType", "faction", "language"]
   },
   {
@@ -63,6 +67,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "⚔️",
+    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/761890/header.jpg",
     "filters": ["contentType", "gameMode", "language"]
   },
   {
@@ -71,9 +76,10 @@
     "slug": "diablo-immortal",
     "description": "El universo de Diablo en la palma de tu mano. Hack & slash infinito en dispositivos móviles.",
     "coverImage": "/images/games/diablo-immortal.jpg",
-    "active": false,
-    "comingSoon": true,
+    "active": true,
+    "comingSoon": false,
     "emoji": "💀",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Diablo_Immortal_cover_art.jpg/460px-Diablo_Immortal_cover_art.jpg",
     "filters": ["contentType", "class", "language"]
   },
   {
@@ -85,6 +91,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "⚡",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/400px-League_of_Legends_2019_vector.svg.png",
     "filters": ["contentType", "role", "language"]
   },
   {
@@ -96,6 +103,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🔥",
+    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2119150/header.jpg",
     "filters": ["contentType", "class", "language"]
   }
 ]

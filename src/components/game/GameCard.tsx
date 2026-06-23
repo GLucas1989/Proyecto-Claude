@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { Game } from "@/types";
-import { Badge } from "@/components/ui/badge";
 import { ArrowRight, Clock } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { GameCardBanner } from "./GameCardBanner";
 
 const gameThemes: Record<string, { gradient: string; border: string; glow: string }> = {
   "mtg-arena": {
@@ -37,8 +37,8 @@ const gameThemes: Record<string, { gradient: string; border: string; glow: strin
   },
   "diablo-immortal": {
     gradient: "from-red-950/60 via-rose-950/40 to-purple-950/50",
-    border: "border-red-800/20",
-    glow: "",
+    border: "border-red-800/30 hover:border-red-700/60",
+    glow: "group-hover:shadow-red-900/30",
   },
   "league-of-legends": {
     gradient: "from-sky-950/60 via-blue-950/40 to-indigo-950/50",
@@ -80,7 +80,7 @@ export function GameCard({ game }: GameCardProps) {
   const content = (
     <div
       className={cn(
-        "group relative flex flex-col h-full rounded-2xl border p-6 transition-all duration-300 bg-gradient-to-br overflow-hidden",
+        "group relative flex flex-col h-full rounded-2xl border transition-all duration-300 bg-gradient-to-br overflow-hidden",
         theme.gradient,
         theme.border,
         game.active
@@ -93,43 +93,36 @@ export function GameCard({ game }: GameCardProps) {
         <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500 bg-gradient-to-br from-white/5 via-transparent to-transparent pointer-events-none" />
       )}
 
-      {/* Header */}
-      <div className="flex items-start justify-between mb-5">
-        <span className="text-5xl leading-none">{emoji}</span>
-        <div className="flex flex-col items-end gap-1.5">
-          {game.comingSoon && (
-            <Badge variant="lang" className="flex items-center gap-1 text-[10px]">
-              <Clock className="h-2.5 w-2.5" />
-              Próximamente
-            </Badge>
-          )}
-          {game.active && (
-            <Badge variant="casual" className="font-semibold text-[10px]">
-              <span className="mr-1 inline-block w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse" />
-              Activo
-            </Badge>
-          )}
-        </div>
-      </div>
+      {/* Banner */}
+      <GameCardBanner
+        logoUrl={game.logoUrl}
+        name={game.name}
+        emoji={emoji}
+        active={game.active}
+        comingSoon={game.comingSoon}
+      />
 
-      {/* Info */}
-      <div className="flex-1">
-        <h3 className="text-xl font-black text-white mb-2 tracking-tight">{game.name}</h3>
-        <p className="text-sm text-white/50 leading-relaxed">{game.description}</p>
-      </div>
+      {/* Content */}
+      <div className="flex flex-col flex-1 p-6">
+        {/* Info */}
+        <div className="flex-1">
+          <h3 className="text-xl font-black text-white mb-2 tracking-tight">{game.name}</h3>
+          <p className="text-sm text-white/50 leading-relaxed">{game.description}</p>
+        </div>
 
-      {/* Footer */}
-      {game.active ? (
-        <div className={cn("mt-5 flex items-center gap-2 text-sm font-semibold transition-colors", accentColor)}>
-          <span>Explorar creadores</span>
-          <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
-        </div>
-      ) : (
-        <div className="mt-5 flex items-center gap-2 text-sm text-white/20">
-          <Clock className="h-4 w-4" />
-          <span>En desarrollo</span>
-        </div>
-      )}
+        {/* Footer */}
+        {game.active ? (
+          <div className={cn("mt-5 flex items-center gap-2 text-sm font-semibold transition-colors", accentColor)}>
+            <span>Explorar creadores</span>
+            <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
+          </div>
+        ) : (
+          <div className="mt-5 flex items-center gap-2 text-sm text-white/20">
+            <Clock className="h-4 w-4" />
+            <span>En desarrollo</span>
+          </div>
+        )}
+      </div>
     </div>
   );
 

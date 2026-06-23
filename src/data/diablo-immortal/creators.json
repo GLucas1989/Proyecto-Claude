@@ -1,0 +1,89 @@
+[
+  {
+    "id": "westmarch-gg",
+    "name": "WestMarch.gg",
+    "channelId": "UCwestmarchgg",
+    "channelUrl": "https://www.youtube.com/@WestMarchgg",
+    "avatar": "https://i.pravatar.cc/150?u=westmarch-gg",
+    "bioShort": "La referencia definitiva de Diablo Immortal. Guías de clases, builds de endgame y estrategias de clan.",
+    "bioLong": "WestMarch.gg es el canal más completo de Diablo Immortal en YouTube. Cubre todas las clases con guías detalladas de builds, mecánicas de endgame, estrategias de Battleground y consejos para progresar en el sistema de gemas. Su enfoque sistemático y actualizado con cada parche lo convierte en referencia obligada para cualquier jugador que quiera dominar Santuario.",
+    "contentType": ["educational", "competitive"],
+    "class": ["all"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@WestMarchgg",
+      "twitch": "westmarchgg",
+      "twitter": "westmarchgg"
+    },
+    "latestVideos": [
+      { "id": "vid-wm-001", "title": "Best Class Tier List 2026 — Every Class Ranked", "thumbnail": "https://picsum.photos/seed/wm001/640/360", "url": "https://www.youtube.com/watch?v=diwm1", "publishedAt": "2026-06-22" },
+      { "id": "vid-wm-002", "title": "Endgame Gem Guide — What to Prioritize First", "thumbnail": "https://picsum.photos/seed/wm002/640/360", "url": "https://www.youtube.com/watch?v=diwm2", "publishedAt": "2026-06-19" },
+      { "id": "vid-wm-003", "title": "Necromancer Bone Spear Build — Full Guide", "thumbnail": "https://picsum.photos/seed/wm003/640/360", "url": "https://www.youtube.com/watch?v=diwm3", "publishedAt": "2026-06-16" },
+      { "id": "vid-wm-004", "title": "Battleground Strategies — How to Win Every Match", "thumbnail": "https://picsum.photos/seed/wm004/640/360", "url": "https://www.youtube.com/watch?v=diwm4", "publishedAt": "2026-06-13" },
+      { "id": "vid-wm-005", "title": "F2P Progression Guide — Maximize Without Spending", "thumbnail": "https://picsum.photos/seed/wm005/640/360", "url": "https://www.youtube.com/watch?v=diwm5", "publishedAt": "2026-06-10" },
+      { "id": "vid-wm-006", "title": "Crusader Shield Glare Build — Top Tier PvP", "thumbnail": "https://picsum.photos/seed/wm006/640/360", "url": "https://www.youtube.com/watch?v=diwm6", "publishedAt": "2026-06-07" },
+      { "id": "vid-wm-007", "title": "Rift Difficulty Guide — What Paragon Level You Need", "thumbnail": "https://picsum.photos/seed/wm007/640/360", "url": "https://www.youtube.com/watch?v=diwm7", "publishedAt": "2026-06-04" },
+      { "id": "vid-wm-008", "title": "Best Legendary Gems for Every Class", "thumbnail": "https://picsum.photos/seed/wm008/640/360", "url": "https://www.youtube.com/watch?v=diwm8", "publishedAt": "2026-06-01" },
+      { "id": "vid-wm-009", "title": "Clan Wars — How Top Clans Dominate the Server", "thumbnail": "https://picsum.photos/seed/wm009/640/360", "url": "https://www.youtube.com/watch?v=diwm9", "publishedAt": "2026-05-29" },
+      { "id": "vid-wm-010", "title": "Complete Patch Notes Breakdown — What Changed", "thumbnail": "https://picsum.photos/seed/wm010/640/360", "url": "https://www.youtube.com/watch?v=diwm10", "publishedAt": "2026-05-26" }
+    ]
+  },
+  {
+    "id": "diablo-immortal-es",
+    "name": "Diablo Immortal ES",
+    "channelId": "UCdiabloimmortalES",
+    "channelUrl": "https://www.youtube.com/@DiabloImmortalES",
+    "avatar": "https://i.pravatar.cc/150?u=diablo-immortal-es",
+    "bioShort": "Guías completas de Diablo Immortal en español. Builds, eventos y consejos para la comunidad hispana.",
+    "bioLong": "Diablo Immortal ES es el canal de referencia para la comunidad hispanohablante del juego. Ofrece guías de todas las clases en castellano, análisis de builds por temporada, estrategias de Battleground y consejos para progresar sin gastar dinero. Su contenido accesible y actualizado lo convierte en punto de encuentro de los jugadores latinos de Santuario.",
+    "contentType": ["educational", "casual"],
+    "class": ["all"],
+    "languages": ["es"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@DiabloImmortalES",
+      "twitch": "diabloimmortalES",
+      "twitter": "diabloimmortalES"
+    },
+    "latestVideos": [
+      { "id": "vid-di-001", "title": "Guía Completa de Clases — Cuál Elegir en 2026", "thumbnail": "https://picsum.photos/seed/di001/640/360", "url": "https://www.youtube.com/watch?v=dies1", "publishedAt": "2026-06-21" },
+      { "id": "vid-di-002", "title": "Build de Barbaro para PvP — Domina el Battleground", "thumbnail": "https://picsum.photos/seed/di002/640/360", "url": "https://www.youtube.com/watch?v=dies2", "publishedAt": "2026-06-18" },
+      { "id": "vid-di-003", "title": "Cómo Progresar Sin Gastar Dinero — Guía F2P", "thumbnail": "https://picsum.photos/seed/di003/640/360", "url": "https://www.youtube.com/watch?v=dies3", "publishedAt": "2026-06-15" },
+      { "id": "vid-di-004", "title": "Las Mejores Gemas Legendarias para tu Clase", "thumbnail": "https://picsum.photos/seed/di004/640/360", "url": "https://www.youtube.com/watch?v=dies4", "publishedAt": "2026-06-12" },
+      { "id": "vid-di-005", "title": "Hechicero Fragmentos de Hielo — Build Definitiva", "thumbnail": "https://picsum.photos/seed/di005/640/360", "url": "https://www.youtube.com/watch?v=dies5", "publishedAt": "2026-06-09" },
+      { "id": "vid-di-006", "title": "Guerras de Clanes — Cómo Dominar el Servidor", "thumbnail": "https://picsum.photos/seed/di006/640/360", "url": "https://www.youtube.com/watch?v=dies6", "publishedAt": "2026-06-06" },
+      { "id": "vid-di-007", "title": "Sistema de Gemas Explicado — Todo lo que Necesitás Saber", "thumbnail": "https://picsum.photos/seed/di007/640/360", "url": "https://www.youtube.com/watch?v=dies7", "publishedAt": "2026-06-03" },
+      { "id": "vid-di-008", "title": "Eventos de Temporada — Cómo Sacarles el Máximo", "thumbnail": "https://picsum.photos/seed/di008/640/360", "url": "https://www.youtube.com/watch?v=dies8", "publishedAt": "2026-05-31" },
+      { "id": "vid-di-009", "title": "Cazador de Demonios — Build para Endgame", "thumbnail": "https://picsum.photos/seed/di009/640/360", "url": "https://www.youtube.com/watch?v=dies9", "publishedAt": "2026-05-28" },
+      { "id": "vid-di-010", "title": "Rifts de Sombras — Estrategia para Conseguir las Mejores Recompensas", "thumbnail": "https://picsum.photos/seed/di010/640/360", "url": "https://www.youtube.com/watch?v=dies10", "publishedAt": "2026-05-25" }
+    ]
+  },
+  {
+    "id": "jokerd-di",
+    "name": "Jokerd DI",
+    "channelId": "UCjokerdDI",
+    "channelUrl": "https://www.youtube.com/@JokerdDI",
+    "avatar": "https://i.pravatar.cc/150?u=jokerd-di",
+    "bioShort": "Competitivo de alto nivel en Diablo Immortal. PvP extremo, ranking de servidores y builds de élite.",
+    "bioLong": "Jokerd DI es uno de los jugadores más competitivos de Diablo Immortal, conocido por alcanzar el top de ranking en múltiples servidores y dominar el PvP. Sus videos muestran gameplay de altísimo nivel en Battleground, análisis profundo de mecánicas PvP y las builds más optimizadas para la cima del ranking. Ideal para jugadores que buscan competir al máximo.",
+    "contentType": ["competitive"],
+    "class": ["sorcerer", "monk", "crusader"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@JokerdDI",
+      "twitch": "jokerdDI",
+      "twitter": "jokerdDI"
+    },
+    "latestVideos": [
+      { "id": "vid-jk-001", "title": "Top 1 Server — How I Reached the Pinnacle", "thumbnail": "https://picsum.photos/seed/jk001/640/360", "url": "https://www.youtube.com/watch?v=dijkrd1", "publishedAt": "2026-06-22" },
+      { "id": "vid-jk-002", "title": "Sorcerer PvP Build — Obliterate Everyone in BG", "thumbnail": "https://picsum.photos/seed/jk002/640/360", "url": "https://www.youtube.com/watch?v=dijkrd2", "publishedAt": "2026-06-19" },
+      { "id": "vid-jk-003", "title": "How to Win Every Battleground — Advanced Tactics", "thumbnail": "https://picsum.photos/seed/jk003/640/360", "url": "https://www.youtube.com/watch?v=dijkrd3", "publishedAt": "2026-06-16" },
+      { "id": "vid-jk-004", "title": "Monk vs Crusader — Best PvP Class Right Now", "thumbnail": "https://picsum.photos/seed/jk004/640/360", "url": "https://www.youtube.com/watch?v=dijkrd4", "publishedAt": "2026-06-13" },
+      { "id": "vid-jk-005", "title": "Gem Investment Strategy — How I Optimize Spending", "thumbnail": "https://picsum.photos/seed/jk005/640/360", "url": "https://www.youtube.com/watch?v=dijkrd5", "publishedAt": "2026-06-10" },
+      { "id": "vid-jk-006", "title": "Ranked Battleground Guide — From Bronze to Legend", "thumbnail": "https://picsum.photos/seed/jk006/640/360", "url": "https://www.youtube.com/watch?v=dijkrd6", "publishedAt": "2026-06-07" },
+      { "id": "vid-jk-007", "title": "Season Pass Strategy — Maximize Every Event", "thumbnail": "https://picsum.photos/seed/jk007/640/360", "url": "https://www.youtube.com/watch?v=dijkrd7", "publishedAt": "2026-06-04" },
+      { "id": "vid-jk-008", "title": "Crusader Holy Banner — The PvP Build Nobody Expects", "thumbnail": "https://picsum.photos/seed/jk008/640/360", "url": "https://www.youtube.com/watch?v=dijkrd8", "publishedAt": "2026-06-01" },
+      { "id": "vid-jk-009", "title": "Reacting to Low Elo PvP — What You're Doing Wrong", "thumbnail": "https://picsum.photos/seed/jk009/640/360", "url": "https://www.youtube.com/watch?v=dijkrd9", "publishedAt": "2026-05-29" },
+      { "id": "vid-jk-010", "title": "World Boss Strategies — Full Server Coordination Guide", "thumbnail": "https://picsum.photos/seed/jk010/640/360", "url": "https://www.youtube.com/watch?v=dijkrd10", "publishedAt": "2026-05-26" }
+    ]
+  }
+]
