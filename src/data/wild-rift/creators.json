@@ -1,0 +1,56 @@
+[
+  {
+    "id": "skill-capped-wr",
+    "name": "Skill Capped WR",
+    "channelId": "UCskillcappedwr_example",
+    "channelUrl": "https://www.youtube.com/@skillcappedwr",
+    "avatar": "https://i.pravatar.cc/150?u=skillcapped-wr",
+    "bioShort": "El canal de coaching más completo para subir de rango en Wild Rift. Guías detalladas de cada rol.",
+    "bioLong": "Skill Capped Wild Rift es la rama de Wild Rift del reconocido canal de coaching de League of Legends. Ofrecen guías en profundidad de campeones, análisis de partidas, tier lists actualizadas y consejos de mejora para todos los niveles. Su metodología de enseñanza estructurada los convierte en el recurso número uno para jugadores que quieren escalar en ranked.",
+    "contentType": ["competitive", "educational"],
+    "roles": ["top", "jungle", "mid", "adc", "support"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@skillcappedwr", "twitter": "https://twitter.com/skillcapped" },
+    "latestVideos": [
+      { "id": "vid-sc-001", "title": "The BEST Carry Champions Tier List — Patch 6.2", "thumbnail": "https://picsum.photos/seed/sc001/640/360", "url": "https://www.youtube.com/watch?v=wrexample1", "publishedAt": "2026-06-22" },
+      { "id": "vid-sc-002", "title": "How to DOMINATE Solo Queue as a Jungler", "thumbnail": "https://picsum.photos/seed/sc002/640/360", "url": "https://www.youtube.com/watch?v=wrexample2", "publishedAt": "2026-06-19" },
+      { "id": "vid-sc-003", "title": "ADC Fundamentals: Positioning & Attack Moving", "thumbnail": "https://picsum.photos/seed/sc003/640/360", "url": "https://www.youtube.com/watch?v=wrexample3", "publishedAt": "2026-06-16" }
+    ]
+  },
+  {
+    "id": "proguides-wr",
+    "name": "ProGuides Wild Rift",
+    "channelId": "UCproguides_wr_example",
+    "channelUrl": "https://www.youtube.com/@proguideswildrift",
+    "avatar": "https://i.pravatar.cc/150?u=proguides-wr",
+    "bioShort": "Guías pro y análisis del meta para Wild Rift. Actualizaciones semanales con cada parche.",
+    "bioLong": "ProGuides Wild Rift es la extensión móvil de la plataforma ProGuides. Publicando guías semanales con cada actualización de parche, análisis del meta competitivo y entrevistas con jugadores de alto nivel, es el canal de referencia para mantenerse al día con los cambios del juego y optimizar tu rendimiento en ranked.",
+    "contentType": ["competitive", "educational"],
+    "roles": ["jungle", "mid", "adc"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@proguideswildrift", "twitter": "https://twitter.com/proguides" },
+    "latestVideos": [
+      { "id": "vid-pg-001", "title": "Wild Rift Patch 6.2 Tier List — Who to Play?", "thumbnail": "https://picsum.photos/seed/pg001/640/360", "url": "https://www.youtube.com/watch?v=wrexample4", "publishedAt": "2026-06-21" },
+      { "id": "vid-pg-002", "title": "Yasuo Master Guide — Every Matchup Explained", "thumbnail": "https://picsum.photos/seed/pg002/640/360", "url": "https://www.youtube.com/watch?v=wrexample5", "publishedAt": "2026-06-18" },
+      { "id": "vid-pg-003", "title": "Top 5 Mistakes Bronze Players Make", "thumbnail": "https://picsum.photos/seed/pg003/640/360", "url": "https://www.youtube.com/watch?v=wrexample6", "publishedAt": "2026-06-15" }
+    ]
+  },
+  {
+    "id": "agurin-wr",
+    "name": "Agurin",
+    "channelId": "UCagurin_wr_example",
+    "channelUrl": "https://www.youtube.com/@agurinwr",
+    "avatar": "https://i.pravatar.cc/150?u=agurin-wr",
+    "bioShort": "Jugador Challenger y referente de Wild Rift en español. Streams en vivo y guías de alto nivel.",
+    "bioLong": "Agurin es uno de los streamers más populares de Wild Rift en la comunidad hispanohablante. Con rango Challenger en múltiples servidores, combina gameplay de alto nivel con explicaciones didácticas en español. Sus streams en directo y resúmenes de partidas son muy valorados por la comunidad latina que quiere aprender de los mejores.",
+    "contentType": ["competitive", "casual"],
+    "roles": ["mid", "jungle"],
+    "languages": ["es"],
+    "socials": { "youtube": "https://www.youtube.com/@agurinwr", "twitch": "https://twitch.tv/agurin", "twitter": "https://twitter.com/agurin" },
+    "latestVideos": [
+      { "id": "vid-ag-001", "title": "CHALLENGER con Akali Mid — La Guía Definitiva", "thumbnail": "https://picsum.photos/seed/ag001/640/360", "url": "https://www.youtube.com/watch?v=wrexample7", "publishedAt": "2026-06-23" },
+      { "id": "vid-ag-002", "title": "Cómo Llegar a Diamante en Wild Rift — Paso a Paso", "thumbnail": "https://picsum.photos/seed/ag002/640/360", "url": "https://www.youtube.com/watch?v=wrexample8", "publishedAt": "2026-06-20" },
+      { "id": "vid-ag-003", "title": "Top 3 Champions para Subir de Rango Ahora Mismo", "thumbnail": "https://picsum.photos/seed/ag003/640/360", "url": "https://www.youtube.com/watch?v=wrexample9", "publishedAt": "2026-06-17" }
+    ]
+  }
+]
