@@ -1,6 +1,7 @@
 import { getGames, getCreators } from "@/lib/data";
 import { GameCard } from "@/components/game/GameCard";
 import { GameShowcase } from "@/components/game/GameShowcase";
+import { NewsletterSignup } from "@/components/NewsletterSignup";
 import { Zap, Users, Gamepad2, Globe } from "lucide-react";
 
 export default async function HomePage() {
@@ -119,6 +120,12 @@ export default async function HomePage() {
               </div>
             </div>
           )}
+        </div>
+      </section>
+      {/* ── NEWSLETTER ── */}
+      <section className="px-4 pb-24">
+        <div className="max-w-6xl mx-auto">
+          <NewsletterSignup />
         </div>
       </section>
     </div>
