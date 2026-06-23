@@ -20,6 +20,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🏆",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/League_of_Legends_Wild_Rift_logo.png/440px-League_of_Legends_Wild_Rift_logo.png",
     "filters": ["contentType", "role", "language"]
   },
   {
