@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "GamersHub — Directorio de Creadores de Videojuegos",
+  title: "CreatorsHub — Directorio de Creadores de Videojuegos",
   description:
     "Encuentra los mejores creadores de contenido de MTG Arena, Wild Rift, Diablo Immortal y más.",
 };
@@ -33,7 +33,7 @@ export default function RootLayout({
         <Navbar />
         <main className="flex-1">{children}</main>
         <footer className="border-t border-cyan-500/10 py-6 text-center text-xs text-white/20 font-mono tracking-widest uppercase">
-          GamersHub © {new Date().getFullYear()} &mdash; Directorio de creadores gaming
+          CreatorsHub © {new Date().getFullYear()} &mdash; Directorio de creadores gaming
         </footer>
       </body>
     </html>

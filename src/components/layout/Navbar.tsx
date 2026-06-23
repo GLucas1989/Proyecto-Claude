@@ -12,8 +12,8 @@ export function Navbar() {
               <Zap className="h-4 w-4 text-cyan-400" />
             </div>
             <span className="font-black text-lg tracking-tight">
-              <span className="text-white">GAMERS</span>
-              <span className="text-cyan-400">HUB</span>
+              <span className="text-white">CREATORS</span>
+              <span className="text-cyan-400">SHUB</span>
             </span>
           </Link>
           <nav className="hidden md:flex items-center gap-6 text-xs font-mono uppercase tracking-widest text-white/40">

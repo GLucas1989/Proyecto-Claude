@@ -53,12 +53,12 @@ export default async function HomePage() {
 
           {/* Main title */}
           <h1 className="font-black leading-none tracking-tighter mb-4 select-none">
-            <span className="block text-6xl sm:text-8xl lg:text-[9rem] text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-cyan-400 to-blue-400 cyber-glow">
-              GAMERS
+            <span className="block text-5xl sm:text-7xl lg:text-[8rem] text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-cyan-400 to-blue-400 cyber-glow">
+              CREATORS
             </span>
-            <span className="block text-5xl sm:text-7xl lg:text-[7.5rem] text-transparent bg-clip-text bg-gradient-to-r from-violet-400 via-purple-400 to-fuchsia-400"
+            <span className="block text-6xl sm:text-8xl lg:text-[9.5rem] text-transparent bg-clip-text bg-gradient-to-r from-violet-400 via-purple-400 to-fuchsia-400"
               style={{ filter: "drop-shadow(0 0 30px rgba(168,85,247,0.4))" }}>
-              HUB
+              SHUB
             </span>
           </h1>
 
