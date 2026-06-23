@@ -1,0 +1,77 @@
+[
+  {
+    "id": "crypt-tv-dad",
+    "name": "CryptTV DaD",
+    "channelId": "UCcrypttv_dad_example",
+    "channelUrl": "https://www.youtube.com/@crypttvdad",
+    "avatar": "https://i.pravatar.cc/150?u=crypt-dad",
+    "bioShort": "Guías de clase, builds PvP y PvE, y análisis del meta de Dark and Darker.",
+    "bioLong": "CryptTV DaD es uno de los canales más completos de Dark and Darker. Desde guías detalladas para cada clase hasta análisis profundos del meta PvP, ofrece contenido de alta calidad para jugadores de todos los niveles.",
+    "contentType": ["competitive", "educational"],
+    "classes": ["fighter", "rogue", "ranger", "wizard", "cleric", "barbarian"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@crypttvdad", "twitch": "https://twitch.tv/crypttvdad", "twitter": "https://twitter.com/crypttvdad" },
+    "latestVideos": [
+      { "id": "vid-ct-001", "title": "Best Class Tier List — Current Patch Ranked", "thumbnail": "https://picsum.photos/seed/ct001/640/360", "url": "https://www.youtube.com/watch?v=dadex1", "publishedAt": "2026-06-22" },
+      { "id": "vid-ct-002", "title": "Rogue Full Build Guide — Solo High-Roller", "thumbnail": "https://picsum.photos/seed/ct002/640/360", "url": "https://www.youtube.com/watch?v=dadex2", "publishedAt": "2026-06-19" },
+      { "id": "vid-ct-003", "title": "Fighter PvP Dominance — Every Matchup Explained", "thumbnail": "https://picsum.photos/seed/ct003/640/360", "url": "https://www.youtube.com/watch?v=dadex3", "publishedAt": "2026-06-16" },
+      { "id": "vid-ct-004", "title": "New Dungeon Loot Routes — Maximum Gold Per Run", "thumbnail": "https://picsum.photos/seed/ct004/640/360", "url": "https://www.youtube.com/watch?v=dadex4", "publishedAt": "2026-06-13" },
+      { "id": "vid-ct-005", "title": "Wizard Destruction Build — Melting Squads Easily", "thumbnail": "https://picsum.photos/seed/ct005/640/360", "url": "https://www.youtube.com/watch?v=dadex5", "publishedAt": "2026-06-10" },
+      { "id": "vid-ct-006", "title": "Surviving High-Roller as a New Player", "thumbnail": "https://picsum.photos/seed/ct006/640/360", "url": "https://www.youtube.com/watch?v=dadex6", "publishedAt": "2026-06-07" },
+      { "id": "vid-ct-007", "title": "Cleric Support Build — Keeping Your Team Alive", "thumbnail": "https://picsum.photos/seed/ct007/640/360", "url": "https://www.youtube.com/watch?v=dadex7", "publishedAt": "2026-06-04" },
+      { "id": "vid-ct-008", "title": "Barbarian vs Fighter — Which Is Better Right Now?", "thumbnail": "https://picsum.photos/seed/ct008/640/360", "url": "https://www.youtube.com/watch?v=dadex8", "publishedAt": "2026-06-01" },
+      { "id": "vid-ct-009", "title": "Patch Notes Breakdown — All Changes Explained", "thumbnail": "https://picsum.photos/seed/ct009/640/360", "url": "https://www.youtube.com/watch?v=dadex9", "publishedAt": "2026-05-29" },
+      { "id": "vid-ct-010", "title": "Trio Comp Guide: Best Class Combinations for Trios", "thumbnail": "https://picsum.photos/seed/ct010/640/360", "url": "https://www.youtube.com/watch?v=dadex10", "publishedAt": "2026-05-26" }
+    ]
+  },
+  {
+    "id": "xcelerate-dad",
+    "name": "Xcelerate",
+    "channelId": "UCxcelerate_dad_example",
+    "channelUrl": "https://www.youtube.com/@xceleratedarkdarker",
+    "avatar": "https://i.pravatar.cc/150?u=xcelerate-dad",
+    "bioShort": "Streamer de alto nivel especializado en Ranger y Rogue. Gameplay fluido y mecánicas avanzadas.",
+    "bioLong": "Xcelerate es uno de los jugadores más mecánicamente habilidosos de Dark and Darker. Especializado en clases de alta movilidad como Ranger y Rogue, sus vídeos muestran un nivel de juego que pocos pueden igualar.",
+    "contentType": ["competitive", "casual"],
+    "classes": ["ranger", "rogue", "bard"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@xceleratedarkdarker", "twitch": "https://twitch.tv/xcelerate", "twitter": "https://twitter.com/xcelerate" },
+    "latestVideos": [
+      { "id": "vid-xc-001", "title": "Ranger 1v3 Wipe — Full Gameplay No Commentary", "thumbnail": "https://picsum.photos/seed/xc001/640/360", "url": "https://www.youtube.com/watch?v=dadex11", "publishedAt": "2026-06-23" },
+      { "id": "vid-xc-002", "title": "Advanced Kiting Guide — Never Get Hit Again", "thumbnail": "https://picsum.photos/seed/xc002/640/360", "url": "https://www.youtube.com/watch?v=dadex12", "publishedAt": "2026-06-20" },
+      { "id": "vid-xc-003", "title": "Rogue Invisibility Tricks Most Players Don't Know", "thumbnail": "https://picsum.photos/seed/xc003/640/360", "url": "https://www.youtube.com/watch?v=dadex13", "publishedAt": "2026-06-17" },
+      { "id": "vid-xc-004", "title": "High-Roller Solo Run — 50k Gold in One Session", "thumbnail": "https://picsum.photos/seed/xc004/640/360", "url": "https://www.youtube.com/watch?v=dadex14", "publishedAt": "2026-06-14" },
+      { "id": "vid-xc-005", "title": "Bard Is Actually Broken — Here's Why", "thumbnail": "https://picsum.photos/seed/xc005/640/360", "url": "https://www.youtube.com/watch?v=dadex15", "publishedAt": "2026-06-11" },
+      { "id": "vid-xc-006", "title": "Top 10 Plays of the Week Community Highlights", "thumbnail": "https://picsum.photos/seed/xc006/640/360", "url": "https://www.youtube.com/watch?v=dadex16", "publishedAt": "2026-06-08" },
+      { "id": "vid-xc-007", "title": "Movement Tech Masterclass — Strafing and Dodge", "thumbnail": "https://picsum.photos/seed/xc007/640/360", "url": "https://www.youtube.com/watch?v=dadex17", "publishedAt": "2026-06-05" },
+      { "id": "vid-xc-008", "title": "Crypts Map Guide — Every Room and Secret", "thumbnail": "https://picsum.photos/seed/xc008/640/360", "url": "https://www.youtube.com/watch?v=dadex18", "publishedAt": "2026-06-02" },
+      { "id": "vid-xc-009", "title": "Budget Gear That Beats Full BiS Players", "thumbnail": "https://picsum.photos/seed/xc009/640/360", "url": "https://www.youtube.com/watch?v=dadex19", "publishedAt": "2026-05-30" },
+      { "id": "vid-xc-010", "title": "My Full Keybind and Settings Guide for DaD", "thumbnail": "https://picsum.photos/seed/xc010/640/360", "url": "https://www.youtube.com/watch?v=dadex20", "publishedAt": "2026-05-27" }
+    ]
+  },
+  {
+    "id": "mazmorra-oscura",
+    "name": "Mazmorra Oscura",
+    "channelId": "UCmazmorraoscura_example",
+    "channelUrl": "https://www.youtube.com/@mazmorraoscura",
+    "avatar": "https://i.pravatar.cc/150?u=mazmorra-oscura",
+    "bioShort": "El canal de Dark and Darker en español. Guías de clase, builds y lore del juego.",
+    "bioLong": "Mazmorra Oscura es el canal de referencia para los jugadores hispanohablantes de Dark and Darker. Ofrece guías detalladas de todas las clases en español, análisis del meta actualizado con cada parche, y vídeos de lore que exploran la oscura narrativa del juego.",
+    "contentType": ["educational", "lore", "casual"],
+    "classes": ["fighter", "cleric", "wizard", "barbarian"],
+    "languages": ["es"],
+    "socials": { "youtube": "https://www.youtube.com/@mazmorraoscura", "twitch": "https://twitch.tv/mazmorraoscura", "twitter": "https://twitter.com/mazmorraoscura" },
+    "latestVideos": [
+      { "id": "vid-mo-001", "title": "Guía Definitiva del Guerrero — Build PvP y PvE", "thumbnail": "https://picsum.photos/seed/mo001/640/360", "url": "https://www.youtube.com/watch?v=dadex21", "publishedAt": "2026-06-22" },
+      { "id": "vid-mo-002", "title": "Cómo Sobrevivir en High-Roller Siendo Nuevo", "thumbnail": "https://picsum.photos/seed/mo002/640/360", "url": "https://www.youtube.com/watch?v=dadex22", "publishedAt": "2026-06-19" },
+      { "id": "vid-mo-003", "title": "El Lore de Dark and Darker — Historia Completa", "thumbnail": "https://picsum.photos/seed/mo003/640/360", "url": "https://www.youtube.com/watch?v=dadex23", "publishedAt": "2026-06-16" },
+      { "id": "vid-mo-004", "title": "Bárbaro Top 1 — Así se Domina el PvP", "thumbnail": "https://picsum.photos/seed/mo004/640/360", "url": "https://www.youtube.com/watch?v=dadex24", "publishedAt": "2026-06-13" },
+      { "id": "vid-mo-005", "title": "Mago de Fuego — El Build Más Divertido del Juego", "thumbnail": "https://picsum.photos/seed/mo005/640/360", "url": "https://www.youtube.com/watch?v=dadex25", "publishedAt": "2026-06-10" },
+      { "id": "vid-mo-006", "title": "Los Mejores Tesoros Ocultos del Mapa de Criptas", "thumbnail": "https://picsum.photos/seed/mo006/640/360", "url": "https://www.youtube.com/watch?v=dadex26", "publishedAt": "2026-06-07" },
+      { "id": "vid-mo-007", "title": "Clérigo Soporte — Cómo Mantener Vivo a Tu Equipo", "thumbnail": "https://picsum.photos/seed/mo007/640/360", "url": "https://www.youtube.com/watch?v=dadex27", "publishedAt": "2026-06-04" },
+      { "id": "vid-mo-008", "title": "Análisis del Parche — Todos los Cambios Explicados", "thumbnail": "https://picsum.photos/seed/mo008/640/360", "url": "https://www.youtube.com/watch?v=dadex28", "publishedAt": "2026-06-01" },
+      { "id": "vid-mo-009", "title": "Partida Épica Trio vs Duo — Sin Comentarios", "thumbnail": "https://picsum.photos/seed/mo009/640/360", "url": "https://www.youtube.com/watch?v=dadex29", "publishedAt": "2026-05-29" },
+      { "id": "vid-mo-010", "title": "Top 5 Errores Que Todo Principiante Comete", "thumbnail": "https://picsum.photos/seed/mo010/640/360", "url": "https://www.youtube.com/watch?v=dadex30", "publishedAt": "2026-05-26" }
+    ]
+  }
+]
