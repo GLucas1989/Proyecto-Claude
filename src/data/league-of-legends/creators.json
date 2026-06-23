@@ -1,0 +1,118 @@
+[
+  {
+    "id": "skill-capped-lol",
+    "name": "Skill Capped",
+    "channelId": "UCskillcapped_lol",
+    "channelUrl": "https://www.youtube.com/@SkillCapped",
+    "avatar": "https://i.pravatar.cc/150?u=skillcapped-lol",
+    "bioShort": "El canal de mejora más completo de League of Legends. Guías por rol, tier lists y análisis de la meta.",
+    "bioLong": "Skill Capped es el recurso número uno para jugadores que quieren subir de elo en League of Legends. Su equipo de jugadores Challenger y Master produce contenido de altísima calidad: guías por campeón, análisis de partidas, conceptos de macro y micro, y tier lists actualizadas con cada parche. Si quieres mejorar sistemáticamente, este es tu canal.",
+    "contentType": ["competitive", "educational"],
+    "role": ["all"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@SkillCapped",
+      "twitch": "skillcapped",
+      "twitter": "skillcapped"
+    },
+    "latestVideos": [
+      { "id": "vid-sc-001", "title": "How to Climb Every Role — Season 2026 Guide", "thumbnail": "https://picsum.photos/seed/sc001/640/360", "url": "https://www.youtube.com/watch?v=lolsc1", "publishedAt": "2026-06-22" },
+      { "id": "vid-sc-002", "title": "ADC Tier List Patch 14.12 — Best Carries", "thumbnail": "https://picsum.photos/seed/sc002/640/360", "url": "https://www.youtube.com/watch?v=lolsc2", "publishedAt": "2026-06-19" },
+      { "id": "vid-sc-003", "title": "How to Roam as Mid Laner — Full Breakdown", "thumbnail": "https://picsum.photos/seed/sc003/640/360", "url": "https://www.youtube.com/watch?v=lolsc3", "publishedAt": "2026-06-16" },
+      { "id": "vid-sc-004", "title": "Wave Management Masterclass — Freeze, Slow Push, Fast Push", "thumbnail": "https://picsum.photos/seed/sc004/640/360", "url": "https://www.youtube.com/watch?v=lolsc4", "publishedAt": "2026-06-13" },
+      { "id": "vid-sc-005", "title": "Jungle Pathing Guide — Optimal Routes 2026", "thumbnail": "https://picsum.photos/seed/sc005/640/360", "url": "https://www.youtube.com/watch?v=lolsc5", "publishedAt": "2026-06-10" },
+      { "id": "vid-sc-006", "title": "Support Macro Guide — Vision Control and Roaming", "thumbnail": "https://picsum.photos/seed/sc006/640/360", "url": "https://www.youtube.com/watch?v=lolsc6", "publishedAt": "2026-06-07" },
+      { "id": "vid-sc-007", "title": "Top Lane Carries Tier List — Best Split Pushers", "thumbnail": "https://picsum.photos/seed/sc007/640/360", "url": "https://www.youtube.com/watch?v=lolsc7", "publishedAt": "2026-06-04" },
+      { "id": "vid-sc-008", "title": "How to Carry Low Elo Games — Mental and Macro", "thumbnail": "https://picsum.photos/seed/sc008/640/360", "url": "https://www.youtube.com/watch?v=lolsc8", "publishedAt": "2026-06-01" },
+      { "id": "vid-sc-009", "title": "Gold Diff Explained — Early Game Advantage", "thumbnail": "https://picsum.photos/seed/sc009/640/360", "url": "https://www.youtube.com/watch?v=lolsc9", "publishedAt": "2026-05-29" },
+      { "id": "vid-sc-010", "title": "Best Champions to One-Trick in Each Role", "thumbnail": "https://picsum.photos/seed/sc010/640/360", "url": "https://www.youtube.com/watch?v=lolsc10", "publishedAt": "2026-05-26" }
+    ]
+  },
+  {
+    "id": "proguides-lol",
+    "name": "ProGuides LoL",
+    "channelId": "UCproguides_lol",
+    "channelUrl": "https://www.youtube.com/@ProGuidesLeagueofLegends",
+    "avatar": "https://i.pravatar.cc/150?u=proguides-lol",
+    "bioShort": "Guías profesionales con análisis de partidas de Challenger. Actualizado con cada parche.",
+    "bioLong": "ProGuides ofrece análisis detallados de la meta, guías de campeones y consejos directamente extraídos del análisis de partidas de los mejores jugadores del servidor. Su enfoque es práctico: qué hacer, cuándo hacerlo y por qué funciona. Ideal para jugadores que quieren entender el juego a fondo.",
+    "contentType": ["competitive", "educational"],
+    "role": ["mid", "jungle", "adc", "support", "top"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@ProGuidesLeagueofLegends",
+      "twitch": "proguides",
+      "twitter": "proguides"
+    },
+    "latestVideos": [
+      { "id": "vid-pg-001", "title": "Best Mid Laners This Patch — Complete Breakdown", "thumbnail": "https://picsum.photos/seed/pg001/640/360", "url": "https://www.youtube.com/watch?v=lolpg1", "publishedAt": "2026-06-23" },
+      { "id": "vid-pg-002", "title": "How Challenger Junglers Track the Enemy Jungler", "thumbnail": "https://picsum.photos/seed/pg002/640/360", "url": "https://www.youtube.com/watch?v=lolpg2", "publishedAt": "2026-06-20" },
+      { "id": "vid-pg-003", "title": "5 ADC Mechanics Every Player Should Master", "thumbnail": "https://picsum.photos/seed/pg003/640/360", "url": "https://www.youtube.com/watch?v=lolpg3", "publishedAt": "2026-06-17" },
+      { "id": "vid-pg-004", "title": "Engager vs Poke Support — When to Pick Each", "thumbnail": "https://picsum.photos/seed/pg004/640/360", "url": "https://www.youtube.com/watch?v=lolpg4", "publishedAt": "2026-06-14" },
+      { "id": "vid-pg-005", "title": "Top Lane Matchup Guide — Tanks vs Bruisers", "thumbnail": "https://picsum.photos/seed/pg005/640/360", "url": "https://www.youtube.com/watch?v=lolpg5", "publishedAt": "2026-06-11" },
+      { "id": "vid-pg-006", "title": "Dragon Priority — When Is It Worth Contesting?", "thumbnail": "https://picsum.photos/seed/pg006/640/360", "url": "https://www.youtube.com/watch?v=lolpg6", "publishedAt": "2026-06-08" },
+      { "id": "vid-pg-007", "title": "Item Build Optimization — Mythic Choices 2026", "thumbnail": "https://picsum.photos/seed/pg007/640/360", "url": "https://www.youtube.com/watch?v=lolpg7", "publishedAt": "2026-06-05" },
+      { "id": "vid-pg-008", "title": "Ranked Anxiety — How to Play Your Best in Solo Q", "thumbnail": "https://picsum.photos/seed/pg008/640/360", "url": "https://www.youtube.com/watch?v=lolpg8", "publishedAt": "2026-06-02" },
+      { "id": "vid-pg-009", "title": "Ward Placement Guide — Every Map Zone Explained", "thumbnail": "https://picsum.photos/seed/pg009/640/360", "url": "https://www.youtube.com/watch?v=lolpg9", "publishedAt": "2026-05-30" },
+      { "id": "vid-pg-010", "title": "Late Game Teamfight Positioning by Role", "thumbnail": "https://picsum.photos/seed/pg010/640/360", "url": "https://www.youtube.com/watch?v=lolpg10", "publishedAt": "2026-05-27" }
+    ]
+  },
+  {
+    "id": "lol-en-espanol",
+    "name": "LoL en Español",
+    "channelId": "UClolespanol",
+    "channelUrl": "https://www.youtube.com/@lolespanol",
+    "avatar": "https://i.pravatar.cc/150?u=lol-espanol",
+    "bioShort": "La comunidad hispana de League of Legends. Guías, highlights y la mejor información en castellano.",
+    "bioLong": "LoL en Español es el canal de referencia para la comunidad latina y española de League of Legends. Cubre guías de campeones, análisis de parche, highlights de LEC y LLA, y contenido educativo accesible para todos los niveles. Si jugás en EUW, LAN o LAS y querés mejorar en tu idioma, este es tu lugar.",
+    "contentType": ["educational", "casual"],
+    "role": ["all"],
+    "languages": ["es"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@lolespanol",
+      "twitch": "lolespanol",
+      "twitter": "lolespanol"
+    },
+    "latestVideos": [
+      { "id": "vid-le-001", "title": "Los Mejores Campeones para Subir de Elo Esta Temporada", "thumbnail": "https://picsum.photos/seed/le001/640/360", "url": "https://www.youtube.com/watch?v=lolle1", "publishedAt": "2026-06-22" },
+      { "id": "vid-le-002", "title": "Guía Completa para Principiantes 2026 — Todo lo Básico", "thumbnail": "https://picsum.photos/seed/le002/640/360", "url": "https://www.youtube.com/watch?v=lolle2", "publishedAt": "2026-06-19" },
+      { "id": "vid-le-003", "title": "LLA Highlights — Las Mejores Jugadas de la Semana", "thumbnail": "https://picsum.photos/seed/le003/640/360", "url": "https://www.youtube.com/watch?v=lolle3", "publishedAt": "2026-06-16" },
+      { "id": "vid-le-004", "title": "Cómo Mejorar en Jungla — Guía para Intermedios", "thumbnail": "https://picsum.photos/seed/le004/640/360", "url": "https://www.youtube.com/watch?v=lolle4", "publishedAt": "2026-06-13" },
+      { "id": "vid-le-005", "title": "Tier List Actualizada — Parche 14.12", "thumbnail": "https://picsum.photos/seed/le005/640/360", "url": "https://www.youtube.com/watch?v=lolle5", "publishedAt": "2026-06-10" },
+      { "id": "vid-le-006", "title": "Los Errores Más Comunes en Gold y Platinum", "thumbnail": "https://picsum.photos/seed/le006/640/360", "url": "https://www.youtube.com/watch?v=lolle6", "publishedAt": "2026-06-07" },
+      { "id": "vid-le-007", "title": "Guía de Items — Qué Construir y Cuándo", "thumbnail": "https://picsum.photos/seed/le007/640/360", "url": "https://www.youtube.com/watch?v=lolle7", "publishedAt": "2026-06-04" },
+      { "id": "vid-le-008", "title": "Macro para Dummies — Cómo Ganar Partidas Sin Mecánicas", "thumbnail": "https://picsum.photos/seed/le008/640/360", "url": "https://www.youtube.com/watch?v=lolle8", "publishedAt": "2026-06-01" },
+      { "id": "vid-le-009", "title": "Historia de League of Legends — El Universo Completo", "thumbnail": "https://picsum.photos/seed/le009/640/360", "url": "https://www.youtube.com/watch?v=lolle9", "publishedAt": "2026-05-29" },
+      { "id": "vid-le-010", "title": "Mejores Clips de la Comunidad Hispana — Mayo 2026", "thumbnail": "https://picsum.photos/seed/le010/640/360", "url": "https://www.youtube.com/watch?v=lolle10", "publishedAt": "2026-05-26" }
+    ]
+  },
+  {
+    "id": "doublelift",
+    "name": "Doublelift",
+    "channelId": "UCdoublelift",
+    "channelUrl": "https://www.youtube.com/@Doublelift",
+    "avatar": "https://i.pravatar.cc/150?u=doublelift",
+    "bioShort": "Leyenda del ADC norteamericano. Ex-C9, TSM y TL. Streams de alto nivel y análisis del juego profesional.",
+    "bioLong": "Yiliang 'Doublelift' Peng es una de las figuras más icónicas de League of Legends en Norteamérica. Múltiple campeón de la LCS con equipos como TSM, CLG y Team Liquid, retirado del pro play pero activo como creador de contenido. Sus streams muestran juego de altísimo nivel en el rol de ADC, acompañado de análisis del meta profesional y entretenimiento genuino.",
+    "contentType": ["competitive", "casual"],
+    "role": ["adc"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@Doublelift",
+      "twitch": "doublelift",
+      "twitter": "doublelift"
+    },
+    "latestVideos": [
+      { "id": "vid-dl-001", "title": "Ranking Every ADC in the Current Meta", "thumbnail": "https://picsum.photos/seed/dl001/640/360", "url": "https://www.youtube.com/watch?v=loldl1", "publishedAt": "2026-06-21" },
+      { "id": "vid-dl-002", "title": "Why NA Can't Make Worlds — Honest Take", "thumbnail": "https://picsum.photos/seed/dl002/640/360", "url": "https://www.youtube.com/watch?v=loldl2", "publishedAt": "2026-06-18" },
+      { "id": "vid-dl-003", "title": "Jinx Montage — S2026 Ranked Highlights", "thumbnail": "https://picsum.photos/seed/dl003/640/360", "url": "https://www.youtube.com/watch?v=loldl3", "publishedAt": "2026-06-15" },
+      { "id": "vid-dl-004", "title": "Playing ADC vs the Most Annoying Supports", "thumbnail": "https://picsum.photos/seed/dl004/640/360", "url": "https://www.youtube.com/watch?v=loldl4", "publishedAt": "2026-06-12" },
+      { "id": "vid-dl-005", "title": "Reacting to LCK Worlds Plays — Insane Mechanics", "thumbnail": "https://picsum.photos/seed/dl005/640/360", "url": "https://www.youtube.com/watch?v=loldl5", "publishedAt": "2026-06-09" },
+      { "id": "vid-dl-006", "title": "My ADC Tier List — Honest and Unfiltered", "thumbnail": "https://picsum.photos/seed/dl006/640/360", "url": "https://www.youtube.com/watch?v=loldl6", "publishedAt": "2026-06-06" },
+      { "id": "vid-dl-007", "title": "Caitlyn Guide — Dominando la Fase de Línea", "thumbnail": "https://picsum.photos/seed/dl007/640/360", "url": "https://www.youtube.com/watch?v=loldl7", "publishedAt": "2026-06-03" },
+      { "id": "vid-dl-008", "title": "Best ADC Synergies With Every Support", "thumbnail": "https://picsum.photos/seed/dl008/640/360", "url": "https://www.youtube.com/watch?v=loldl8", "publishedAt": "2026-05-31" },
+      { "id": "vid-dl-009", "title": "Stream Highlights — 5 Penta Kills in One Day", "thumbnail": "https://picsum.photos/seed/dl009/640/360", "url": "https://www.youtube.com/watch?v=loldl9", "publishedAt": "2026-05-28" },
+      { "id": "vid-dl-010", "title": "My Pro Career Story — From Plat to World Champion", "thumbnail": "https://picsum.photos/seed/dl010/640/360", "url": "https://www.youtube.com/watch?v=loldl10", "publishedAt": "2026-05-25" }
+    ]
+  }
+]

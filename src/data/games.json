@@ -40,7 +40,7 @@
     "coverImage": "/images/games/dark-and-darker.jpg",
     "active": true,
     "comingSoon": false,
-    "emoji": "🏖️",
+    "emoji": "🏚️",
     "filters": ["contentType", "class", "language"]
   },
   {
@@ -74,6 +74,28 @@
     "active": false,
     "comingSoon": true,
     "emoji": "💀",
+    "filters": ["contentType", "class", "language"]
+  },
+  {
+    "id": "league-of-legends",
+    "name": "League of Legends",
+    "slug": "league-of-legends",
+    "description": "El MOBA más jugado del mundo. Estrategia, habilidad y trabajo en equipo en la Grieta del Invocador.",
+    "coverImage": "/images/games/league-of-legends.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "⚡",
+    "filters": ["contentType", "role", "language"]
+  },
+  {
+    "id": "diablo-iv",
+    "name": "Diablo IV",
+    "slug": "diablo-iv",
+    "description": "El hack & slash definitivo ha vuelto. Oscuridad, builds y temporadas en el Santuario maldito.",
+    "coverImage": "/images/games/diablo-iv.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "🔥",
     "filters": ["contentType", "class", "language"]
   }
 ]
