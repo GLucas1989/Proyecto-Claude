@@ -292,5 +292,105 @@
         "publishedAt": "2026-05-25"
       }
     ]
+  },
+  {
+    "channelId": "UCtanyawc_ph",
+    "avatar": "https://i.pravatar.cc/150?u=tanyawc",
+    "socials": {
+      "youtube": "https://www.youtube.com/@TanyaWC",
+      "twitch": "tanyawc",
+      "twitter": "TanyaWC"
+    },
+    "id": "tanyawc",
+    "name": "TanyaWC",
+    "channelUrl": "https://www.youtube.com/@TanyaWC",
+    "twitch": "tanyawc",
+    "twitter": "TanyaWC",
+    "bioShort": "Creadora oficial de Albion en español. Builds, PvP y guías para la comunidad hispana.",
+    "bioLong": "TanyaWC es creadora oficial del programa de Albion Online y una de las referentes hispanohablantes del juego. Su contenido cubre builds de PvP y PvE, guías de progresión y gameplay en español, ideal para la comunidad latina y española que quiere dominar el sandbox.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "gameMode": [
+      "pvp",
+      "gathering"
+    ],
+    "languages": [
+      "es"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-tan-001",
+        "title": "Build de PvP Definitiva — Albion Online",
+        "thumbnail": "https://picsum.photos/seed/tan1/640/360",
+        "url": "https://www.youtube.com/watch?v=tan1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-tan-002",
+        "title": "Cómo Ganar Plata desde Cero",
+        "thumbnail": "https://picsum.photos/seed/tan2/640/360",
+        "url": "https://www.youtube.com/watch?v=tan2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-tan-003",
+        "title": "Guía de Roads of Avalon en Español",
+        "thumbnail": "https://picsum.photos/seed/tan3/640/360",
+        "url": "https://www.youtube.com/watch?v=tan3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCbogul_ph",
+    "avatar": "https://i.pravatar.cc/150?u=bogul",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Bogul",
+      "twitch": "bogul",
+      "twitter": "BogulAO"
+    },
+    "id": "bogul",
+    "name": "Bogul",
+    "channelUrl": "https://www.youtube.com/@Bogul",
+    "twitch": "bogul",
+    "twitter": "BogulAO",
+    "bioShort": "Contenido PvP y de economía. Análisis de mercado y builds para ganar plata.",
+    "bioLong": "Bogul es un creador de Albion Online conocido por su contenido enfocado en la economía del juego, análisis de mercado y builds rentables. Combina guías de PvP con estrategias para maximizar las ganancias en el mundo dirigido por jugadores de Albion.",
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "gameMode": [
+      "pvp",
+      "gathering"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-bog-001",
+        "title": "Best Money Making Methods 2026",
+        "thumbnail": "https://picsum.photos/seed/bog1/640/360",
+        "url": "https://www.youtube.com/watch?v=bog1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-bog-002",
+        "title": "Market Flipping Guide",
+        "thumbnail": "https://picsum.photos/seed/bog2/640/360",
+        "url": "https://www.youtube.com/watch?v=bog2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-bog-003",
+        "title": "Solo PvP Build Breakdown",
+        "thumbnail": "https://picsum.photos/seed/bog3/640/360",
+        "url": "https://www.youtube.com/watch?v=bog3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
   }
 ]

@@ -1,14 +1,16 @@
 import { getGames, getCreators } from "@/lib/data";
 import { GameCard } from "@/components/game/GameCard";
+import { GameShowcase } from "@/components/game/GameShowcase";
 import { Swords, Users, Gamepad2, Globe } from "lucide-react";
 
 export default async function HomePage() {
   const games = getGames();
   const activeGames = games.filter((g) => g.active);
-  const creatorCounts = await Promise.all(
-    activeGames.map((g) => getCreators(g.slug).then((c) => c.length))
+  const comingSoonGames = games.filter((g) => g.comingSoon && !g.active);
+  const activeWithCreators = await Promise.all(
+    activeGames.map(async (g) => ({ game: g, creators: (await getCreators(g.slug)).slice(0, 5) }))
   );
-  const totalCreators = creatorCounts.reduce((a, b) => a + b, 0);
+  const totalCreators = activeWithCreators.reduce((a, { creators }) => a + creators.length, 0);
 
   const stats = [
     { label: "Creadores", value: totalCreators, icon: Users },
@@ -60,19 +62,31 @@ export default async function HomePage() {
       </section>
 
       <section className="px-4 pb-24">
-        <div className="max-w-5xl mx-auto">
-          <div className="mb-6">
-            <h2 className="text-xs font-semibold text-white/30 uppercase tracking-widest mb-1">Elige tu juego</h2>
+        <div className="max-w-6xl mx-auto">
+          <div className="mb-10">
+            <h2 className="text-xs font-semibold text-white/30 uppercase tracking-widest mb-1">Creadores por juego</h2>
             <p className="text-white/50 text-sm">
               {activeGames.length} {activeGames.length === 1 ? "juego activo" : "juegos activos"} ·{" "}
-              {games.filter((g) => g.comingSoon).length} próximamente
+              {comingSoonGames.length} próximamente
             </p>
           </div>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {games.map((game) => (
-              <GameCard key={game.id} game={game} />
+
+          <div className="flex flex-col gap-16">
+            {activeWithCreators.map(({ game, creators }) => (
+              <GameShowcase key={game.id} game={game} creators={creators} />
             ))}
           </div>
+
+          {comingSoonGames.length > 0 && (
+            <div className="mt-20">
+              <h2 className="text-xs font-semibold text-white/30 uppercase tracking-widest mb-6">Próximamente</h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {comingSoonGames.map((game) => (
+                  <GameCard key={game.id} game={game} />
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       </section>
     </div>

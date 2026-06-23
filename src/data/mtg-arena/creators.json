@@ -389,5 +389,56 @@
         "publishedAt": "2026-05-27"
       }
     ]
+  },
+  {
+    "channelId": "UCcovertgoblue_ph",
+    "avatar": "https://i.pravatar.cc/150?u=covertgoblue",
+    "socials": {
+      "youtube": "https://www.youtube.com/@CovertGoBlue",
+      "twitch": "covertgoblue",
+      "twitter": "CovertGoBlue"
+    },
+    "id": "covertgoblue",
+    "name": "CovertGoBlue",
+    "channelUrl": "https://www.youtube.com/@CovertGoBlue",
+    "twitch": "covertgoblue",
+    "twitter": "CovertGoBlue",
+    "bioShort": "Veterano de MTG Arena especializado en mazos de control y midrange. Análisis profundo del meta.",
+    "bioLong": "CovertGoBlue es uno de los creadores más longevos y respetados de MTG Arena. Famoso por su dominio de los mazos de control, comparte gameplay comentado, análisis del meta de Standard e Historic, y guías para jugar a la defensiva con la máxima eficiencia.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "formats": [
+      "standard",
+      "historic",
+      "explorer"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-cgb-001",
+        "title": "Control Mirror Masterclass — Standard",
+        "thumbnail": "https://picsum.photos/seed/cgb1/640/360",
+        "url": "https://www.youtube.com/watch?v=cgb1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-cgb-002",
+        "title": "Historic Azorius Control Full Guide",
+        "thumbnail": "https://picsum.photos/seed/cgb2/640/360",
+        "url": "https://www.youtube.com/watch?v=cgb2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-cgb-003",
+        "title": "Meta Snapshot — Best Decks Right Now",
+        "thumbnail": "https://picsum.photos/seed/cgb3/640/360",
+        "url": "https://www.youtube.com/watch?v=cgb3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
   }
 ]

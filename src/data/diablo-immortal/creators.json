@@ -1,1 +1,244 @@
-[]
+[
+  {
+    "channelId": "UCrhykkerdi_ph",
+    "avatar": "https://i.pravatar.cc/150?u=rhykker-di",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Rhykker",
+      "twitch": "rhykker",
+      "twitter": "rhykker"
+    },
+    "id": "rhykker-di",
+    "name": "Rhykker",
+    "channelUrl": "https://www.youtube.com/@Rhykker",
+    "twitch": "rhykker",
+    "twitter": "rhykker",
+    "bioShort": "El referente ARPG. Guías de Diablo Immortal, novedades y análisis del endgame.",
+    "bioLong": "Rhykker es el creador ARPG más veterano de YouTube y cubre Diablo Immortal desde su lanzamiento. Sus guías claras de clases, novedades de cada actualización y análisis del endgame lo hacen ideal tanto para nuevos jugadores como para veteranos.",
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-rhd-001",
+        "title": "Best Class Tier List — Diablo Immortal",
+        "thumbnail": "https://picsum.photos/seed/rhd1/640/360",
+        "url": "https://www.youtube.com/watch?v=rhd1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-rhd-002",
+        "title": "Endgame Guide — What to Do at Paragon",
+        "thumbnail": "https://picsum.photos/seed/rhd2/640/360",
+        "url": "https://www.youtube.com/watch?v=rhd2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-rhd-003",
+        "title": "Update Breakdown — Everything New",
+        "thumbnail": "https://picsum.photos/seed/rhd3/640/360",
+        "url": "https://www.youtube.com/watch?v=rhd3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCsaluter_ph",
+    "avatar": "https://i.pravatar.cc/150?u=saluter",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Saluter",
+      "twitch": "saluter",
+      "twitter": "Saluter"
+    },
+    "id": "saluter",
+    "name": "Saluter",
+    "channelUrl": "https://www.youtube.com/@Saluter",
+    "twitch": "saluter",
+    "twitter": "Saluter",
+    "bioShort": "Fan incondicional de Diablo. Guías, clears de alto nivel y noticias de Diablo Immortal.",
+    "bioLong": "Saluter es un creador dedicado al universo Diablo que transmite 5-6 días por semana. Cubre guías de Diablo Immortal, clears de alto nivel, impresiones de actualizaciones y noticias, con un enfoque cercano a la comunidad.",
+    "contentType": [
+      "educational",
+      "casual"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-sal-001",
+        "title": "High Level Rift Clear",
+        "thumbnail": "https://picsum.photos/seed/sal1/640/360",
+        "url": "https://www.youtube.com/watch?v=sal1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-sal-002",
+        "title": "Build Guide — Season Update",
+        "thumbnail": "https://picsum.photos/seed/sal2/640/360",
+        "url": "https://www.youtube.com/watch?v=sal2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-sal-003",
+        "title": "First Impressions — New Content",
+        "thumbnail": "https://picsum.photos/seed/sal3/640/360",
+        "url": "https://www.youtube.com/watch?v=sal3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCipenguinpat_ph",
+    "avatar": "https://i.pravatar.cc/150?u=ipenguinpat",
+    "socials": {
+      "youtube": "https://www.youtube.com/@iPenguinPat",
+      "twitch": "ipenguinpat",
+      "twitter": "iPenguinPat"
+    },
+    "id": "ipenguinpat",
+    "name": "iPenguinPat",
+    "channelUrl": "https://www.youtube.com/@iPenguinPat",
+    "twitch": "ipenguinpat",
+    "twitter": "iPenguinPat",
+    "bioShort": "Optimización basada en datos. Mecánicas analizadas para que juegues mejor.",
+    "bioLong": "iPenguinPat usa un enfoque basado en datos para analizar las mecánicas de Diablo Immortal y enseñar a optimizar el gameplay. Sus videos desmenuzan números y sistemas para tomar las mejores decisiones de build.",
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-ipp-001",
+        "title": "Damage Mechanics Explained with Data",
+        "thumbnail": "https://picsum.photos/seed/ipp1/640/360",
+        "url": "https://www.youtube.com/watch?v=ipp1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-ipp-002",
+        "title": "Optimal Gem Investment",
+        "thumbnail": "https://picsum.photos/seed/ipp2/640/360",
+        "url": "https://www.youtube.com/watch?v=ipp2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-ipp-003",
+        "title": "Stat Priority Deep Dive",
+        "thumbnail": "https://picsum.photos/seed/ipp3/640/360",
+        "url": "https://www.youtube.com/watch?v=ipp3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UClaurethuk_ph",
+    "avatar": "https://i.pravatar.cc/150?u=laurethuk",
+    "socials": {
+      "youtube": "https://www.youtube.com/@LaurethUK",
+      "twitter": "LaurethUK"
+    },
+    "id": "laurethuk",
+    "name": "LaurethUK",
+    "channelUrl": "https://www.youtube.com/@LaurethUK",
+    "twitter": "LaurethUK",
+    "bioShort": "Builds, testeo de equipo y novedades de Diablo Immortal para la comunidad.",
+    "bioLong": "LaurethUK es un creador de Diablo Immortal centrado en builds, testeo de nuevo equipamiento y ayuda a la comunidad. Produce contenido constante sobre actualizaciones y optimización de personajes.",
+    "contentType": [
+      "educational",
+      "casual"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-lau-001",
+        "title": "New Gear Testing — Worth It?",
+        "thumbnail": "https://picsum.photos/seed/lau1/640/360",
+        "url": "https://www.youtube.com/watch?v=lau1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-lau-002",
+        "title": "Build Update for the Season",
+        "thumbnail": "https://picsum.photos/seed/lau2/640/360",
+        "url": "https://www.youtube.com/watch?v=lau2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-lau-003",
+        "title": "Community Q&A — Tips and Tricks",
+        "thumbnail": "https://picsum.photos/seed/lau3/640/360",
+        "url": "https://www.youtube.com/watch?v=lau3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCechohack_ph",
+    "avatar": "https://i.pravatar.cc/150?u=echohack",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Echohack",
+      "twitch": "echohack",
+      "twitter": "Echohack"
+    },
+    "id": "echohack",
+    "name": "Echohack",
+    "channelUrl": "https://www.youtube.com/@Echohack",
+    "twitch": "echohack",
+    "twitter": "Echohack",
+    "bioShort": "PvP y Battleground de alto nivel en Diablo Immortal. Builds competitivas.",
+    "bioLong": "Echohack se especializa en el PvP y el Battleground de Diablo Immortal, mostrando builds competitivas y estrategias para dominar el ranking. Ideal para jugadores que buscan el máximo nivel competitivo.",
+    "contentType": [
+      "competitive"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-ech-001",
+        "title": "Battleground PvP Domination",
+        "thumbnail": "https://picsum.photos/seed/ech1/640/360",
+        "url": "https://www.youtube.com/watch?v=ech1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-ech-002",
+        "title": "Best PvP Build This Season",
+        "thumbnail": "https://picsum.photos/seed/ech2/640/360",
+        "url": "https://www.youtube.com/watch?v=ech2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-ech-003",
+        "title": "Ranked Tactics — Climb Fast",
+        "thumbnail": "https://picsum.photos/seed/ech3/640/360",
+        "url": "https://www.youtube.com/watch?v=ech3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  }
+]

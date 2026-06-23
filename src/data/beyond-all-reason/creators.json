@@ -95,5 +95,201 @@
         "publishedAt": "2026-05-17"
       }
     ]
+  },
+  {
+    "channelId": "UCwintergaming_ph",
+    "avatar": "https://i.pravatar.cc/150?u=wintergaming",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Wintergaming",
+      "twitch": "wintergaming",
+      "twitter": "Wintergaming"
+    },
+    "id": "wintergaming",
+    "name": "Wintergaming",
+    "channelUrl": "https://www.youtube.com/@Wintergaming",
+    "twitch": "wintergaming",
+    "twitter": "Wintergaming",
+    "bioShort": "Casts y comentarios de Beyond All Reason. Partidas competitivas y contenido educativo de RTS.",
+    "bioLong": "Wintergaming es uno de los principales casters y creadores de contenido de Beyond All Reason. Sus retransmisiones comentadas de partidas competitivas y sus guías de estrategia son una referencia para la comunidad del RTS gratuito.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "faction": [
+      "armada",
+      "cortex"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-win-001",
+        "title": "Insane 8v8 Cast — Beyond All Reason",
+        "thumbnail": "https://picsum.photos/seed/win1/640/360",
+        "url": "https://www.youtube.com/watch?v=win1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-win-002",
+        "title": "Eco vs Aggression — Strategy Guide",
+        "thumbnail": "https://picsum.photos/seed/win2/640/360",
+        "url": "https://www.youtube.com/watch?v=win2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-win-003",
+        "title": "Best Opening Builds Explained",
+        "thumbnail": "https://picsum.photos/seed/win3/640/360",
+        "url": "https://www.youtube.com/watch?v=win3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCbrightworksbar_ph",
+    "avatar": "https://i.pravatar.cc/150?u=brightworks-bar",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Brightworks",
+      "twitch": "brightworks",
+      "twitter": "BrightworksBAR"
+    },
+    "id": "brightworks-bar",
+    "name": "Brightworks",
+    "channelUrl": "https://www.youtube.com/@Brightworks",
+    "twitch": "brightworks",
+    "twitter": "BrightworksBAR",
+    "bioShort": "Tutoriales y guías de estrategia para nuevos jugadores de Beyond All Reason.",
+    "bioLong": "Brightworks crea tutoriales accesibles y guías de estrategia para Beyond All Reason, ayudando a nuevos jugadores a entender la economía, el control de unidades y las tácticas del RTS.",
+    "contentType": [
+      "educational",
+      "casual"
+    ],
+    "faction": [
+      "armada",
+      "cortex"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-brw-001",
+        "title": "Beginner's Guide to Beyond All Reason",
+        "thumbnail": "https://picsum.photos/seed/brw1/640/360",
+        "url": "https://www.youtube.com/watch?v=brw1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-brw-002",
+        "title": "Unit Composition 101",
+        "thumbnail": "https://picsum.photos/seed/brw2/640/360",
+        "url": "https://www.youtube.com/watch?v=brw2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-brw-003",
+        "title": "How to Manage Your Economy",
+        "thumbnail": "https://picsum.photos/seed/brw3/640/360",
+        "url": "https://www.youtube.com/watch?v=brw3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCbarreplays_ph",
+    "avatar": "https://i.pravatar.cc/150?u=bar-replays",
+    "socials": {
+      "youtube": "https://www.youtube.com/@BARReplays",
+      "twitter": "BARReplays"
+    },
+    "id": "bar-replays",
+    "name": "BAR Replays",
+    "channelUrl": "https://www.youtube.com/@BARReplays",
+    "twitter": "BARReplays",
+    "bioShort": "Mejores partidas y momentos destacados de la comunidad de Beyond All Reason.",
+    "bioLong": "BAR Replays recopila las mejores partidas, jugadas y momentos destacados de la comunidad de Beyond All Reason, mostrando estrategias de alto nivel a través de repeticiones comentadas.",
+    "contentType": [
+      "casual",
+      "competitive"
+    ],
+    "faction": [
+      "armada",
+      "cortex"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-brp-001",
+        "title": "Top 5 Plays of the Week",
+        "thumbnail": "https://picsum.photos/seed/brp1/640/360",
+        "url": "https://www.youtube.com/watch?v=brp1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-brp-002",
+        "title": "Epic Comeback Replay Analysis",
+        "thumbnail": "https://picsum.photos/seed/brp2/640/360",
+        "url": "https://www.youtube.com/watch?v=brp2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-brp-003",
+        "title": "Pro Match Highlights",
+        "thumbnail": "https://picsum.photos/seed/brp3/640/360",
+        "url": "https://www.youtube.com/watch?v=brp3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCbarenespanolreal_ph",
+    "avatar": "https://i.pravatar.cc/150?u=bar-en-espanol-real",
+    "socials": {
+      "youtube": "https://www.youtube.com/@BAREspanolRTS",
+      "twitter": "BARespanol"
+    },
+    "id": "bar-en-espanol-real",
+    "name": "BAR en Español",
+    "channelUrl": "https://www.youtube.com/@BAREspanolRTS",
+    "twitter": "BARespanol",
+    "bioShort": "Guías y partidas de Beyond All Reason en español para la comunidad hispana de RTS.",
+    "bioLong": "Canal dedicado a llevar Beyond All Reason a la comunidad hispanohablante: guías de estrategia, economía y control de unidades, además de partidas comentadas en español.",
+    "contentType": [
+      "educational",
+      "casual"
+    ],
+    "faction": [
+      "armada",
+      "cortex"
+    ],
+    "languages": [
+      "es"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-bes-001",
+        "title": "Guía para Principiantes — Beyond All Reason",
+        "thumbnail": "https://picsum.photos/seed/bes1/640/360",
+        "url": "https://www.youtube.com/watch?v=bes1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-bes-002",
+        "title": "Cómo Manejar la Economía",
+        "thumbnail": "https://picsum.photos/seed/bes2/640/360",
+        "url": "https://www.youtube.com/watch?v=bes2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-bes-003",
+        "title": "Estrategias de Apertura Explicadas",
+        "thumbnail": "https://picsum.photos/seed/bes3/640/360",
+        "url": "https://www.youtube.com/watch?v=bes3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
   }
 ]

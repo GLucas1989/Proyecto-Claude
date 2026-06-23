@@ -385,5 +385,54 @@
         "publishedAt": "2026-05-25"
       }
     ]
+  },
+  {
+    "channelId": "UCwudijo_ph",
+    "avatar": "https://i.pravatar.cc/150?u=wudijo",
+    "socials": {
+      "youtube": "https://www.youtube.com/@wudijo",
+      "twitch": "wudijo",
+      "twitter": "wudijo"
+    },
+    "id": "wudijo",
+    "name": "wudijo",
+    "channelUrl": "https://www.youtube.com/@wudijo",
+    "twitch": "wudijo",
+    "twitter": "wudijo",
+    "bioShort": "Leyenda del género ARPG. Hardcore, world-first clears y builds optimizadas al límite.",
+    "bioLong": "wudijo es uno de los jugadores de ARPG más habilidosos del mundo, conocido por sus clears hardcore world-first y su comprensión profunda de las mecánicas de Diablo IV. Su contenido combina builds optimizadas, guías de endgame y gameplay de altísimo nivel para quienes quieren llevar el juego al límite.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-wud-001",
+        "title": "Hardcore World First Pit Clear",
+        "thumbnail": "https://picsum.photos/seed/wud1/640/360",
+        "url": "https://www.youtube.com/watch?v=wud1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-wud-002",
+        "title": "Best Endgame Build — Optimized",
+        "thumbnail": "https://picsum.photos/seed/wud2/640/360",
+        "url": "https://www.youtube.com/watch?v=wud2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-wud-003",
+        "title": "Mechanics Deep Dive — Damage Scaling",
+        "thumbnail": "https://picsum.photos/seed/wud3/640/360",
+        "url": "https://www.youtube.com/watch?v=wud3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
   }
 ]

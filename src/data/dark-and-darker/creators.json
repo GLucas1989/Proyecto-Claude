@@ -1,1 +1,247 @@
-[]
+[
+  {
+    "channelId": "UCrepoze_ph",
+    "avatar": "https://i.pravatar.cc/150?u=repoze",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Repoze",
+      "twitch": "repoze",
+      "twitter": "RepozeDND"
+    },
+    "id": "repoze",
+    "name": "Repoze",
+    "channelUrl": "https://www.youtube.com/@Repoze",
+    "twitch": "repoze",
+    "twitter": "RepozeDND",
+    "bioShort": "Uno de los streamers originales de Dark and Darker. PvP de alto nivel y gameplay de extracción.",
+    "bioLong": "Repoze es uno de los streamers más reconocidos y veteranos de Dark and Darker. Su contenido se centra en PvP de altísimo nivel, gameplay de extracción intenso y momentos destacados que muestran lo mejor del dungeon crawler.",
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "class": [
+      "fighter",
+      "rogue"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-rep-001",
+        "title": "High Roller PvP Domination",
+        "thumbnail": "https://picsum.photos/seed/rep1/640/360",
+        "url": "https://www.youtube.com/watch?v=rep1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-rep-002",
+        "title": "Best Solo Class Right Now",
+        "thumbnail": "https://picsum.photos/seed/rep2/640/360",
+        "url": "https://www.youtube.com/watch?v=rep2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-rep-003",
+        "title": "Insane Extraction Clutch",
+        "thumbnail": "https://picsum.photos/seed/rep3/640/360",
+        "url": "https://www.youtube.com/watch?v=rep3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCryan6daysaweek_ph",
+    "avatar": "https://i.pravatar.cc/150?u=ryan6daysaweek",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Ryan6DaysaWeek",
+      "twitter": "Ryan6DaysaWeek"
+    },
+    "id": "ryan6daysaweek",
+    "name": "Ryan6DaysaWeek",
+    "channelUrl": "https://www.youtube.com/@Ryan6DaysaWeek",
+    "twitter": "Ryan6DaysaWeek",
+    "bioShort": "Guías de jefes y mobs, datamining y todo lo que necesitás saber sobre Dark and Darker.",
+    "bioLong": "Ryan6DaysaWeek es el canal de referencia para guías informativas de Dark and Darker: jefes, mobs, datamining de cada parche y explicaciones detalladas de las mecánicas del juego. Imprescindible para entender el contenido PvE.",
+    "contentType": [
+      "educational"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-r6d-001",
+        "title": "Every Boss Guide — Updated",
+        "thumbnail": "https://picsum.photos/seed/r6d1/640/360",
+        "url": "https://www.youtube.com/watch?v=r6d1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-r6d-002",
+        "title": "Patch Datamining Breakdown",
+        "thumbnail": "https://picsum.photos/seed/r6d2/640/360",
+        "url": "https://www.youtube.com/watch?v=r6d2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-r6d-003",
+        "title": "PvE Mob Mechanics Explained",
+        "thumbnail": "https://picsum.photos/seed/r6d3/640/360",
+        "url": "https://www.youtube.com/watch?v=r6d3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCfirebox_ph",
+    "avatar": "https://i.pravatar.cc/150?u=firebox",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Firebox",
+      "twitch": "firebox",
+      "twitter": "FireboxDND"
+    },
+    "id": "firebox",
+    "name": "Firebox",
+    "channelUrl": "https://www.youtube.com/@Firebox",
+    "twitch": "firebox",
+    "twitter": "FireboxDND",
+    "bioShort": "Especialista en builds. Rundowns de equipamiento y optimización por clase.",
+    "bioLong": "Firebox se especializa en builds y optimización de equipamiento en Dark and Darker. Sus rundowns detallados por clase ayudan a los jugadores a armar el mejor kit para cada estilo de juego.",
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-fbx-001",
+        "title": "Best Builds for Every Class",
+        "thumbnail": "https://picsum.photos/seed/fbx1/640/360",
+        "url": "https://www.youtube.com/watch?v=fbx1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-fbx-002",
+        "title": "Gear Optimization Guide",
+        "thumbnail": "https://picsum.photos/seed/fbx2/640/360",
+        "url": "https://www.youtube.com/watch?v=fbx2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-fbx-003",
+        "title": "Budget Kits That Actually Work",
+        "thumbnail": "https://picsum.photos/seed/fbx3/640/360",
+        "url": "https://www.youtube.com/watch?v=fbx3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCyourboyblinn_ph",
+    "avatar": "https://i.pravatar.cc/150?u=yourboyblinn",
+    "socials": {
+      "youtube": "https://www.youtube.com/@YourBoyBlinn",
+      "twitch": "yourboyblinn",
+      "twitter": "YourBoyBlinn"
+    },
+    "id": "yourboyblinn",
+    "name": "YourBoyBlinn",
+    "channelUrl": "https://www.youtube.com/@YourBoyBlinn",
+    "twitch": "yourboyblinn",
+    "twitter": "YourBoyBlinn",
+    "bioShort": "Bloqueo, mecánicas avanzadas y gameplay técnico de Dark and Darker.",
+    "bioLong": "YourBoyBlinn es conocido por su contenido técnico de Dark and Darker, en especial el dominio del bloqueo y las mecánicas avanzadas de combate. Ideal para jugadores que quieren mejorar su micro.",
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "class": [
+      "fighter",
+      "barbarian"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-ybb-001",
+        "title": "Advanced Blocking Mechanics",
+        "thumbnail": "https://picsum.photos/seed/ybb1/640/360",
+        "url": "https://www.youtube.com/watch?v=ybb1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-ybb-002",
+        "title": "Melee Combat Masterclass",
+        "thumbnail": "https://picsum.photos/seed/ybb2/640/360",
+        "url": "https://www.youtube.com/watch?v=ybb2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-ybb-003",
+        "title": "Movement Tech You Should Know",
+        "thumbnail": "https://picsum.photos/seed/ybb3/640/360",
+        "url": "https://www.youtube.com/watch?v=ybb3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCkenknobi_ph",
+    "avatar": "https://i.pravatar.cc/150?u=kenknobi",
+    "socials": {
+      "youtube": "https://www.youtube.com/@Kenknobi",
+      "twitch": "kenknobi",
+      "twitter": "Kenknobi"
+    },
+    "id": "kenknobi",
+    "name": "Kenknobi",
+    "channelUrl": "https://www.youtube.com/@Kenknobi",
+    "twitch": "kenknobi",
+    "twitter": "Kenknobi",
+    "bioShort": "Streamer de Dark and Darker centrado en PvP entretenido y partidas en grupo.",
+    "bioLong": "Kenknobi es un popular streamer de Dark and Darker conocido por su gameplay de PvP entretenido, partidas en grupo y una comunidad activa. Su contenido mezcla habilidad con diversión.",
+    "contentType": [
+      "casual",
+      "competitive"
+    ],
+    "class": [
+      "ranger",
+      "rogue"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-ken-001",
+        "title": "Trio Dungeon Chaos",
+        "thumbnail": "https://picsum.photos/seed/ken1/640/360",
+        "url": "https://www.youtube.com/watch?v=ken1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-ken-002",
+        "title": "Ranger PvP Highlights",
+        "thumbnail": "https://picsum.photos/seed/ken2/640/360",
+        "url": "https://www.youtube.com/watch?v=ken2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-ken-003",
+        "title": "Funniest Moments of the Week",
+        "thumbnail": "https://picsum.photos/seed/ken3/640/360",
+        "url": "https://www.youtube.com/watch?v=ken3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  }
+]

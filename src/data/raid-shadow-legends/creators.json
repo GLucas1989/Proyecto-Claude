@@ -7,21 +7,95 @@
     "avatar": "https://i.pravatar.cc/150?u=hell-hades",
     "bioShort": "El creador más influyente de Raid. Tier lists, guías de campeones y builds optimizadas.",
     "bioLong": "Hell Hades es considerado el referente absoluto de la comunidad de Raid Shadow Legends. Sus tier lists son el estándar de la comunidad y sus guías de campeones son insuperablemente detalladas. Con millones de suscriptores, cubre desde contenido para nuevos jugadores hasta estrategias de endgame avanzadas como Hydra Clan Boss y Doom Tower.",
-    "contentType": ["competitive", "educational"],
-    "gameMode": ["dungeons", "clan-boss", "pvp", "doom-tower"],
-    "languages": ["en"],
-    "socials": { "youtube": "https://www.youtube.com/@hellhades", "twitch": "https://twitch.tv/hellhades", "twitter": "https://twitter.com/hellhades" },
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "gameMode": [
+      "dungeons",
+      "clan-boss",
+      "pvp",
+      "doom-tower"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@hellhades",
+      "twitch": "https://twitch.tv/hellhades",
+      "twitter": "https://twitter.com/hellhades"
+    },
     "latestVideos": [
-      { "id": "vid-hh-001", "title": "BEST Tier List June 2026 — Every Champion Ranked", "thumbnail": "https://picsum.photos/seed/hh001/640/360", "url": "https://www.youtube.com/watch?v=raidex1", "publishedAt": "2026-06-22" },
-      { "id": "vid-hh-002", "title": "Hydra Clan Boss Guide — Highest Damage Comps", "thumbnail": "https://picsum.photos/seed/hh002/640/360", "url": "https://www.youtube.com/watch?v=raidex2", "publishedAt": "2026-06-19" },
-      { "id": "vid-hh-003", "title": "New Champion Review: Is He Worth Building?", "thumbnail": "https://picsum.photos/seed/hh003/640/360", "url": "https://www.youtube.com/watch?v=raidex3", "publishedAt": "2026-06-16" },
-      { "id": "vid-hh-004", "title": "Doom Tower Hard Floor 120 — No Legendaries", "thumbnail": "https://picsum.photos/seed/hh004/640/360", "url": "https://www.youtube.com/watch?v=raidex4", "publishedAt": "2026-06-13" },
-      { "id": "vid-hh-005", "title": "F2P Progression Guide — Week 1 to Month 6", "thumbnail": "https://picsum.photos/seed/hh005/640/360", "url": "https://www.youtube.com/watch?v=raidex5", "publishedAt": "2026-06-10" },
-      { "id": "vid-hh-006", "title": "Arena Platinum Guide — Best Defense Teams", "thumbnail": "https://picsum.photos/seed/hh006/640/360", "url": "https://www.youtube.com/watch?v=raidex6", "publishedAt": "2026-06-07" },
-      { "id": "vid-hh-007", "title": "Artifact Guide: Which Sets Are Actually Worth It", "thumbnail": "https://picsum.photos/seed/hh007/640/360", "url": "https://www.youtube.com/watch?v=raidex7", "publishedAt": "2026-06-04" },
-      { "id": "vid-hh-008", "title": "Updated Masteries Guide for Every Champion Type", "thumbnail": "https://picsum.photos/seed/hh008/640/360", "url": "https://www.youtube.com/watch?v=raidex8", "publishedAt": "2026-06-01" },
-      { "id": "vid-hh-009", "title": "Patch Notes Analysis — What Changed and Why It Matters", "thumbnail": "https://picsum.photos/seed/hh009/640/360", "url": "https://www.youtube.com/watch?v=raidex9", "publishedAt": "2026-05-29" },
-      { "id": "vid-hh-010", "title": "Spider 25 Speed Team — Under 1 Minute Guaranteed", "thumbnail": "https://picsum.photos/seed/hh010/640/360", "url": "https://www.youtube.com/watch?v=raidex10", "publishedAt": "2026-05-26" }
+      {
+        "id": "vid-hh-001",
+        "title": "BEST Tier List June 2026 — Every Champion Ranked",
+        "thumbnail": "https://picsum.photos/seed/hh001/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex1",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-hh-002",
+        "title": "Hydra Clan Boss Guide — Highest Damage Comps",
+        "thumbnail": "https://picsum.photos/seed/hh002/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex2",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-hh-003",
+        "title": "New Champion Review: Is He Worth Building?",
+        "thumbnail": "https://picsum.photos/seed/hh003/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex3",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-hh-004",
+        "title": "Doom Tower Hard Floor 120 — No Legendaries",
+        "thumbnail": "https://picsum.photos/seed/hh004/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex4",
+        "publishedAt": "2026-06-13"
+      },
+      {
+        "id": "vid-hh-005",
+        "title": "F2P Progression Guide — Week 1 to Month 6",
+        "thumbnail": "https://picsum.photos/seed/hh005/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex5",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-hh-006",
+        "title": "Arena Platinum Guide — Best Defense Teams",
+        "thumbnail": "https://picsum.photos/seed/hh006/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex6",
+        "publishedAt": "2026-06-07"
+      },
+      {
+        "id": "vid-hh-007",
+        "title": "Artifact Guide: Which Sets Are Actually Worth It",
+        "thumbnail": "https://picsum.photos/seed/hh007/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex7",
+        "publishedAt": "2026-06-04"
+      },
+      {
+        "id": "vid-hh-008",
+        "title": "Updated Masteries Guide for Every Champion Type",
+        "thumbnail": "https://picsum.photos/seed/hh008/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex8",
+        "publishedAt": "2026-06-01"
+      },
+      {
+        "id": "vid-hh-009",
+        "title": "Patch Notes Analysis — What Changed and Why It Matters",
+        "thumbnail": "https://picsum.photos/seed/hh009/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex9",
+        "publishedAt": "2026-05-29"
+      },
+      {
+        "id": "vid-hh-010",
+        "title": "Spider 25 Speed Team — Under 1 Minute Guaranteed",
+        "thumbnail": "https://picsum.photos/seed/hh010/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex10",
+        "publishedAt": "2026-05-26"
+      }
     ]
   },
   {
@@ -32,46 +106,246 @@
     "avatar": "https://i.pravatar.cc/150?u=ash-raid",
     "bioShort": "Contenido competitivo y humor. El creador más entretenido de la comunidad de Raid.",
     "bioLong": "Ash es conocido por combinar análisis profundo con un sentido del humor único que hace que el contenido complejo sea fácil de digerir. Sus vídeos de reacciones a nuevos campeones y sus guías de equipos para Clan Boss han acumulado millones de vistas.",
-    "contentType": ["competitive", "casual"],
-    "gameMode": ["clan-boss", "dungeons", "pvp"],
-    "languages": ["en"],
-    "socials": { "youtube": "https://www.youtube.com/@ashraid", "twitch": "https://twitch.tv/ashraid", "twitter": "https://twitter.com/ashraid" },
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "gameMode": [
+      "clan-boss",
+      "dungeons",
+      "pvp"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@ashraid",
+      "twitch": "https://twitch.tv/ashraid",
+      "twitter": "https://twitter.com/ashraid"
+    },
     "latestVideos": [
-      { "id": "vid-ash-001", "title": "I Pulled 300 Shards and Got... This", "thumbnail": "https://picsum.photos/seed/ash001/640/360", "url": "https://www.youtube.com/watch?v=raidex11", "publishedAt": "2026-06-21" },
-      { "id": "vid-ash-002", "title": "Clan Boss UNM Team Under 3k Gear Score", "thumbnail": "https://picsum.photos/seed/ash002/640/360", "url": "https://www.youtube.com/watch?v=raidex12", "publishedAt": "2026-06-18" },
-      { "id": "vid-ash-003", "title": "Every Epic Champion Ranked for Mid-Game", "thumbnail": "https://picsum.photos/seed/ash003/640/360", "url": "https://www.youtube.com/watch?v=raidex13", "publishedAt": "2026-06-15" },
-      { "id": "vid-ash-004", "title": "Is Raid Pay-to-Win in 2026? Honest Answer", "thumbnail": "https://picsum.photos/seed/ash004/640/360", "url": "https://www.youtube.com/watch?v=raidex14", "publishedAt": "2026-06-12" },
-      { "id": "vid-ash-005", "title": "Budget Arena Team That Actually Works", "thumbnail": "https://picsum.photos/seed/ash005/640/360", "url": "https://www.youtube.com/watch?v=raidex15", "publishedAt": "2026-06-09" },
-      { "id": "vid-ash-006", "title": "New Player Roadmap 2026 — Don't Make These Mistakes", "thumbnail": "https://picsum.photos/seed/ash006/640/360", "url": "https://www.youtube.com/watch?v=raidex16", "publishedAt": "2026-06-06" },
-      { "id": "vid-ash-007", "title": "Best Fusion Champions of the Year — Ranked", "thumbnail": "https://picsum.photos/seed/ash007/640/360", "url": "https://www.youtube.com/watch?v=raidex17", "publishedAt": "2026-06-03" },
-      { "id": "vid-ash-008", "title": "Reacting to My Old Videos — How Wrong Was I?", "thumbnail": "https://picsum.photos/seed/ash008/640/360", "url": "https://www.youtube.com/watch?v=raidex18", "publishedAt": "2026-05-31" },
-      { "id": "vid-ash-009", "title": "Speed Tuning Tutorial for Absolute Beginners", "thumbnail": "https://picsum.photos/seed/ash009/640/360", "url": "https://www.youtube.com/watch?v=raidex19", "publishedAt": "2026-05-28" },
-      { "id": "vid-ash-010", "title": "Grinding Dragon 20 — Best Teams No Legendaries", "thumbnail": "https://picsum.photos/seed/ash010/640/360", "url": "https://www.youtube.com/watch?v=raidex20", "publishedAt": "2026-05-25" }
+      {
+        "id": "vid-ash-001",
+        "title": "I Pulled 300 Shards and Got... This",
+        "thumbnail": "https://picsum.photos/seed/ash001/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex11",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-ash-002",
+        "title": "Clan Boss UNM Team Under 3k Gear Score",
+        "thumbnail": "https://picsum.photos/seed/ash002/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex12",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-ash-003",
+        "title": "Every Epic Champion Ranked for Mid-Game",
+        "thumbnail": "https://picsum.photos/seed/ash003/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex13",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-ash-004",
+        "title": "Is Raid Pay-to-Win in 2026? Honest Answer",
+        "thumbnail": "https://picsum.photos/seed/ash004/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex14",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-ash-005",
+        "title": "Budget Arena Team That Actually Works",
+        "thumbnail": "https://picsum.photos/seed/ash005/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex15",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "id": "vid-ash-006",
+        "title": "New Player Roadmap 2026 — Don't Make These Mistakes",
+        "thumbnail": "https://picsum.photos/seed/ash006/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex16",
+        "publishedAt": "2026-06-06"
+      },
+      {
+        "id": "vid-ash-007",
+        "title": "Best Fusion Champions of the Year — Ranked",
+        "thumbnail": "https://picsum.photos/seed/ash007/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex17",
+        "publishedAt": "2026-06-03"
+      },
+      {
+        "id": "vid-ash-008",
+        "title": "Reacting to My Old Videos — How Wrong Was I?",
+        "thumbnail": "https://picsum.photos/seed/ash008/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex18",
+        "publishedAt": "2026-05-31"
+      },
+      {
+        "id": "vid-ash-009",
+        "title": "Speed Tuning Tutorial for Absolute Beginners",
+        "thumbnail": "https://picsum.photos/seed/ash009/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex19",
+        "publishedAt": "2026-05-28"
+      },
+      {
+        "id": "vid-ash-010",
+        "title": "Grinding Dragon 20 — Best Teams No Legendaries",
+        "thumbnail": "https://picsum.photos/seed/ash010/640/360",
+        "url": "https://www.youtube.com/watch?v=raidex20",
+        "publishedAt": "2026-05-25"
+      }
     ]
   },
   {
-    "id": "raid-en-espanol",
-    "name": "Raid en Español",
-    "channelId": "UCraidenespanol_example",
-    "channelUrl": "https://www.youtube.com/@raidenespanol",
-    "avatar": "https://i.pravatar.cc/150?u=raid-es",
-    "bioShort": "La comunidad hispanohablante de Raid Shadow Legends. Guías, pulls y eventos en vivo.",
-    "bioLong": "Raid en Español es el canal de referencia para los jugadores de habla hispana de Raid Shadow Legends. Cubre todos los aspectos del juego con guías en español, análisis de campeones nuevos, eventos comunitarios y streams semanales.",
-    "contentType": ["educational", "casual"],
-    "gameMode": ["dungeons", "clan-boss", "doom-tower"],
-    "languages": ["es"],
-    "socials": { "youtube": "https://www.youtube.com/@raidenespanol", "twitch": "https://twitch.tv/raidenespanol", "twitter": "https://twitter.com/raidenespanol" },
+    "channelId": "UCchofly_ph",
+    "avatar": "https://i.pravatar.cc/150?u=chofly",
+    "socials": {
+      "youtube": "https://www.youtube.com/@ChoflyAFK",
+      "twitch": "chofly",
+      "twitter": "ChoflyMobile"
+    },
+    "id": "chofly",
+    "name": "ChoflyAFK",
+    "channelUrl": "https://www.youtube.com/@ChoflyAFK",
+    "twitch": "chofly",
+    "twitter": "ChoflyMobile",
+    "bioShort": "Guías accesibles y reviews de campeones para todos los niveles de Raid.",
+    "bioLong": "Chofly es uno de los creadores más queridos de la comunidad de Raid: Shadow Legends. Su contenido se centra en reviews de campeones, guías de progresión accesibles y consejos prácticos para jugadores free-to-play y de bajo gasto.",
+    "contentType": [
+      "educational",
+      "casual"
+    ],
+    "gameMode": [
+      "clanboss",
+      "arena",
+      "dungeons"
+    ],
+    "languages": [
+      "en"
+    ],
     "latestVideos": [
-      { "id": "vid-re-001", "title": "Guía Completa para Principiantes 2026", "thumbnail": "https://picsum.photos/seed/re001/640/360", "url": "https://www.youtube.com/watch?v=raidex21", "publishedAt": "2026-06-23" },
-      { "id": "vid-re-002", "title": "Mejores Campeones Épicos para Mazmorra del Dragón", "thumbnail": "https://picsum.photos/seed/re002/640/360", "url": "https://www.youtube.com/watch?v=raidex22", "publishedAt": "2026-06-20" },
-      { "id": "vid-re-003", "title": "Clan Boss Pesadilla — Equipo F2P Que Funciona", "thumbnail": "https://picsum.photos/seed/re003/640/360", "url": "https://www.youtube.com/watch?v=raidex23", "publishedAt": "2026-06-17" },
-      { "id": "vid-re-004", "title": "¿Vale la Pena el Nuevo Legendario? Análisis Honesto", "thumbnail": "https://picsum.photos/seed/re004/640/360", "url": "https://www.youtube.com/watch?v=raidex24", "publishedAt": "2026-06-14" },
-      { "id": "vid-re-005", "title": "Torre del Destino Dificil — Piso 120 Sin Legendarios", "thumbnail": "https://picsum.photos/seed/re005/640/360", "url": "https://www.youtube.com/watch?v=raidex25", "publishedAt": "2026-06-11" },
-      { "id": "vid-re-006", "title": "Abriendo 200 Fragmentos — ¿Qué Salió?", "thumbnail": "https://picsum.photos/seed/re006/640/360", "url": "https://www.youtube.com/watch?v=raidex26", "publishedAt": "2026-06-08" },
-      { "id": "vid-re-007", "title": "Guía de Arenas: Cómo Subir a Oro sin Gastar", "thumbnail": "https://picsum.photos/seed/re007/640/360", "url": "https://www.youtube.com/watch?v=raidex27", "publishedAt": "2026-06-05" },
-      { "id": "vid-re-008", "title": "Mejores Sets de Artefactos para Cada Rol — 2026", "thumbnail": "https://picsum.photos/seed/re008/640/360", "url": "https://www.youtube.com/watch?v=raidex28", "publishedAt": "2026-06-02" },
-      { "id": "vid-re-009", "title": "Stream Especial: 1000 Fragmentos de Evento", "thumbnail": "https://picsum.photos/seed/re009/640/360", "url": "https://www.youtube.com/watch?v=raidex29", "publishedAt": "2026-05-30" },
-      { "id": "vid-re-010", "title": "Cómo Farmear Mazmorras Eficientemente", "thumbnail": "https://picsum.photos/seed/re010/640/360", "url": "https://www.youtube.com/watch?v=raidex30", "publishedAt": "2026-05-27" }
+      {
+        "id": "vid-chf-001",
+        "title": "Champion Review — Is This Legendary Worth It?",
+        "thumbnail": "https://picsum.photos/seed/chf1/640/360",
+        "url": "https://www.youtube.com/watch?v=chf1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-chf-002",
+        "title": "F2P Progression Guide 2026",
+        "thumbnail": "https://picsum.photos/seed/chf2/640/360",
+        "url": "https://www.youtube.com/watch?v=chf2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-chf-003",
+        "title": "Best Champions to Book This Patch",
+        "thumbnail": "https://picsum.photos/seed/chf3/640/360",
+        "url": "https://www.youtube.com/watch?v=chf3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCsaitoraid_ph",
+    "avatar": "https://i.pravatar.cc/150?u=saito-raid",
+    "socials": {
+      "youtube": "https://www.youtube.com/@SaitoGames",
+      "twitch": "saito",
+      "twitter": "SaitoGames"
+    },
+    "id": "saito-raid",
+    "name": "Saito Gaming",
+    "channelUrl": "https://www.youtube.com/@SaitoGames",
+    "twitch": "saito",
+    "twitter": "SaitoGames",
+    "bioShort": "Análisis competitivo y optimización de cuentas en Raid: Shadow Legends.",
+    "bioLong": "Saito es un veterano creador de contenido de Raid centrado en la optimización de cuentas, estrategias de Clan Boss y análisis competitivo de Arena. Sus guías detalladas ayudan a sacar el máximo provecho de cada campeón.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "gameMode": [
+      "clanboss",
+      "arena"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-sai-001",
+        "title": "Clan Boss Unkillable Team Guide",
+        "thumbnail": "https://picsum.photos/seed/sai1/640/360",
+        "url": "https://www.youtube.com/watch?v=sai1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-sai-002",
+        "title": "Arena Defense Tier List",
+        "thumbnail": "https://picsum.photos/seed/sai2/640/360",
+        "url": "https://www.youtube.com/watch?v=sai2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-sai-003",
+        "title": "Account Optimization Walkthrough",
+        "thumbnail": "https://picsum.photos/seed/sai3/640/360",
+        "url": "https://www.youtube.com/watch?v=sai3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCmtgjedi_ph",
+    "avatar": "https://i.pravatar.cc/150?u=mtgjedi",
+    "socials": {
+      "youtube": "https://www.youtube.com/@MtgJedi",
+      "twitch": "mtgjedi",
+      "twitter": "MtgJedi"
+    },
+    "id": "mtgjedi",
+    "name": "MtgJedi",
+    "channelUrl": "https://www.youtube.com/@MtgJedi",
+    "twitch": "mtgjedi",
+    "twitter": "MtgJedi",
+    "bioShort": "Guías detalladas y reviews de campeones con un enfoque metódico para progresar en Raid.",
+    "bioLong": "MtgJedi es un creador veterano de Raid: Shadow Legends conocido por sus guías detalladas, reviews de campeones y un enfoque metódico que ayuda a los jugadores a tomar mejores decisiones de progresión y composición de equipos.",
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "gameMode": [
+      "clanboss",
+      "dungeons",
+      "arena"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-jed-001",
+        "title": "In-Depth Champion Review",
+        "thumbnail": "https://picsum.photos/seed/jed1/640/360",
+        "url": "https://www.youtube.com/watch?v=jed1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-jed-002",
+        "title": "Dungeon Speed Team Guide",
+        "thumbnail": "https://picsum.photos/seed/jed2/640/360",
+        "url": "https://www.youtube.com/watch?v=jed2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-jed-003",
+        "title": "Where to Spend Your Resources",
+        "thumbnail": "https://picsum.photos/seed/jed3/640/360",
+        "url": "https://www.youtube.com/watch?v=jed3",
+        "publishedAt": "2026-06-13"
+      }
     ]
   }
 ]

@@ -386,5 +386,54 @@
         "publishedAt": "2026-05-25"
       }
     ]
+  },
+  {
+    "channelId": "UCcorejj_ph",
+    "avatar": "https://i.pravatar.cc/150?u=corejj",
+    "socials": {
+      "youtube": "https://www.youtube.com/@CoreJJ",
+      "twitch": "corejj",
+      "twitter": "Team_CoreJJ"
+    },
+    "id": "corejj",
+    "name": "CoreJJ",
+    "channelUrl": "https://www.youtube.com/@CoreJJ",
+    "twitch": "corejj",
+    "twitter": "Team_CoreJJ",
+    "bioShort": "Soporte profesional campeón mundial. Streams de altísimo nivel y guías de soporte.",
+    "bioLong": "Jo 'CoreJJ' Yong-in es un soporte profesional campeón del mundo, referente absoluto del rol. En su contenido muestra gameplay de soporte de élite, control de visión, posicionamiento en teamfights y toma de decisiones, además de coaching para jugadores que quieren dominar el rol más infravalorado del juego.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "role": [
+      "support"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-cjj-001",
+        "title": "Support Vision Control Masterclass",
+        "thumbnail": "https://picsum.photos/seed/cjj1/640/360",
+        "url": "https://www.youtube.com/watch?v=cjj1",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-cjj-002",
+        "title": "How to Carry from Support",
+        "thumbnail": "https://picsum.photos/seed/cjj2/640/360",
+        "url": "https://www.youtube.com/watch?v=cjj2",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-cjj-003",
+        "title": "Engage Timing — Pro Breakdown",
+        "thumbnail": "https://picsum.photos/seed/cjj3/640/360",
+        "url": "https://www.youtube.com/watch?v=cjj3",
+        "publishedAt": "2026-06-13"
+      }
+    ]
   }
 ]
