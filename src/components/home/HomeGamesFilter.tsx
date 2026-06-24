@@ -25,7 +25,6 @@ const TYPE_CHIPS = [
   { value: "casual",      label: "Casual",      icon: "🎮" },
   { value: "educational", label: "Educativo",   icon: "📚" },
   { value: "draft",       label: "Draft",       icon: "🃏" },
-  { value: "lore",        label: "Lore",        icon: "📖" },
 ] as const;
 
 type Lang = (typeof LANG_CHIPS)[number]["value"];
