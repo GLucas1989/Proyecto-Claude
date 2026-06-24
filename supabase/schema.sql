@@ -418,3 +418,132 @@ create policy "promoted: public read active"
 
 create policy "promoted: owner manage"
   on public.promoted_content for all using (auth.uid() = user_id);
+
+-- ─────────────────────────────────────────────────────────────────────────────
+-- MÓDULO: SOCIOS FUNDADORES + WALLET DE AUTORES UGC
+-- ─────────────────────────────────────────────────────────────────────────────
+
+-- ── Socios Fundadores ─────────────────────────────────────────────────────────
+create table public.founding_partners (
+  id                       uuid primary key default gen_random_uuid(),
+  user_id                  uuid not null unique references public.profiles(id) on delete cascade,
+  creator_id               uuid references public.creator_profiles(id) on delete set null,
+  brand_name               text,
+  revenue_share_percentage numeric(5,2) not null default 50.00
+    check (revenue_share_percentage >= 0 and revenue_share_percentage <= 100),
+  is_active                boolean not null default true,
+  notes                    text,
+  activated_by             uuid references public.profiles(id),  -- admin que lo activó
+  created_at               timestamptz not null default now(),
+  updated_at               timestamptz not null default now()
+);
+
+-- Columna fast-path en profiles (evita JOIN en cada request)
+alter table public.profiles
+  add column if not exists is_founding_partner boolean not null default false;
+
+-- ── Wallet de autores UGC ─────────────────────────────────────────────────────
+create table public.author_wallets (
+  user_id             uuid primary key references public.profiles(id) on delete cascade,
+  available_balance   numeric(12,2) not null default 0.00
+    check (available_balance >= 0),
+  withdrawn_balance   numeric(12,2) not null default 0.00
+    check (withdrawn_balance >= 0),
+  stripe_connect_id   text,
+  updated_at          timestamptz not null default now()
+);
+
+-- ── Historial de transacciones ────────────────────────────────────────────────
+create type public.wallet_tx_type as enum ('EARNING', 'WITHDRAWAL', 'REFUND');
+
+create table public.wallet_transactions (
+  id             uuid primary key default gen_random_uuid(),
+  user_id        uuid not null references public.profiles(id) on delete cascade,
+  amount         numeric(12,2) not null,
+  type           public.wallet_tx_type not null,
+  description    text,
+  stripe_ref     text,   -- payment_intent_id o transfer_id
+  created_at     timestamptz not null default now()
+);
+
+create index wallet_transactions_user on public.wallet_transactions(user_id, created_at desc);
+
+-- ─────────────────────────────────────────────────────────────────────────────
+-- FUNCIÓN RPC: credit_author_wallet
+-- Acredita ganancias al autor de una guía UGC premium.
+-- SECURITY DEFINER: solo ejecutable desde el backend (service role o webhook).
+-- Inserta la transacción y actualiza el balance en una única operación atómica.
+-- ─────────────────────────────────────────────────────────────────────────────
+create or replace function public.credit_author_wallet(
+  p_user_id      uuid,
+  p_amount_cents integer,   -- en centavos de USD
+  p_description  text,
+  p_stripe_ref   text
+)
+returns void
+language plpgsql
+security definer
+set search_path = public
+as $$
+declare
+  v_amount_dollars numeric(12,2) := p_amount_cents::numeric / 100.0;
+begin
+  -- Upsert wallet (crea si no existe)
+  insert into public.author_wallets (user_id, available_balance, updated_at)
+  values (p_user_id, v_amount_dollars, now())
+  on conflict (user_id) do update
+    set available_balance = author_wallets.available_balance + v_amount_dollars,
+        updated_at        = now();
+
+  -- Registrar transacción
+  insert into public.wallet_transactions (user_id, amount, type, description, stripe_ref)
+  values (p_user_id, v_amount_dollars, 'EARNING', p_description, p_stripe_ref);
+end;
+$$;
+
+-- ─────────────────────────────────────────────────────────────────────────────
+-- ROW LEVEL SECURITY
+-- ─────────────────────────────────────────────────────────────────────────────
+alter table public.founding_partners    enable row level security;
+alter table public.author_wallets       enable row level security;
+alter table public.wallet_transactions  enable row level security;
+
+-- founding_partners: lectura pública de socios activos (para badges en UI)
+create policy "founding_partners: public read active"
+  on public.founding_partners for select
+  using (is_active = true);
+
+-- founding_partners: solo ADMIN puede gestionar
+create policy "founding_partners: admin all"
+  on public.founding_partners for all
+  using (
+    exists (
+      select 1 from public.profiles
+      where id = auth.uid() and role = 'ADMIN'
+    )
+  );
+
+-- author_wallets: cada usuario solo ve su propio saldo
+create policy "author_wallets: own read"
+  on public.author_wallets for select
+  using (auth.uid() = user_id);
+
+-- author_wallets: escritura bloqueada desde el cliente
+-- (solo credit_author_wallet con SECURITY DEFINER puede escribir)
+create policy "author_wallets: no client write"
+  on public.author_wallets for insert
+  with check (false);
+
+create policy "author_wallets: no client update"
+  on public.author_wallets for update
+  using (false);
+
+-- wallet_transactions: cada usuario solo ve sus propias transacciones
+create policy "wallet_transactions: own read"
+  on public.wallet_transactions for select
+  using (auth.uid() = user_id);
+
+-- wallet_transactions: escritura bloqueada desde el cliente
+create policy "wallet_transactions: no client write"
+  on public.wallet_transactions for insert
+  with check (false);
