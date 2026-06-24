@@ -439,5 +439,79 @@
         "publishedAt": "2026-06-13"
       }
     ]
+  },
+  {
+    "channelId": "UCq8c6Z7jhS8LFrdUY2O4iyQ",
+    "avatar": "https://yt3.ggpht.com/92eJKy5pnKiqz0R5AfRb4Y_dm5P14khCGN0P0dTH2X3aIkcF3Gzx4WDyBEeWz1qeuARcr8ejqQ=s800-c-k-c0x00ffffff-no-rj",
+    "socials": {
+      "youtube": "https://www.youtube.com/@jackfyahyt"
+    },
+    "id": "jackfyah",
+    "name": "JackFyah",
+    "channelUrl": "https://www.youtube.com/@jackfyahyt",
+    "bioShort": "Contenido de Albion Online en español. Economía, PvP y la reconquista desde cero.",
+    "bioLong": "JackFyah es uno de los creadores de Albion Online más activos en español. Su contenido combina análisis del juego, series de progresión desde cero y opinión sobre las novedades del MMORPG. Ideal para la comunidad hispanohablante que quiere aprender y entretenerse con Albion.",
+    "contentType": [
+      "casual",
+      "educational"
+    ],
+    "gameMode": [
+      "pve",
+      "economy"
+    ],
+    "languages": [
+      "es"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-A1gh9Lz63AA",
+        "title": "EL VACIO LEGAL QUE ESTÁ DESTROZANDO ALBION ONLINE 😧 #68",
+        "thumbnail": "https://i.ytimg.com/vi/A1gh9Lz63AA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A1gh9Lz63AA",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-LSXbgse4LYg",
+        "title": "EL QUE PERDONA MURIÓ EN LA CRUZ... 😈🔥 Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/LSXbgse4LYg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LSXbgse4LYg",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-79AVXlI0_6U",
+        "title": "MIS PRIMEROS 20 MILLONES 🤑 ¡LA RECONQUISTA de ALBION ONLINE! 🔥 #8",
+        "thumbnail": "https://i.ytimg.com/vi/79AVXlI0_6U/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=79AVXlI0_6U",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-jeExwjdRSPM",
+        "title": "ALGO GRANDE ESTÁ PASANDO EN ALBION ONLINE... 🌋🔥 #67",
+        "thumbnail": "https://i.ytimg.com/vi/jeExwjdRSPM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jeExwjdRSPM",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-728A_yQ5cP0",
+        "title": "ME SNIPEAN *SALE MAL* ¡LA RECONQUISTA de ALBION ONLINE! 🔥 #7",
+        "thumbnail": "https://i.ytimg.com/vi/728A_yQ5cP0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=728A_yQ5cP0",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-X3dgWYvvZ5s",
+        "title": "SE COMPLICÓ TODO... ¡LA RECONQUISTA de ALBION ONLINE! 🔥 #6",
+        "thumbnail": "https://i.ytimg.com/vi/X3dgWYvvZ5s/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=X3dgWYvvZ5s",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-40zNPQJAA0U",
+        "title": "NUEVOS CAMBIOS A LAS NIEBLAS ¡MEJOR LOOT! 🔥 Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/40zNPQJAA0U/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=40zNPQJAA0U",
+        "publishedAt": "2026-06-06"
+      }
+    ]
   }
 ]
