@@ -69,7 +69,7 @@ export function Navbar() {
       {mobileOpen && (
         <div className="md:hidden border-t border-cyan-500/10 bg-[#030712]/98 backdrop-blur-xl">
           <div className="mx-auto max-w-7xl px-4 py-4 flex flex-col gap-1">
-            <p className="text-[10px] font-mono uppercase tracking-[0.2em] text-white/25 px-3 pb-2">// Juegos</p>
+            <p className="text-[10px] font-mono uppercase tracking-[0.2em] text-white/25 px-3 pb-2">{'// Juegos'}</p>
             {activeGames.map((game) => (
               <Link
                 key={game.id}

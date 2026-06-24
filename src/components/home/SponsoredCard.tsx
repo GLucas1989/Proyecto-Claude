@@ -15,7 +15,7 @@ export function SponsoredCard() {
         {/* Center: copy */}
         <div className="flex-1 text-center sm:text-left">
           <div className="inline-flex items-center gap-1.5 mb-1">
-            <span className="text-[9px] font-mono uppercase tracking-[0.25em] text-cyan-500/40">// sponsored</span>
+            <span className="text-[9px] font-mono uppercase tracking-[0.25em] text-cyan-500/40">{'// sponsored'}</span>
           </div>
           <p className="text-sm font-semibold text-white/30">Espacio publicitario nativo</p>
           <p className="text-xs text-white/20 mt-0.5">Alcanzá a miles de gamers hispanohablantes con contenido integrado.</p>
