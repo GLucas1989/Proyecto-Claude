@@ -77,7 +77,7 @@ export default async function GamePage({ params }: GamePageProps) {
         </div>
       </div>
 
-      <CreatorGrid creators={creators} gameSlug={gameSlug} />
+      <CreatorGrid creators={creators} gameSlug={gameSlug} availableFilters={game.filters} />
     </div>
   );
 }

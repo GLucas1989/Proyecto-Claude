@@ -141,23 +141,16 @@
     ]
   },
   {
-    "channelId": "UCcoolrinwr_ph",
-    "avatar": "https://i.pravatar.cc/150?u=coolrin-wr",
-    "socials": {
-      "youtube": "https://www.youtube.com/@CoolRin",
-      "twitch": "coolrin",
-      "twitter": "CoolRin"
-    },
-    "id": "coolrin-wr",
-    "name": "CoolRin",
-    "channelUrl": "https://www.youtube.com/@CoolRin",
-    "twitch": "coolrin",
-    "twitter": "CoolRin",
-    "bioShort": "Streamer de Wild Rift con jugadas espectaculares y gameplay de alto nivel.",
-    "bioLong": "CoolRin es una streamer de Wild Rift que ha cautivado a la comunidad con jugadas espectaculares y gameplay de alto nivel, manteniendo un estilo único y una comunidad muy activa.",
+    "id": "royal-wr",
+    "name": "Royal",
+    "channelId": "UCowkr3QJ-TvX5siY3piQ2Xw",
+    "channelUrl": "https://www.youtube.com/@Royal-WildRift",
+    "avatar": "https://yt3.ggpht.com/4eWqxn7pryYdWCGXx8iw-IycDD_hAyzCWtQ_fIGMapySK9tq4iTLIuoBj-nAbWsYD6W-aD5e=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Guías de mid lane, análisis de parches y gameplay de alto nivel en Wild Rift.",
+    "bioLong": "Royal es uno de los creadores de Wild Rift más activos y completos. Su canal cubre guías de macro para mid lane, reacciones a parches, builds de campeones y highlights competitivos. Contenido constante para jugadores que quieren entender el juego a fondo.",
     "contentType": [
-      "competitive",
-      "casual"
+      "educational",
+      "competitive"
     ],
     "role": [
       "mid",
@@ -166,160 +159,273 @@
     "languages": [
       "en"
     ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@Royal-WildRift"
+    },
     "latestVideos": [
       {
-        "id": "vid-crn-001",
-        "title": "Insane Outplay Compilation",
-        "thumbnail": "https://picsum.photos/seed/crn1/640/360",
-        "url": "https://www.youtube.com/watch?v=crn1",
-        "publishedAt": "2026-06-21"
+        "id": "vid-rwkPWH3nGdE",
+        "title": "Wild Rift: RIOT IS MAKING RANKED CHANGES (Patch Preview Reaction)",
+        "thumbnail": "https://i.ytimg.com/vi/rwkPWH3nGdE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rwkPWH3nGdE",
+        "publishedAt": "2026-06-24"
       },
       {
-        "id": "vid-crn-002",
-        "title": "Mid Lane Carry Gameplay",
-        "thumbnail": "https://picsum.photos/seed/crn2/640/360",
-        "url": "https://www.youtube.com/watch?v=crn2",
-        "publishedAt": "2026-06-17"
+        "id": "vid-Il9l97B_Edg",
+        "title": "Wild Rift: HIT LEVEL 5 FIRST WITH THIS SMITE BUG",
+        "thumbnail": "https://i.ytimg.com/vi/Il9l97B_Edg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Il9l97B_Edg",
+        "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-crn-003",
-        "title": "Ranked Climb Highlights",
-        "thumbnail": "https://picsum.photos/seed/crn3/640/360",
-        "url": "https://www.youtube.com/watch?v=crn3",
-        "publishedAt": "2026-06-13"
+        "id": "vid-daHTXXK0CUE",
+        "title": "Wild Rift: Wave Management (Mid Lane Macro Guide)",
+        "thumbnail": "https://i.ytimg.com/vi/daHTXXK0CUE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=daHTXXK0CUE",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-Z36hpTVeQ_I",
+        "title": "Wild Rift: NEW CHAMPION SKARNER - Build, Gameplay, Pro Tips",
+        "thumbnail": "https://i.ytimg.com/vi/Z36hpTVeQ_I/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Z36hpTVeQ_I",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-_65A2K_nwzA",
+        "title": "Wild Rift: PATCH 7.1G - THEY NERFED JUNGLE!!",
+        "thumbnail": "https://i.ytimg.com/vi/_65A2K_nwzA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_65A2K_nwzA",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-ZHOKMkl4Idc",
+        "title": "Wild Rift: Lane Priority (Mid Lane Macro Guide)",
+        "thumbnail": "https://i.ytimg.com/vi/ZHOKMkl4Idc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZHOKMkl4Idc",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "id": "vid-0tbIUTRvWY4",
+        "title": "Wild Rift: PATCH 7.2 PBE - THEY ARE CHANGING EVERYTHING!",
+        "thumbnail": "https://i.ytimg.com/vi/0tbIUTRvWY4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0tbIUTRvWY4",
+        "publishedAt": "2026-06-08"
+      },
+      {
+        "id": "vid-IDyXp1tLSzU",
+        "title": "How to Play Mid Lane in Wild Rift (Rank 1 Mid lane Macro Guide)",
+        "thumbnail": "https://i.ytimg.com/vi/IDyXp1tLSzU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IDyXp1tLSzU",
+        "publishedAt": "2026-06-08"
+      },
+      {
+        "id": "vid-PAbhqW-DUic",
+        "title": "Riot made every champion into a Cat #wildrift #wildriftpartner",
+        "thumbnail": "https://i.ytimg.com/vi/PAbhqW-DUic/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PAbhqW-DUic",
+        "publishedAt": "2026-06-05"
+      },
+      {
+        "id": "vid-YVZVwhsb1I4",
+        "title": "I Challenged @HellsDevilwildrift to a 1v1 for 100€",
+        "thumbnail": "https://i.ytimg.com/vi/YVZVwhsb1I4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YVZVwhsb1I4",
+        "publishedAt": "2026-06-02"
       }
     ]
   },
   {
-    "channelId": "UC8SIGsM6pRTbjwrI8WmXq4A",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_lkZ3MhSa_JgAnjQrlz-zheIi2uhVsZkwRVYNKci7bV0q4=s800-c-k-c0x00ffffff-no-rj",
-    "socials": {
-      "youtube": "https://www.youtube.com/@VyGaming",
-      "twitter": "VyGaming"
-    },
-    "id": "vygaming-wr",
-    "name": "Vy Gaming",
-    "channelUrl": "https://www.youtube.com/@VyGaming",
-    "twitter": "VyGaming",
-    "bioShort": "Noticias, novedades y guías de la escena de Wild Rift y MOBAs móviles.",
-    "bioLong": "Vy Gaming es una referencia para noticias y novedades de Wild Rift y la escena de MOBAs móviles, con cobertura de parches, guías y análisis del meta competitivo.",
+    "id": "wildrift-latam",
+    "name": "Wild Rift LATAM",
+    "channelId": "UCZryWLpEaW1T40CWjiYIXAQ",
+    "channelUrl": "https://www.youtube.com/@WildRiftLatam",
+    "avatar": "https://yt3.ggpht.com/DPhDUdNRnXmJyrxLwARTY0Crc3QXls-oG8rFBoPSua7U9qfVjqt7VVmn0amkZqa2Im8tZAAYLA=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Canal oficial de Wild Rift para Latinoamérica. Noticias, parches, trailers y todo en español.",
+    "bioLong": "El canal oficial de League of Legends: Wild Rift para la comunidad hispanohablante de Latinoamérica. Publica avances de parches, resúmenes de campeones, trailers de skins y todo el contenido oficial del juego directamente en español. La fuente más confiable para seguir las novedades de Wild Rift en tu idioma.",
     "contentType": [
-      "educational",
-      "casual"
+      "casual",
+      "educational"
     ],
     "role": [
       "top",
+      "jungle",
+      "mid",
+      "adc",
+      "support"
+    ],
+    "languages": [
+      "es"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@WildRiftLatam"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-nZ_YMZQCU6w",
+        "title": "A DEVORAR con Yunara, objetos nuevos y la progresión de clasificatorias | Avance de la versión",
+        "thumbnail": "https://i.ytimg.com/vi/nZ_YMZQCU6w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nZ_YMZQCU6w",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-fkw0ix00oLc",
+        "title": "¡Bon appétit! ¿Quién es ese campeón? #wildrift #patchpreview #leagueoflegends",
+        "thumbnail": "https://i.ytimg.com/vi/fkw0ix00oLc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fkw0ix00oLc",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-aZgkdNcu_JU",
+        "title": "¿Quién será el nuevo campeón? Adivinen en los comentarios",
+        "thumbnail": "https://i.ytimg.com/vi/aZgkdNcu_JU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aZgkdNcu_JU",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-lzmn3n9O79Q",
+        "title": "Resumen de Skarner | Jugabilidad - League of Legends: Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/lzmn3n9O79Q/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lzmn3n9O79Q",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-hvIAu7Saj5k",
+        "title": "De las pistas a la Grieta, la velocidad arrasa en esta versión 🏎️🎊 #wildrift",
+        "thumbnail": "https://i.ytimg.com/vi/hvIAu7Saj5k/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hvIAu7Saj5k",
+        "publishedAt": "2026-05-20"
+      },
+      {
+        "id": "vid-f5iFWfSK6d4",
+        "title": "Resumen de Taliyah | Jugabilidad - League of Legends: Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/f5iFWfSK6d4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f5iFWfSK6d4",
+        "publishedAt": "2026-05-10"
+      },
+      {
+        "id": "vid-sl4lxr7rdUQ",
+        "title": "¡A Toda Máquina! Kai'Sa Neón Temerario Prestigiosa Selecta 🔥🏎️",
+        "thumbnail": "https://i.ytimg.com/vi/sl4lxr7rdUQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sl4lxr7rdUQ",
+        "publishedAt": "2026-05-02"
+      },
+      {
+        "id": "vid-ybylM1xihdE",
+        "title": "Sé la carrera | Wild Rift x Porsche",
+        "thumbnail": "https://i.ytimg.com/vi/ybylM1xihdE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ybylM1xihdE",
+        "publishedAt": "2026-04-30"
+      },
+      {
+        "id": "vid-BYj-A_btUW8",
+        "title": "Neón Temerario ft. Porsche | Tráiler de aspecto - League of Legends: Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/BYj-A_btUW8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BYj-A_btUW8",
+        "publishedAt": "2026-04-29"
+      },
+      {
+        "id": "vid-QqBSuJ4VR-I",
+        "title": "¡Que cada combate se incline a tu favor! 👊",
+        "thumbnail": "https://i.ytimg.com/vi/QqBSuJ4VR-I/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QqBSuJ4VR-I",
+        "publishedAt": "2026-04-18"
+      }
+    ]
+  },
+  {
+    "id": "riftguides-wr",
+    "name": "RiftGuides",
+    "channelId": "UCvASVZzW0X3ma8aYsFhVDJw",
+    "channelUrl": "https://www.youtube.com/@RiftGuidesChallengerWildRiftGuides",
+    "avatar": "https://yt3.ggpht.com/HOc_hrQ7__TRuqFvkdw24LIg2XGL26ACOnin0JXx9jJV0ANXZ0g0Aw_1TIgHAkXT1pvweowNIA=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Coaching de Wild Rift desde Challenger. Guías por campeón, análisis de errores y cómo subir de elo.",
+    "bioLong": "RiftGuides ofrece coaching y guías de Wild Rift desde la perspectiva de un jugador Challenger. Sus videos analizan errores comunes, mejoran mecánicas por campeón y explican conceptos de macro que te ayudarán a subir elo en clasificatorias. Ideal para jugadores que quieren mejorar de forma sistemática.",
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "role": [
+      "jungle",
+      "mid",
       "support"
     ],
     "languages": [
       "en"
     ],
-    "latestVideos": [
-      {
-        "id": "vid--58fve6NVOU",
-        "title": "SKIN BAXIA MSC GRATIS + TEST DROP RATE MSC SUPPORT CHEST 2026! MOBILE LEGENDS",
-        "thumbnail": "https://i.ytimg.com/vi/-58fve6NVOU/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-58fve6NVOU",
-        "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-hev7WubmODA",
-        "title": "KUNCI JAWABAN MINI GAME TANTANGAN LAPANGAN RUTE TERBAIK MCGG - CLAIM SKIN MIYA GRATIS",
-        "thumbnail": "https://i.ytimg.com/vi/hev7WubmODA/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hev7WubmODA",
-        "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-gpycJW43yqk",
-        "title": "NEKAT GACHA DI AKUN YANG SUDAH PUNYA SEMUA SKIN SANRIO -TERNYATA INI SKIN YANG KALIAN DAPAT DI BINGO",
-        "thumbnail": "https://i.ytimg.com/vi/gpycJW43yqk/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gpycJW43yqk",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-VnHNb2_t76c",
-        "title": "DROP RATE POLA 4X NYA GEDE BANGET! GACHA BRUTAL SANRIO DI 4 AKUN - MOBILE LEGENDS",
-        "thumbnail": "https://i.ytimg.com/vi/VnHNb2_t76c/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VnHNb2_t76c",
-        "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-bjfi6WGOFFo",
-        "title": "KADITA REVAMP, KAJA REVAMP BUFF, BRUNO NERF, MASHA NERF LAGI - PATCH NOTE 2.1.92 MOBILE LEGENDS",
-        "thumbnail": "https://i.ytimg.com/vi/bjfi6WGOFFo/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bjfi6WGOFFo",
-        "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-l0FJ_qH_h7A",
-        "title": "REKAP PATCH NOTE ORIGINAL SERVER SEASON 41 MOBILE LEGENDS 17 JUNI 2026",
-        "thumbnail": "https://i.ytimg.com/vi/l0FJ_qH_h7A/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=l0FJ_qH_h7A",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-m8t_8OfHVQE",
-        "title": "CLAIM EMOTE HIRARA GRATIS + PENJELASAN SKILL HIRARA - HERO ASSASSIN BARU SUPER GESIT! MOBILE LEGENDS",
-        "thumbnail": "https://i.ytimg.com/vi/m8t_8OfHVQE/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m8t_8OfHVQE",
-        "publishedAt": "2026-06-16"
-      },
-      {
-        "id": "vid-IZkUzhEGKlM",
-        "title": "CARA DAPAT TOKEN SARIO GRATIS LEWAT PASAR LELANG TANPA MENGURANGI DIAMOND KALIAN - MOBILE LEGENDS",
-        "thumbnail": "https://i.ytimg.com/vi/IZkUzhEGKlM/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IZkUzhEGKlM",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-L4eYJTH54YA",
-        "title": "DROP RATE 10X GACHA PERTAMA SANRIO - FARMING BANYAK COA! MOBILE LEGENDS",
-        "thumbnail": "https://i.ytimg.com/vi/L4eYJTH54YA/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=L4eYJTH54YA",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-wOklYBkFIH8",
-        "title": "BRUNO REVAMP, MASHA NERF, KAJA BUFF, ODETTE NERF, AULUS NERF - PATCH NOTE 2.1.90 MOBILE LEGENDS",
-        "thumbnail": "https://i.ytimg.com/vi/wOklYBkFIH8/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wOklYBkFIH8",
-        "publishedAt": "2026-06-13"
-      }
-    ]
-  },
-  {
-    "channelId": "UCUQWaaQeeqFcAQ75EUQlkOQ",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mJjLm89fLtcMyvEFl_mhNwQOa3cbDSyLGbnFSoDks=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
-      "youtube": "https://www.youtube.com/@NoxiousLive",
-      "twitch": "noxiouslive",
-      "twitter": "NoxiousLive"
+      "youtube": "https://www.youtube.com/@RiftGuidesChallengerWildRiftGuides"
     },
-    "id": "quisquis-wr",
-    "name": "NoxiousLive",
-    "channelUrl": "https://www.youtube.com/@NoxiousLive",
-    "twitch": "noxiouslive",
-    "twitter": "NoxiousLive",
-    "bioShort": "Guías de Wild Rift y LoL con análisis de campeones y meta. Contenido educativo de alto nivel.",
-    "bioLong": "NoxiousLive es un creador de contenido de League of Legends y Wild Rift conocido por sus guías de campeones, análisis del meta y tier lists. Su enfoque educativo y claro lo convierte en una referencia para jugadores que quieren mejorar su gameplay en el MOBA móvil de Riot.",
-    "contentType": [
-      "educational",
-      "casual"
-    ],
-    "role": [
-      "mid",
-      "adc"
-    ],
-    "languages": [
-      "en"
-    ],
     "latestVideos": [
       {
-        "id": "vid-7yntX_dyC9A",
-        "title": "Noxious Nade -  POV FFA",
-        "thumbnail": "https://i.ytimg.com/vi/7yntX_dyC9A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7yntX_dyC9A",
-        "publishedAt": "2010-11-02"
+        "id": "vid-Y_dp5gf9slU",
+        "title": "YOU WANT TO CLIMB? BECOME SELFISH | WILD RIFT COACHING YI & VI | RiftGuides | WildRift",
+        "thumbnail": "https://i.ytimg.com/vi/Y_dp5gf9slU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Y_dp5gf9slU",
+        "publishedAt": "2026-03-02"
+      },
+      {
+        "id": "vid-C7l3Fm4u77A",
+        "title": "FIX YOUR MISTAKES WHEN PLAYING JUNGLE IN WILD RIFT! Master Yi Coaching | RiftGuides | WildRift",
+        "thumbnail": "https://i.ytimg.com/vi/C7l3Fm4u77A/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C7l3Fm4u77A",
+        "publishedAt": "2026-02-09"
+      },
+      {
+        "id": "vid-NagXetnggCk",
+        "title": "WILD RIFT COACHING KARMA & SENNA | BEST BUILDS | RiftGuides | WildRift",
+        "thumbnail": "https://i.ytimg.com/vi/NagXetnggCk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NagXetnggCk",
+        "publishedAt": "2026-02-02"
+      },
+      {
+        "id": "vid-8YcO8MtSQQ8",
+        "title": "NEW SEASON WILD RIFT RANKED GRIND | Patch 7.0 | Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/8YcO8MtSQQ8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8YcO8MtSQQ8",
+        "publishedAt": "2026-01-23"
+      },
+      {
+        "id": "vid--R5z6cKmYj0",
+        "title": "THE SUNFIRE CHALLENGE WE BURN ONLY | Patch 6.3F | Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/-R5z6cKmYj0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-R5z6cKmYj0",
+        "publishedAt": "2026-01-02"
+      },
+      {
+        "id": "vid-Vs-vUJJWvEo",
+        "title": "How many WR players do you need to change a light bulb? | Patch 6.3F | Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/Vs-vUJJWvEo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vs-vUJJWvEo",
+        "publishedAt": "2025-12-28"
+      },
+      {
+        "id": "vid-jJ3gG87kS5w",
+        "title": "POST XMAS WR RANKED DOOM SIMULATOR - CRASHOUT PRESTIGE EDITION | Patch 6.3F | Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/jJ3gG87kS5w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jJ3gG87kS5w",
+        "publishedAt": "2025-12-28"
+      },
+      {
+        "id": "vid-iS6KdQnB_7k",
+        "title": "XMAS WR RANKED DOOM SIMULATOR - CRASHOUT PRESTIGE EDITION | Patch 6.3F | Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/iS6KdQnB_7k/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iS6KdQnB_7k",
+        "publishedAt": "2025-12-26"
+      },
+      {
+        "id": "vid-b5TU0t1xe4I",
+        "title": "WR RANKED DOOM SIMULATOR - CRASHOUT PRESTIGE EDITION | Patch 6.3E | Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/b5TU0t1xe4I/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b5TU0t1xe4I",
+        "publishedAt": "2025-12-15"
+      },
+      {
+        "id": "vid-zfFn5xzqAMo",
+        "title": "WR IN 2025 SOVEREIGN = EMERALD, LEGEND = COMMANDER | Patch 6.3E | Wild Rift",
+        "thumbnail": "https://i.ytimg.com/vi/zfFn5xzqAMo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zfFn5xzqAMo",
+        "publishedAt": "2025-12-11"
       }
     ]
   }

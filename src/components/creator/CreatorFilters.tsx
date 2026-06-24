@@ -9,11 +9,12 @@ import { Search, X } from "lucide-react";
 interface CreatorFiltersProps {
   filters: CreatorFilters;
   onFiltersChange: (filters: CreatorFilters) => void;
+  availableFilters?: string[];
 }
 
 const defaultFilters: CreatorFilters = { search: "", contentType: "", format: "", language: "" };
 
-export function CreatorFiltersBar({ filters, onFiltersChange }: CreatorFiltersProps) {
+export function CreatorFiltersBar({ filters, onFiltersChange, availableFilters = [] }: CreatorFiltersProps) {
   const hasActiveFilters = filters.search || filters.contentType || filters.format || filters.language;
 
   return (
@@ -37,17 +38,19 @@ export function CreatorFiltersBar({ filters, onFiltersChange }: CreatorFiltersPr
           <SelectItem value="lore">Lore / Explicativo</SelectItem>
         </SelectContent>
       </Select>
-      <Select value={filters.format || "all"} onValueChange={(v) => onFiltersChange({ ...filters, format: v === "all" ? "" : (v as MTGFormat) })}>
-        <SelectTrigger className="w-full sm:w-[150px] bg-white/5 border-white/10 text-white"><SelectValue placeholder="Formato" /></SelectTrigger>
-        <SelectContent className="bg-zinc-900 border-white/10 text-white">
-          <SelectItem value="all">Todos los formatos</SelectItem>
-          <SelectItem value="standard">Standard</SelectItem>
-          <SelectItem value="explorer">Explorer</SelectItem>
-          <SelectItem value="alchemy">Alchemy</SelectItem>
-          <SelectItem value="historic">Historic</SelectItem>
-          <SelectItem value="brawl">Brawl</SelectItem>
-        </SelectContent>
-      </Select>
+      {availableFilters.includes("format") && (
+        <Select value={filters.format || "all"} onValueChange={(v) => onFiltersChange({ ...filters, format: v === "all" ? "" : (v as MTGFormat) })}>
+          <SelectTrigger className="w-full sm:w-[150px] bg-white/5 border-white/10 text-white"><SelectValue placeholder="Formato" /></SelectTrigger>
+          <SelectContent className="bg-zinc-900 border-white/10 text-white">
+            <SelectItem value="all">Todos los formatos</SelectItem>
+            <SelectItem value="standard">Standard</SelectItem>
+            <SelectItem value="explorer">Explorer</SelectItem>
+            <SelectItem value="alchemy">Alchemy</SelectItem>
+            <SelectItem value="historic">Historic</SelectItem>
+            <SelectItem value="brawl">Brawl</SelectItem>
+          </SelectContent>
+        </Select>
+      )}
       <Select value={filters.language || "all"} onValueChange={(v) => onFiltersChange({ ...filters, language: v === "all" ? "" : (v as Language) })}>
         <SelectTrigger className="w-full sm:w-[140px] bg-white/5 border-white/10 text-white"><SelectValue placeholder="Idioma" /></SelectTrigger>
         <SelectContent className="bg-zinc-900 border-white/10 text-white">

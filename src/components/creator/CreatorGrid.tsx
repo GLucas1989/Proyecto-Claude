@@ -9,11 +9,12 @@ import { Users } from "lucide-react";
 interface CreatorGridProps {
   creators: Creator[];
   gameSlug: string;
+  availableFilters?: string[];
 }
 
 const defaultFilters: CreatorFilters = { search: "", contentType: "", format: "", language: "" };
 
-export function CreatorGrid({ creators, gameSlug }: CreatorGridProps) {
+export function CreatorGrid({ creators, gameSlug, availableFilters = [] }: CreatorGridProps) {
   const [filters, setFilters] = useState<CreatorFilters>(defaultFilters);
 
   const filtered = creators.filter((creator) => {
@@ -26,7 +27,7 @@ export function CreatorGrid({ creators, gameSlug }: CreatorGridProps) {
 
   return (
     <div className="space-y-6">
-      <CreatorFiltersBar filters={filters} onFiltersChange={setFilters} />
+      <CreatorFiltersBar filters={filters} onFiltersChange={setFilters} availableFilters={availableFilters} />
       <div className="flex items-center gap-2 text-sm text-white/40">
         <Users className="h-4 w-4" />
         <span>{filtered.length} creador{filtered.length !== 1 ? "es" : ""} encontrado{filtered.length !== 1 ? "s" : ""}</span>
