@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
 import { AuthProvider } from "@/components/auth/AuthProvider";
+import { Analytics } from "@vercel/analytics/next";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -38,6 +39,7 @@ export default function RootLayout({
             CreatorsHub © {new Date().getFullYear()} &mdash; Directorio de creadores gaming
           </footer>
         </AuthProvider>
+        <Analytics />
       </body>
     </html>
   );
