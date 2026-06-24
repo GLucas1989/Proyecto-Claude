@@ -50,11 +50,11 @@ export async function startCreatorCheckout(
 ): Promise<{ url?: string; error?: string }> {
   try {
     const res = await fetch(
-      `${process.env.NEXT_PUBLIC_SITE_URL}/api/stripe/checkout`,
+      `${process.env.NEXT_PUBLIC_SITE_URL}/api/lemonsqueezy/checkout`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ creatorSlug, planId }),
+        body: JSON.stringify({ type: "creator_sub", creatorId: creatorSlug, planId }),
       }
     );
     const json = await res.json() as { url?: string; error?: string };

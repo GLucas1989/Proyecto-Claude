@@ -258,11 +258,11 @@ export async function uploadAttachment(
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// PASO 4B — Activar promoción (crea PaymentIntent → ver /api/stripe/ugc-promote)
+// PASO 4B — Activar promoción (crea checkout LS → redirige al usuario)
 // ─────────────────────────────────────────────────────────────────────────────
 
 export async function createPromotionIntent(publicationId: string): Promise<{
-  clientSecret: string | null;
+  url: string | null;
   promotionId: string | null;
   error?: string;
 }> {
@@ -278,7 +278,7 @@ export async function createPromotionIntent(publicationId: string): Promise<{
       .eq("status", "PUBLISHED")
       .single();
 
-    if (!pub) return { clientSecret: null, promotionId: null, error: "Publicación no encontrada o no publicada." };
+    if (!pub) return { url: null, promotionId: null, error: "Publicación no encontrada o no publicada." };
 
     // Verificar que no hay una promoción activa
     const { data: existing } = await supabase
@@ -290,7 +290,7 @@ export async function createPromotionIntent(publicationId: string): Promise<{
       .maybeSingle();
 
     if (existing) {
-      return { clientSecret: null, promotionId: null, error: "Esta publicación ya tiene una promoción activa." };
+      return { url: null, promotionId: null, error: "Esta publicación ya tiene una promoción activa." };
     }
 
     // Precio fijo: $9.99 = 999 centavos por 7 días
@@ -311,21 +311,25 @@ export async function createPromotionIntent(publicationId: string): Promise<{
       .select("id")
       .single();
 
-    if (promoErr || !promo) return { clientSecret: null, promotionId: null, error: "Error creando la promoción." };
+    if (promoErr || !promo) return { url: null, promotionId: null, error: "Error creando la promoción." };
 
-    // Crear PaymentIntent de Stripe via API route
-    const res = await fetch(`${process.env.NEXT_PUBLIC_SITE_URL}/api/stripe/ugc-promote`, {
+    // Crear checkout de Lemon Squeezy via API route
+    const res = await fetch(`${process.env.NEXT_PUBLIC_SITE_URL}/api/lemonsqueezy/checkout`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ promotionId: promo.id, amountCents: PROMOTION_PRICE_CENTS }),
+      body: JSON.stringify({
+        type: "ugc_promotion",
+        publicationId,
+        authorId: user.id,
+      }),
     });
 
-    const json = await res.json() as { clientSecret?: string; error?: string };
-    if (!json.clientSecret) return { clientSecret: null, promotionId: promo.id, error: json.error ?? "Error Stripe." };
+    const json = await res.json() as { url?: string; error?: string };
+    if (!json.url) return { url: null, promotionId: promo.id, error: json.error ?? "Error al crear checkout." };
 
-    return { clientSecret: json.clientSecret, promotionId: promo.id };
+    return { url: json.url, promotionId: promo.id };
   } catch {
-    return { clientSecret: null, promotionId: null, error: "Error interno." };
+    return { url: null, promotionId: null, error: "Error interno." };
   }
 }
 
