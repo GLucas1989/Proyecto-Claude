@@ -569,6 +569,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-5QL6cJdwOLg",
+        "title": "Faker & Keria: Behind the T1 Worlds 2025 Skins",
+        "thumbnail": "https://i2.ytimg.com/vi/5QL6cJdwOLg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5QL6cJdwOLg",
+        "publishedAt": "2026-06-24"
+      },
+      {
         "id": "vid-8AettDwhluc",
         "title": "Three-peat, 1 Dynasty: T1 Worlds 2025 Skins | Behind the Scenes - League of Legends",
         "thumbnail": "https://i1.ytimg.com/vi/8AettDwhluc/hqdefault.jpg",
@@ -630,13 +637,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/4G912EzdCz8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4G912EzdCz8",
         "publishedAt": "2026-05-29"
-      },
-      {
-        "id": "vid-d7VYLsZ_WXk",
-        "title": "ARAM: MAYHEM – NEW AUGMENTS INCOMING!",
-        "thumbnail": "https://i1.ytimg.com/vi/d7VYLsZ_WXk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d7VYLsZ_WXk",
-        "publishedAt": "2026-05-28"
       }
     ]
   },
