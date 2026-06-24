@@ -1,246 +1,251 @@
 [
   {
-    "channelId": "UCRl31PWkfF0a3j3hiDRaCGA",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mujlf8pAHiCkf8NyOfLAcqcHhya86LhKUpYyGGvSMAoPo=s800-c-k-c0x00ffffff-no-rj",
+    "channelId": "UC7q2tr3OgKp5UWsOSC2OnPw",
+    "avatar": "https://yt3.ggpht.com/HGTd6cHoddnYnoXwo7Kv3LlSpV20LIfsLxrWUjvxFT4SOY9CUQcvHw7Kr2JRPnAq0Mpubhs3cy4=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
-      "youtube": "https://www.youtube.com/@Rhykker",
-      "twitch": "rhykker",
-      "twitter": "rhykker"
+      "youtube": "https://www.youtube.com/@killswitch.playground"
     },
-    "id": "rhykker-di",
-    "name": "Rhykker",
-    "channelUrl": "https://www.youtube.com/@Rhykker",
-    "twitch": "rhykker",
-    "twitter": "rhykker",
-    "bioShort": "El referente ARPG. Guías de Diablo Immortal, novedades y análisis del endgame.",
-    "bioLong": "Rhykker es el creador ARPG más veterano de YouTube y cubre Diablo Immortal desde su lanzamiento. Sus guías claras de clases, novedades de cada actualización y análisis del endgame lo hacen ideal tanto para nuevos jugadores como para veteranos.",
+    "id": "killswitch-playground",
+    "name": "KillSwitch Playground",
+    "channelUrl": "https://www.youtube.com/@killswitch.playground",
+    "bioShort": "Guías de builds PvP para Warlock, meta por región y novedades de Diablo Immortal.",
+    "bioLong": "KillSwitch Playground es el canal de referencia para builds PvP de Diablo Immortal, con análisis del meta por región (NA, EU, SEA, CN), guías de Warlock y cobertura de eventos competitivos. Publicaciones diarias con el contenido más actualizado.",
     "contentType": [
       "educational",
       "competitive"
     ],
     "class": [
-      "all"
+      "warlock",
+      "wizard"
     ],
     "languages": [
       "en"
     ],
     "latestVideos": [
       {
-        "id": "vid-BI_ulXQIezw",
-        "title": "Diablo 4 Season 14 Finally Answers the Feedback, But Is It Enough?",
-        "thumbnail": "https://i.ytimg.com/vi/BI_ulXQIezw/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BI_ulXQIezw",
-        "publishedAt": "2026-06-23"
+        "id": "vid-eNtgNp3tYHo",
+        "title": "Diablo Immortal – Warlock PVP Build | NA Meta",
+        "thumbnail": "https://i.ytimg.com/vi/eNtgNp3tYHo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eNtgNp3tYHo",
+        "publishedAt": "2026-06-22"
       },
       {
-        "id": "vid-2ZgkBq9FeOU",
-        "title": "Diablo 4 Season 14 Is Coming, But Xbox Is Melting Down",
-        "thumbnail": "https://i.ytimg.com/vi/2ZgkBq9FeOU/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2ZgkBq9FeOU",
+        "id": "vid-sEYa0xWhpDc",
+        "title": "Diablo Immortal – Warlock PVP Build | EU Meta",
+        "thumbnail": "https://i.ytimg.com/vi/sEYa0xWhpDc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sEYa0xWhpDc",
         "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-sv_Uj70jg1c",
-        "title": "Diablo Buildcrafting in a Hades-Style Roguelite? | Cursemark",
-        "thumbnail": "https://i.ytimg.com/vi/sv_Uj70jg1c/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sv_Uj70jg1c",
+        "id": "vid-n8e_oFQFqhQ",
+        "title": "Diablo Immortal – Warlock PVP Build | SEA Meta",
+        "thumbnail": "https://i.ytimg.com/vi/n8e_oFQFqhQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=n8e_oFQFqhQ",
         "publishedAt": "2026-06-19"
       },
       {
-        "id": "vid-AhDjtFOkOFY",
-        "title": "Titan Quest 2 Wild Lands Update Gameplay",
-        "thumbnail": "https://i.ytimg.com/vi/AhDjtFOkOFY/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AhDjtFOkOFY",
+        "id": "vid-U2-tXCd3AiY",
+        "title": "Diablo Immortal – Beacon Of Hope Phantom Market | 1K to 10K Wings",
+        "thumbnail": "https://i.ytimg.com/vi/U2-tXCd3AiY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U2-tXCd3AiY",
         "publishedAt": "2026-06-19"
       },
       {
-        "id": "vid-K5NHU4OPHEA",
-        "title": "Xbox Just Admitted It Has a Serious Problem",
-        "thumbnail": "https://i.ytimg.com/vi/K5NHU4OPHEA/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=K5NHU4OPHEA",
-        "publishedAt": "2026-06-13"
+        "id": "vid-0XOrcECKXN4",
+        "title": "Diablo Immortal – Warlock PVP Build | CN Meta",
+        "thumbnail": "https://i.ytimg.com/vi/0XOrcECKXN4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0XOrcECKXN4",
+        "publishedAt": "2026-06-18"
       },
       {
-        "id": "vid-vThCCLlFrWc",
-        "title": "LiberNovo Omni Pro: Is It Worth the Upgrade?",
-        "thumbnail": "https://i.ytimg.com/vi/vThCCLlFrWc/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vThCCLlFrWc",
-        "publishedAt": "2026-06-12"
-      },
-      {
-        "id": "vid-Lks8tiiIKyg",
-        "title": "Is Diablo 4 Season 14 Taking a Big Step Back?",
-        "thumbnail": "https://i.ytimg.com/vi/Lks8tiiIKyg/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Lks8tiiIKyg",
-        "publishedAt": "2026-06-06"
-      },
-      {
-        "id": "vid-o3NK3Mt_DIA",
-        "title": "Diablo 4 Season 14 Has One Big Problem",
-        "thumbnail": "https://i.ytimg.com/vi/o3NK3Mt_DIA/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o3NK3Mt_DIA",
-        "publishedAt": "2026-05-30"
-      },
-      {
-        "id": "vid-E-UudopJaCE",
-        "title": "We Just Saw Diablo 4 Season 14 and It's...",
-        "thumbnail": "https://i.ytimg.com/vi/E-UudopJaCE/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E-UudopJaCE",
-        "publishedAt": "2026-05-28"
-      },
-      {
-        "id": "vid-ZtybilJObWk",
-        "title": "Diablo 4 Is So Close to Being Great Again",
-        "thumbnail": "https://i.ytimg.com/vi/ZtybilJObWk/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZtybilJObWk",
-        "publishedAt": "2026-05-23"
-      }
-    ]
-  },
-  {
-    "channelId": "UCiZxg97TMkKOLwWRHfSjdnA",
-    "avatar": "https://yt3.ggpht.com/zyPbYfB7R5udWH3OQBgyxQ8KEc3v4A7pDULXkM3Ym-lCRh9KEdlAyLUBgOGfEDd2EvUH31XBaR0=s800-c-k-c0x00ffffff-no-rj",
-    "socials": {
-      "youtube": "https://www.youtube.com/@Saluter",
-      "twitch": "saluter",
-      "twitter": "Saluter"
-    },
-    "id": "saluter",
-    "name": "Saluter",
-    "channelUrl": "https://www.youtube.com/@Saluter",
-    "twitch": "saluter",
-    "twitter": "Saluter",
-    "bioShort": "Fan incondicional de Diablo. Guías, clears de alto nivel y noticias de Diablo Immortal.",
-    "bioLong": "Saluter es un creador dedicado al universo Diablo que transmite 5-6 días por semana. Cubre guías de Diablo Immortal, clears de alto nivel, impresiones de actualizaciones y noticias, con un enfoque cercano a la comunidad.",
-    "contentType": [
-      "educational",
-      "casual"
-    ],
-    "class": [
-      "all"
-    ],
-    "languages": [
-      "en"
-    ],
-    "latestVideos": [
-      {
-        "id": "vid-P56BTvdaKt8",
-        "title": "Rank 1 WORLD Impale DH Season 30",
-        "thumbnail": "https://i.ytimg.com/vi/P56BTvdaKt8/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P56BTvdaKt8",
-        "publishedAt": "2024-01-28"
-      },
-      {
-        "id": "vid-EuDaB5Q9Lkc",
-        "title": "Best NEW Method - Fastest Bounty Material Farm in Diablo 3 With Vision Of Emnity",
-        "thumbnail": "https://i.ytimg.com/vi/EuDaB5Q9Lkc/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EuDaB5Q9Lkc",
-        "publishedAt": "2024-01-26"
-      },
-      {
-        "id": "vid-s3t4JBCNP0o",
-        "title": "GR 127 in 42 Seconds - The BEST Season 30 XP Farming Build",
-        "thumbnail": "https://i.ytimg.com/vi/s3t4JBCNP0o/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s3t4JBCNP0o",
-        "publishedAt": "2024-01-26"
-      },
-      {
-        "id": "vid-tbiNzEQ1R1k",
-        "title": "Diablo 4: Do This NOW BEFORE Nerf - Unlock 200% More XP - Secret Technique Revealed",
-        "thumbnail": "https://i.ytimg.com/vi/tbiNzEQ1R1k/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tbiNzEQ1R1k",
-        "publishedAt": "2023-06-04"
-      },
-      {
-        "id": "vid-SHl449-yZ4o",
-        "title": "MASSIVE Diablo 4 Nerfs! Builds CRUSHED by 50% - What You NEED to Know!",
-        "thumbnail": "https://i.ytimg.com/vi/SHl449-yZ4o/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SHl449-yZ4o",
-        "publishedAt": "2023-06-04"
-      },
-      {
-        "id": "vid-RzmOPJp4ceg",
-        "title": "Best Starter Class In Diablo 4",
-        "thumbnail": "https://i.ytimg.com/vi/RzmOPJp4ceg/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RzmOPJp4ceg",
-        "publishedAt": "2023-05-23"
-      },
-      {
-        "id": "vid-RaGTVbUVacQ",
-        "title": "Is Diablo 4 Worth Buying?",
-        "thumbnail": "https://i.ytimg.com/vi/RaGTVbUVacQ/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RaGTVbUVacQ",
-        "publishedAt": "2023-03-30"
-      },
-      {
-        "id": "vid-OVH51meJlWY",
-        "title": "Druid VS Butcher | Hardest Fight OF MY LIFE - Diablo 4 Beta",
-        "thumbnail": "https://i.ytimg.com/vi/OVH51meJlWY/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OVH51meJlWY",
-        "publishedAt": "2023-03-26"
-      },
-      {
-        "id": "vid-uLj9mNFDji4",
-        "title": "Pulverize Druid | This Build Is Crazy Powerful & Fun - Diablo 4 Beta",
-        "thumbnail": "https://i.ytimg.com/vi/uLj9mNFDji4/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uLj9mNFDji4",
-        "publishedAt": "2023-03-25"
-      },
-      {
-        "id": "vid-hKl1MVqPF4o",
-        "title": "This Item Changed My Entire Build - Insanely Fun And Strong Necro Legendary D4 beta",
-        "thumbnail": "https://i.ytimg.com/vi/hKl1MVqPF4o/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hKl1MVqPF4o",
-        "publishedAt": "2023-03-25"
-      }
-    ]
-  },
-  {
-    "channelId": "UCipenguinpat_ph",
-    "avatar": "https://i.pravatar.cc/150?u=ipenguinpat",
-    "socials": {
-      "youtube": "https://www.youtube.com/@iPenguinPat",
-      "twitch": "ipenguinpat",
-      "twitter": "iPenguinPat"
-    },
-    "id": "ipenguinpat",
-    "name": "iPenguinPat",
-    "channelUrl": "https://www.youtube.com/@iPenguinPat",
-    "twitch": "ipenguinpat",
-    "twitter": "iPenguinPat",
-    "bioShort": "Optimización basada en datos. Mecánicas analizadas para que juegues mejor.",
-    "bioLong": "iPenguinPat usa un enfoque basado en datos para analizar las mecánicas de Diablo Immortal y enseñar a optimizar el gameplay. Sus videos desmenuzan números y sistemas para tomar las mejores decisiones de build.",
-    "contentType": [
-      "educational",
-      "competitive"
-    ],
-    "class": [
-      "all"
-    ],
-    "languages": [
-      "en"
-    ],
-    "latestVideos": [
-      {
-        "id": "vid-ipp-001",
-        "title": "Damage Mechanics Explained with Data",
-        "thumbnail": "https://picsum.photos/seed/ipp1/640/360",
-        "url": "https://www.youtube.com/watch?v=ipp1",
-        "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-ipp-002",
-        "title": "Optimal Gem Investment",
-        "thumbnail": "https://picsum.photos/seed/ipp2/640/360",
-        "url": "https://www.youtube.com/watch?v=ipp2",
+        "id": "vid-6i4KvOk919w",
+        "title": "Diablo Immortal – Hellbound Surge MAXED! | Is It Worth It?",
+        "thumbnail": "https://i.ytimg.com/vi/6i4KvOk919w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6i4KvOk919w",
         "publishedAt": "2026-06-17"
       },
       {
-        "id": "vid-ipp-003",
-        "title": "Stat Priority Deep Dive",
-        "thumbnail": "https://picsum.photos/seed/ipp3/640/360",
-        "url": "https://www.youtube.com/watch?v=ipp3",
-        "publishedAt": "2026-06-13"
+        "id": "vid-20z0prM8_9k",
+        "title": "Diablo Immortal – NEW Warlock Class | ALL Essences Revealed!",
+        "thumbnail": "https://i.ytimg.com/vi/20z0prM8_9k/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=20z0prM8_9k",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-hZX1uIjX9lE",
+        "title": "Diablo Immortal – Sixth Bout Of Realms | Championship",
+        "thumbnail": "https://i.ytimg.com/vi/hZX1uIjX9lE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hZX1uIjX9lE",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-LJuIKRz3HTY",
+        "title": "Diablo Immortal - Guinevere's Battleground Bounty Board",
+        "thumbnail": "https://i.ytimg.com/vi/LJuIKRz3HTY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LJuIKRz3HTY",
+        "publishedAt": "2026-06-14"
+      }
+    ]
+  },
+  {
+    "channelId": "UCNhPiunzBM-zw7J_9ZYxQkA",
+    "avatar": "https://yt3.ggpht.com/pD7SZ5KcVqXHxn1eREI7GUBYOM4gJYzpP7DsdgZHDiDbJpg9MEytkjsebdSZt0KcwepdMxiy0A=s800-c-k-c0x00ffffff-no-rj",
+    "socials": {
+      "youtube": "https://www.youtube.com/@deathknightparinon"
+    },
+    "id": "deathknightparinon",
+    "name": "Death Knight Parinon",
+    "channelUrl": "https://www.youtube.com/@deathknightparinon",
+    "bioShort": "PvP de alto nivel en Diablo Immortal. Blood Knight, Necromancer y Warlock builds.",
+    "bioLong": "Death Knight Parinon cubre PvP competitivo en Diablo Immortal con foco en Blood Knight, Necromancer y Warlock. Sus builds detalladas y gameplay de battlegrounds son esenciales para jugadores que quieren destacar en el combate JcJ.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "class": [
+      "blood-knight",
+      "necromancer",
+      "warlock"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-H6tVi-ZKCJw",
+        "title": "New Blood Knight PvP Build is CRAZY | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/H6tVi-ZKCJw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H6tVi-ZKCJw",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-mxHMvG9dlSc",
+        "title": "Warlock PvP Is INSANE! 15-5-12 Battleground MVP | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/mxHMvG9dlSc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mxHMvG9dlSc",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-QVDZu34n-sE",
+        "title": "The Warlock Has Problems... | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/QVDZu34n-sE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QVDZu34n-sE",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-Fr4Ja_NKtuk",
+        "title": "Necromancer DOMINATES Battlegrounds | Top Damage & Control",
+        "thumbnail": "https://i.ytimg.com/vi/Fr4Ja_NKtuk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fr4Ja_NKtuk",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-RFRWF5bovEo",
+        "title": "The Necromancer Build I Fell in Love With | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/RFRWF5bovEo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RFRWF5bovEo",
+        "publishedAt": "2026-06-04"
+      },
+      {
+        "id": "vid-9IZNfWrtP4Y",
+        "title": "BK Abomination 2 Battlegrounds | Diablo Immortal | PvP Gameplay",
+        "thumbnail": "https://i.ytimg.com/vi/9IZNfWrtP4Y/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9IZNfWrtP4Y",
+        "publishedAt": "2026-06-03"
+      },
+      {
+        "id": "vid-ZX47xC5c5g4",
+        "title": "Blood Knight Shadow Clone PvP Build | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/ZX47xC5c5g4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZX47xC5c5g4",
+        "publishedAt": "2026-05-30"
+      },
+      {
+        "id": "vid-g8xKR_eYnRg",
+        "title": "Diablo Immortal Blood Knight: 1B Damage Abomination Build",
+        "thumbnail": "https://i.ytimg.com/vi/g8xKR_eYnRg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=g8xKR_eYnRg",
+        "publishedAt": "2026-05-27"
+      }
+    ]
+  },
+  {
+    "channelId": "UC3otRpve0YnGqGyvt7Yp0Xw",
+    "avatar": "https://yt3.ggpht.com/vrDF3PGC2QBee0-34p5ZZR_6wmupSexl5fT3LcSdQEG5uLZrEd4KlA2Qd9kwDKdNb4_IBYmCUNo=s800-c-k-c0x00ffffff-no-rj",
+    "socials": {
+      "youtube": "https://www.youtube.com/@shirtlesstotoro"
+    },
+    "id": "shirtlesstotoro",
+    "name": "Shirtless Totoro",
+    "channelUrl": "https://www.youtube.com/@shirtlesstotoro",
+    "bioShort": "Gameplay competitivo de alto nivel en Diablo Immortal. PvP, gemas legendarias y builds.",
+    "bioLong": "Shirtless Totoro documenta el gameplay de los mejores jugadores del mundo en Diablo Immortal: builds de Warlock, Wizard, Monk y Blood Knight, runs de gemas legendarias y análisis de las partidas más destacadas del servidor.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "class": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-os64ShJKPmI",
+        "title": "Warlock and Barbarian Gameplay Matches in ROE | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/os64ShJKPmI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=os64ShJKPmI",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-aoYrBHpULg4",
+        "title": "My First Lucky Mirrored Jewels ER Run (I Got 4 5-Star Gems) | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/aoYrBHpULg4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aoYrBHpULg4",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-lq_NStxfDIg",
+        "title": "Aggressive MONK Gameplay + PVP Monk Build | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/lq_NStxfDIg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lq_NStxfDIg",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-gvmXZWbZI98",
+        "title": "Top 1 9K BG Wizard Fire Disintegrate | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/gvmXZWbZI98/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gvmXZWbZI98",
+        "publishedAt": "2026-06-07"
+      },
+      {
+        "id": "vid-5vmAQhMfhPY",
+        "title": "Random Matches in the Last Vigil of Blades | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/5vmAQhMfhPY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5vmAQhMfhPY",
+        "publishedAt": "2026-05-31"
+      },
+      {
+        "id": "vid-CGAXrGIGec4",
+        "title": "5K Reso PVP BLOOD KNIGHT 31-1-11 KDA | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/CGAXrGIGec4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CGAXrGIGec4",
+        "publishedAt": "2026-05-24"
+      },
+      {
+        "id": "vid-7J1ER0tnJoE",
+        "title": "Upgrading BSJ to Rank 8, Unlocking 6000 Resonance | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/7J1ER0tnJoE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7J1ER0tnJoE",
+        "publishedAt": "2026-05-23"
+      },
+      {
+        "id": "vid-UZPkQJdt-b4",
+        "title": "Wizard Unleashed Chaos 21-0-14 KDA: Fire Disintegrate | Diablo Immortal",
+        "thumbnail": "https://i.ytimg.com/vi/UZPkQJdt-b4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UZPkQJdt-b4",
+        "publishedAt": "2026-05-17"
       }
     ]
   },
@@ -337,103 +342,6 @@
         "thumbnail": "https://i.ytimg.com/vi/5KLXmHBHgP0/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5KLXmHBHgP0",
         "publishedAt": "2026-06-16"
-      }
-    ]
-  },
-  {
-    "channelId": "UC3OzqZr0McvfIFV2z5AqmsA",
-    "avatar": "https://yt3.ggpht.com/_LY0FZ49m6fFx6DRtpz762F-JarLan1SOy4nmgbnHmLPnnAmLZZUS4Xxh3eisdJKML3WX16gJyA=s800-c-k-c0x00ffffff-no-rj",
-    "socials": {
-      "youtube": "https://www.youtube.com/@Echohack",
-      "twitch": "echohack",
-      "twitter": "Echohack"
-    },
-    "id": "echohack",
-    "name": "Echohack",
-    "channelUrl": "https://www.youtube.com/@Echohack",
-    "twitch": "echohack",
-    "twitter": "Echohack",
-    "bioShort": "PvP y Battleground de alto nivel en Diablo Immortal. Builds competitivas.",
-    "bioLong": "Echohack se especializa en el PvP y el Battleground de Diablo Immortal, mostrando builds competitivas y estrategias para dominar el ranking. Ideal para jugadores que buscan el máximo nivel competitivo.",
-    "contentType": [
-      "competitive"
-    ],
-    "class": [
-      "all"
-    ],
-    "languages": [
-      "en"
-    ],
-    "latestVideos": [
-      {
-        "id": "vid-emBc8vHgIjY",
-        "title": "Cloud has amazing clothes! #finalfantasy7rebirth #finalfantasy #shorts",
-        "thumbnail": "https://i.ytimg.com/vi/emBc8vHgIjY/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=emBc8vHgIjY",
-        "publishedAt": "2025-03-05"
-      },
-      {
-        "id": "vid-5S92XqTn1gk",
-        "title": "GOD ITEM CRAFTED!",
-        "thumbnail": "https://i.ytimg.com/vi/5S92XqTn1gk/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5S92XqTn1gk",
-        "publishedAt": "2024-12-18"
-      },
-      {
-        "id": "vid--jfWax39V7A",
-        "title": "Path of Exile 2 Flash Grenade Titan Leveling Guide",
-        "thumbnail": "https://i.ytimg.com/vi/-jfWax39V7A/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-jfWax39V7A",
-        "publishedAt": "2024-12-12"
-      },
-      {
-        "id": "vid-B-v6cEiUn9M",
-        "title": "Path of Exile 2 Launch! Warbringer - SHIELD ON | !maxroll",
-        "thumbnail": "https://i.ytimg.com/vi/B-v6cEiUn9M/maxresdefault_live.jpg",
-        "url": "https://www.youtube.com/watch?v=B-v6cEiUn9M",
-        "publishedAt": "2024-12-07"
-      },
-      {
-        "id": "vid-kyo6xlDz61k",
-        "title": "Path of Exile 2 Launch! Warbringer - SHIELD ON | !maxroll",
-        "thumbnail": "https://i.ytimg.com/vi/kyo6xlDz61k/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kyo6xlDz61k",
-        "publishedAt": "2024-12-07"
-      },
-      {
-        "id": "vid-ZCGc9Jrq9YQ",
-        "title": "Vessel of Hatred Launch! Chill Vibes Leveling | Spiritborn Quill Volley SSF! | Season 6",
-        "thumbnail": "https://i.ytimg.com/vi/ZCGc9Jrq9YQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZCGc9Jrq9YQ",
-        "publishedAt": "2024-10-08"
-      },
-      {
-        "id": "vid-nK7ircUqUFs",
-        "title": "Coal Power and Beyond! Hacker Factory 1.0 | !maxroll",
-        "thumbnail": "https://i.ytimg.com/vi/nK7ircUqUFs/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nK7ircUqUFs",
-        "publishedAt": "2024-09-16"
-      },
-      {
-        "id": "vid-kGccgL_4B1M",
-        "title": "Coal Power and Beyond! Hacker Factory 1.0 | !maxroll",
-        "thumbnail": "https://i.ytimg.com/vi/kGccgL_4B1M/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kGccgL_4B1M",
-        "publishedAt": "2024-09-15"
-      },
-      {
-        "id": "vid-yX45h4JBlVg",
-        "title": "[SSF] Ice Nova Hierophant Endgame Livestream | !maxroll",
-        "thumbnail": "https://i.ytimg.com/vi/yX45h4JBlVg/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yX45h4JBlVg",
-        "publishedAt": "2024-09-15"
-      },
-      {
-        "id": "vid-q5CMjLMsFYM",
-        "title": "[SSF] Ice Nova Hierophant Endgame Livestream | !maxroll",
-        "thumbnail": "https://i.ytimg.com/vi/q5CMjLMsFYM/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=q5CMjLMsFYM",
-        "publishedAt": "2024-09-14"
       }
     ]
   }
