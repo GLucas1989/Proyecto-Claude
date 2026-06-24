@@ -197,75 +197,161 @@
     ]
   },
   {
-    "channelId": "UCLhITvQ_H6dzNT5NQCDIvhQ",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_kdSmXAvBelpeINz-cqgFD_T-AygwKFaLjuywHuvTHjFw=s800-c-k-c0x00ffffff-no-rj",
-    "socials": {
-      "youtube": "https://www.youtube.com/@StewGaming",
-      "twitch": "stewgaming",
-      "twitter": "StewGaming"
-    },
-    "id": "chofly",
-    "name": "StewGaming",
-    "channelUrl": "https://www.youtube.com/@StewGaming",
-    "twitch": "stewgaming",
-    "twitter": "StewGaming",
-    "bioShort": "Guías de Raid, tier lists y builds competitivas. Contenido para todos los niveles.",
-    "bioLong": "StewGaming es un creador veterano de Raid: Shadow Legends conocido por sus guías de champions, tier lists actualizadas y builds competitivas. Su contenido cubre desde las primeras horas del juego hasta estrategias de endgame avanzado, con enfoque práctico y directo.",
+    "id": "epyre-cob",
+    "name": "EPYRE Cob",
+    "channelId": "UCwzD05Wplhb2XTDXhZ8gQgw",
+    "channelUrl": "https://www.youtube.com/@EpyreCob",
+    "avatar": "https://yt3.ggpht.com/QWHxwekYGoNMGxBnl3ZRY5j4Jemwc2wZsSO1KwCpaMz2GK1txHBtft8A-H0Bs3AnGHCx2fSh=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "F2P grind, guías de campeones y todo lo que necesitas saber para progresar en Raid: Shadow Legends.",
+    "bioLong": "EPYRE Cob es un referente de la comunidad F2P de Raid: Shadow Legends. Sus series de grind documentan el progreso desde cero con recursos limitados, mientras que sus análisis de campeones y guías de mazmorras ayudan a los jugadores a aprovechar al máximo su roster sin gastar dinero.",
     "contentType": [
       "educational",
       "casual"
     ],
     "gameMode": [
-      "clanboss",
-      "arena",
-      "dungeons"
+      "dungeons",
+      "clan-boss",
+      "doom-tower"
     ],
     "languages": [
       "en"
     ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@EpyreCob",
+      "twitch": "epyrecob",
+      "twitter": "EPYRE_Cob"
+    },
     "latestVideos": [
       {
-        "id": "vid-OWkPaZ16avg",
-        "title": "Minecraft PE - Download 0.12.1 B9",
-        "thumbnail": "https://i.ytimg.com/vi/OWkPaZ16avg/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OWkPaZ16avg",
-        "publishedAt": "2015-08-16"
+        "id": "vid-QOusl5YD9YM",
+        "title": "\"SHE CAN'T BE THIS BAD??\" - I Finally Maxed Anaxia in Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/QOusl5YD9YM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QOusl5YD9YM",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-wyhYuMHsZfw",
+        "title": "NEW JULY FUSION REVEALED and I Don't Know What to Think?? - Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/wyhYuMHsZfw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wyhYuMHsZfw",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-QlU8OS9HRHc",
+        "title": "\"I'M NEVER DOING THIS AGAIN...\" - Raid Shadow Legends F2P Series",
+        "thumbnail": "https://i.ytimg.com/vi/QlU8OS9HRHc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QlU8OS9HRHc",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-0wnGl_zFlOo",
+        "title": "I PULLED ALL MY SOULSTONES for Talenna! - Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/0wnGl_zFlOo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0wnGl_zFlOo",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-N2lPriF--ls",
+        "title": "This Team of 5 RARES BEATS EVERY DUNGEON?! (Worth Maxing!) - Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/N2lPriF--ls/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N2lPriF--ls",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-6muyFGxxjEM",
+        "title": "RIP MY F2P ACCOUNT... All Upcoming Titan Events REVEALED - Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/6muyFGxxjEM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6muyFGxxjEM",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-p4sgCB9lLYY",
+        "title": "I DIDN'T WANT TO PULL THESE F2P SACRED SHARDS... But We're All In! - Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/p4sgCB9lLYY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p4sgCB9lLYY",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-bqx9fMpt3M4",
+        "title": "EVERYONE IS WRONG About These 4 Champions (They're Insane) - Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/bqx9fMpt3M4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bqx9fMpt3M4",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-S3Q1FcT3P5s",
+        "title": "I BUILT THE WORLD'S MOST POWERFUL DAITHI - This Epic is MENTAL - Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/S3Q1FcT3P5s/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S3Q1FcT3P5s",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-zaB1honmXf8",
+        "title": "PULLING SACRED SHARDS for Folan's Soul! (and for Varkos) - Raid Shadow Legends",
+        "thumbnail": "https://i.ytimg.com/vi/zaB1honmXf8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zaB1honmXf8",
+        "publishedAt": "2026-06-19"
       }
     ]
   },
   {
-    "channelId": "UC7HJE5NKNXUu0i1eAkhAh7Q",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_m-7BKotrOWqBDz4uZTcodTum7MDnjHJjA8S2GCrlct8tY=s800-c-k-c0x00ffffff-no-rj",
-    "socials": {
-      "youtube": "https://www.youtube.com/@SaitoGames",
-      "twitch": "saito",
-      "twitter": "SaitoGames"
-    },
-    "id": "saito-raid",
-    "name": "Saito Gaming",
-    "channelUrl": "https://www.youtube.com/@SaitoGames",
-    "twitch": "saito",
-    "twitter": "SaitoGames",
-    "bioShort": "Análisis competitivo y optimización de cuentas en Raid: Shadow Legends.",
-    "bioLong": "Saito es un veterano creador de contenido de Raid centrado en la optimización de cuentas, estrategias de Clan Boss y análisis competitivo de Arena. Sus guías detalladas ayudan a sacar el máximo provecho de cada campeón.",
+    "id": "jubi-raid",
+    "name": "Jubi",
+    "channelId": "UCbqHGyyAgeLePlWQuWFgWJA",
+    "channelUrl": "https://www.youtube.com/@JubiRSL",
+    "avatar": "https://yt3.ggpht.com/bYpPaLVcJ0zbEzXE7_mzSBnrkD66s3iaY_J7i1pH0OqEaDPSZZY68NPigodLWe14So8vsBMytg=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Grind de principiante y guías accesibles de Raid: Shadow Legends para jugadores de todos los niveles.",
+    "bioLong": "Jubi es conocido en la comunidad de Raid por su serie 'Beginners Grind', donde documenta la progresión de una cuenta desde cero de forma educativa y entretenida. Su contenido es ideal para nuevos jugadores que quieren aprender las mecánicas del juego sin sentirse abrumados.",
     "contentType": [
-      "competitive",
-      "educational"
+      "educational",
+      "casual"
     ],
     "gameMode": [
-      "clanboss",
-      "arena"
+      "dungeons",
+      "clan-boss"
     ],
     "languages": [
       "en"
     ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@JubiRSL",
+      "twitter": "JubiRSL"
+    },
     "latestVideos": [
       {
-        "id": "vid-ljLdTYIsjeA",
-        "title": "#1 Morrendo Muito... =(  MinecraftPE Survival",
-        "thumbnail": "https://i.ytimg.com/vi/ljLdTYIsjeA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ljLdTYIsjeA",
-        "publishedAt": "2015-09-06"
+        "id": "vid-XmsfTJlosac",
+        "title": "Hilda Arnorndottr Test Day! (Raid: Shadow Legends)",
+        "thumbnail": "https://i.ytimg.com/vi/XmsfTJlosac/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XmsfTJlosac",
+        "publishedAt": "2025-10-19"
+      },
+      {
+        "id": "vid-2dyblgsvjU8",
+        "title": "How good is a FULL TMNT TEAM?? #raidshadowlegends",
+        "thumbnail": "https://i.ytimg.com/vi/2dyblgsvjU8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2dyblgsvjU8",
+        "publishedAt": "2025-10-12"
+      },
+      {
+        "id": "vid-ic2r-sF_gD8",
+        "title": "Here we go again... 🐱‍🐉  BEGINNERS GRIND Ep. 86 (Raid: Shadow Legends)",
+        "thumbnail": "https://i.ytimg.com/vi/ic2r-sF_gD8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ic2r-sF_gD8",
+        "publishedAt": "2025-10-10"
+      },
+      {
+        "id": "vid-vfKgT1YQOv8",
+        "title": "Mission Accomplished  ✨✅  BEGINNERS GRIND Ep. 85 (Raid: Shadow Legends)",
+        "thumbnail": "https://i.ytimg.com/vi/vfKgT1YQOv8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vfKgT1YQOv8",
+        "publishedAt": "2025-10-07"
+      },
+      {
+        "id": "vid-GGpKxDbgJ4E",
+        "title": "How Much Longer?  ⏰  BEGINNERS GRIND Ep. 84 (Raid: Shadow Legends)",
+        "thumbnail": "https://i.ytimg.com/vi/GGpKxDbgJ4E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GGpKxDbgJ4E",
+        "publishedAt": "2025-10-07"
       }
     ]
   },

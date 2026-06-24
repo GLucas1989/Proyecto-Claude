@@ -449,5 +449,443 @@
         "publishedAt": "2022-01-19"
       }
     ]
+  },
+  {
+    "id": "riotgames",
+    "name": "Riot Games",
+    "channelId": "UCJEGvSZnQ1pkVfHO8s5G8hA",
+    "channelUrl": "https://www.youtube.com/@riotgames",
+    "avatar": "https://yt3.ggpht.com/uQeiZ5G40rI7rrEG4urj11sQRHq84y46DDtETkk-m3b8aum9_dZhzrFBTkfLaz3VRceia5eG3Q=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Canal oficial de Riot Games. Trailers, behind-the-scenes y actualizaciones de todos sus títulos.",
+    "bioLong": "El canal oficial de Riot Games reúne trailers cinemáticos, making-of, actualizaciones de juego y contenido de todos sus títulos incluyendo League of Legends, Valorant, TFT y más. Un lugar indispensable para estar al día con todo lo que sale de los estudios de Riot.",
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@riotgames",
+      "twitter": "riotgames"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-UQo_mD8INIQ",
+        "title": "Keeping Tibbers company in our LA office #riotgames",
+        "thumbnail": "https://i.ytimg.com/vi/UQo_mD8INIQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UQo_mD8INIQ",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-IBfxzeIS6j8",
+        "title": "Nautilus Reef: A Decade Under the Sea",
+        "thumbnail": "https://i.ytimg.com/vi/IBfxzeIS6j8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IBfxzeIS6j8",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-p7YZ9UUnwcQ",
+        "title": "Advice From a Riot Artist on TFT #gameart",
+        "thumbnail": "https://i.ytimg.com/vi/p7YZ9UUnwcQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p7YZ9UUnwcQ",
+        "publishedAt": "2026-06-04"
+      },
+      {
+        "id": "vid--9Q0VuNiHy8",
+        "title": "It All Started With an Art Contest",
+        "thumbnail": "https://i.ytimg.com/vi/-9Q0VuNiHy8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-9Q0VuNiHy8",
+        "publishedAt": "2026-06-03"
+      },
+      {
+        "id": "vid-5PM754_NhPY",
+        "title": "A Riot Artist Designs Zilean's TFT Altar",
+        "thumbnail": "https://i.ytimg.com/vi/5PM754_NhPY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5PM754_NhPY",
+        "publishedAt": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "leagueoflegends",
+    "name": "League of Legends",
+    "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+    "channelUrl": "https://www.youtube.com/@leagueoflegends",
+    "avatar": "https://yt3.ggpht.com/IRV0K6ctlxIg9UYfOTA_o_8YRU_EzHyElhbQwsReXpEsEq4iXW6oik16heBMns-Cbk6GLdde7SY=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Canal oficial de League of Legends. Skins, parches, cinematics y todo lo que sucede en la Grieta.",
+    "bioLong": "El canal oficial de League of Legends es la fuente de verdad para todo: trailers de campeones, cinemáticas épicas, actualizaciones de temporada, behind-the-scenes de skins y novedades del juego. Si algo importante pasa en la Grieta del Invocador, sale aquí primero.",
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@leagueoflegends",
+      "twitter": "LeagueOfLegends"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-8AettDwhluc",
+        "title": "Three-peat, 1 Dynasty: T1 Worlds 2025 Skins | Behind the Scenes - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/8AettDwhluc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8AettDwhluc",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-hXQCT6bVJE0",
+        "title": "The Top & Support Meta: Winning in Pro Play | MSI 2026",
+        "thumbnail": "https://i.ytimg.com/vi/hXQCT6bVJE0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hXQCT6bVJE0",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-l-AVGeG1ExY",
+        "title": "when you use 100% of your 🧠",
+        "thumbnail": "https://i.ytimg.com/vi/l-AVGeG1ExY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=l-AVGeG1ExY",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-dH2_Sp92Ceo",
+        "title": "ARAM: MAYHEM – THEY DID WHAT?!",
+        "thumbnail": "https://i.ytimg.com/vi/dH2_Sp92Ceo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dH2_Sp92Ceo",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-ynG4T9yLKFs",
+        "title": "Locke Champion Spotlight | Gameplay - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/ynG4T9yLKFs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ynG4T9yLKFs",
+        "publishedAt": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "lolesports",
+    "name": "LoL Esports",
+    "channelId": "UCvqRdlKsE5Q8mf8YXbdIJLw",
+    "channelUrl": "https://www.youtube.com/@lolesports",
+    "avatar": "https://yt3.ggpht.com/Z5Osb2SrR3QEq7Rs6xNzW6wXiJqfiCp8jtM3AAwazbNsDSUDCyOZ2_C_jmeH-0xHm-uid8KBIu8=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "El hogar del esports de League of Legends. Mejores momentos, análisis y highlights del circuito mundial.",
+    "bioLong": "LoL Esports es el canal oficial de la escena competitiva global de League of Legends. Cubre torneos internacionales como Worlds y MSI, los mejores momentos y jugadas de los equipos de élite, entrevistas con pros y resúmenes de la acción de cada split. La referencia para seguir el pro play.",
+    "contentType": [
+      "competitive"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@lolesports",
+      "twitter": "lolesports"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-pScIIgXrLZs",
+        "title": "Level 1 bullying? Not on Creme's watch.",
+        "thumbnail": "https://i.ytimg.com/vi/pScIIgXrLZs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pScIIgXrLZs",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-c0y8fRfWNYY",
+        "title": "Bet Doran did not see this one coming... 💀",
+        "thumbnail": "https://i.ytimg.com/vi/c0y8fRfWNYY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c0y8fRfWNYY",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-eHVXijapEjA",
+        "title": "Josedeodo's BEATIFUL kick from South 🙌",
+        "thumbnail": "https://i.ytimg.com/vi/eHVXijapEjA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eHVXijapEjA",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-dYM4OtdS7j0",
+        "title": "Bin putting on a show... Almost...",
+        "thumbnail": "https://i.ytimg.com/vi/dYM4OtdS7j0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dYM4OtdS7j0",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-U3gNn1S5pgU",
+        "title": "The Greatest MSI Moments of ALL TIME Ft. Jeesun",
+        "thumbnail": "https://i.ytimg.com/vi/U3gNn1S5pgU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U3gNn1S5pgU",
+        "publishedAt": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "id": "lcs",
+    "name": "LCS",
+    "channelId": "UCSF_aFGIIIoWY30GVV19TKA",
+    "channelUrl": "https://www.youtube.com/@lcs",
+    "avatar": "https://yt3.ggpht.com/lLUrGhhOjit1jWmGREvblELzKLJKdh1O--fSjCygpJ2JW55jfuWc2JKH1tqpGX_cQ8zKTLfatA=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "La liga profesional de League of Legends en Norteamérica. Partidas, momentos y contenido exclusivo.",
+    "bioLong": "El canal oficial de la LCS (League Championship Series) cubre toda la acción de la liga profesional norteamericana de League of Legends: partidas completas, mejores jugadas, entrevistas con jugadores y coaches, y el contenido del programa de The Dive. La voz oficial de la escena NA.",
+    "contentType": [
+      "competitive"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@lcs",
+      "twitter": "LCSOfficial"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-BHyG-CDeZ2w",
+        "title": "All roads lead to them.",
+        "thumbnail": "https://i.ytimg.com/vi/BHyG-CDeZ2w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BHyG-CDeZ2w",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-rw7zH5RZYOo",
+        "title": "Looks like we are still a LITTLE ways away from seeing jungle Locke 🥲",
+        "thumbnail": "https://i.ytimg.com/vi/rw7zH5RZYOo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rw7zH5RZYOo",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-VKvzokuHPRM",
+        "title": "Locke & MSI Patch with RiotPhroxzon | The Dive Driven by Kia",
+        "thumbnail": "https://i.ytimg.com/vi/VKvzokuHPRM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VKvzokuHPRM",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-n9oFyFMkPxk",
+        "title": "I don't think the Singed was THAT bad...",
+        "thumbnail": "https://i.ytimg.com/vi/n9oFyFMkPxk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=n9oFyFMkPxk",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-rCvTLixxc88",
+        "title": "LCS Spring Split Finals | TLAW vs LYON",
+        "thumbnail": "https://i.ytimg.com/vi/rCvTLixxc88/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rCvTLixxc88",
+        "publishedAt": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "id": "lec",
+    "name": "LEC",
+    "channelId": "UCWWZjhmokTbezUQr1kbbEYQ",
+    "channelUrl": "https://www.youtube.com/@lec",
+    "avatar": "https://yt3.ggpht.com/q9qgVsF5L9ptOrptarexCq1J19LrqhNyQE02Q9b02h0wlO2JLS4dRhmzprnhYwFEt5pJJxpadH4=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "La liga europea de League of Legends. Partidas épicas, memes y el mejor contenido de la escena EU.",
+    "bioLong": "La LEC (League of Legends EMEA Championship) es la liga de élite europea. Su canal mezcla partidas de alto nivel con humor característico, contenido detrás de cámara y highlights de los mejores equipos de Europa. Conocida por su producción creativa y su comunidad apasionada.",
+    "contentType": [
+      "competitive"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@lec",
+      "twitter": "LEC"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-lqO92-4Cd6w",
+        "title": "The captain's perfect MKOI draft ✍️ #leagueoflegends #lec #lolesports",
+        "thumbnail": "https://i.ytimg.com/vi/lqO92-4Cd6w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lqO92-4Cd6w",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-GOyGncxW7mY",
+        "title": "\"WHAT IS GOING ON?\" | LEC Plays Arena",
+        "thumbnail": "https://i.ytimg.com/vi/GOyGncxW7mY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GOyGncxW7mY",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-eFmlFucSUvw",
+        "title": "Not even close 😎 | LEC Plays Arena",
+        "thumbnail": "https://i.ytimg.com/vi/eFmlFucSUvw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eFmlFucSUvw",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-pw0Ai39d6rg",
+        "title": "SkewMond's perfect G2 picks | LEC Shorts",
+        "thumbnail": "https://i.ytimg.com/vi/pw0Ai39d6rg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pw0Ai39d6rg",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-UzmZLh8m-dE",
+        "title": "\"WTF 2 XINS?!\" | LEC PLAYS ARENA 3x6 | Game 2 of 3 | LEC SPRING 2026",
+        "thumbnail": "https://i.ytimg.com/vi/UzmZLh8m-dE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UzmZLh8m-dE",
+        "publishedAt": "2026-06-16"
+      }
+    ]
+  },
+  {
+    "id": "lck",
+    "name": "LCK",
+    "channelId": "UCw1DsweY9b2AKGjV4kGJP1A",
+    "channelUrl": "https://www.youtube.com/@lck",
+    "avatar": "https://yt3.ggpht.com/uYOwY_sZgSsfuk8Vz2EpmoTUtQpYs6M-zFT75NGLxtEuZ5kdohPT4kOAK35Ik8tszfc90Qau-64=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "La liga coreana de LoL. El nivel más alto del mundo, los mejores jugadores, los mejores highlights.",
+    "bioLong": "La LCK (League Champions Korea) es considerada la liga más fuerte de League of Legends. Su canal ofrece highlights de las partidas más épicas, contenido sobre jugadores legendarios como Faker, y detrás de cámara de los equipos coreanos de élite. Imprescindible para quienes quieren ver el juego en su máxima expresión.",
+    "contentType": [
+      "competitive"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "ko"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@lck",
+      "twitter": "LCK_Korea"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-4y3s-kIjN_Y",
+        "title": "반말한 사람 나와! (with HLE)",
+        "thumbnail": "https://i.ytimg.com/vi/4y3s-kIjN_Y/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4y3s-kIjN_Y",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-31u8A-w7iAs",
+        "title": "10년의 의연함, Ghost",
+        "thumbnail": "https://i.ytimg.com/vi/31u8A-w7iAs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=31u8A-w7iAs",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-zRM82PsokFs",
+        "title": "중요할 때 한 번 | 마이크 체크 Ep.10 | 2026 LCK Road to MSI",
+        "thumbnail": "https://i.ytimg.com/vi/zRM82PsokFs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zRM82PsokFs",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-L2rJK0VRuD0",
+        "title": "우리 WON, THE PLAY - T1 Keria",
+        "thumbnail": "https://i.ytimg.com/vi/L2rJK0VRuD0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L2rJK0VRuD0",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-LUT5CQuMr-g",
+        "title": "우리 WON, THE PLAY - DK ShowMaker",
+        "thumbnail": "https://i.ytimg.com/vi/LUT5CQuMr-g/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LUT5CQuMr-g",
+        "publishedAt": "2026-06-20"
+      }
+    ]
+  },
+  {
+    "id": "lastpicklol",
+    "name": "Last Pick",
+    "channelId": "UCnIj8w4j-StDXxpZXDdT7NA",
+    "channelUrl": "https://www.youtube.com/@lastpicklol",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mjaTqcxgimGzdOE_275BYKx68EK0VE9NTpAwML8xRDfA=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Humor, análisis y entretenimiento sobre League of Legends. El punto de vista del jugador casual.",
+    "bioLong": "Last Pick ofrece una perspectiva fresca y entretenida de League of Legends. Humor, análisis de la escena competitiva y contenido que conecta con los jugadores de todos los niveles. Un canal para quienes quieren disfrutar del juego más allá del grind de elo.",
+    "contentType": [
+      "casual",
+      "educational"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@lastpicklol"
+    },
+    "latestVideos": []
+  },
+  {
+    "id": "todayonthekoreanserver",
+    "name": "Today on the Korean Server",
+    "channelId": "UC65ZDJCYI1dwzj48XIeuOBA",
+    "channelUrl": "https://www.youtube.com/@todayonthekoreanserver",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_kloNQMhJpVnjUgRasVCYSXMD8pxhf2gTwMySj2xJ3rpv8=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Lo mejor del servidor coreano cada día. Highlights de pros, jugadas imposibles y los mejores momentos de KR SoloQ.",
+    "bioLong": "Today on the Korean Server documenta las jugadas más impresionantes del servidor coreano de League of Legends, el más competitivo del mundo. Desde highlights de jugadores como Faker, Caps o Peyz hasta composiciones creativas y carries imposibles. Si quieres saber qué están jugando los mejores del mundo, este canal lo tiene todo.",
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@todayonthekoreanserver"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-gedGDpfbJEg",
+        "title": "T1 Oner (Kindred) & Solarbacca (GP) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i.ytimg.com/vi/gedGDpfbJEg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gedGDpfbJEg",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-8vPE1a0q0IM",
+        "title": "G2 Caps SMASHING KR SoloQ! - HIGH ELO KR Pros SoloQ Highlights",
+        "thumbnail": "https://i.ytimg.com/vi/8vPE1a0q0IM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8vPE1a0q0IM",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-CMXHtzuz43w",
+        "title": "T1 Doran (Rumble) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i.ytimg.com/vi/CMXHtzuz43w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CMXHtzuz43w",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-jAdOEzd1GHg",
+        "title": "T1 Faker (Wukong) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i.ytimg.com/vi/jAdOEzd1GHg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jAdOEzd1GHg",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-pjyU7w94qRQ",
+        "title": "T1 Peyz COOKING with BOT Vladimir - HIGH ELO KR Pros SoloQ Highlights",
+        "thumbnail": "https://i.ytimg.com/vi/pjyU7w94qRQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pjyU7w94qRQ",
+        "publishedAt": "2026-06-21"
+      }
+    ]
   }
 ]

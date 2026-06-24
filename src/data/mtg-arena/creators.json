@@ -1,35 +1,99 @@
 [
   {
-    "id": "reid-duke",
-    "name": "PlaidHat",
-    "channelId": "UCv0IvY064QBvanZyfk4xhKA",
-    "channelUrl": "https://www.youtube.com/@PlaidHat",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mYF2HsWXNG2zwktvLHHb1qmkT3Bsc5Fmi0WTpM04M=s800-c-k-c0x00ffffff-no-rj",
-    "bioShort": "Gameplay de MTG Arena con humor y estrategia. Draft, Standard y formatos competitivos.",
-    "bioLong": "PlaidHat es un creador versátil de MTG Arena conocido por combinar humor con análisis estratégico sólido. Cubre Draft, Standard, Explorer e Historic con un estilo accesible que engancha tanto a nuevos jugadores como a veteranos del formato competitivo.",
+    "id": "legenvd",
+    "name": "LegenVD",
+    "channelId": "UCd0kth9C1hqJiaoedeBZ0cQ",
+    "channelUrl": "https://www.youtube.com/@LegenVD",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_lKGjV19jGiHbZ6ZI-FfD6K1Qbcb7nt3a4vEtc5DqHhXzI=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Gameplay de MTG Arena de alto nivel. Standard, Historic y los formatos más creativos del juego.",
+    "bioLong": "LegenVD es uno de los creadores de contenido más consistentes y respetados de MTG Arena. Su canal destaca por partidas comentadas de altísima calidad en Standard, Historic y Explorer, donde muestra su dominio de los mazos de control y midrange. Sus vídeos combinan juego de élite con explicaciones claras de las decisiones clave.",
     "contentType": [
       "competitive",
-      "draft"
+      "educational"
     ],
     "formats": [
       "standard",
-      "explorer",
-      "historic"
+      "historic",
+      "explorer"
     ],
     "languages": [
       "en"
     ],
     "socials": {
-      "youtube": "https://www.youtube.com/@PlaidHat",
-      "twitter": "PlaidHatGames"
+      "youtube": "https://www.youtube.com/@LegenVD",
+      "twitch": "legenvd",
+      "twitter": "LegenVD"
     },
     "latestVideos": [
       {
-        "id": "vid-yuoiaYh-wis",
-        "title": "Thyroid Cancer Awareness: Project",
-        "thumbnail": "https://i.ytimg.com/vi/yuoiaYh-wis/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yuoiaYh-wis",
-        "publishedAt": "2008-04-28"
+        "id": "vid-HPoeO-Uudn4",
+        "title": "The Scarlet Witch is broken.",
+        "thumbnail": "https://i.ytimg.com/vi/HPoeO-Uudn4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HPoeO-Uudn4",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-f8WX5s3zK2g",
+        "title": "Casting a Progenitus on turn three.",
+        "thumbnail": "https://i.ytimg.com/vi/f8WX5s3zK2g/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f8WX5s3zK2g",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-QcOro6t6rrE",
+        "title": "Abducting my opponents in Standard.",
+        "thumbnail": "https://i.ytimg.com/vi/QcOro6t6rrE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QcOro6t6rrE",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-JYQKEiA8RG4",
+        "title": "I made the most evil Standard deck.",
+        "thumbnail": "https://i.ytimg.com/vi/JYQKEiA8RG4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JYQKEiA8RG4",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-M6EOeASAibM",
+        "title": "The bird that never dies.",
+        "thumbnail": "https://i.ytimg.com/vi/M6EOeASAibM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=M6EOeASAibM",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-26IJ3gcZYUU",
+        "title": "Casting broken old cards in Standard.",
+        "thumbnail": "https://i.ytimg.com/vi/26IJ3gcZYUU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=26IJ3gcZYUU",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-uV2SiVurkp8",
+        "title": "Games aren't hard with this Library card!",
+        "thumbnail": "https://i.ytimg.com/vi/uV2SiVurkp8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uV2SiVurkp8",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-s__w2E35Lw8",
+        "title": "Exiling this Eldrazi is unfair.",
+        "thumbnail": "https://i.ytimg.com/vi/s__w2E35Lw8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=s__w2E35Lw8",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-Syf7cOPMqlE",
+        "title": "Badgermoles hate this!",
+        "thumbnail": "https://i.ytimg.com/vi/Syf7cOPMqlE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Syf7cOPMqlE",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-OemNba0VJh4",
+        "title": "There's a secret ultimatum in Standard.",
+        "thumbnail": "https://i.ytimg.com/vi/OemNba0VJh4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OemNba0VJh4",
+        "publishedAt": "2026-06-10"
       }
     ]
   },
@@ -132,100 +196,100 @@
     ]
   },
   {
-    "id": "numot-the-nummy",
-    "name": "Numot the Nummy",
-    "channelId": "UCrV_cFYbUgpXORMB3_PwZsQ",
-    "channelUrl": "https://www.youtube.com/@numotthenummy",
-    "avatar": "https://i.pravatar.cc/150?u=numot",
-    "bioShort": "Streamer veterano conocido por su dominio del Limited y su energía única en stream.",
-    "bioLong": "Numot the Nummy es uno de los creadores más veteranos de la comunidad de Magic. Con miles de horas de Draft en su haber, es considerado una autoridad en formatos Limited. Su personalidad energética y su profundo conocimiento hacen de su contenido una experiencia de aprendizaje única.",
+    "id": "tolarian-community-college",
+    "name": "Tolarian Community College",
+    "channelId": "UC7-hR5EfgpM6oHfiGDkxfMA",
+    "channelUrl": "https://www.youtube.com/@TolarianCommunityCollege",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_k1S7f1C2weTXJyZZO-SykHaEoWeWblN_cu0szVe6cpPw=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "El profesor de Magic: The Gathering. Reviews de productos, guías de formatos y el mejor análisis del meta.",
+    "bioLong": "Tolarian Community College, presentado por 'The Professor', es la referencia absoluta para todo lo relacionado con Magic: The Gathering. Reviews honestas de productos, análisis de la evolución del juego, guías de formatos y un enfoque crítico y educativo que ha ganado la confianza de millones de jugadores. Si quieres entender el ecosistema de Magic, este canal es obligatorio.",
     "contentType": [
-      "draft",
+      "educational",
       "casual"
     ],
     "formats": [
       "standard",
       "historic",
-      "brawl"
+      "draft"
     ],
     "languages": [
       "en"
     ],
     "socials": {
-      "youtube": "https://www.youtube.com/@numotthenummy",
-      "twitch": "https://twitch.tv/numotthenummy",
-      "twitter": "https://twitter.com/numotthenummy"
+      "youtube": "https://www.youtube.com/@TolarianCommunityCollege",
+      "twitch": "tolariancommunitycollege",
+      "twitter": "TolarianCollege"
     },
     "latestVideos": [
       {
-        "id": "vid-nn-001",
-        "title": "Historic Brawl: Omnath Landfall Chaos Build",
-        "thumbnail": "https://picsum.photos/seed/nn001/640/360",
-        "url": "https://www.youtube.com/watch?v=example21",
+        "id": "vid-iEv378u9sy4",
+        "title": "A Fortnite Lawsuit Just Waiting To Happen! (feat. Magic: The Gathering)",
+        "thumbnail": "https://i.ytimg.com/vi/iEv378u9sy4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iEv378u9sy4",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-E7QK5dL2MV0",
+        "title": "They Played To Win A Format We Printed | Momir Basic In Paper | Magic The Gathering",
+        "thumbnail": "https://i.ytimg.com/vi/E7QK5dL2MV0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E7QK5dL2MV0",
         "publishedAt": "2026-06-22"
       },
       {
-        "id": "vid-nn-002",
-        "title": "Premier Draft 7-0 with Simic Ramp",
-        "thumbnail": "https://picsum.photos/seed/nn002/640/360",
-        "url": "https://www.youtube.com/watch?v=example22",
+        "id": "vid-vkRGRM1pz90",
+        "title": "Is It Worth It To Buy A Commander Deck? | Marvel Super Heroes | Magic: The Gathering",
+        "thumbnail": "https://i.ytimg.com/vi/vkRGRM1pz90/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vkRGRM1pz90",
         "publishedAt": "2026-06-19"
       },
       {
-        "id": "vid-nn-003",
-        "title": "Fun Deckbuilding: 5-Color Nonsense in Alchemy",
-        "thumbnail": "https://picsum.photos/seed/nn003/640/360",
-        "url": "https://www.youtube.com/watch?v=example23",
-        "publishedAt": "2026-06-16"
+        "id": "vid-rVlT3mNXvxo",
+        "title": "The Complete Guide to Marvel Super Heroes Prerelease! Magic: The Gathering Deck Building",
+        "thumbnail": "https://i.ytimg.com/vi/rVlT3mNXvxo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rVlT3mNXvxo",
+        "publishedAt": "2026-06-17"
       },
       {
-        "id": "vid-nn-004",
-        "title": "Sealed Deck: Building the Perfect Pool",
-        "thumbnail": "https://picsum.photos/seed/nn004/640/360",
-        "url": "https://www.youtube.com/watch?v=example24",
-        "publishedAt": "2026-06-13"
+        "id": "vid-ztTsd_n2ZwU",
+        "title": "Top 5 Best New Magic: The Gathering Cards From Marvel Super Heroes | Modern | Pauper | Standard",
+        "thumbnail": "https://i.ytimg.com/vi/ztTsd_n2ZwU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ztTsd_n2ZwU",
+        "publishedAt": "2026-06-15"
       },
       {
-        "id": "vid-nn-005",
-        "title": "Draft Guide: Reading Signals at the Table",
-        "thumbnail": "https://picsum.photos/seed/nn005/640/360",
-        "url": "https://www.youtube.com/watch?v=example25",
+        "id": "vid-eBRs8D-Gpxo",
+        "title": "Do Not Buy Marvel Super Heroes! Just Buy These 7 Cards For Commander Instead | Magic: The Gathering",
+        "thumbnail": "https://i.ytimg.com/vi/eBRs8D-Gpxo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eBRs8D-Gpxo",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-OWWWudDILjY",
+        "title": "Garfield Hates Secret Lair Mondays! But Prof Loves Them? Is It Worth It To Buy? Magic: The Gathering",
+        "thumbnail": "https://i.ytimg.com/vi/OWWWudDILjY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OWWWudDILjY",
         "publishedAt": "2026-06-10"
       },
       {
-        "id": "vid-nn-006",
-        "title": "Brawl: Every Dragon Commander Ranked",
-        "thumbnail": "https://picsum.photos/seed/nn006/640/360",
-        "url": "https://www.youtube.com/watch?v=example26",
-        "publishedAt": "2026-06-07"
+        "id": "vid-8DSzFEdlxdQ",
+        "title": "The P Is Not Always Silent In Magic: The Gathering",
+        "thumbnail": "https://i.ytimg.com/vi/8DSzFEdlxdQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8DSzFEdlxdQ",
+        "publishedAt": "2026-06-09"
       },
       {
-        "id": "vid-nn-007",
-        "title": "Tarkir Prerrelease — Sealed Deck Build Along",
-        "thumbnail": "https://picsum.photos/seed/nn007/640/360",
-        "url": "https://www.youtube.com/watch?v=example27",
-        "publishedAt": "2026-06-04"
+        "id": "vid-avkYBJXFru4",
+        "title": "It's Time For The Season 5 Shuffle Up & Play Kickstarter! | Magic: The Gathering",
+        "thumbnail": "https://i.ytimg.com/vi/avkYBJXFru4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=avkYBJXFru4",
+        "publishedAt": "2026-06-08"
       },
       {
-        "id": "vid-nn-008",
-        "title": "Historic: Jund Sacrifice Goes Undefeated",
-        "thumbnail": "https://picsum.photos/seed/nn008/640/360",
-        "url": "https://www.youtube.com/watch?v=example28",
-        "publishedAt": "2026-06-01"
-      },
-      {
-        "id": "vid-nn-009",
-        "title": "Cube Draft Stream Highlights: Best Plays",
-        "thumbnail": "https://picsum.photos/seed/nn009/640/360",
-        "url": "https://www.youtube.com/watch?v=example29",
-        "publishedAt": "2026-05-29"
-      },
-      {
-        "id": "vid-nn-010",
-        "title": "Why I Love Limited: A Love Letter to Draft",
-        "thumbnail": "https://picsum.photos/seed/nn010/640/360",
-        "url": "https://www.youtube.com/watch?v=example30",
-        "publishedAt": "2026-05-26"
+        "id": "vid-Mty9LbaFOcU",
+        "title": "How Many Marvel Sets Is Too Many? | Magic: The Gathering",
+        "thumbnail": "https://i.ytimg.com/vi/Mty9LbaFOcU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mty9LbaFOcU",
+        "publishedAt": "2026-06-06"
       }
     ]
   },
