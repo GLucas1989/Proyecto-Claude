@@ -1,72 +1,122 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
   <defs>
+    <!-- ElRubius signature dark bg with warm undertones -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#03050f"/>
-      <stop offset="50%" stop-color="#060a18"/>
-      <stop offset="100%" stop-color="#020408"/>
+      <stop offset="0%" stop-color="#0e0800"/>
+      <stop offset="40%" stop-color="#1a0e00"/>
+      <stop offset="100%" stop-color="#0a0500"/>
     </linearGradient>
-    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="50%" stop-color="#0e90a8"/>
-      <stop offset="100%" stop-color="#065068"/>
+    <!-- Signature orange/yellow gradient -->
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffcc00"/>
+      <stop offset="40%" stop-color="#ff8800"/>
+      <stop offset="100%" stop-color="#cc3300"/>
     </linearGradient>
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#a855f7"/>
-      <stop offset="70%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#ff8800" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffcc00"/>
+      <stop offset="100%" stop-color="#ff8800" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
-      <stop offset="0%" stop-color="#0a1a30" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#0a1a30" stop-opacity="0"/>
+    <radialGradient id="glow" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#ff6600" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ff6600" stop-opacity="0"/>
     </radialGradient>
+    <!-- Neon orange glow filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
 
+  <!-- Background -->
   <rect width="920" height="430" fill="url(#bg)"/>
-  <ellipse cx="460" cy="200" rx="420" ry="210" fill="url(#glow)"/>
+  <!-- Orange warmth glow -->
+  <ellipse cx="460" cy="215" rx="440" ry="220" fill="url(#glow)"/>
 
-  <!-- Colorful pixel dots scattered (variety gaming feel) -->
-  <g opacity="0.15">
-    <rect x="80" y="60" width="12" height="12" fill="#22d3ee" rx="2"/>
-    <rect x="120" y="80" width="8" height="8" fill="#a855f7" rx="1"/>
-    <rect x="60" y="100" width="10" height="10" fill="#f59e0b" rx="2"/>
-    <rect x="800" y="60" width="12" height="12" fill="#22d3ee" rx="2"/>
-    <rect x="840" y="90" width="8" height="8" fill="#ec4899" rx="1"/>
-    <rect x="820" y="120" width="10" height="10" fill="#a855f7" rx="2"/>
-    <rect x="100" y="340" width="10" height="10" fill="#22d3ee" rx="2"/>
-    <rect x="820" y="340" width="10" height="10" fill="#f59e0b" rx="2"/>
+  <!-- Diagonal speed lines (energetic youtuber vibe) -->
+  <g opacity="0.06" stroke="#ff8800" stroke-width="1">
+    <line x1="0" y1="100" x2="920" y2="60"/>
+    <line x1="0" y1="160" x2="920" y2="120"/>
+    <line x1="0" y1="270" x2="920" y2="310"/>
+    <line x1="0" y1="330" x2="920" y2="370"/>
   </g>
 
-  <!-- Gamepad/controller outline -->
-  <g transform="translate(460,195)" opacity="0.08">
-    <ellipse cx="0" cy="0" rx="120" ry="75" fill="none" stroke="#22d3ee" stroke-width="5" rx="30"/>
-    <circle cx="-50" cy="0" r="25" fill="none" stroke="#22d3ee" stroke-width="3"/>
-    <circle cx="50" cy="-10" r="8" fill="none" stroke="#22d3ee" stroke-width="2.5"/>
-    <circle cx="65" cy="5" r="8" fill="none" stroke="#22d3ee" stroke-width="2.5"/>
-    <line x1="-5" y1="-70" x2="-5" y2="-30" stroke="#22d3ee" stroke-width="3"/>
-    <line x1="-5" y1="30" x2="-5" y2="70" stroke="#22d3ee" stroke-width="3"/>
+  <!-- Corner brackets in orange -->
+  <path d="M15,15 L90,15 L90,21 L21,21 L21,90 L15,90 Z" fill="#ff8800" opacity="0.8"/>
+  <path d="M15,15 L50,15 L50,17 L17,17 L17,50 L15,50 Z" fill="#ffcc00"/>
+  <path d="M905,15 L830,15 L830,21 L899,21 L899,90 L905,90 Z" fill="#ff8800" opacity="0.8"/>
+  <path d="M905,15 L870,15 L870,17 L903,17 L903,50 L905,50 Z" fill="#ffcc00"/>
+  <path d="M15,415 L90,415 L90,409 L21,409 L21,340 L15,340 Z" fill="#ff8800" opacity="0.8"/>
+  <path d="M905,415 L830,415 L830,409 L899,409 L899,340 L905,340 Z" fill="#ff8800" opacity="0.8"/>
+
+  <!-- Subscriber badge shape (YouTube red play button outline) -->
+  <g transform="translate(460,185)" opacity="0.08">
+    <rect x="-130" y="-70" width="260" height="140" rx="16" fill="none" stroke="#ffcc00" stroke-width="4"/>
+    <polygon points="-30,-40 60,0 -30,40" fill="none" stroke="#ffcc00" stroke-width="3"/>
   </g>
 
-  <!-- Corner brackets -->
-  <path d="M15,15 L85,15 L85,21 L21,21 L21,85 L15,85 Z" fill="#22d3ee" opacity="0.6"/>
-  <path d="M905,15 L835,15 L835,21 L899,21 L899,85 L905,85 Z" fill="#a855f7" opacity="0.6"/>
-  <path d="M15,415 L85,415 L85,409 L21,409 L21,345 L15,345 Z" fill="#a855f7" opacity="0.6"/>
-  <path d="M905,415 L835,415 L835,409 L899,409 L899,345 L905,345 Z" fill="#22d3ee" opacity="0.6"/>
+  <!-- Separator lines -->
+  <rect x="50" y="148" width="820" height="1" fill="url(#lineGrad)" opacity="0.9"/>
+  <rect x="50" y="278" width="820" height="1" fill="url(#lineGrad)" opacity="0.9"/>
 
-  <!-- Lines -->
-  <rect x="50" y="150" width="820" height="1" fill="url(#lineGrad)" opacity="0.7"/>
-  <rect x="50" y="276" width="820" height="1" fill="url(#lineGrad)" opacity="0.7"/>
-  <rect x="310" y="146" width="300" height="2.5" fill="#22d3ee" opacity="0.9"/>
+  <!-- Orange accent top bar -->
+  <rect x="280" y="143" width="360" height="3.5" fill="#ffcc00" opacity="0.95"/>
 
-  <!-- MULTI -->
-  <text x="460" y="215" font-family="'Arial Black', 'Arial', sans-serif" font-size="80" font-weight="900" letter-spacing="3" fill="url(#cyanGrad)" text-anchor="middle">MULTI</text>
+  <!-- el -->
+  <text x="460" y="206"
+    font-family="'Arial Black', 'Impact', 'Arial', sans-serif"
+    font-size="32"
+    font-weight="900"
+    letter-spacing="3"
+    fill="#ffaa00"
+    text-anchor="middle"
+    opacity="0.9">el</text>
 
-  <!-- JUEGO -->
-  <text x="460" y="258" font-family="'Arial Black', Arial, sans-serif" font-size="30" font-weight="bold" letter-spacing="16" fill="#a855f7" text-anchor="middle" opacity="0.9">JUEGO</text>
+  <!-- RUBIUS -->
+  <text x="460" y="268"
+    font-family="'Arial Black', 'Impact', 'Arial', sans-serif"
+    font-size="100"
+    font-weight="900"
+    letter-spacing="2"
+    fill="url(#orangeGrad)"
+    text-anchor="middle"
+    filter="url(#softGlow)">RUBIUS</text>
 
-  <rect x="310" y="274" width="300" height="2.5" fill="#22d3ee" opacity="0.9"/>
+  <!-- OMG tag -->
+  <text x="460" y="296"
+    font-family="'Arial Black', Impact, Arial, sans-serif"
+    font-size="22"
+    font-weight="900"
+    letter-spacing="12"
+    fill="#ffcc00"
+    text-anchor="middle"
+    opacity="0.85">OMG</text>
 
-  <text x="460" y="312" font-family="Arial, sans-serif" font-size="11" letter-spacing="5" fill="#22d3ee" text-anchor="middle" opacity="0.35">VARIETY GAMING · ESPAÑOL</text>
+  <!-- Orange accent bottom bar -->
+  <rect x="280" y="302" width="360" height="3.5" fill="#ffcc00" opacity="0.95"/>
 
-  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.15"/>
+  <!-- Stars / sparkle decoration -->
+  <g fill="#ffcc00" opacity="0.5">
+    <polygon points="120,80 124,92 136,92 126,100 130,112 120,104 110,112 114,100 104,92 116,92" transform="scale(0.6) translate(80,60)"/>
+    <polygon points="800,80 804,92 816,92 806,100 810,112 800,104 790,112 794,100 784,92 796,92" transform="scale(0.6) translate(580,60)"/>
+    <circle cx="140" cy="360" r="3"/>
+    <circle cx="780" cy="360" r="3"/>
+    <circle cx="460" cy="370" r="2" opacity="0.4"/>
+  </g>
+
+  <!-- Subscriber count hint -->
+  <text x="460" y="340"
+    font-family="Arial, sans-serif"
+    font-size="11"
+    letter-spacing="4"
+    fill="#ff8800"
+    text-anchor="middle"
+    opacity="0.4">40M+ SUSCRIPTORES · YOUTUBE</text>
+
+  <!-- Outer border -->
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#ff8800" stroke-width="1.5" stroke-opacity="0.25"/>
 </svg>
