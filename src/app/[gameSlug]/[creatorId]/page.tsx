@@ -176,11 +176,22 @@ export default async function CreatorPage({ params }: CreatorPageProps) {
           <span className="text-sm text-white/30">{creator.latestVideos.length} publicados</span>
         </div>
         {creator.latestVideos.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {creator.latestVideos.map((video) => (
-              <VideoCard key={video.id} video={video} />
-            ))}
-          </div>
+          <>
+            {/* Mobile: carrusel horizontal con peek */}
+            <div className="sm:hidden flex gap-3 overflow-x-auto snap-x snap-mandatory -mx-4 px-4 pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+              {creator.latestVideos.map((video) => (
+                <div key={video.id} className="shrink-0 w-[260px] snap-start">
+                  <VideoCard video={video} />
+                </div>
+              ))}
+            </div>
+            {/* sm+: grid estático */}
+            <div className="hidden sm:grid grid-cols-2 lg:grid-cols-3 gap-4">
+              {creator.latestVideos.map((video) => (
+                <VideoCard key={video.id} video={video} />
+              ))}
+            </div>
+          </>
         ) : (
           <div className="text-center py-16 text-white/30 border border-white/8 rounded-2xl bg-white/[0.02]">
             <Play className="h-10 w-10 mx-auto mb-3 opacity-30" />
