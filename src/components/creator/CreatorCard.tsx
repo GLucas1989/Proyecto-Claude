@@ -49,9 +49,25 @@ export function CreatorCard({ creator, gameSlug }: CreatorCardProps) {
     ? `https://twitter.com/${creator.socials.twitter}`
     : undefined;
 
+  const featured = creator.isFeatured === true;
+
   return (
-    <div className="group relative flex flex-col rounded-2xl border border-white/8 bg-gradient-to-b from-white/[0.06] to-white/[0.02] hover:border-white/20 hover:from-white/[0.09] hover:to-white/[0.04] transition-all duration-300 overflow-hidden">
-      <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-amber-500/0 to-transparent group-hover:via-amber-500/60 transition-all duration-500" />
+    <div className={`group relative flex flex-col rounded-2xl border bg-gradient-to-b transition-all duration-300 overflow-hidden ${
+      featured
+        ? "border-amber-400/60 from-amber-500/[0.08] to-amber-900/[0.04] shadow-[0_0_20px_rgba(251,191,36,0.18)] hover:shadow-[0_0_28px_rgba(251,191,36,0.28)]"
+        : "border-white/8 from-white/[0.06] to-white/[0.02] hover:border-white/20 hover:from-white/[0.09] hover:to-white/[0.04]"
+    }`}>
+      {/* Top accent line */}
+      <div className={`absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent to-transparent transition-all duration-500 ${
+        featured ? "via-amber-400/90 animate-pulse" : "via-amber-500/0 group-hover:via-amber-500/60"
+      }`} />
+      {/* Featured badge */}
+      {featured && (
+        <div className="absolute top-3 right-3 z-10 inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-amber-400/15 border border-amber-400/40 text-amber-300 text-[10px] font-semibold tracking-wide">
+          <span className="inline-block w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse" />
+          Destacado
+        </div>
+      )}
       <div className="p-5 flex items-start gap-4">
         <div className="relative shrink-0">
           <div className="w-14 h-14 rounded-xl overflow-hidden border border-white/15 group-hover:border-amber-500/40 transition-colors duration-300">

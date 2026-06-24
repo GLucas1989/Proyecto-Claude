@@ -38,6 +38,8 @@ export interface Creator {
   formats?: MTGFormat[];
   // Wild Rift
   roles?: WRRole[];
+  // Monetization
+  isFeatured?: boolean;
   // Future games can add their own optional fields
   [key: string]: unknown;
 }
