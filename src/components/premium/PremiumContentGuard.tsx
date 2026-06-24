@@ -65,7 +65,6 @@ export function PremiumContentGuard({
       setIsSubscribed(!!sub);
     }
     checkSubscription();
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [creatorSlug]);
 
   async function handleSubscribe() {
