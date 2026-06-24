@@ -194,20 +194,16 @@
     ]
   },
   {
-    "channelId": "UCfirebox_ph",
-    "avatar": "https://i.pravatar.cc/150?u=firebox",
+    "channelId": "UCAvCCPscLAfgeio6eLj6ktQ",
+    "avatar": "https://yt3.ggpht.com/ZSGGsWLXLCInYZLo1e5bYqgMSuLprespV0hj0tgWFkIH6X3imy1uQFzyPmC5ltohf1R5sDTQWDk=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
-      "youtube": "https://www.youtube.com/@FireboxTV",
-      "twitch": "firebox",
-      "twitter": "FireboxDND"
+      "youtube": "https://www.youtube.com/@y4mi2599"
     },
-    "id": "firebox",
-    "name": "Firebox",
-    "channelUrl": "https://www.youtube.com/@FireboxTV",
-    "twitch": "firebox",
-    "twitter": "FireboxDND",
-    "bioShort": "Especialista en builds. Rundowns de equipamiento y optimización por clase.",
-    "bioLong": "Firebox se especializa en builds y optimización de equipamiento en Dark and Darker. Sus rundowns detallados por clase ayudan a los jugadores a armar el mejor kit para cada estilo de juego.",
+    "id": "y4mi",
+    "name": "Y4mi",
+    "channelUrl": "https://www.youtube.com/@y4mi2599",
+    "bioShort": "Especialista en builds y optimización de clases en Dark and Darker. PDR, gear y teoría del juego.",
+    "bioLong": "Y4mi es un referente en builds y optimización de Dark and Darker. Sus videos cubren teorycrafting detallado por clase, análisis de PDR, synergias de equipamiento y guías para sacar el máximo rendimiento en cada wipe.",
     "contentType": [
       "educational",
       "competitive"
@@ -220,25 +216,67 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-fbx-001",
-        "title": "Best Builds for Every Class",
-        "thumbnail": "https://picsum.photos/seed/fbx1/640/360",
-        "url": "https://www.youtube.com/watch?v=fbx1",
-        "publishedAt": "2026-06-21"
+        "id": "vid-2Vi5W6vssro",
+        "title": "This NEW MAX PDR Build is OP (Spear + Pavise Build)",
+        "thumbnail": "https://i.ytimg.com/vi/2Vi5W6vssro/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2Vi5W6vssro",
+        "publishedAt": "2026-06-23"
       },
       {
-        "id": "vid-fbx-002",
-        "title": "Gear Optimization Guide",
-        "thumbnail": "https://picsum.photos/seed/fbx2/640/360",
-        "url": "https://www.youtube.com/watch?v=fbx2",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-fbx-003",
-        "title": "Budget Kits That Actually Work",
-        "thumbnail": "https://picsum.photos/seed/fbx3/640/360",
-        "url": "https://www.youtube.com/watch?v=fbx3",
+        "id": "vid-oIZ2NJyiIwo",
+        "title": "They Made Barb EVEN Stronger (Grapple Hook Buff)",
+        "thumbnail": "https://i.ytimg.com/vi/oIZ2NJyiIwo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oIZ2NJyiIwo",
         "publishedAt": "2026-06-13"
+      },
+      {
+        "id": "vid-vofTJ8vTckE",
+        "title": "The UlTIMATE Fake Timmy Bard Build (Artifact Arming Sword)",
+        "thumbnail": "https://i.ytimg.com/vi/vofTJ8vTckE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vofTJ8vTckE",
+        "publishedAt": "2026-05-30"
+      },
+      {
+        "id": "vid-vS6A9DvMMUY",
+        "title": "They Thought I Was a Noob Until I Took 0 Damage (65 % PDR Bard)",
+        "thumbnail": "https://i.ytimg.com/vi/vS6A9DvMMUY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vS6A9DvMMUY",
+        "publishedAt": "2026-05-27"
+      },
+      {
+        "id": "vid-C0JgKPtilFY",
+        "title": "The BEST Start of Wipe in Dark and Darker?",
+        "thumbnail": "https://i.ytimg.com/vi/C0JgKPtilFY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C0JgKPtilFY",
+        "publishedAt": "2026-05-02"
+      },
+      {
+        "id": "vid--Z61GeNzuJ0",
+        "title": "NEW SEASON 9 WIPE",
+        "thumbnail": "https://i.ytimg.com/vi/-Z61GeNzuJ0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-Z61GeNzuJ0",
+        "publishedAt": "2026-04-29"
+      },
+      {
+        "id": "vid-AcHVNUeLyOY",
+        "title": "SEASON 9 Dark and Darker Trailer WIPE Reaction",
+        "thumbnail": "https://i.ytimg.com/vi/AcHVNUeLyOY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AcHVNUeLyOY",
+        "publishedAt": "2026-04-25"
+      },
+      {
+        "id": "vid-uySksHKRQkk",
+        "title": "The TRUTH About Survival Bow Ranger.",
+        "thumbnail": "https://i.ytimg.com/vi/uySksHKRQkk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uySksHKRQkk",
+        "publishedAt": "2026-04-16"
+      },
+      {
+        "id": "vid--0x_mAdxtE4",
+        "title": "Is Squire to Riches the MOST GOATED Mode in Dark and Darker???",
+        "thumbnail": "https://i.ytimg.com/vi/-0x_mAdxtE4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-0x_mAdxtE4",
+        "publishedAt": "2026-04-14"
       }
     ]
   },
