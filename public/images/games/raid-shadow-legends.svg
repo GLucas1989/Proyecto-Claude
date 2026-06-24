@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080010"/>
+      <stop offset="50%" stop-color="#120018"/>
+      <stop offset="100%" stop-color="#060008"/>
+    </linearGradient>
+    <linearGradient id="redGold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e8c060"/>
+      <stop offset="40%" stop-color="#c04020"/>
+      <stop offset="100%" stop-color="#6a1010"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c04020" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e8c060"/>
+      <stop offset="100%" stop-color="#c04020" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#4a0020" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#4a0020" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="200" rx="420" ry="220" fill="url(#glow)"/>
+
+  <!-- Gothic corner ornaments -->
+  <path d="M15,15 L90,15 L90,20 L20,20 L20,90 L15,90 Z" fill="#c04020" opacity="0.7"/>
+  <path d="M15,15 L50,15 L50,17 L17,17 L17,50 L15,50 Z" fill="#e8c060"/>
+  <path d="M905,15 L830,15 L830,20 L900,20 L900,90 L905,90 Z" fill="#c04020" opacity="0.7"/>
+  <path d="M905,15 L870,15 L870,17 L903,17 L903,50 L905,50 Z" fill="#e8c060"/>
+  <path d="M15,415 L90,415 L90,410 L20,410 L20,340 L15,340 Z" fill="#c04020" opacity="0.7"/>
+  <path d="M905,415 L830,415 L830,410 L900,410 L900,340 L905,340 Z" fill="#c04020" opacity="0.7"/>
+
+  <!-- Shield / helmet silhouette -->
+  <g transform="translate(460,185)" opacity="0.1">
+    <polygon points="0,-105 90,-50 90,40 0,100 -90,40 -90,-50" fill="none" stroke="#e8c060" stroke-width="3"/>
+    <polygon points="0,-65 55,-30 55,25 0,60 -55,25 -55,-30" fill="none" stroke="#e8c060" stroke-width="2"/>
+  </g>
+
+  <!-- Separator lines -->
+  <rect x="50" y="150" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="278" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+
+  <!-- Gold accent -->
+  <rect x="310" y="146" width="300" height="3" fill="#e8c060" opacity="0.9"/>
+
+  <!-- RAID -->
+  <text x="460" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="86" font-weight="bold" letter-spacing="8" fill="url(#redGold)" text-anchor="middle">RAID</text>
+
+  <!-- Shadow Legends -->
+  <text x="460" y="258" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="normal" letter-spacing="7" fill="#c89a40" text-anchor="middle" opacity="0.9">SHADOW LEGENDS</text>
+
+  <!-- Bottom accent -->
+  <rect x="310" y="276" width="300" height="3" fill="#e8c060" opacity="0.9"/>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#c04020" stroke-width="1.5" stroke-opacity="0.25"/>
+</svg>

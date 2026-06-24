@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080000"/>
+      <stop offset="50%" stop-color="#130000"/>
+      <stop offset="100%" stop-color="#050000"/>
+    </linearGradient>
+    <linearGradient id="fireGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff6020"/>
+      <stop offset="40%" stop-color="#c02000"/>
+      <stop offset="100%" stop-color="#600000"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c02000" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ff6020"/>
+      <stop offset="100%" stop-color="#c02000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="hellGlow" cx="50%" cy="50%" r="45%">
+      <stop offset="0%" stop-color="#600000" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#600000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="215" rx="420" ry="220" fill="url(#hellGlow)"/>
+
+  <!-- Fire crack lines radiating from center -->
+  <g opacity="0.08" stroke="#ff4000" stroke-width="1.5">
+    <line x1="460" y1="215" x2="100" y2="50"/>
+    <line x1="460" y1="215" x2="820" y2="50"/>
+    <line x1="460" y1="215" x2="50" y2="380"/>
+    <line x1="460" y1="215" x2="870" y2="380"/>
+    <line x1="460" y1="215" x2="460" y2="10"/>
+  </g>
+
+  <!-- Corner ornaments -->
+  <path d="M15,15 L85,15 L85,21 L21,21 L21,85 L15,85 Z" fill="#c02000" opacity="0.7"/>
+  <path d="M905,15 L835,15 L835,21 L899,21 L899,85 L905,85 Z" fill="#c02000" opacity="0.7"/>
+  <path d="M15,415 L85,415 L85,409 L21,409 L21,345 L15,345 Z" fill="#c02000" opacity="0.7"/>
+  <path d="M905,415 L835,415 L835,409 L899,409 L899,345 L905,345 Z" fill="#c02000" opacity="0.7"/>
+
+  <!-- Pentagram / diablo symbol shape -->
+  <g transform="translate(460,195)" opacity="0.09">
+    <circle cx="0" cy="0" r="105" fill="none" stroke="#ff4000" stroke-width="3"/>
+    <circle cx="0" cy="0" r="80" fill="none" stroke="#ff4000" stroke-width="1.5"/>
+    <!-- simplified star -->
+    <polygon points="0,-80 18,-25 76,-25 30,10 46,65 0,30 -46,65 -30,10 -76,-25 -18,-25" fill="none" stroke="#ff4000" stroke-width="2"/>
+  </g>
+
+  <!-- Lines -->
+  <rect x="50" y="148" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="278" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="280" y="144" width="360" height="3" fill="#ff6020" opacity="0.9"/>
+
+  <!-- DIABLO -->
+  <text x="460" y="210" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" letter-spacing="8" fill="url(#fireGrad)" text-anchor="middle">DIABLO</text>
+
+  <!-- IMMORTAL -->
+  <text x="460" y="258" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="bold" letter-spacing="12" fill="#ff6020" text-anchor="middle" opacity="0.9">IMMORTAL</text>
+
+  <rect x="280" y="276" width="360" height="3" fill="#ff6020" opacity="0.9"/>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#800000" stroke-width="1.5" stroke-opacity="0.3"/>
+</svg>

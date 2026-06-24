@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040000"/>
+      <stop offset="50%" stop-color="#0c0100"/>
+      <stop offset="100%" stop-color="#020000"/>
+    </linearGradient>
+    <linearGradient id="bloodGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e04010"/>
+      <stop offset="40%" stop-color="#a00800"/>
+      <stop offset="100%" stop-color="#400000"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a00800" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e04010"/>
+      <stop offset="100%" stop-color="#a00800" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="hellGlow" cx="50%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#500000" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#500000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="215" rx="400" ry="200" fill="url(#hellGlow)"/>
+
+  <!-- Bone/stone texture lines -->
+  <g opacity="0.05" stroke="#e04010" stroke-width="0.8">
+    <line x1="200" y1="0" x2="300" y2="430"/>
+    <line x1="620" y1="0" x2="720" y2="430"/>
+  </g>
+
+  <!-- Corner ornaments with gothic feel -->
+  <path d="M15,15 L85,15 L85,21 L21,21 L21,85 L15,85 Z" fill="#a00800" opacity="0.8"/>
+  <path d="M15,15 L45,15 L45,17 L17,17 L17,45 L15,45 Z" fill="#e04010"/>
+  <path d="M905,15 L835,15 L835,21 L899,21 L899,85 L905,85 Z" fill="#a00800" opacity="0.8"/>
+  <path d="M905,15 L875,15 L875,17 L903,17 L903,45 L905,45 Z" fill="#e04010"/>
+  <path d="M15,415 L85,415 L85,409 L21,409 L21,345 L15,345 Z" fill="#a00800" opacity="0.8"/>
+  <path d="M905,415 L835,415 L835,409 L899,409 L899,345 L905,345 Z" fill="#a00800" opacity="0.8"/>
+
+  <!-- Gothic arched window motif -->
+  <g transform="translate(460,195)" opacity="0.08">
+    <path d="M-90,80 L-90,-20 Q-90,-90 0,-90 Q90,-90 90,-20 L90,80" fill="none" stroke="#e04010" stroke-width="4"/>
+    <path d="M-55,80 L-55,-10 Q-55,-58 0,-58 Q55,-58 55,-10 L55,80" fill="none" stroke="#e04010" stroke-width="2"/>
+    <line x1="-95" y1="80" x2="95" y2="80" stroke="#e04010" stroke-width="3"/>
+  </g>
+
+  <!-- Lines -->
+  <rect x="50" y="148" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="278" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="300" y="144" width="320" height="3" fill="#e04010" opacity="0.9"/>
+
+  <!-- DIABLO -->
+  <text x="460" y="213" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" letter-spacing="8" fill="url(#bloodGrad)" text-anchor="middle">DIABLO</text>
+
+  <!-- IV -->
+  <text x="460" y="261" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" letter-spacing="16" fill="#e04010" text-anchor="middle" opacity="0.95">IV</text>
+
+  <rect x="300" y="276" width="320" height="3" fill="#e04010" opacity="0.9"/>
+
+  <!-- Tagline -->
+  <text x="460" y="312" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#e04010" text-anchor="middle" opacity="0.35">RETURN TO DARKNESS</text>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#600000" stroke-width="1.5" stroke-opacity="0.3"/>
+</svg>

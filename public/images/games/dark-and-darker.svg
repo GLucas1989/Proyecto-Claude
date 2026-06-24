@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050400"/>
+      <stop offset="50%" stop-color="#0c0a02"/>
+      <stop offset="100%" stop-color="#040300"/>
+    </linearGradient>
+    <linearGradient id="stoneGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#c8b890"/>
+      <stop offset="50%" stop-color="#907850"/>
+      <stop offset="100%" stop-color="#504030"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#907850" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c8b890"/>
+      <stop offset="100%" stop-color="#907850" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="torchGlow" cx="50%" cy="45%" r="40%">
+      <stop offset="0%" stop-color="#603010" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#603010" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="200" rx="380" ry="200" fill="url(#torchGlow)"/>
+
+  <!-- Stone texture dots -->
+  <rect x="0" y="0" width="920" height="430" fill="none"/>
+  <!-- Subtle stone pattern -->
+  <g opacity="0.04" fill="#c8b890">
+    <rect x="50" y="30" width="60" height="25"/><rect x="120" y="30" width="80" height="25"/>
+    <rect x="30" y="65" width="80" height="25"/><rect x="120" y="65" width="60" height="25"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <path d="M15,15 L85,15 L85,21 L21,21 L21,85 L15,85 Z" fill="url(#stoneGrad)" opacity="0.7"/>
+  <path d="M905,15 L835,15 L835,21 L899,21 L899,85 L905,85 Z" fill="url(#stoneGrad)" opacity="0.7"/>
+  <path d="M15,415 L85,415 L85,409 L21,409 L21,345 L15,345 Z" fill="url(#stoneGrad)" opacity="0.7"/>
+  <path d="M905,415 L835,415 L835,409 L899,409 L899,345 L905,345 Z" fill="url(#stoneGrad)" opacity="0.7"/>
+
+  <!-- Dungeon arch suggestion -->
+  <g transform="translate(460,185)" opacity="0.09">
+    <path d="M-130,100 L-130,-30 Q-130,-110 0,-110 Q130,-110 130,-30 L130,100" fill="none" stroke="#c8b890" stroke-width="4"/>
+    <path d="M-90,100 L-90,-20 Q-90,-75 0,-75 Q90,-75 90,-20 L90,100" fill="none" stroke="#c8b890" stroke-width="2"/>
+  </g>
+
+  <!-- Lines -->
+  <rect x="50" y="152" width="820" height="1" fill="url(#lineGrad)" opacity="0.7"/>
+  <rect x="50" y="278" width="820" height="1" fill="url(#lineGrad)" opacity="0.7"/>
+  <rect x="300" y="148" width="320" height="2.5" fill="#c8b890" opacity="0.8"/>
+
+  <!-- DARK AND -->
+  <text x="460" y="197" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="normal" letter-spacing="9" fill="#c8b890" text-anchor="middle" opacity="0.85">DARK AND</text>
+
+  <!-- DARKER -->
+  <text x="460" y="263" font-family="Georgia, 'Times New Roman', serif" font-size="90" font-weight="bold" letter-spacing="5" fill="url(#stoneGrad)" text-anchor="middle">DARKER</text>
+
+  <rect x="300" y="276" width="320" height="2.5" fill="#c8b890" opacity="0.8"/>
+
+  <!-- Small flame icons via triangles -->
+  <g opacity="0.5">
+    <polygon points="130,340 140,310 150,340" fill="#c84010"/>
+    <polygon points="134,340 140,316 146,340" fill="#e86020"/>
+    <polygon points="770,340 780,310 790,340" fill="#c84010"/>
+    <polygon points="774,340 780,316 786,340" fill="#e86020"/>
+  </g>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#907850" stroke-width="1.5" stroke-opacity="0.2"/>
+</svg>
