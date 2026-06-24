@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Star } from "lucide-react";
 
 function seededRating(creatorId: string): number {
@@ -19,13 +19,12 @@ interface StarRatingProps {
 export function StarRating({ creatorId, compact = false }: StarRatingProps) {
   const storageKey = `rating:${creatorId}`;
   const communityAvg = seededRating(creatorId);
-  const [userRating, setUserRating] = useState<number>(0);
-  const [hovered, setHovered] = useState<number>(0);
-
-  useEffect(() => {
+  const [userRating, setUserRating] = useState<number>(() => {
+    if (typeof window === "undefined") return 0;
     const saved = localStorage.getItem(storageKey);
-    if (saved) setUserRating(Number(saved));
-  }, [storageKey]);
+    return saved ? Number(saved) : 0;
+  });
+  const [hovered, setHovered] = useState<number>(0);
 
   function handleRate(star: number) {
     setUserRating(star);

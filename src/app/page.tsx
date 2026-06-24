@@ -96,7 +96,7 @@ export default async function HomePage() {
           <div className="mb-6 flex items-center gap-3">
             <div className="h-px flex-1 bg-gradient-to-r from-transparent to-cyan-500/20" />
             <div className="text-center">
-              <p className="text-[10px] font-mono text-cyan-500/50 uppercase tracking-[0.3em] mb-0.5">// creadores por juego</p>
+              <p className="text-[10px] font-mono text-cyan-500/50 uppercase tracking-[0.3em] mb-0.5">{'// creadores por juego'}</p>
               <p className="text-white/30 text-xs font-mono">
                 {activeGames.length} juegos activos &nbsp;·&nbsp; {comingSoonGames.length} próximamente
               </p>
@@ -108,7 +108,7 @@ export default async function HomePage() {
 
           {comingSoonGames.length > 0 && (
             <div className="mt-20">
-              <p className="text-[10px] font-mono text-violet-400/50 uppercase tracking-[0.3em] mb-6">// próximamente</p>
+              <p className="text-[10px] font-mono text-violet-400/50 uppercase tracking-[0.3em] mb-6">{'// próximamente'}</p>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
                 {comingSoonGames.map((game) => (
                   <GameCard key={game.id} game={game} />
