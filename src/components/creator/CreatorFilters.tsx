@@ -35,7 +35,6 @@ export function CreatorFiltersBar({ filters, onFiltersChange, availableFilters =
           <SelectItem value="competitive">Competitivo</SelectItem>
           <SelectItem value="casual">Casual / Fun</SelectItem>
           <SelectItem value="draft">Draft / Limited</SelectItem>
-          <SelectItem value="lore">Lore / Explicativo</SelectItem>
         </SelectContent>
       </Select>
       {availableFilters.includes("format") && (
