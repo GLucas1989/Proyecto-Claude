@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import { Suspense } from "react";
 import Link from "next/link";
 import { Metadata } from "next";
 import { getGame, getCreators } from "@/lib/data";
@@ -6,6 +7,7 @@ import { CreatorGrid } from "@/components/creator/CreatorGrid";
 import { ChevronRight, Home, Users, Globe, Layers } from "lucide-react";
 import { GamePageHero } from "@/components/game/GamePageHero";
 import { getGameGridGradient } from "@/lib/gameTheme";
+import { LearningCenter } from "@/components/game/learning-center/LearningCenter";
 
 interface GamePageProps {
   params: Promise<{ gameSlug: string }>;
@@ -60,6 +62,9 @@ export default async function GamePage({ params }: GamePageProps) {
       <div style={{ background: gridGradient }} className="min-h-screen">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-24 relative z-10 pb-16">
           <CreatorGrid creators={creators} gameSlug={gameSlug} availableFilters={game.filters} />
+          <Suspense fallback={null}>
+            <LearningCenter gameSlug={gameSlug} gameName={game.name} />
+          </Suspense>
         </div>
       </div>
     </>

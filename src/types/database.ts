@@ -2,6 +2,8 @@ export type UserRole = "USER" | "CREATOR" | "ADMIN";
 export type ClaimStatus = "pending" | "approved" | "rejected";
 export type SubscriptionStatus = "active" | "canceled" | "past_due" | "trialing" | "incomplete";
 export type ContentType = "pdf" | "ppt" | "video" | "post" | "vod";
+export type PlatformContentType = "pdf" | "ppt" | "audio" | "video";
+export type GameSubscriptionStatus = "active" | "canceled" | "past_due" | "trialing";
 export type AdPlacement =
   | "home_between_games"
   | "game_page_top"
@@ -134,6 +136,73 @@ export interface Database {
           current_period_start?: string | null;
           current_period_end?: string | null;
           canceled_at?: string | null;
+        };
+      };
+      game_subscriptions: {
+        Row: {
+          id: string;
+          user_id: string;
+          game_slug: string;
+          status: GameSubscriptionStatus;
+          stripe_subscription_id: string | null;
+          stripe_customer_id: string | null;
+          current_period_start: string | null;
+          current_period_end: string | null;
+          canceled_at: string | null;
+          created_at: string;
+        };
+        Insert: {
+          user_id: string;
+          game_slug: string;
+          status?: GameSubscriptionStatus;
+          stripe_subscription_id?: string | null;
+          stripe_customer_id?: string | null;
+          current_period_start?: string | null;
+          current_period_end?: string | null;
+          canceled_at?: string | null;
+        };
+        Update: {
+          status?: GameSubscriptionStatus;
+          stripe_subscription_id?: string | null;
+          current_period_start?: string | null;
+          current_period_end?: string | null;
+          canceled_at?: string | null;
+        };
+      };
+      platform_content: {
+        Row: {
+          id: string;
+          game_slug: string;
+          type: PlatformContentType;
+          title: string;
+          description: string | null;
+          file_url: string;
+          thumbnail_url: string | null;
+          duration_seconds: number | null;
+          file_size_bytes: number | null;
+          sort_order: number;
+          is_published: boolean;
+          created_at: string;
+        };
+        Insert: {
+          game_slug: string;
+          type: PlatformContentType;
+          title: string;
+          description?: string | null;
+          file_url: string;
+          thumbnail_url?: string | null;
+          duration_seconds?: number | null;
+          file_size_bytes?: number | null;
+          sort_order?: number;
+          is_published?: boolean;
+        };
+        Update: {
+          title?: string;
+          description?: string | null;
+          file_url?: string;
+          thumbnail_url?: string | null;
+          is_published?: boolean;
+          sort_order?: number;
         };
       };
       native_ads: {
