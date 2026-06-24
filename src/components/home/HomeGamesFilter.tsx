@@ -4,7 +4,7 @@ import { useState, useMemo } from "react";
 import { Search, X } from "lucide-react";
 import { Game, Creator } from "@/types";
 import { GameShowcase } from "@/components/game/GameShowcase";
-import { SponsoredCard } from "@/components/home/SponsoredCard";
+import { NativeAdSlot } from "@/components/ads/NativeAdSlot";
 
 interface GameWithCreators {
   game: Game;
@@ -134,7 +134,17 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
             <>
               <GameShowcase key={game.id} game={game} creators={creators} defaultOpen={i === 0 && !hasFilters} />
               {/* Sponsored slot after 3rd game, only when no filters active */}
-              {i === 2 && !hasFilters && <SponsoredCard key="sponsored" />}
+              {i === 2 && !hasFilters && (
+                <NativeAdSlot
+                  key="sponsored"
+                  brand="Creators S-HUB"
+                  message="Espacio publicitario nativo — Alcanzá a miles de gamers hispanohablantes"
+                  tagline="Contenido integrado con la estética de la plataforma"
+                  link="mailto:hola@creatorsshub.com?subject=Publicidad nativa en Creators S-HUB"
+                  ctaLabel="Contactar"
+                  variant="between-games"
+                />
+              )}
             </>
           ))}
         </div>
