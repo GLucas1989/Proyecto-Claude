@@ -99,197 +99,170 @@
     ]
   },
   {
-    "id": "fwuffy",
-    "name": "Fwuffy",
-    "channelId": "UCNqXlpDhT2L6UYOBvzk7URw",
-    "channelUrl": "https://www.youtube.com/@fwuffy",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mpYY_BZ1-PKwQvys7dgNW4OQTr22JRxSxqtyUdqxDzics=s800-c-k-c0x00ffffff-no-rj",
-    "bioShort": "Streamer de Albion especializado en PvP open world y small-scale. Conocido por sus clips virales.",
-    "bioLong": "Fwuffy es uno de los jugadores de PvP más reconocidos de Albion Online. Su especialidad son los combates small-scale y el roaming en zonas de riesgo elevado. Sus clips de combates épicos 1v5 se vuelven virales regularmente en la comunidad. Además de entretener, ofrece análisis post-combat que explican las decisiones tomadas en cada enfrentamiento.",
+    "channelId": "UCssq1zz-vUXwdfjVVEz7DRw",
+    "avatar": "https://yt3.ggpht.com/PyMyUZLtkOzJr77uhGLEjHLX-fHN2KjU0RlpJqnLZFOJ8hwqatOQqanzaC32h4fWnh0Tn-OKGGE=s800-c-k-c0x00ffffff-no-rj",
+    "socials": {
+      "youtube": "https://www.youtube.com/@habonis"
+    },
+    "id": "habonis",
+    "name": "Habonis",
+    "channelUrl": "https://www.youtube.com/@habonis",
+    "bioShort": "Guías de builds, solo PvP y corruptos. Contenido diario de Albion Online.",
+    "bioLong": "Habonis es uno de los creadores más activos de Albion Online en inglés. Publica diariamente guías de builds, análisis de armas, solo PvP y corridas de dungeons corruptos. Ideal para jugadores que buscan mejorar su juego con contenido fresco y bien explicado.",
     "contentType": [
-      "competitive",
-      "casual"
+      "educational",
+      "competitive"
     ],
     "gameMode": [
       "pvp",
-      "ganking"
-    ],
-    "languages": [
-      "en"
-    ],
-    "socials": {
-      "youtube": "https://www.youtube.com/@fwuffy",
-      "twitch": "fwuffy",
-      "twitter": "https://twitter.com/fwuffy"
-    },
-    "latestVideos": [
-      {
-        "id": "vid-Djn07OwHwB8",
-        "title": "div 1 striker 🔥🔥🔥",
-        "thumbnail": "https://i.ytimg.com/vi/Djn07OwHwB8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Djn07OwHwB8",
-        "publishedAt": "2026-03-04"
-      },
-      {
-        "id": "vid-bgpVnezXvAo",
-        "title": "DOOR STUCK!",
-        "thumbnail": "https://i.ytimg.com/vi/bgpVnezXvAo/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bgpVnezXvAo",
-        "publishedAt": "2026-02-16"
-      },
-      {
-        "id": "vid-qE-ZLZlJjXU",
-        "title": "3rd world dog stack cheat + talk talk talk, still barely win the game with wh imagine being this bad",
-        "thumbnail": "https://i.ytimg.com/vi/qE-ZLZlJjXU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qE-ZLZlJjXU",
-        "publishedAt": "2026-02-12"
-      },
-      {
-        "id": "vid-qV-JksKOOt4",
-        "title": "himothy",
-        "thumbnail": "https://i.ytimg.com/vi/qV-JksKOOt4/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qV-JksKOOt4",
-        "publishedAt": "2026-02-11"
-      },
-      {
-        "id": "vid-fO6oiw_Wf6M",
-        "title": "esports ready",
-        "thumbnail": "https://i.ytimg.com/vi/fO6oiw_Wf6M/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fO6oiw_Wf6M",
-        "publishedAt": "2025-03-15"
-      },
-      {
-        "id": "vid-u1O0s0J8uBY",
-        "title": "RRF utility",
-        "thumbnail": "https://i.ytimg.com/vi/u1O0s0J8uBY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u1O0s0J8uBY",
-        "publishedAt": "2024-02-10"
-      },
-      {
-        "id": "vid-166I55qSZS8",
-        "title": "yuge traffic collision",
-        "thumbnail": "https://i.ytimg.com/vi/166I55qSZS8/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=166I55qSZS8",
-        "publishedAt": "2023-01-29"
-      },
-      {
-        "id": "vid-DQQqeI0Pq-8",
-        "title": "pro clubs division 1 adventures",
-        "thumbnail": "https://i.ytimg.com/vi/DQQqeI0Pq-8/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DQQqeI0Pq-8",
-        "publishedAt": "2023-01-10"
-      },
-      {
-        "id": "vid-FAB169IctyY",
-        "title": "🤡 game",
-        "thumbnail": "https://i.ytimg.com/vi/FAB169IctyY/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FAB169IctyY",
-        "publishedAt": "2022-12-28"
-      },
-      {
-        "id": "vid-ktyZYQ1C0Ec",
-        "title": "2 retards try to time-waste",
-        "thumbnail": "https://i.ytimg.com/vi/ktyZYQ1C0Ec/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ktyZYQ1C0Ec",
-        "publishedAt": "2022-12-09"
-      }
-    ]
-  },
-  {
-    "id": "captain-lust",
-    "name": "Captain Lust",
-    "channelId": "UCcaptainlust_example",
-    "channelUrl": "https://www.youtube.com/@captainlust",
-    "avatar": "https://i.pravatar.cc/150?u=captain-lust",
-    "bioShort": "Experto en economía y crafting de Albion. Sus guías de mercado son las más precisas de la comunidad.",
-    "bioLong": "Captain Lust es el economista de referencia de Albion Online. Sus análisis del mercado, guías de crafting y estrategias de inversión tienen un nivel de detalle difícil de igualar. Si quieres entender cómo funciona la economía del juego a fondo — desde el arbitraje entre ciudades hasta las mejores inversiones de crafting — este es tu canal.",
-    "contentType": [
-      "educational",
-      "casual"
-    ],
-    "gameMode": [
-      "economy",
-      "crafting",
       "pve"
     ],
     "languages": [
       "en"
     ],
-    "socials": {
-      "youtube": "https://www.youtube.com/@captainlust",
-      "twitch": "captainlust",
-      "twitter": "https://twitter.com/captainlust"
-    },
     "latestVideos": [
       {
-        "id": "vid-cl-001",
-        "title": "Market Manipulation Guide — Ethical Silver Making",
-        "thumbnail": "https://picsum.photos/seed/cl001/640/360",
-        "url": "https://www.youtube.com/watch?v=albex31",
+        "id": "vid-HUN7myal_ms",
+        "title": "Buffed Corrupted Dungeon Night! | Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/HUN7myal_ms/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HUN7myal_ms",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-Rpp08AHBoys",
+        "title": "My Top 3 CHEAP Solo Builds in Albion Online (June 2026)",
+        "thumbnail": "https://i.ytimg.com/vi/Rpp08AHBoys/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rpp08AHBoys",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-kvclvG3WZL0",
+        "title": "I Ranked Every Weapon I Actually Use in Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/kvclvG3WZL0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kvclvG3WZL0",
         "publishedAt": "2026-06-21"
       },
       {
-        "id": "vid-cl-002",
-        "title": "Best Cities to Craft In — 2026 Updated Guide",
-        "thumbnail": "https://picsum.photos/seed/cl002/640/360",
-        "url": "https://www.youtube.com/watch?v=albex32",
+        "id": "vid-3_R8D51JI9M",
+        "title": "My Favorite Builds of 2026 So Far in Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/3_R8D51JI9M/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3_R8D51JI9M",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-aTz3IXD7FSo",
+        "title": "Is Black Zone Gathering Worth Doing in Albion Online?",
+        "thumbnail": "https://i.ytimg.com/vi/aTz3IXD7FSo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aTz3IXD7FSo",
         "publishedAt": "2026-06-18"
       },
       {
-        "id": "vid-cl-003",
-        "title": "T8 Crafting Profit Calculator — Live Demo",
-        "thumbnail": "https://picsum.photos/seed/cl003/640/360",
-        "url": "https://www.youtube.com/watch?v=albex33",
+        "id": "vid-kascPGGsCJY",
+        "title": "2 Hours of Solo PvP With 10 Best Builds in Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/kascPGGsCJY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kascPGGsCJY",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-tj49seA1SaE",
+        "title": "Most Annoying Build in Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/tj49seA1SaE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tj49seA1SaE",
         "publishedAt": "2026-06-15"
       },
       {
-        "id": "vid-cl-004",
-        "title": "How I Made 500M Silver in One Month F2P",
-        "thumbnail": "https://picsum.photos/seed/cl004/640/360",
-        "url": "https://www.youtube.com/watch?v=albex34",
-        "publishedAt": "2026-06-12"
+        "id": "vid-OiBx8Oa7qes",
+        "title": "This Bow of Badon Build is STILL STRONG in Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/OiBx8Oa7qes/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OiBx8Oa7qes",
+        "publishedAt": "2026-06-14"
       },
       {
-        "id": "vid-cl-005",
-        "title": "Island Farming Setup — Max Passive Income",
-        "thumbnail": "https://picsum.photos/seed/cl005/640/360",
-        "url": "https://www.youtube.com/watch?v=albex35",
-        "publishedAt": "2026-06-09"
+        "id": "vid-zk7XE7ME4g0",
+        "title": "New AIM Helper Thingy Explained | Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/zk7XE7ME4g0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zk7XE7ME4g0",
+        "publishedAt": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "channelId": "UCLargMpwdQATGqyAebYejfw",
+    "avatar": "https://yt3.ggpht.com/nKtMsz5-KQzgz-gIH3VkQmf1858_WfW-v0Ssy2iZNvHR6yrzvYL28H9RBJKzhGU88tvj87Dbig=s800-c-k-c0x00ffffff-no-rj",
+    "socials": {
+      "youtube": "https://www.youtube.com/@magepotemkin"
+    },
+    "id": "magepotemkin",
+    "name": "Magepotemkin",
+    "channelUrl": "https://www.youtube.com/@magepotemkin",
+    "bioShort": "PvP de alto nivel en Albion. Builds de daga, arenas 1v1 y análisis de armas.",
+    "bioLong": "Magepotemkin se especializa en PvP competitivo de Albion Online, con foco en arenas 1v1, builds de daga y análisis detallados de armas. Su contenido es técnico y orientado a jugadores que quieren dominar el combate individual.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "gameMode": [
+      "pvp"
+    ],
+    "languages": [
+      "en"
+    ],
+    "latestVideos": [
+      {
+        "id": "vid-Go2PY4H6l1Y",
+        "title": "STRONGEST 1v1 ARENA WEAPON",
+        "thumbnail": "https://i.ytimg.com/vi/Go2PY4H6l1Y/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Go2PY4H6l1Y",
+        "publishedAt": "2026-06-08"
       },
       {
-        "id": "vid-cl-006",
-        "title": "Patch Economy Impact — Winners and Losers",
-        "thumbnail": "https://picsum.photos/seed/cl006/640/360",
-        "url": "https://www.youtube.com/watch?v=albex36",
-        "publishedAt": "2026-06-06"
+        "id": "vid-B-J7xNM80WE",
+        "title": "1v1 Arena 7 HP DG CLUTCH #pvp #albion",
+        "thumbnail": "https://i.ytimg.com/vi/B-J7xNM80WE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B-J7xNM80WE",
+        "publishedAt": "2026-06-05"
       },
       {
-        "id": "vid-cl-007",
-        "title": "Resource Flipping 101 — Low Risk High Return",
-        "thumbnail": "https://picsum.photos/seed/cl007/640/360",
-        "url": "https://www.youtube.com/watch?v=albex37",
-        "publishedAt": "2026-06-03"
+        "id": "vid--OXJj3jTN_E",
+        "title": "Die Less In Albion Online | PVP Guide",
+        "thumbnail": "https://i.ytimg.com/vi/-OXJj3jTN_E/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-OXJj3jTN_E",
+        "publishedAt": "2026-04-28"
       },
       {
-        "id": "vid-cl-008",
-        "title": "Best Solo Farming Spots by Zone Risk Level",
-        "thumbnail": "https://picsum.photos/seed/cl008/640/360",
-        "url": "https://www.youtube.com/watch?v=albex38",
-        "publishedAt": "2026-05-31"
+        "id": "vid-hk0lp3iQrpw",
+        "title": "The Most Consistent Weapon in Albion Online | Weapon Review",
+        "thumbnail": "https://i.ytimg.com/vi/hk0lp3iQrpw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hk0lp3iQrpw",
+        "publishedAt": "2026-01-06"
       },
       {
-        "id": "vid-cl-009",
-        "title": "Guild Economy 101 — Funding War and Growth",
-        "thumbnail": "https://picsum.photos/seed/cl009/640/360",
-        "url": "https://www.youtube.com/watch?v=albex39",
-        "publishedAt": "2026-05-28"
+        "id": "vid-LlnKyd3e8tI",
+        "title": "The Best Dagger Build in Albion Online",
+        "thumbnail": "https://i.ytimg.com/vi/LlnKyd3e8tI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LlnKyd3e8tI",
+        "publishedAt": "2025-12-09"
       },
       {
-        "id": "vid-cl-010",
-        "title": "Is Premium Worth It? Full Cost-Benefit Analysis",
-        "thumbnail": "https://picsum.photos/seed/cl010/640/360",
-        "url": "https://www.youtube.com/watch?v=albex40",
-        "publishedAt": "2026-05-25"
+        "id": "vid-foPx7voDFXY",
+        "title": "This Dagger Build Will Destroy Solo PvP Players",
+        "thumbnail": "https://i.ytimg.com/vi/foPx7voDFXY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=foPx7voDFXY",
+        "publishedAt": "2025-12-04"
+      },
+      {
+        "id": "vid-baSohDQPkag",
+        "title": "Strong Death Giver Build #albion",
+        "thumbnail": "https://i.ytimg.com/vi/baSohDQPkag/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=baSohDQPkag",
+        "publishedAt": "2025-11-06"
+      },
+      {
+        "id": "vid-PO6Bt4eoIa8",
+        "title": "Prowling Vs Phantom TwinBlade #albiononline",
+        "thumbnail": "https://i.ytimg.com/vi/PO6Bt4eoIa8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PO6Bt4eoIa8",
+        "publishedAt": "2025-10-26"
       }
     ]
   },
@@ -391,52 +364,76 @@
     ]
   },
   {
-    "channelId": "UCbogul_ph",
-    "avatar": "https://i.pravatar.cc/150?u=bogul",
+    "channelId": "UCuN1-DANMTxhZnZ5X7QUwQA",
+    "avatar": "https://yt3.ggpht.com/w1xq8fv87H2FJzbE1P3Mlv5pI7dlYyTH7lCnmt26NLNS3bYnzSWLiUijCFfiydLMAKH0eZH10w=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
-      "youtube": "https://www.youtube.com/@Bogul",
-      "twitch": "bogul",
-      "twitter": "BogulAO"
+      "youtube": "https://www.youtube.com/@aquimario"
     },
-    "id": "bogul",
-    "name": "Bogul",
-    "channelUrl": "https://www.youtube.com/@Bogul",
-    "twitch": "bogul",
-    "twitter": "BogulAO",
-    "bioShort": "Contenido PvP y de economía. Análisis de mercado y builds para ganar plata.",
-    "bioLong": "Bogul es un creador de Albion Online conocido por su contenido enfocado en la economía del juego, análisis de mercado y builds rentables. Combina guías de PvP con estrategias para maximizar las ganancias en el mundo dirigido por jugadores de Albion.",
+    "id": "aquimario",
+    "name": "AquiMario",
+    "channelUrl": "https://www.youtube.com/@aquimario",
+    "bioShort": "Guías de Albion Online en español para nuevos y veteranos. Premium, builds y consejos.",
+    "bioLong": "AquiMario crea contenido de Albion Online en español con foco en guías para nuevos jugadores: cómo conseguir premium, qué hacer después del tutorial, builds para solo player y los mejores consejos para progresar en el juego.",
     "contentType": [
       "educational",
-      "competitive"
+      "casual"
     ],
     "gameMode": [
-      "pvp",
-      "gathering"
+      "pve",
+      "economy"
     ],
     "languages": [
-      "en"
+      "es"
     ],
     "latestVideos": [
       {
-        "id": "vid-bog-001",
-        "title": "Best Money Making Methods 2026",
-        "thumbnail": "https://picsum.photos/seed/bog1/640/360",
-        "url": "https://www.youtube.com/watch?v=bog1",
-        "publishedAt": "2026-06-21"
+        "id": "vid-yiq8SlRXxjo",
+        "title": "QUE hacer DESPUES del TUTORIAL en ALBION ONLINE 2025 | GUIA NUEVOS JUGADORES",
+        "thumbnail": "https://i.ytimg.com/vi/yiq8SlRXxjo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yiq8SlRXxjo",
+        "publishedAt": "2025-08-20"
       },
       {
-        "id": "vid-bog-002",
-        "title": "Market Flipping Guide",
-        "thumbnail": "https://picsum.photos/seed/bog2/640/360",
-        "url": "https://www.youtube.com/watch?v=bog2",
-        "publishedAt": "2026-06-17"
+        "id": "vid-GcoUoojDG_g",
+        "title": "COMO CONSEGUIR tu PREMIUM FACIL Y RAPIDO en ALBION ONLINE 2025 | EP 3",
+        "thumbnail": "https://i.ytimg.com/vi/GcoUoojDG_g/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GcoUoojDG_g",
+        "publishedAt": "2025-08-18"
       },
       {
-        "id": "vid-bog-003",
-        "title": "Solo PvP Build Breakdown",
-        "thumbnail": "https://picsum.photos/seed/bog3/640/360",
-        "url": "https://www.youtube.com/watch?v=bog3",
-        "publishedAt": "2026-06-13"
+        "id": "vid-m61QrEQdeEU",
+        "title": "COMO CONSEGUIR tu PREMIUM FACIL Y RAPIDO en ALBION ONLINE 2025 | EP 2",
+        "thumbnail": "https://i.ytimg.com/vi/m61QrEQdeEU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m61QrEQdeEU",
+        "publishedAt": "2025-08-15"
+      },
+      {
+        "id": "vid-AE2KiGKqDx0",
+        "title": "LAS PROFUNDIDADES DE ALBION ONLINE BUILD PARA SOLO PLAYER! | ABYSSAL DEPTHS",
+        "thumbnail": "https://i.ytimg.com/vi/AE2KiGKqDx0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AE2KiGKqDx0",
+        "publishedAt": "2025-07-15"
+      },
+      {
+        "id": "vid-NIwNXEbx8WU",
+        "title": "ALBION ONLINE ME DA UNA SORPRESA INCREIBLE!",
+        "thumbnail": "https://i.ytimg.com/vi/NIwNXEbx8WU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NIwNXEbx8WU",
+        "publishedAt": "2025-06-27"
+      },
+      {
+        "id": "vid-vDy1foJjhKA",
+        "title": "COMO CONSEGUIR tu PREMIUM FACIL Y RAPIDO en ALBION ONLINE 2025 | EP 1",
+        "thumbnail": "https://i.ytimg.com/vi/vDy1foJjhKA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vDy1foJjhKA",
+        "publishedAt": "2025-06-11"
+      },
+      {
+        "id": "vid-Z0Nv_h2-4bY",
+        "title": "LOS 10 MEJORES CONSEJOS PARA NUEVOS EN ALBION ONLINE 2025 | LA MEJOR GUIA",
+        "thumbnail": "https://i.ytimg.com/vi/Z0Nv_h2-4bY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Z0Nv_h2-4bY",
+        "publishedAt": "2025-04-24"
       }
     ]
   },
