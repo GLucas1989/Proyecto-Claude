@@ -4,6 +4,7 @@ import { useState, useMemo } from "react";
 import { Search, X } from "lucide-react";
 import { Game, Creator } from "@/types";
 import { GameShowcase } from "@/components/game/GameShowcase";
+import { SponsoredCard } from "@/components/home/SponsoredCard";
 
 interface GameWithCreators {
   game: Game;
@@ -130,7 +131,11 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
       {filtered.length > 0 ? (
         <div className="flex flex-col gap-3">
           {filtered.map(({ game, creators }, i) => (
-            <GameShowcase key={game.id} game={game} creators={creators} defaultOpen={i === 0 && !hasFilters} />
+            <>
+              <GameShowcase key={game.id} game={game} creators={creators} defaultOpen={i === 0 && !hasFilters} />
+              {/* Sponsored slot after 3rd game, only when no filters active */}
+              {i === 2 && !hasFilters && <SponsoredCard key="sponsored" />}
+            </>
           ))}
         </div>
       ) : (
