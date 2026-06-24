@@ -1201,5 +1201,72 @@
         "publishedAt": "2026-06-21"
       }
     ]
+  },
+  {
+    "id": "faker",
+    "name": "Faker",
+    "channelId": "UCpJw2H9KKqwCCGQKRh1Bf2w",
+    "channelUrl": "https://www.youtube.com/@T1Faker",
+    "avatar": "https://yt3.ggpht.com/QNDtSgo_uyNWKbm-p1Zfio8et4cFN5YXDGOx-AtNMMT0VoPvQQb2qBscrlNBgGwBF4SMzvazzg=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Lee Sang-hyeok, el mejor jugador de League of Legends de la historia. 4 veces campeón mundial con T1.",
+    "bioLong": "Faker, nombre real Lee Sang-hyeok, es considerado el mejor jugador de League of Legends de todos los tiempos. Cuatro veces campeón mundial con T1, ha dominado el mid lane durante más de una década. Su canal oficial muestra su día a día, highlights de ranked y contenido exclusivo para sus fans.",
+    "contentType": [
+      "competitive",
+      "entertainment"
+    ],
+    "role": [
+      "mid"
+    ],
+    "languages": [
+      "ko"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@T1Faker",
+      "twitter": "faker"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-lh5jQrUAYag",
+        "title": "재밌는 누누 발견",
+        "thumbnail": "https://i.ytimg.com/vi/lh5jQrUAYag/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lh5jQrUAYag",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-zcZxo7E9bF0",
+        "title": "감히 시험하려 들지 마라",
+        "thumbnail": "https://i.ytimg.com/vi/zcZxo7E9bF0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zcZxo7E9bF0",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-K01pxM6mOUQ",
+        "title": "티모 잡는 날",
+        "thumbnail": "https://i.ytimg.com/vi/K01pxM6mOUQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=K01pxM6mOUQ",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-vO8Zy5y5I0s",
+        "title": "전문집사 이상혁",
+        "thumbnail": "https://i.ytimg.com/vi/vO8Zy5y5I0s/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vO8Zy5y5I0s",
+        "publishedAt": "2026-06-03"
+      },
+      {
+        "id": "vid-D7FukLIjda8",
+        "title": "계란 한 판",
+        "thumbnail": "https://i.ytimg.com/vi/D7FukLIjda8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D7FukLIjda8",
+        "publishedAt": "2026-05-27"
+      },
+      {
+        "id": "vid-i5Rw-bA84Xg",
+        "title": "넌 못 지나간다",
+        "thumbnail": "https://i.ytimg.com/vi/i5Rw-bA84Xg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=i5Rw-bA84Xg",
+        "publishedAt": "2026-05-11"
+      }
+    ]
   }
 ]
