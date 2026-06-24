@@ -569,6 +569,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Jj3Jjsf-ETQ",
+        "title": "Oner & Doran: Behind the T1 Worlds 2025 Skins",
+        "thumbnail": "https://i3.ytimg.com/vi/Jj3Jjsf-ETQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Jj3Jjsf-ETQ",
+        "publishedAt": "2026-06-24"
+      },
+      {
         "id": "vid-5QL6cJdwOLg",
         "title": "Faker & Keria: Behind the T1 Worlds 2025 Skins",
         "thumbnail": "https://i2.ytimg.com/vi/5QL6cJdwOLg/hqdefault.jpg",
@@ -630,13 +637,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/p1A48m10BOM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=p1A48m10BOM",
         "publishedAt": "2026-06-03"
-      },
-      {
-        "id": "vid-4G912EzdCz8",
-        "title": "Blink and you’ll miss it 😲",
-        "thumbnail": "https://i1.ytimg.com/vi/4G912EzdCz8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4G912EzdCz8",
-        "publishedAt": "2026-05-29"
       }
     ]
   },
