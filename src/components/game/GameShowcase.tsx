@@ -55,36 +55,68 @@ export function GameShowcase({ game, creators, defaultOpen = false }: GameShowca
         aria-expanded={open}
         className="w-full text-left hover:bg-cyan-500/[0.03] transition-colors"
       >
-        <div className="flex justify-center pt-4 px-4">
-          {game.logoUrl && !logoError ? (
-            <div className="relative w-4/5 aspect-[460/215]">
+        {/* ── MOBILE: fila compacta ── */}
+        <div className="flex sm:hidden items-center gap-3 px-4 py-3">
+          <div className="relative h-9 w-9 shrink-0 rounded-lg overflow-hidden border border-white/10 bg-black/30 flex items-center justify-center">
+            {game.logoUrl && !logoError ? (
               <Image
                 src={game.logoUrl}
                 alt={game.name}
                 fill
-                className="object-contain"
-                sizes="(max-width: 768px) 80vw, 640px"
+                className="object-contain p-0.5"
+                sizes="36px"
                 onError={() => setLogoError(true)}
               />
-            </div>
-          ) : (
-            <div className="flex items-center justify-center w-4/5 aspect-[460/215]">
-              <span className="text-5xl leading-none">{emoji}</span>
-            </div>
-          )}
-        </div>
-        <div className="flex items-center gap-4 px-4 sm:px-5 py-3">
-          <div className="min-w-0">
-            <h2 className="text-xl sm:text-2xl font-black text-white tracking-tight leading-none">{game.name}</h2>
-            <p className="text-xs text-white/40 mt-1">{creators.length} creadores destacados</p>
+            ) : (
+              <span className="text-lg leading-none">{emoji}</span>
+            )}
+          </div>
+          <div className="min-w-0 flex-1">
+            <h2 className="text-base font-black text-white tracking-tight leading-none truncate">{game.name}</h2>
+            <p className="text-[10px] text-white/40 mt-0.5">{creators.length} creadores</p>
           </div>
           <ChevronDown
             className={cn(
-              "ml-auto h-5 w-5 shrink-0 text-white/40 transition-transform duration-300",
+              "h-4 w-4 shrink-0 text-white/40 transition-transform duration-300",
               open && "rotate-180",
               accent
             )}
           />
+        </div>
+
+        {/* ── TABLET+: banner ancho + fila de título ── */}
+        <div className="hidden sm:block">
+          <div className="flex justify-center pt-4 px-4">
+            {game.logoUrl && !logoError ? (
+              <div className="relative w-4/5 aspect-[460/215]">
+                <Image
+                  src={game.logoUrl}
+                  alt={game.name}
+                  fill
+                  className="object-contain"
+                  sizes="(max-width: 1024px) 80vw, 640px"
+                  onError={() => setLogoError(true)}
+                />
+              </div>
+            ) : (
+              <div className="flex items-center justify-center w-4/5 aspect-[460/215]">
+                <span className="text-5xl leading-none">{emoji}</span>
+              </div>
+            )}
+          </div>
+          <div className="flex items-center gap-4 px-5 py-3">
+            <div className="min-w-0">
+              <h2 className="text-xl sm:text-2xl font-black text-white tracking-tight leading-none">{game.name}</h2>
+              <p className="text-xs text-white/40 mt-1">{creators.length} creadores destacados</p>
+            </div>
+            <ChevronDown
+              className={cn(
+                "ml-auto h-5 w-5 shrink-0 text-white/40 transition-transform duration-300",
+                open && "rotate-180",
+                accent
+              )}
+            />
+          </div>
         </div>
       </button>
 
@@ -100,7 +132,18 @@ export function GameShowcase({ game, creators, defaultOpen = false }: GameShowca
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-background/60 to-background/90 pointer-events-none" />
 
           <div className="relative z-10 p-4 sm:p-5">
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+
+            {/* ── MOBILE: carrusel horizontal con snap ── */}
+            <div className="sm:hidden flex gap-3 overflow-x-auto snap-x snap-mandatory pb-3 -mx-4 px-4 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+              {creators.map((creator) => (
+                <div key={creator.id} className="snap-start shrink-0 w-[272px]">
+                  <CreatorBlock creator={creator} gameSlug={game.slug} />
+                </div>
+              ))}
+            </div>
+
+            {/* ── TABLET+: grid estático ── */}
+            <div className="hidden sm:grid grid-cols-2 lg:grid-cols-3 gap-4">
               {creators.map((creator) => (
                 <CreatorBlock key={creator.id} creator={creator} gameSlug={game.slug} />
               ))}
@@ -129,8 +172,7 @@ function CreatorBlock({ creator, gameSlug }: { creator: Creator; gameSlug: strin
   const videos = creator.latestVideos.slice(0, 3);
 
   return (
-    <div className="flex flex-col rounded-xl border border-cyan-500/10 bg-background/70 backdrop-blur-sm p-4 hover:border-cyan-500/30 transition-colors duration-300">
-      {/* Cabecera del creador */}
+    <div className="flex flex-col rounded-xl border border-cyan-500/10 bg-background/70 backdrop-blur-sm p-4 hover:border-cyan-500/30 transition-colors duration-300 h-full">
       <Link href={`/${gameSlug}/${creator.id}`} className="group flex items-center gap-3 mb-3">
         <div className="relative h-10 w-10 shrink-0 rounded-lg overflow-hidden border border-white/15 group-hover:border-white/30 transition-colors">
           <Image src={creator.avatar} alt={creator.name} fill className="object-cover" sizes="40px" />
@@ -148,7 +190,6 @@ function CreatorBlock({ creator, gameSlug }: { creator: Creator; gameSlug: strin
         </div>
       </Link>
 
-      {/* 3 últimos videos */}
       <div className="grid grid-cols-3 gap-1.5 mt-auto">
         {videos.map((video) => (
           <a
@@ -159,7 +200,7 @@ function CreatorBlock({ creator, gameSlug }: { creator: Creator; gameSlug: strin
             className="group relative block aspect-video rounded-md overflow-hidden border border-white/10 hover:border-white/30 transition-colors"
             title={video.title}
           >
-            <Image src={video.thumbnail} alt={video.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" sizes="120px" />
+            <Image src={video.thumbnail} alt={video.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" sizes="90px" />
             <div className="absolute inset-0 bg-black/20 group-hover:bg-black/0 transition-colors" />
             <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
               <div className="bg-red-600 rounded-full p-1.5">
