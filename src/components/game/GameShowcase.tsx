@@ -53,33 +53,39 @@ export function GameShowcase({ game, creators, defaultOpen = false }: GameShowca
         type="button"
         onClick={() => setOpen((o) => !o)}
         aria-expanded={open}
-        className="w-full flex items-center gap-4 p-4 sm:p-5 text-left hover:bg-cyan-500/[0.03] transition-colors"
+        className="w-full text-left hover:bg-cyan-500/[0.03] transition-colors"
       >
-        <div className="relative h-12 w-12 shrink-0 rounded-lg overflow-hidden border border-cyan-500/20 bg-cyan-500/5 flex items-center justify-center">
+        <div className="flex justify-center pt-4 px-4">
           {game.logoUrl && !logoError ? (
-            <Image
-              src={game.logoUrl}
-              alt={game.name}
-              fill
-              className="object-cover"
-              sizes="48px"
-              onError={() => setLogoError(true)}
-            />
+            <div className="relative w-4/5 aspect-[460/215]">
+              <Image
+                src={game.logoUrl}
+                alt={game.name}
+                fill
+                className="object-contain"
+                sizes="(max-width: 768px) 80vw, 640px"
+                onError={() => setLogoError(true)}
+              />
+            </div>
           ) : (
-            <span className="text-2xl leading-none">{emoji}</span>
+            <div className="flex items-center justify-center w-4/5 aspect-[460/215]">
+              <span className="text-5xl leading-none">{emoji}</span>
+            </div>
           )}
         </div>
-        <div className="min-w-0">
-          <h2 className="text-xl sm:text-2xl font-black text-white tracking-tight leading-none">{game.name}</h2>
-          <p className="text-xs text-white/40 mt-1">{creators.length} creadores destacados</p>
+        <div className="flex items-center gap-4 px-4 sm:px-5 py-3">
+          <div className="min-w-0">
+            <h2 className="text-xl sm:text-2xl font-black text-white tracking-tight leading-none">{game.name}</h2>
+            <p className="text-xs text-white/40 mt-1">{creators.length} creadores destacados</p>
+          </div>
+          <ChevronDown
+            className={cn(
+              "ml-auto h-5 w-5 shrink-0 text-white/40 transition-transform duration-300",
+              open && "rotate-180",
+              accent
+            )}
+          />
         </div>
-        <ChevronDown
-          className={cn(
-            "ml-auto h-5 w-5 shrink-0 text-white/40 transition-transform duration-300",
-            open && "rotate-180",
-            accent
-          )}
-        />
       </button>
 
       {open && (
