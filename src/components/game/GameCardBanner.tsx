@@ -16,21 +16,20 @@ export function GameCardBanner({ logoUrl, name, emoji, active, comingSoon }: Gam
   const [imgError, setImgError] = useState(false);
 
   return (
-    <div className="relative w-full overflow-hidden" style={{ height: 112 }}>
+    <div className="relative w-full py-3 px-4 flex justify-center bg-black/20">
       {logoUrl && !imgError ? (
-        <>
+        <div className="relative w-4/5 aspect-[460/215]">
           <Image
             src={logoUrl}
             alt={name}
             fill
-            className="object-cover"
-            sizes="(max-width: 768px) 100vw, 400px"
+            className="object-contain"
+            sizes="(max-width: 768px) 80vw, 320px"
             onError={() => setImgError(true)}
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/10 via-transparent to-black/60" />
-        </>
+        </div>
       ) : (
-        <div className="flex items-center justify-center h-full">
+        <div className="flex items-center justify-center w-4/5 aspect-[460/215]">
           <span className="text-5xl leading-none">{emoji}</span>
         </div>
       )}
