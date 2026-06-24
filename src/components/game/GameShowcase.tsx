@@ -190,29 +190,38 @@ function CreatorBlock({ creator, gameSlug }: { creator: Creator; gameSlug: strin
         </div>
       </Link>
 
-      <div className="grid grid-cols-3 gap-1.5 mt-auto">
-        {videos.map((video) => (
-          <a
-            key={video.id}
-            href={video.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="group relative block aspect-video rounded-md overflow-hidden border border-white/10 hover:border-white/30 transition-colors"
-            title={video.title}
-          >
-            <Image src={video.thumbnail} alt={video.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" sizes="90px" />
-            <div className="absolute inset-0 bg-black/20 group-hover:bg-black/0 transition-colors" />
-            <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
-              <div className="bg-red-600 rounded-full p-1.5">
-                <Play className="w-3 h-3 text-white fill-current" />
-              </div>
-            </div>
-          </a>
-        ))}
-        {videos.length === 0 && (
-          <p className="col-span-3 text-[11px] text-white/30 py-4 text-center">Sin videos todavía</p>
-        )}
-      </div>
+      {videos.length === 0 ? (
+        <p className="text-[11px] text-white/30 py-4 text-center mt-auto">Sin videos todavía</p>
+      ) : (
+        <>
+          {/* Mobile: scroll horizontal con peek del siguiente */}
+          <div className="sm:hidden flex gap-2 overflow-x-auto snap-x snap-mandatory mt-auto -mx-4 px-4 pb-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+            {videos.map((video) => (
+              <a key={video.id} href={video.url} target="_blank" rel="noopener noreferrer" title={video.title}
+                className="group relative block shrink-0 w-[130px] aspect-video rounded-md overflow-hidden border border-white/10 hover:border-white/30 transition-colors snap-start">
+                <Image src={video.thumbnail} alt={video.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" sizes="130px" />
+                <div className="absolute inset-0 bg-black/20 group-hover:bg-black/0 transition-colors" />
+                <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+                  <div className="bg-red-600 rounded-full p-1.5"><Play className="w-3 h-3 text-white fill-current" /></div>
+                </div>
+              </a>
+            ))}
+          </div>
+          {/* sm+: grid fijo de 3 columnas */}
+          <div className="hidden sm:grid grid-cols-3 gap-1.5 mt-auto">
+            {videos.map((video) => (
+              <a key={video.id} href={video.url} target="_blank" rel="noopener noreferrer" title={video.title}
+                className="group relative block aspect-video rounded-md overflow-hidden border border-white/10 hover:border-white/30 transition-colors">
+                <Image src={video.thumbnail} alt={video.title} fill className="object-cover group-hover:scale-105 transition-transform duration-300" sizes="90px" />
+                <div className="absolute inset-0 bg-black/20 group-hover:bg-black/0 transition-colors" />
+                <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+                  <div className="bg-red-600 rounded-full p-1.5"><Play className="w-3 h-3 text-white fill-current" /></div>
+                </div>
+              </a>
+            ))}
+          </div>
+        </>
+      )}
     </div>
   );
 }
