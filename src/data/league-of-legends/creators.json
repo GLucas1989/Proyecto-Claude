@@ -1132,5 +1132,31 @@
         "publishedAt": "2026-06-12"
       }
     ]
+  },
+  {
+    "id": "t1",
+    "name": "T1",
+    "channelId": "UCkSt_EmMF8t-eFTo1wWQ6Lg",
+    "channelUrl": "https://www.youtube.com/@T1LoL",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_nT1K8H7u8V1wS0fE4V7l9kW3TJhbwTuG6xNlO0=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Canal oficial de T1, el equipo más icónico de League of Legends y hogar de Faker, el mejor jugador de la historia.",
+    "bioLong": "T1 es el equipo de esports más famoso del mundo, hogar de Lee Sang-hyeok \"Faker\", el jugador más laureado de la historia de League of Legends. Su canal oficial incluye highlights de partidas, contenido detrás de escena, vlogs del equipo y cobertura de sus participaciones en LCK y torneos internacionales como Worlds.",
+    "contentType": [
+      "competitive",
+      "entertainment"
+    ],
+    "role": [
+      "all"
+    ],
+    "languages": [
+      "ko",
+      "en"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@T1LoL",
+      "twitter": "t1lol",
+      "twitch": "t1"
+    },
+    "latestVideos": []
   }
 ]
