@@ -8,6 +8,9 @@ import { ChevronRight, Home, Users, Globe, Layers } from "lucide-react";
 import { GamePageHero } from "@/components/game/GamePageHero";
 import { getGameGridGradient } from "@/lib/gameTheme";
 import { LearningCenter } from "@/components/game/learning-center/LearningCenter";
+import { GamePublicationsFeed } from "@/components/ugc/GamePublicationsFeed";
+import { getPublicationsForGame, getPromotedForGame } from "@/app/actions/ugc";
+import type { UserPublication, PromotedContent } from "@/types/database";
 
 interface GamePageProps {
   params: Promise<{ gameSlug: string }>;
@@ -41,11 +44,29 @@ export default async function GamePage({ params }: GamePageProps) {
 
   if (!game || !game.active) notFound();
 
-  const creators = await getCreators(gameSlug);
-  const languages = [...new Set(creators.flatMap((c) => c.languages))];
-  const contentTypes = [...new Set(creators.flatMap((c) => c.contentType))];
+  const [creators, publications, promoted] = await Promise.all([
+    getCreators(gameSlug),
+    getPublicationsForGame(gameSlug),
+    getPromotedForGame(gameSlug),
+  ]);
 
+  const languages    = [...new Set(creators.flatMap((c) => c.languages))];
+  const contentTypes = [...new Set(creators.flatMap((c) => c.contentType))];
   const gridGradient = getGameGridGradient(game.id);
+
+  // Build promoted IDs set for fast lookup
+  const promotedIds = new Set(promoted.map((p: PromotedContent) => p.publication_id));
+
+  // Build feed items (author data would come from a join in production;
+  // here we use placeholder until profiles join is available)
+  const feedItems = publications.map((pub: UserPublication) => ({
+    publication: pub,
+    authorName: "Comunidad",
+    authorRank: "",
+    upvotes: 0,
+    downvotes: 0,
+    isPromoted: promotedIds.has(pub.id),
+  }));
 
   return (
     <>
@@ -58,13 +79,17 @@ export default async function GamePage({ params }: GamePageProps) {
         />
       </div>
 
-      {/* Full-width gradient background from hero bottom to footer */}
       <div style={{ background: gridGradient }} className="min-h-screen">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-24 relative z-10 pb-16">
           <CreatorGrid creators={creators} gameSlug={gameSlug} availableFilters={game.filters} />
           <Suspense fallback={null}>
             <LearningCenter gameSlug={gameSlug} gameName={game.name} />
           </Suspense>
+          <GamePublicationsFeed
+            gameSlug={gameSlug}
+            gameName={game.name}
+            initialItems={feedItems}
+          />
         </div>
       </div>
     </>

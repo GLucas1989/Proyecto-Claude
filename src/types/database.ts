@@ -1,4 +1,46 @@
 export type UserRole = "USER" | "CREATOR" | "ADMIN";
+export type PublicationStatus = "DRAFT" | "PENDING_REVIEW" | "PUBLISHED" | "ARCHIVED";
+export type PublicationType   = "GUIDE" | "BUILD" | "TIER_LIST";
+export type VoteType          = "UPVOTE" | "DOWNVOTE";
+export type PromotionPayment  = "PENDING" | "PAID" | "REFUNDED";
+
+export interface UserPublication {
+  id: string;
+  user_id: string;
+  game_slug: string;
+  title: string;
+  content_markdown: string;
+  status: PublicationStatus;
+  type: PublicationType;
+  attachments_urls: string[];
+  is_premium: boolean;
+  views_count: number;
+  created_at: string;
+  updated_at: string;
+  published_at: string | null;
+  rejected_reason: string | null;
+}
+
+export interface UserReputation {
+  id: string;
+  user_id: string;
+  points: number;
+  rank_title: string;
+  guides_published: number;
+  updated_at: string;
+}
+
+export interface PromotedContent {
+  id: string;
+  publication_id: string;
+  user_id: string;
+  game_slug: string;
+  expires_at: string;
+  payment_status: PromotionPayment;
+  stripe_payment_intent_id: string | null;
+  price_cents: number;
+  created_at: string;
+}
 export type ClaimStatus = "pending" | "approved" | "rejected";
 export type SubscriptionStatus = "active" | "canceled" | "past_due" | "trialing" | "incomplete";
 export type ContentType = "pdf" | "ppt" | "video" | "post" | "vod";

@@ -26,11 +26,18 @@ export async function middleware(request: NextRequest) {
   // Refresh session — must not run logic between createServerClient and getUser
   const { data: { user } } = await supabase.auth.getUser();
 
-  // Protect /dashboard routes
-  if (request.nextUrl.pathname.startsWith("/dashboard") && !user) {
+  const path = request.nextUrl.pathname;
+
+  // Protect /dashboard and /ugc/new + /ugc/:id/edit routes
+  const requiresAuth =
+    path.startsWith("/dashboard") ||
+    path === "/ugc/new" ||
+    /^\/ugc\/[^/]+\/edit/.test(path);
+
+  if (requiresAuth && !user) {
     const url = request.nextUrl.clone();
     url.pathname = "/auth/login";
-    url.searchParams.set("redirectTo", request.nextUrl.pathname);
+    url.searchParams.set("redirectTo", path);
     return NextResponse.redirect(url);
   }
 

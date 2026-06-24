@@ -117,9 +117,18 @@ export async function POST(request: Request) {
       break;
     }
 
-    // ── Game subscription paid (100% platform) ─────────────────────────────
-    case "invoice.paid": {
-      // Handled above; game sub invoices don't have creator metadata → no split
+    // ── UGC Promotion payment confirmed ────────────────────────────────────
+    case "payment_intent.succeeded": {
+      const pi = event.data.object as unknown as Record<string, unknown>;
+      const piMeta = (pi.metadata ?? {}) as Record<string, string>;
+
+      if (piMeta.type === "ugc_promotion" && piMeta.promotion_id) {
+        await supabase
+          .from("promoted_content")
+          .update({ payment_status: "PAID" })
+          .eq("id", piMeta.promotion_id)
+          .eq("payment_status", "PENDING");
+      }
       break;
     }
 
