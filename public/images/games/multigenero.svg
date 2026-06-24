@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03050f"/>
+      <stop offset="50%" stop-color="#060a18"/>
+      <stop offset="100%" stop-color="#020408"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#0e90a8"/>
+      <stop offset="100%" stop-color="#065068"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#a855f7"/>
+      <stop offset="70%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#0a1a30" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0a1a30" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="200" rx="420" ry="210" fill="url(#glow)"/>
+
+  <!-- Colorful pixel dots scattered (variety gaming feel) -->
+  <g opacity="0.15">
+    <rect x="80" y="60" width="12" height="12" fill="#22d3ee" rx="2"/>
+    <rect x="120" y="80" width="8" height="8" fill="#a855f7" rx="1"/>
+    <rect x="60" y="100" width="10" height="10" fill="#f59e0b" rx="2"/>
+    <rect x="800" y="60" width="12" height="12" fill="#22d3ee" rx="2"/>
+    <rect x="840" y="90" width="8" height="8" fill="#ec4899" rx="1"/>
+    <rect x="820" y="120" width="10" height="10" fill="#a855f7" rx="2"/>
+    <rect x="100" y="340" width="10" height="10" fill="#22d3ee" rx="2"/>
+    <rect x="820" y="340" width="10" height="10" fill="#f59e0b" rx="2"/>
+  </g>
+
+  <!-- Gamepad/controller outline -->
+  <g transform="translate(460,195)" opacity="0.08">
+    <ellipse cx="0" cy="0" rx="120" ry="75" fill="none" stroke="#22d3ee" stroke-width="5" rx="30"/>
+    <circle cx="-50" cy="0" r="25" fill="none" stroke="#22d3ee" stroke-width="3"/>
+    <circle cx="50" cy="-10" r="8" fill="none" stroke="#22d3ee" stroke-width="2.5"/>
+    <circle cx="65" cy="5" r="8" fill="none" stroke="#22d3ee" stroke-width="2.5"/>
+    <line x1="-5" y1="-70" x2="-5" y2="-30" stroke="#22d3ee" stroke-width="3"/>
+    <line x1="-5" y1="30" x2="-5" y2="70" stroke="#22d3ee" stroke-width="3"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <path d="M15,15 L85,15 L85,21 L21,21 L21,85 L15,85 Z" fill="#22d3ee" opacity="0.6"/>
+  <path d="M905,15 L835,15 L835,21 L899,21 L899,85 L905,85 Z" fill="#a855f7" opacity="0.6"/>
+  <path d="M15,415 L85,415 L85,409 L21,409 L21,345 L15,345 Z" fill="#a855f7" opacity="0.6"/>
+  <path d="M905,415 L835,415 L835,409 L899,409 L899,345 L905,345 Z" fill="#22d3ee" opacity="0.6"/>
+
+  <!-- Lines -->
+  <rect x="50" y="150" width="820" height="1" fill="url(#lineGrad)" opacity="0.7"/>
+  <rect x="50" y="276" width="820" height="1" fill="url(#lineGrad)" opacity="0.7"/>
+  <rect x="310" y="146" width="300" height="2.5" fill="#22d3ee" opacity="0.9"/>
+
+  <!-- MULTI -->
+  <text x="460" y="215" font-family="'Arial Black', 'Arial', sans-serif" font-size="80" font-weight="900" letter-spacing="3" fill="url(#cyanGrad)" text-anchor="middle">MULTI</text>
+
+  <!-- JUEGO -->
+  <text x="460" y="258" font-family="'Arial Black', Arial, sans-serif" font-size="30" font-weight="bold" letter-spacing="16" fill="#a855f7" text-anchor="middle" opacity="0.9">JUEGO</text>
+
+  <rect x="310" y="274" width="300" height="2.5" fill="#22d3ee" opacity="0.9"/>
+
+  <text x="460" y="312" font-family="Arial, sans-serif" font-size="11" letter-spacing="5" fill="#22d3ee" text-anchor="middle" opacity="0.35">VARIETY GAMING · ESPAÑOL</text>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-opacity="0.15"/>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#010912"/>
+      <stop offset="50%" stop-color="#021428"/>
+      <stop offset="100%" stop-color="#010a18"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#0090d4"/>
+      <stop offset="100%" stop-color="#0050a0"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00b4e0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00b4e0"/>
+      <stop offset="100%" stop-color="#00b4e0" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#004080" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#004080" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="200" rx="400" ry="200" fill="url(#glow)"/>
+
+  <!-- Corner ornaments -->
+  <path d="M15,15 L80,15 L80,20 L20,20 L20,80 L15,80 Z" fill="#00b4e0" opacity="0.6"/>
+  <path d="M905,15 L840,15 L840,20 L900,20 L900,80 L905,80 Z" fill="#00b4e0" opacity="0.6"/>
+  <path d="M15,415 L80,415 L80,410 L20,410 L20,350 L15,350 Z" fill="#00b4e0" opacity="0.6"/>
+  <path d="M905,415 L840,415 L840,410 L900,410 L900,350 L905,350 Z" fill="#00b4e0" opacity="0.6"/>
+
+  <!-- Diamond / Wild Rift logo shape -->
+  <g transform="translate(460,190)" opacity="0.13">
+    <polygon points="0,-100 86,0 0,100 -86,0" fill="none" stroke="#00b4e0" stroke-width="4"/>
+    <polygon points="0,-60 52,0 0,60 -52,0" fill="none" stroke="#00b4e0" stroke-width="2.5"/>
+    <line x1="-86" y1="0" x2="86" y2="0" stroke="#00b4e0" stroke-width="1.5"/>
+    <line x1="0" y1="-100" x2="0" y2="100" stroke="#00b4e0" stroke-width="1.5"/>
+  </g>
+
+  <!-- Separator lines -->
+  <rect x="50" y="152" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="278" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+
+  <!-- Blue accent bar -->
+  <rect x="350" y="148" width="220" height="3" fill="#00b4e0" opacity="0.9"/>
+
+  <!-- WILD -->
+  <text x="460" y="195" font-family="'BeaufortforLOL', Georgia, 'Times New Roman', serif" font-size="26" font-weight="bold" letter-spacing="14" fill="#00b4e0" text-anchor="middle" opacity="0.95">WILD</text>
+
+  <!-- RIFT -->
+  <text x="460" y="263" font-family="'BeaufortforLOL', Georgia, 'Times New Roman', serif" font-size="96" font-weight="bold" letter-spacing="5" fill="url(#blueGrad)" text-anchor="middle">RIFT</text>
+
+  <!-- Bottom accent -->
+  <rect x="350" y="280" width="220" height="3" fill="#00b4e0" opacity="0.9"/>
+
+  <!-- Tagline -->
+  <text x="460" y="315" font-family="Georgia, serif" font-size="13" letter-spacing="5" fill="#00b4e0" text-anchor="middle" opacity="0.5">LEAGUE OF LEGENDS MOBILE</text>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#00b4e0" stroke-width="1.5" stroke-opacity="0.2"/>
+</svg>

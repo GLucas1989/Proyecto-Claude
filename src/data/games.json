@@ -8,7 +8,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "⚔️",
-    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2141910/header.jpg",
+    "logoUrl": "/images/games/mtg-arena.svg",
     "filters": [
       "contentType",
       "format",
@@ -24,7 +24,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🏆",
-    "logoUrl": null,
+    "logoUrl": "/images/games/wild-rift.svg",
     "filters": [
       "contentType",
       "role",
@@ -40,7 +40,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🗡️",
-    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1145640/header.jpg",
+    "logoUrl": "/images/games/raid-shadow-legends.svg",
     "filters": [
       "contentType",
       "gameMode",
@@ -56,7 +56,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🏚️",
-    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2016590/header.jpg",
+    "logoUrl": "/images/games/dark-and-darker.svg",
     "filters": [
       "contentType",
       "class",
@@ -72,7 +72,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🚀",
-    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1276820/header.jpg",
+    "logoUrl": "/images/games/beyond-all-reason.svg",
     "filters": [
       "contentType",
       "faction",
@@ -88,7 +88,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "⚔️",
-    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/761890/header.jpg",
+    "logoUrl": "/images/games/albion-online.svg",
     "filters": [
       "contentType",
       "gameMode",
@@ -104,7 +104,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "💀",
-    "logoUrl": null,
+    "logoUrl": "/images/games/diablo-immortal.svg",
     "filters": [
       "contentType",
       "class",
@@ -120,7 +120,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "⚡",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/League_of_Legends_2019_vector.svg/400px-League_of_Legends_2019_vector.svg.png",
+    "logoUrl": "/images/games/league-of-legends.svg",
     "filters": [
       "contentType",
       "role",
@@ -136,7 +136,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🎮",
-    "logoUrl": null,
+    "logoUrl": "/images/games/multigenero.svg",
     "filters": [
       "contentType",
       "language"
@@ -151,7 +151,7 @@
     "active": true,
     "comingSoon": false,
     "emoji": "🔥",
-    "logoUrl": "https://cdn.akamai.steamstatic.com/steam/apps/2119150/header.jpg",
+    "logoUrl": "/images/games/diablo-iv.svg",
     "filters": [
       "contentType",
       "class",

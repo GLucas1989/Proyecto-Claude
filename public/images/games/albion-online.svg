@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060400"/>
+      <stop offset="50%" stop-color="#100c00"/>
+      <stop offset="100%" stop-color="#040300"/>
+    </linearGradient>
+    <linearGradient id="yellowGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffe060"/>
+      <stop offset="50%" stop-color="#d4a010"/>
+      <stop offset="100%" stop-color="#805800"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4a010" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffe060"/>
+      <stop offset="100%" stop-color="#d4a010" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#402800" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#402800" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="200" rx="400" ry="200" fill="url(#glow)"/>
+
+  <!-- Medieval corner ornaments -->
+  <path d="M15,15 L85,15 L85,21 L21,21 L21,85 L15,85 Z" fill="url(#yellowGrad)" opacity="0.7"/>
+  <path d="M905,15 L835,15 L835,21 L899,21 L899,85 L905,85 Z" fill="url(#yellowGrad)" opacity="0.7"/>
+  <path d="M15,415 L85,415 L85,409 L21,409 L21,345 L15,345 Z" fill="url(#yellowGrad)" opacity="0.7"/>
+  <path d="M905,415 L835,415 L835,409 L899,409 L899,345 L905,345 Z" fill="url(#yellowGrad)" opacity="0.7"/>
+
+  <!-- Shield emblem center -->
+  <g transform="translate(460,190)" opacity="0.1">
+    <path d="M0,-110 L95,-60 L95,40 Q95,100 0,120 Q-95,100 -95,40 L-95,-60 Z" fill="none" stroke="#ffe060" stroke-width="4"/>
+    <path d="M0,-70 L60,-38 L60,25 Q60,65 0,78 Q-60,65 -60,25 L-60,-38 Z" fill="none" stroke="#ffe060" stroke-width="2.5"/>
+  </g>
+
+  <!-- Lines -->
+  <rect x="50" y="152" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="280" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="310" y="148" width="300" height="3" fill="#ffe060" opacity="0.9"/>
+
+  <!-- ALBION -->
+  <text x="460" y="218" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="bold" letter-spacing="6" fill="url(#yellowGrad)" text-anchor="middle">ALBION</text>
+
+  <!-- ONLINE -->
+  <text x="460" y="257" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="normal" letter-spacing="14" fill="#d4a010" text-anchor="middle" opacity="0.85">ONLINE</text>
+
+  <rect x="310" y="277" width="300" height="3" fill="#ffe060" opacity="0.9"/>
+
+  <!-- Tagline -->
+  <text x="460" y="312" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#ffe060" text-anchor="middle" opacity="0.4">SANDBOX MMORPG</text>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#d4a010" stroke-width="1.5" stroke-opacity="0.25"/>
+</svg>

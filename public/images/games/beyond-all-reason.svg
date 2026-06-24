@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#010805"/>
+      <stop offset="50%" stop-color="#021208"/>
+      <stop offset="100%" stop-color="#010602"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#40e080"/>
+      <stop offset="50%" stop-color="#20a040"/>
+      <stop offset="100%" stop-color="#106020"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#20a040" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#40e080"/>
+      <stop offset="100%" stop-color="#20a040" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#0a3015" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#0a3015" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="200" rx="420" ry="210" fill="url(#glow)"/>
+
+  <!-- Tech grid lines (RTS radar aesthetic) -->
+  <g opacity="0.04" stroke="#40e080" stroke-width="0.5">
+    <line x1="230" y1="0" x2="230" y2="430"/>
+    <line x1="460" y1="0" x2="460" y2="430"/>
+    <line x1="690" y1="0" x2="690" y2="430"/>
+    <line x1="0" y1="107" x2="920" y2="107"/>
+    <line x1="0" y1="215" x2="920" y2="215"/>
+    <line x1="0" y1="323" x2="920" y2="323"/>
+  </g>
+
+  <!-- Corner tech brackets -->
+  <path d="M15,15 L85,15 L85,21 L21,21 L21,85 L15,85 Z" fill="#20a040" opacity="0.7"/>
+  <path d="M905,15 L835,15 L835,21 L899,21 L899,85 L905,85 Z" fill="#20a040" opacity="0.7"/>
+  <path d="M15,415 L85,415 L85,409 L21,409 L21,345 L15,345 Z" fill="#20a040" opacity="0.7"/>
+  <path d="M905,415 L835,415 L835,409 L899,409 L899,345 L905,345 Z" fill="#20a040" opacity="0.7"/>
+
+  <!-- Target reticle -->
+  <g transform="translate(460,195)" opacity="0.1">
+    <circle cx="0" cy="0" r="110" fill="none" stroke="#40e080" stroke-width="2"/>
+    <circle cx="0" cy="0" r="70" fill="none" stroke="#40e080" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#40e080" stroke-width="3"/>
+    <line x1="-120" y1="0" x2="-80" y2="0" stroke="#40e080" stroke-width="2"/>
+    <line x1="80" y1="0" x2="120" y2="0" stroke="#40e080" stroke-width="2"/>
+    <line x1="0" y1="-120" x2="0" y2="-80" stroke="#40e080" stroke-width="2"/>
+    <line x1="0" y1="80" x2="0" y2="120" stroke="#40e080" stroke-width="2"/>
+  </g>
+
+  <!-- Separator lines -->
+  <rect x="50" y="150" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="278" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="300" y="146" width="320" height="2.5" fill="#40e080" opacity="0.9"/>
+
+  <!-- BEYOND ALL -->
+  <text x="460" y="195" font-family="'Arial Narrow', Arial, sans-serif" font-size="24" font-weight="bold" letter-spacing="10" fill="#40e080" text-anchor="middle" opacity="0.9">BEYOND ALL</text>
+
+  <!-- REASON -->
+  <text x="460" y="263" font-family="'Arial Narrow', Arial, sans-serif" font-size="94" font-weight="bold" letter-spacing="4" fill="url(#greenGrad)" text-anchor="middle">REASON</text>
+
+  <rect x="300" y="280" width="320" height="2.5" fill="#40e080" opacity="0.9"/>
+
+  <!-- Tagline -->
+  <text x="460" y="315" font-family="'Courier New', monospace" font-size="11" letter-spacing="4" fill="#40e080" text-anchor="middle" opacity="0.4">FREE · OPEN SOURCE · RTS</text>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#20a040" stroke-width="1.5" stroke-opacity="0.2"/>
+</svg>
