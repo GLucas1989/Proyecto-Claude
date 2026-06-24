@@ -122,6 +122,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-rWmqzIhAiLQ",
+        "title": "I Asked for Warlock… Diablo Immortal Did It!",
+        "thumbnail": "https://i3.ytimg.com/vi/rWmqzIhAiLQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rWmqzIhAiLQ",
+        "publishedAt": "2026-06-24"
+      },
+      {
         "id": "vid-HUN7myal_ms",
         "title": "🔴 Buffed Corrupted Dungeon Night! | Albion Online",
         "thumbnail": "https://i1.ytimg.com/vi/HUN7myal_ms/hqdefault.jpg",
@@ -183,13 +190,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/OiBx8Oa7qes/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=OiBx8Oa7qes",
         "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-zk7XE7ME4g0",
-        "title": "New AIM Helper Thingy Explained | Albion Online",
-        "thumbnail": "https://i3.ytimg.com/vi/zk7XE7ME4g0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zk7XE7ME4g0",
-        "publishedAt": "2026-06-13"
       }
     ]
   },

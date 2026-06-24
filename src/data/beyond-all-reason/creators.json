@@ -121,6 +121,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-lYiAfy21Yr4",
+        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i1.ytimg.com/vi/lYiAfy21Yr4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lYiAfy21Yr4",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-e17iDylyu3o",
+        "title": "My ENTIRE Discord teamed up against me | Beyond All Reason",
+        "thumbnail": "https://i2.ytimg.com/vi/e17iDylyu3o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=e17iDylyu3o",
+        "publishedAt": "2026-06-24"
+      },
+      {
         "id": "vid-pk2dkMidpFo",
         "title": "Whistlers are still in | Beyond All Reason | Nuclear Winter Bar",
         "thumbnail": "https://i1.ytimg.com/vi/pk2dkMidpFo/hqdefault.jpg",
@@ -175,20 +189,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/4lVpNUgPAns/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4lVpNUgPAns",
         "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-yiyx1E0gN0I",
-        "title": "1 MEX START | Beyond All Reason | Tau12",
-        "thumbnail": "https://i2.ytimg.com/vi/yiyx1E0gN0I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yiyx1E0gN0I",
-        "publishedAt": "2026-06-16"
-      },
-      {
-        "id": "vid-_MUBC7fEkEs",
-        "title": "Big Map, Small Team | Beyond All Reason | Hera Planum",
-        "thumbnail": "https://i4.ytimg.com/vi/_MUBC7fEkEs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_MUBC7fEkEs",
-        "publishedAt": "2026-06-15"
       }
     ]
   },
