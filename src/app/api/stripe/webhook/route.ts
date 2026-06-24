@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { stripe, PLATFORM_WEBHOOK_SECRET } from "@/lib/stripe/client";
 import { createClient } from "@/lib/supabase/server";
-import { computeCreatorSplit } from "@/lib/stripe/splits";
+import { computeCreatorSplit, computeUGCSplit } from "@/lib/stripe/splits";
 import type Stripe from "stripe";
 
 export const runtime = "nodejs";
@@ -135,6 +135,21 @@ export async function POST(request: Request) {
     case "checkout.session.completed": {
       const session = event.data.object as Stripe.Checkout.Session;
       const meta = session.metadata ?? {};
+
+      // UGC premium content purchase — 50/50 split, credit author wallet
+      if (meta.type === "UGC" && meta.publication_id && meta.author_id) {
+        const totalCents = session.amount_total ?? 0;
+        const { authorAmountCents } = computeUGCSplit(totalCents);
+
+        await supabase.rpc("credit_author_wallet", {
+          p_user_id: meta.author_id,
+          p_amount_cents: authorAmountCents,
+          p_description: `UGC premium purchase — publication ${meta.publication_id}`,
+          p_stripe_ref: event.id,
+        });
+
+        break;
+      }
 
       // Game subscription checkout
       if (meta.game_slug && meta.user_id) {

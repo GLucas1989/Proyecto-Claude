@@ -29,6 +29,18 @@ export function computeCreatorSplit(
   return { creatorPct, platformPct, creatorAmountCents, platformAmountCents };
 }
 
+export type UGCSplitResult = {
+  authorAmountCents: number;
+  platformAmountCents: number;
+};
+
+/** Fixed 50/50 split for UGC premium content purchases. */
+export function computeUGCSplit(totalCents: number): UGCSplitResult {
+  const authorAmountCents = Math.floor(totalCents * 0.5);
+  const platformAmountCents = totalCents - authorAmountCents;
+  return { authorAmountCents, platformAmountCents };
+}
+
 /**
  * Builds the Stripe PaymentIntent / Invoice params for a creator subscription.
  * Uses Stripe Connect: funds flow to platform, then transfer to creator.

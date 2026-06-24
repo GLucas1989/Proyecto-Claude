@@ -41,6 +41,39 @@ export interface PromotedContent {
   price_cents: number;
   created_at: string;
 }
+export type WalletTxType = "EARNING" | "WITHDRAWAL" | "REFUND";
+
+export interface FoundingPartner {
+  id: string;
+  user_id: string;
+  creator_id: string | null;
+  brand_name: string | null;
+  revenue_share_percentage: number;
+  is_active: boolean;
+  notes: string | null;
+  activated_by: string | null;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface AuthorWallet {
+  user_id: string;
+  available_balance: number;
+  withdrawn_balance: number;
+  stripe_connect_id: string | null;
+  updated_at: string;
+}
+
+export interface WalletTransaction {
+  id: string;
+  user_id: string;
+  amount: number;
+  type: WalletTxType;
+  description: string | null;
+  stripe_ref: string | null;
+  created_at: string;
+}
+
 export type ClaimStatus = "pending" | "approved" | "rejected";
 export type SubscriptionStatus = "active" | "canceled" | "past_due" | "trialing" | "incomplete";
 export type ContentType = "pdf" | "ppt" | "video" | "post" | "vod";
