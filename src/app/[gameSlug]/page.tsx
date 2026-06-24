@@ -5,6 +5,7 @@ import { getGame, getCreators } from "@/lib/data";
 import { CreatorGrid } from "@/components/creator/CreatorGrid";
 import { ChevronRight, Home, Users, Globe, Layers } from "lucide-react";
 import { GamePageHero } from "@/components/game/GamePageHero";
+import { getGameGridGradient } from "@/lib/gameTheme";
 
 interface GamePageProps {
   params: Promise<{ gameSlug: string }>;
@@ -42,19 +43,26 @@ export default async function GamePage({ params }: GamePageProps) {
   const languages = [...new Set(creators.flatMap((c) => c.languages))];
   const contentTypes = [...new Set(creators.flatMap((c) => c.contentType))];
 
+  const gridGradient = getGameGridGradient(game.id);
+
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <GamePageHero
-        game={game}
-        creatorsCount={creators.length}
-        languagesCount={languages.length}
-        contentTypesCount={contentTypes.length}
-      />
-      {/* Negative margin pulls the grid up into the gradient fade zone */}
-      <div className="-mt-24 relative z-10 pb-8">
-        <CreatorGrid creators={creators} gameSlug={gameSlug} availableFilters={game.filters} />
+    <>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <GamePageHero
+          game={game}
+          creatorsCount={creators.length}
+          languagesCount={languages.length}
+          contentTypesCount={contentTypes.length}
+        />
       </div>
-    </div>
+
+      {/* Full-width gradient background from hero bottom to footer */}
+      <div style={{ background: gridGradient }} className="min-h-screen">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-24 relative z-10 pb-16">
+          <CreatorGrid creators={creators} gameSlug={gameSlug} availableFilters={game.filters} />
+        </div>
+      </div>
+    </>
   );
 }
 
