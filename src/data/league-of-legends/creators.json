@@ -1136,9 +1136,9 @@
   {
     "id": "t1",
     "name": "T1",
-    "channelId": "UCkSt_EmMF8t-eFTo1wWQ6Lg",
-    "channelUrl": "https://www.youtube.com/@T1LoL",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_nT1K8H7u8V1wS0fE4V7l9kW3TJhbwTuG6xNlO0=s800-c-k-c0x00ffffff-no-rj",
+    "channelId": "UCJprx3bX49vNl6Bcw01Cwfg",
+    "channelUrl": "https://www.youtube.com/@T1",
+    "avatar": "https://yt3.ggpht.com/EqAIK28V4bocz3_JcphbjPIXvv_OXVsLDeNdvr5fRYKwLWwLRzFb4nPGY5CFXFfs760D0esIfw=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Canal oficial de T1, el equipo más icónico de League of Legends y hogar de Faker, el mejor jugador de la historia.",
     "bioLong": "T1 es el equipo de esports más famoso del mundo, hogar de Lee Sang-hyeok \"Faker\", el jugador más laureado de la historia de League of Legends. Su canal oficial incluye highlights de partidas, contenido detrás de escena, vlogs del equipo y cobertura de sus participaciones en LCK y torneos internacionales como Worlds.",
     "contentType": [
@@ -1157,6 +1157,49 @@
       "twitter": "t1lol",
       "twitch": "t1"
     },
-    "latestVideos": []
+    "latestVideos": [
+      {
+        "id": "vid-XxDng3l5wmQ",
+        "title": "너드남 이미지 (ft. 케리아)",
+        "thumbnail": "https://i.ytimg.com/vi/XxDng3l5wmQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XxDng3l5wmQ",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-XTRlL06mE3Q",
+        "title": "X억이 생긴다면?",
+        "thumbnail": "https://i.ytimg.com/vi/XTRlL06mE3Q/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XTRlL06mE3Q",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-GHtBeF3TAEg",
+        "title": "T1 will RISE ABOVE again",
+        "thumbnail": "https://i.ytimg.com/vi/GHtBeF3TAEg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GHtBeF3TAEg",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-m9tp_Pu7500",
+        "title": "케리아의 EWC 트로피 소개",
+        "thumbnail": "https://i.ytimg.com/vi/m9tp_Pu7500/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m9tp_Pu7500",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-V3hFzn_2VAM",
+        "title": "인생은 운타라처럼",
+        "thumbnail": "https://i.ytimg.com/vi/V3hFzn_2VAM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V3hFzn_2VAM",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-bQo7JhcIpnI",
+        "title": "운성곤 니가 좋아 MV",
+        "thumbnail": "https://i.ytimg.com/vi/bQo7JhcIpnI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bQo7JhcIpnI",
+        "publishedAt": "2026-06-21"
+      }
+    ]
   }
 ]
