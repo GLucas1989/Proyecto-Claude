@@ -27,14 +27,14 @@ export function GamePageHero({ game, creatorsCount, languagesCount, contentTypes
               src={game.logoUrl!}
               alt={game.name}
               fill
-              className="object-cover object-center scale-110 blur-sm"
+              className="object-cover object-center"
               sizes="100vw"
               priority
               onError={() => setImgError(true)}
             />
           </div>
-          {/* Dark overlay to desaturate and darken */}
-          <div className="absolute inset-0 bg-black/55" />
+          {/* Subtle dark overlay for text readability */}
+          <div className="absolute inset-0 bg-black/20" />
         </>
       )}
 
