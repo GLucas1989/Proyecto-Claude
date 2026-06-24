@@ -1,12 +1,12 @@
 [
   {
     "id": "reid-duke",
-    "name": "Reid Duke",
-    "channelId": "UCr2T0FxJy5XKiJlMDOubRcA",
-    "channelUrl": "https://www.youtube.com/@reiddukemagic",
-    "avatar": "https://i.pravatar.cc/150?u=reid-duke",
-    "bioShort": "Pro Tour champion y uno de los jugadores más respetados del mundo competitivo de Magic.",
-    "bioLong": "Reid Duke es un jugador profesional de Magic: The Gathering con múltiples títulos de Pro Tour. Conocido por su análisis profundo y su estilo de juego disciplinado, Reid crea contenido enfocado en mejorar tus habilidades competitivas. Su serie 'Level One Magic' es considerada el mejor recurso para jugadores intermedios que quieren dar el salto al nivel competitivo.",
+    "name": "PlaidHat",
+    "channelId": "UCv0IvY064QBvanZyfk4xhKA",
+    "channelUrl": "https://www.youtube.com/@PlaidHat",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mYF2HsWXNG2zwktvLHHb1qmkT3Bsc5Fmi0WTpM04M=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Gameplay de MTG Arena con humor y estrategia. Draft, Standard y formatos competitivos.",
+    "bioLong": "PlaidHat es un creador versátil de MTG Arena conocido por combinar humor con análisis estratégico sólido. Cubre Draft, Standard, Explorer e Historic con un estilo accesible que engancha tanto a nuevos jugadores como a veteranos del formato competitivo.",
     "contentType": [
       "competitive",
       "draft"
@@ -20,88 +20,25 @@
       "en"
     ],
     "socials": {
-      "youtube": "https://www.youtube.com/@reiddukemagic",
-      "twitter": "https://twitter.com/reiderrabbit"
+      "youtube": "https://www.youtube.com/@PlaidHat",
+      "twitter": "PlaidHatGames"
     },
     "latestVideos": [
       {
-        "id": "vid-rd-001",
-        "title": "Standard Mythic Ranked — Esper Midrange Deep Dive",
-        "thumbnail": "https://picsum.photos/seed/rd001/640/360",
-        "url": "https://www.youtube.com/watch?v=example1",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-rd-002",
-        "title": "Explorer Bo3 — Rakdos Midrange vs The Field",
-        "thumbnail": "https://picsum.photos/seed/rd002/640/360",
-        "url": "https://www.youtube.com/watch?v=example2",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-rd-003",
-        "title": "Draft Guide: Tarkir Dragonstorm First Picks",
-        "thumbnail": "https://picsum.photos/seed/rd003/640/360",
-        "url": "https://www.youtube.com/watch?v=example3",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-rd-004",
-        "title": "Historic Mythic Run — Azorius Soldiers Is Back",
-        "thumbnail": "https://picsum.photos/seed/rd004/640/360",
-        "url": "https://www.youtube.com/watch?v=example4",
-        "publishedAt": "2026-06-11"
-      },
-      {
-        "id": "vid-rd-005",
-        "title": "Level One Magic: How to Play Around Wraths",
-        "thumbnail": "https://picsum.photos/seed/rd005/640/360",
-        "url": "https://www.youtube.com/watch?v=example5",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "id": "vid-rd-006",
-        "title": "Standard Tier List — Post-Rotation Update",
-        "thumbnail": "https://picsum.photos/seed/rd006/640/360",
-        "url": "https://www.youtube.com/watch?v=example6",
-        "publishedAt": "2026-06-05"
-      },
-      {
-        "id": "vid-rd-007",
-        "title": "Explorer: Gruul Aggro 7-0 Ranked Gauntlet",
-        "thumbnail": "https://picsum.photos/seed/rd007/640/360",
-        "url": "https://www.youtube.com/watch?v=example7",
-        "publishedAt": "2026-06-02"
-      },
-      {
-        "id": "vid-rd-008",
-        "title": "Draft Walkthrough: Building a Perfect Curve",
-        "thumbnail": "https://picsum.photos/seed/rd008/640/360",
-        "url": "https://www.youtube.com/watch?v=example8",
-        "publishedAt": "2026-05-30"
-      },
-      {
-        "id": "vid-rd-009",
-        "title": "Standard Open Preparation — Deck Selection",
-        "thumbnail": "https://picsum.photos/seed/rd009/640/360",
-        "url": "https://www.youtube.com/watch?v=example9",
-        "publishedAt": "2026-05-27"
-      },
-      {
-        "id": "vid-rd-010",
-        "title": "Sideboard Guide: 10 Must-Know Matchups",
-        "thumbnail": "https://picsum.photos/seed/rd010/640/360",
-        "url": "https://www.youtube.com/watch?v=example10",
-        "publishedAt": "2026-05-24"
+        "id": "vid-yuoiaYh-wis",
+        "title": "Thyroid Cancer Awareness: Project",
+        "thumbnail": "https://i.ytimg.com/vi/yuoiaYh-wis/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yuoiaYh-wis",
+        "publishedAt": "2008-04-28"
       }
     ]
   },
   {
     "id": "mundotk",
     "name": "MundoTK",
-    "channelId": "UCmundotk_placeholder",
+    "channelId": "UC6LNy6IqI76s7emSw0zCZ2g",
     "channelUrl": "https://www.youtube.com/@TKMagicBlog",
-    "avatar": "https://i.pravatar.cc/150?u=mundotk",
+    "avatar": "https://yt3.ggpht.com/Nd1saawHYuhVWZav4L9nQp9RUSbHOSVGt7jbZS17bbU5NcTmKbc8O5XPntp0dWM8U7N8m6Xd0w=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Magic Arena en español: mazos free-to-play, guías de Standard e Historic y directos para todos los niveles.",
     "bioLong": "MundoTK (TK Magic Blog) es uno de los creadores hispanohablantes más constantes de Magic: The Gathering Arena. Su canal y su blog se especializan en mazos free-to-play accesibles, guías de Standard e Historic, y directos donde explica el meta y la construcción de mazos de forma clara. Ideal para quien quiere competir en Arena sin gastar una fortuna en wildcards.",
     "contentType": [
@@ -123,74 +60,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-tk-001",
-        "title": "Mazo FTP de Standard — Sin Gastar Wildcards",
-        "thumbnail": "https://picsum.photos/seed/tk001/640/360",
-        "url": "https://www.youtube.com/watch?v=tk1",
+        "id": "vid--jpgSUN_jHU",
+        "title": "Se acabó el REFRITO. Análisis del cartas INCOLORAS (artefactos y tierras) de Marvel Super Heroes",
+        "thumbnail": "https://i.ytimg.com/vi/-jpgSUN_jHU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-jpgSUN_jHU",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-XCEF5mbnnEU",
+        "title": "Thanos y MUCHO MÁS. Análisis del color cartas MULTICOLOR de Marvel Super Heroes",
+        "thumbnail": "https://i.ytimg.com/vi/XCEF5mbnnEU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XCEF5mbnnEU",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-R5GXh1rod-s",
+        "title": "MAGIC DUELS. Generación Magic #10",
+        "thumbnail": "https://i.ytimg.com/vi/R5GXh1rod-s/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R5GXh1rod-s",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-ZI262ctNxgk",
+        "title": "¡¡SHANDALAR!! Generación Magic #9",
+        "thumbnail": "https://i.ytimg.com/vi/ZI262ctNxgk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZI262ctNxgk",
         "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-tk-002",
-        "title": "Guía del Meta de Standard — Mejores Mazos",
-        "thumbnail": "https://picsum.photos/seed/tk002/640/360",
-        "url": "https://www.youtube.com/watch?v=tk2",
-        "publishedAt": "2026-06-20"
+        "id": "vid-sBaGvWD_EuQ",
+        "title": "Aterrizaje SEGUIRÁ dando guerra. Análisis del color VERDE de Marvel Super Heroes",
+        "thumbnail": "https://i.ytimg.com/vi/sBaGvWD_EuQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sBaGvWD_EuQ",
+        "publishedAt": "2026-06-19"
       },
       {
-        "id": "vid-tk-003",
-        "title": "Cómo Conseguir Cualquier Mazo Gratis en Arena",
-        "thumbnail": "https://picsum.photos/seed/tk003/640/360",
-        "url": "https://www.youtube.com/watch?v=tk3",
-        "publishedAt": "2026-06-20"
+        "id": "vid-CX11q3Ml3zU",
+        "title": "OJALÁ se juegue alguna. Análisis del color ROJO  de Marvel Super Heroes",
+        "thumbnail": "https://i.ytimg.com/vi/CX11q3Ml3zU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CX11q3Ml3zU",
+        "publishedAt": "2026-06-18"
       },
       {
-        "id": "vid-tk-004",
-        "title": "Historic: Mazo Competitivo de Bajo Coste",
-        "thumbnail": "https://picsum.photos/seed/tk004/640/360",
-        "url": "https://www.youtube.com/watch?v=tk4",
-        "publishedAt": "2026-06-20"
+        "id": "vid-eJy7bm-4PCo",
+        "title": "BUENAS sinergias. Análisis del color NEGRO de Marvel Super Heroes",
+        "thumbnail": "https://i.ytimg.com/vi/eJy7bm-4PCo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eJy7bm-4PCo",
+        "publishedAt": "2026-06-17"
       },
       {
-        "id": "vid-tk-005",
-        "title": "Tier List de Standard — Actualizada",
-        "thumbnail": "https://picsum.photos/seed/tk005/640/360",
-        "url": "https://www.youtube.com/watch?v=tk5",
-        "publishedAt": "2026-06-20"
+        "id": "vid-tx9mt19Qo3o",
+        "title": "Así, ¡SÍ! Análisis del color AZUL de Marvel Super Heroes",
+        "thumbnail": "https://i.ytimg.com/vi/tx9mt19Qo3o/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tx9mt19Qo3o",
+        "publishedAt": "2026-06-16"
       },
       {
-        "id": "vid-tk-006",
-        "title": "Mejores Mazos Aggro para Subir Rápido",
-        "thumbnail": "https://picsum.photos/seed/tk006/640/360",
-        "url": "https://www.youtube.com/watch?v=tk6",
-        "publishedAt": "2026-06-20"
+        "id": "vid-wzGIqXV19Ic",
+        "title": "Cuando ya NADA importa. Análisis del color BLANCO de Marvel Super Heroes",
+        "thumbnail": "https://i.ytimg.com/vi/wzGIqXV19Ic/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wzGIqXV19Ic",
+        "publishedAt": "2026-06-15"
       },
       {
-        "id": "vid-tk-007",
-        "title": "Draft en Español — Guía para Principiantes",
-        "thumbnail": "https://picsum.photos/seed/tk007/640/360",
-        "url": "https://www.youtube.com/watch?v=tk7",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-tk-008",
-        "title": "Cómo Gastar tus Wildcards de Forma Inteligente",
-        "thumbnail": "https://picsum.photos/seed/tk008/640/360",
-        "url": "https://www.youtube.com/watch?v=tk8",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-tk-009",
-        "title": "Explorer: Mazo Midrange Paso a Paso",
-        "thumbnail": "https://picsum.photos/seed/tk009/640/360",
-        "url": "https://www.youtube.com/watch?v=tk9",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-tk-010",
-        "title": "Directo: Llegando a Mítico desde Cero",
-        "thumbnail": "https://picsum.photos/seed/tk010/640/360",
-        "url": "https://www.youtube.com/watch?v=tk10",
-        "publishedAt": "2026-06-20"
+        "id": "vid-9CBCUxcaXqs",
+        "title": "GENERACIÓN MAGIC #8 \"Éxitos, fracasos y bibliotecas\"",
+        "thumbnail": "https://i.ytimg.com/vi/9CBCUxcaXqs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9CBCUxcaXqs",
+        "publishedAt": "2026-06-14"
       }
     ]
   },
@@ -295,9 +232,9 @@
   {
     "id": "crokeyz",
     "name": "Crokeyz",
-    "channelId": "UCcrokeyz_example",
+    "channelId": "UCz3pj4DM9MuRWJ5nCCvBe_g",
     "channelUrl": "https://www.youtube.com/@crokeyz",
-    "avatar": "https://i.pravatar.cc/150?u=crokeyz",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_maUXnZyNBT6iXdLUVDyyI0CjkufezAVLn8rAd_UVanF1E=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Especialista en Standard competitivo, famoso por innovar con mazos rogue que rompen el meta.",
     "bioLong": "Crokeyz es uno de los jugadores más creativos del circuito competitivo de MTG Arena. Su especialidad es encontrar estrategias rogue y mazos fuera del meta establecido que sorprenden a sus oponentes.",
     "contentType": [
@@ -319,80 +256,80 @@
     },
     "latestVideos": [
       {
-        "id": "vid-cr-001",
-        "title": "Mythic #1 with Underrated Orzhov Tokens",
-        "thumbnail": "https://picsum.photos/seed/cr001/640/360",
-        "url": "https://www.youtube.com/watch?v=example31",
+        "id": "vid-AlbJLBMzmSU",
+        "title": "🔴MARVEL RELEASE🔴WORLDS BEST UNC GAME UNC GAMER🔴",
+        "thumbnail": "https://i.ytimg.com/vi/AlbJLBMzmSU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AlbJLBMzmSU",
         "publishedAt": "2026-06-23"
       },
       {
-        "id": "vid-cr-002",
-        "title": "This Rogue Deck DEMOLISHED the Ladder",
-        "thumbnail": "https://picsum.photos/seed/cr002/640/360",
-        "url": "https://www.youtube.com/watch?v=example32",
+        "id": "vid-i5al3RmBVZs",
+        "title": "Really Cool Start & Really Nail-Biting End!",
+        "thumbnail": "https://i.ytimg.com/vi/i5al3RmBVZs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=i5al3RmBVZs",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-ZRlN9chBKbs",
+        "title": "STRONGEST TEAM I'VE EVER SEEN",
+        "thumbnail": "https://i.ytimg.com/vi/ZRlN9chBKbs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZRlN9chBKbs",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-YJ6SXEGmotI",
+        "title": "Tolarian Academy Goes BRRR",
+        "thumbnail": "https://i.ytimg.com/vi/YJ6SXEGmotI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YJ6SXEGmotI",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-Lm6FCkQgb8w",
+        "title": "🔴WORLD CUP=CRINGE🔴",
+        "thumbnail": "https://i.ytimg.com/vi/Lm6FCkQgb8w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Lm6FCkQgb8w",
         "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-cr-003",
-        "title": "Alchemy Brewing Session: New Set Exploits",
-        "thumbnail": "https://picsum.photos/seed/cr003/640/360",
-        "url": "https://www.youtube.com/watch?v=example33",
+        "id": "vid-StCY8ZPMP1A",
+        "title": "GOATED VILLAIN Super Charges Heroes!",
+        "thumbnail": "https://i.ytimg.com/vi/StCY8ZPMP1A/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=StCY8ZPMP1A",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-sKUgsA39C2I",
+        "title": "🔴MARVEL EA REVIEW🔴STS2🔴BAZAAR🔴TFT🔴",
+        "thumbnail": "https://i.ytimg.com/vi/sKUgsA39C2I/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sKUgsA39C2I",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-rVwwKvUCm30",
+        "title": "Superheroes Make Equipment Archetypes Competitive?!",
+        "thumbnail": "https://i.ytimg.com/vi/rVwwKvUCm30/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rVwwKvUCm30",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-bpx2O3Z923k",
+        "title": "Is Thanos Poised to BREAK THE GAME?",
+        "thumbnail": "https://i.ytimg.com/vi/bpx2O3Z923k/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bpx2O3Z923k",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-lAL9XWEMm5k",
+        "title": "🔴MARVEL EARLY ACCESS🔴CARD REVIEW🔴NEW DECKS🔴DRAFT PREP🔴",
+        "thumbnail": "https://i.ytimg.com/vi/lAL9XWEMm5k/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lAL9XWEMm5k",
         "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-cr-004",
-        "title": "Explorer: Is Creativity Combo Actually Tier 1?",
-        "thumbnail": "https://picsum.photos/seed/cr004/640/360",
-        "url": "https://www.youtube.com/watch?v=example34",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-cr-005",
-        "title": "Standard: Breaking the Meta with Mardu Control",
-        "thumbnail": "https://picsum.photos/seed/cr005/640/360",
-        "url": "https://www.youtube.com/watch?v=example35",
-        "publishedAt": "2026-06-11"
-      },
-      {
-        "id": "vid-cr-006",
-        "title": "Ladder Challenge: Mythic with a Budget Deck",
-        "thumbnail": "https://picsum.photos/seed/cr006/640/360",
-        "url": "https://www.youtube.com/watch?v=example36",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "id": "vid-cr-007",
-        "title": "Alchemy: New Cards Are Broken — Here's Why",
-        "thumbnail": "https://picsum.photos/seed/cr007/640/360",
-        "url": "https://www.youtube.com/watch?v=example37",
-        "publishedAt": "2026-06-05"
-      },
-      {
-        "id": "vid-cr-008",
-        "title": "Standard Open Top 8 — Tournament Recap",
-        "thumbnail": "https://picsum.photos/seed/cr008/640/360",
-        "url": "https://www.youtube.com/watch?v=example38",
-        "publishedAt": "2026-06-02"
-      },
-      {
-        "id": "vid-cr-009",
-        "title": "Deck Tech: 5-0 League with Jund Midrange",
-        "thumbnail": "https://picsum.photos/seed/cr009/640/360",
-        "url": "https://www.youtube.com/watch?v=example39",
-        "publishedAt": "2026-05-30"
-      },
-      {
-        "id": "vid-cr-010",
-        "title": "What's the Best Deck in Standard Right Now?",
-        "thumbnail": "https://picsum.photos/seed/cr010/640/360",
-        "url": "https://www.youtube.com/watch?v=example40",
-        "publishedAt": "2026-05-27"
       }
     ]
   },
   {
-    "channelId": "UCcovertgoblue_ph",
-    "avatar": "https://i.pravatar.cc/150?u=covertgoblue",
+    "channelId": "UC-UZjHl2kZ-6XKBLgbFgGAQ",
+    "avatar": "https://yt3.ggpht.com/xyknadb1_VFmEmTgyVlewi5ouvx2GQNe-6wUmErlgGDKo6GejIMXAs7MCx4zV6f6YN0ggEhfDA=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
       "youtube": "https://www.youtube.com/@CovertGoBlue",
       "twitch": "covertgoblue",
@@ -419,25 +356,74 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-cgb-001",
-        "title": "Control Mirror Masterclass — Standard",
-        "thumbnail": "https://picsum.photos/seed/cgb1/640/360",
-        "url": "https://www.youtube.com/watch?v=cgb1",
+        "id": "vid-RDZd8aSNUBM",
+        "title": "This must be a mistake!  TOXIC Marvel Super Heroes gameplay",
+        "thumbnail": "https://i.ytimg.com/vi/RDZd8aSNUBM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RDZd8aSNUBM",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-kn7hXT3Ffho",
+        "title": "Thank god we have a playable lessons deck in Standard...",
+        "thumbnail": "https://i.ytimg.com/vi/kn7hXT3Ffho/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kn7hXT3Ffho",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-fcY1JWcXbzM",
+        "title": "CGB Recommends: Dimir Splash",
+        "thumbnail": "https://i.ytimg.com/vi/fcY1JWcXbzM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fcY1JWcXbzM",
         "publishedAt": "2026-06-21"
       },
       {
-        "id": "vid-cgb-002",
-        "title": "Historic Azorius Control Full Guide",
-        "thumbnail": "https://picsum.photos/seed/cgb2/640/360",
-        "url": "https://www.youtube.com/watch?v=cgb2",
+        "id": "vid-6N2YJVklv1k",
+        "title": "CGB Recommends: MONO BLUE CRABS🦀💧",
+        "thumbnail": "https://i.ytimg.com/vi/6N2YJVklv1k/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6N2YJVklv1k",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-bgM6iX_WJcI",
+        "title": "I couldn't help playing this one last time",
+        "thumbnail": "https://i.ytimg.com/vi/bgM6iX_WJcI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bgM6iX_WJcI",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-p4GYm6XpCqg",
+        "title": "Commander is changing brawl...",
+        "thumbnail": "https://i.ytimg.com/vi/p4GYm6XpCqg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p4GYm6XpCqg",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-YYG3J-OELhg",
+        "title": "They never saw it coming...",
+        "thumbnail": "https://i.ytimg.com/vi/YYG3J-OELhg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YYG3J-OELhg",
         "publishedAt": "2026-06-17"
       },
       {
-        "id": "vid-cgb-003",
-        "title": "Meta Snapshot — Best Decks Right Now",
-        "thumbnail": "https://picsum.photos/seed/cgb3/640/360",
-        "url": "https://www.youtube.com/watch?v=cgb3",
-        "publishedAt": "2026-06-13"
+        "id": "vid-6rAYmB3wNyo",
+        "title": "Going dark with Tablet on the Standard ladder",
+        "thumbnail": "https://i.ytimg.com/vi/6rAYmB3wNyo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6rAYmB3wNyo",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-ll6rQgiv97c",
+        "title": "A different take on Mono Red Storm in Brawl | MTG Arena",
+        "thumbnail": "https://i.ytimg.com/vi/ll6rQgiv97c/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ll6rQgiv97c",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-2Zb7dzjpocc",
+        "title": "Quandrix, the Proof is hell queue material",
+        "thumbnail": "https://i.ytimg.com/vi/2Zb7dzjpocc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2Zb7dzjpocc",
+        "publishedAt": "2026-06-14"
       }
     ]
   }

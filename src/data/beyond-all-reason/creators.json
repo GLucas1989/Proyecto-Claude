@@ -2,9 +2,9 @@
   {
     "id": "bar-official",
     "name": "BeyondAllReason",
-    "channelId": "UCbar_official_example",
+    "channelId": "UC8E-VzcrJTWIG_scVnaQ1uA",
     "channelUrl": "https://www.youtube.com/@beyondallreason",
-    "avatar": "https://i.pravatar.cc/150?u=bar-official",
+    "avatar": "https://yt3.ggpht.com/tpUiaMCORk1eQC0h_ClKRx0YfjhBUuDZ7csyE4yq64na0I98IgMtxJB4qP7mKZ_YcjUj52Eb=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Canal oficial de Beyond All Reason. Actualizaciones, torneos y highlights de la comunidad.",
     "bioLong": "El canal oficial de Beyond All Reason es la fuente primaria de noticias, actualizaciones y torneos del juego. Publica highlights de los mejores partidas de la comunidad, developer diaries y transmisiones en directo de los principales torneos.",
     "contentType": [
@@ -25,80 +25,80 @@
     },
     "latestVideos": [
       {
-        "id": "vid-bar-001",
-        "title": "BAR Championship Series — Grand Finals Highlights",
-        "thumbnail": "https://picsum.photos/seed/bar001/640/360",
-        "url": "https://www.youtube.com/watch?v=barex1",
+        "id": "vid-DDnEvu4DUAA",
+        "title": "King of the Hill by @AllReasonNoLogic",
+        "thumbnail": "https://i.ytimg.com/vi/DDnEvu4DUAA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DDnEvu4DUAA",
         "publishedAt": "2026-06-22"
       },
       {
-        "id": "vid-bar-002",
-        "title": "Update 2.4 — New Units and Balance Changes",
-        "thumbnail": "https://picsum.photos/seed/bar002/640/360",
-        "url": "https://www.youtube.com/watch?v=barex2",
-        "publishedAt": "2026-06-18"
+        "id": "vid-vm55WqPyMDU",
+        "title": "BPL Season 9 Qualifiers",
+        "thumbnail": "https://i.ytimg.com/vi/vm55WqPyMDU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vm55WqPyMDU",
+        "publishedAt": "2026-06-13"
       },
       {
-        "id": "vid-bar-003",
-        "title": "Developer Diary: Upcoming Map Overhauls",
-        "thumbnail": "https://picsum.photos/seed/bar003/640/360",
-        "url": "https://www.youtube.com/watch?v=barex3",
-        "publishedAt": "2026-06-14"
+        "id": "vid-34rBmIqjLK4",
+        "title": "King Of The Hill by @AllReasonNoLogic",
+        "thumbnail": "https://i.ytimg.com/vi/34rBmIqjLK4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=34rBmIqjLK4",
+        "publishedAt": "2026-06-08"
       },
       {
-        "id": "vid-bar-004",
-        "title": "Community Highlight Reel — Best Plays of the Month",
-        "thumbnail": "https://picsum.photos/seed/bar004/640/360",
-        "url": "https://www.youtube.com/watch?v=barex4",
-        "publishedAt": "2026-06-10"
+        "id": "vid-4xIfRhSdHF8",
+        "title": "Fight Night - Masters League",
+        "thumbnail": "https://i.ytimg.com/vi/4xIfRhSdHF8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4xIfRhSdHF8",
+        "publishedAt": "2026-06-07"
       },
       {
-        "id": "vid-bar-005",
-        "title": "Ranked Season 8 — Starting Now",
-        "thumbnail": "https://picsum.photos/seed/bar005/640/360",
-        "url": "https://www.youtube.com/watch?v=barex5",
-        "publishedAt": "2026-06-06"
+        "id": "vid-VX853oiuMTA",
+        "title": "King of the Hill by @AllReasonNoLogic",
+        "thumbnail": "https://i.ytimg.com/vi/VX853oiuMTA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VX853oiuMTA",
+        "publishedAt": "2026-06-01"
       },
       {
-        "id": "vid-bar-006",
-        "title": "1v1 Ladder Tournament — Full Bracket",
-        "thumbnail": "https://picsum.photos/seed/bar006/640/360",
-        "url": "https://www.youtube.com/watch?v=barex6",
-        "publishedAt": "2026-06-02"
+        "id": "vid-5bFqSBFlGIQ",
+        "title": "West Basinger - Adaptation (RAPTOR OST - INTERLUDE)",
+        "thumbnail": "https://i.ytimg.com/vi/5bFqSBFlGIQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5bFqSBFlGIQ",
+        "publishedAt": "2026-05-27"
       },
       {
-        "id": "vid-bar-007",
-        "title": "Why BAR Is the Best Free RTS in 2026",
-        "thumbnail": "https://picsum.photos/seed/bar007/640/360",
-        "url": "https://www.youtube.com/watch?v=barex7",
-        "publishedAt": "2026-05-29"
-      },
-      {
-        "id": "vid-bar-008",
-        "title": "Modding Showcase — Community Creations",
-        "thumbnail": "https://picsum.photos/seed/bar008/640/360",
-        "url": "https://www.youtube.com/watch?v=barex8",
+        "id": "vid-hacglHplZ2g",
+        "title": "West Basinger - Biomass Reclamation (RAPTORS OST - PEACE)",
+        "thumbnail": "https://i.ytimg.com/vi/hacglHplZ2g/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hacglHplZ2g",
         "publishedAt": "2026-05-25"
       },
       {
-        "id": "vid-bar-009",
-        "title": "Team Game Deep Dive — 4v4 Strategy Explained",
-        "thumbnail": "https://picsum.photos/seed/bar009/640/360",
-        "url": "https://www.youtube.com/watch?v=barex9",
-        "publishedAt": "2026-05-21"
+        "id": "vid-XgIskVYpV1U",
+        "title": "Nation Wars - FINALS",
+        "thumbnail": "https://i.ytimg.com/vi/XgIskVYpV1U/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XgIskVYpV1U",
+        "publishedAt": "2026-05-25"
       },
       {
-        "id": "vid-bar-010",
-        "title": "New Player Guide — First Steps in BAR",
-        "thumbnail": "https://picsum.photos/seed/bar010/640/360",
-        "url": "https://www.youtube.com/watch?v=barex10",
-        "publishedAt": "2026-05-17"
+        "id": "vid-V_BvohS545I",
+        "title": "Fight Night - Masters League",
+        "thumbnail": "https://i.ytimg.com/vi/V_BvohS545I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V_BvohS545I",
+        "publishedAt": "2026-05-22"
+      },
+      {
+        "id": "vid-T6DGb5-huQ0",
+        "title": "Nation WARS",
+        "thumbnail": "https://i.ytimg.com/vi/T6DGb5-huQ0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T6DGb5-huQ0",
+        "publishedAt": "2026-05-18"
       }
     ]
   },
   {
-    "channelId": "UCwintergaming_ph",
-    "avatar": "https://i.pravatar.cc/150?u=wintergaming",
+    "channelId": "UCoGz6FhTwffwL4-3SVs40tg",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_m_W-Bh8YbgVtbp1eOdqju-D6MG64s_ffVJl7P5zAQENg=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
       "youtube": "https://www.youtube.com/@Wintergaming",
       "twitch": "wintergaming",
@@ -124,25 +124,74 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-win-001",
-        "title": "Insane 8v8 Cast — Beyond All Reason",
-        "thumbnail": "https://picsum.photos/seed/win1/640/360",
-        "url": "https://www.youtube.com/watch?v=win1",
-        "publishedAt": "2026-06-21"
+        "id": "vid-oP9mJl62x70",
+        "title": "VALORANT MONTAGE",
+        "thumbnail": "https://i.ytimg.com/vi/oP9mJl62x70/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oP9mJl62x70",
+        "publishedAt": "2020-11-23"
       },
       {
-        "id": "vid-win-002",
-        "title": "Eco vs Aggression — Strategy Guide",
-        "thumbnail": "https://picsum.photos/seed/win2/640/360",
-        "url": "https://www.youtube.com/watch?v=win2",
-        "publishedAt": "2026-06-17"
+        "id": "vid-bbM7UnU6fSg",
+        "title": "BEST AGILE MP5 BUILD FOR WARZONE 🤯😯 (Modern Warfare)",
+        "thumbnail": "https://i.ytimg.com/vi/bbM7UnU6fSg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bbM7UnU6fSg",
+        "publishedAt": "2020-11-02"
       },
       {
-        "id": "vid-win-003",
-        "title": "Best Opening Builds Explained",
-        "thumbnail": "https://picsum.photos/seed/win3/640/360",
-        "url": "https://www.youtube.com/watch?v=win3",
-        "publishedAt": "2026-06-13"
+        "id": "vid-mx29XDubrfk",
+        "title": "IMPORTANCE OF SELF-REVIVE KIT IN WARZONE 😯😯 (Modern Warfare)",
+        "thumbnail": "https://i.ytimg.com/vi/mx29XDubrfk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mx29XDubrfk",
+        "publishedAt": "2020-11-01"
+      },
+      {
+        "id": "vid-eIIc613FjrE",
+        "title": "BEST SNIPER IN WARZONE 🤯😯 (Modern Warfare)",
+        "thumbnail": "https://i.ytimg.com/vi/eIIc613FjrE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eIIc613FjrE",
+        "publishedAt": "2020-10-31"
+      },
+      {
+        "id": "vid-Glw9S7z56Ek",
+        "title": "GRAU NO RECOIL BUILD IN SEASON 6 🤯😯 (Modern Warfare Warzone)",
+        "thumbnail": "https://i.ytimg.com/vi/Glw9S7z56Ek/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Glw9S7z56Ek",
+        "publishedAt": "2020-10-30"
+      },
+      {
+        "id": "vid-LZCtXGD3vQE",
+        "title": "KILLING MAJOR RAM AND GETTING STREAM SNIPED ?? 🤯😯 (Modern Warfare Warzone)",
+        "thumbnail": "https://i.ytimg.com/vi/LZCtXGD3vQE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LZCtXGD3vQE",
+        "publishedAt": "2020-10-29"
+      },
+      {
+        "id": "vid-J8q8p6bWwy8",
+        "title": "BEST MP5 BUILD FOR WARZONE 🤯😯 (Modern Warfare)",
+        "thumbnail": "https://i.ytimg.com/vi/J8q8p6bWwy8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J8q8p6bWwy8",
+        "publishedAt": "2020-10-28"
+      },
+      {
+        "id": "vid-lInClRo1qRc",
+        "title": "FIGHTING TWO JUGGERNAUT IN SINGLE MATCH IN WARZONE 🤯😯 (Modern Warfare Warzone)",
+        "thumbnail": "https://i.ytimg.com/vi/lInClRo1qRc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lInClRo1qRc",
+        "publishedAt": "2020-10-25"
+      },
+      {
+        "id": "vid-x0_IRjb9hUA",
+        "title": "WHY RECON IS MUST IN WARZONE 😮 (Modern Warfare Warzone)",
+        "thumbnail": "https://i.ytimg.com/vi/x0_IRjb9hUA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x0_IRjb9hUA",
+        "publishedAt": "2020-10-23"
+      },
+      {
+        "id": "vid-Omsk7C6Vp_o",
+        "title": "DUO DOMINATION WARZONE 37 KILLS 🤯😯 (Modern Warfare Warzone)",
+        "thumbnail": "https://i.ytimg.com/vi/Omsk7C6Vp_o/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Omsk7C6Vp_o",
+        "publishedAt": "2020-10-22"
       }
     ]
   },
@@ -197,21 +246,21 @@
     ]
   },
   {
-    "channelId": "UCbarreplays_ph",
-    "avatar": "https://i.pravatar.cc/150?u=bar-replays",
+    "channelId": "UCbt1SGMrWj5Q7TMXAfmTERQ",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_nZvSYOBpU1gZGCasRxgT5U1jsL5DutI19wtcBW-wjNPgc=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
-      "youtube": "https://www.youtube.com/@BARReplays",
-      "twitter": "BARReplays"
+      "youtube": "https://www.youtube.com/@RegisKillbin",
+      "twitter": "RegisKillbin"
     },
     "id": "bar-replays",
-    "name": "BAR Replays",
-    "channelUrl": "https://www.youtube.com/@BARReplays",
-    "twitter": "BARReplays",
-    "bioShort": "Mejores partidas y momentos destacados de la comunidad de Beyond All Reason.",
-    "bioLong": "BAR Replays recopila las mejores partidas, jugadas y momentos destacados de la comunidad de Beyond All Reason, mostrando estrategias de alto nivel a través de repeticiones comentadas.",
+    "name": "RegisKillbin",
+    "channelUrl": "https://www.youtube.com/@RegisKillbin",
+    "twitter": "RegisKillbin",
+    "bioShort": "Reviews y análisis de RTS incluyendo Beyond All Reason. Crítica profunda y entretenida.",
+    "bioLong": "RegisKillbin es el crítico de RTS más conocido de YouTube, con análisis detallados de Beyond All Reason, StarCraft, Age of Empires y muchos más. Sus videos son una mezcla única de humor y profundidad estratégica, perfectos para entender qué hace a cada RTS especial.",
     "contentType": [
-      "casual",
-      "competitive"
+      "educational",
+      "casual"
     ],
     "faction": [
       "armada",
@@ -222,73 +271,171 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-brp-001",
-        "title": "Top 5 Plays of the Week",
-        "thumbnail": "https://picsum.photos/seed/brp1/640/360",
-        "url": "https://www.youtube.com/watch?v=brp1",
+        "id": "vid-z239pFlxmnc",
+        "title": "DRAW ALL THE CARDS. Namorita can be nuts!",
+        "thumbnail": "https://i.ytimg.com/vi/z239pFlxmnc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z239pFlxmnc",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-q1TIOhXi6LQ",
+        "title": "EASY MODE. The new #1 deck is GREEDY.",
+        "thumbnail": "https://i.ytimg.com/vi/q1TIOhXi6LQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q1TIOhXi6LQ",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-ayD1YDrcFnw",
+        "title": "One year later.",
+        "thumbnail": "https://i.ytimg.com/vi/ayD1YDrcFnw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ayD1YDrcFnw",
         "publishedAt": "2026-06-21"
       },
       {
-        "id": "vid-brp-002",
-        "title": "Epic Comeback Replay Analysis",
-        "thumbnail": "https://picsum.photos/seed/brp2/640/360",
-        "url": "https://www.youtube.com/watch?v=brp2",
-        "publishedAt": "2026-06-17"
+        "id": "vid-oWHFG5oZ2OY",
+        "title": "KNEEL BEFORE NAMOR. These dudes are big.",
+        "thumbnail": "https://i.ytimg.com/vi/oWHFG5oZ2OY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oWHFG5oZ2OY",
+        "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-brp-003",
-        "title": "Pro Match Highlights",
-        "thumbnail": "https://picsum.photos/seed/brp3/640/360",
-        "url": "https://www.youtube.com/watch?v=brp3",
-        "publishedAt": "2026-06-13"
+        "id": "vid-NF5mdNtGVZ8",
+        "title": "The games industry is BRUTAL.",
+        "thumbnail": "https://i.ytimg.com/vi/NF5mdNtGVZ8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NF5mdNtGVZ8",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-ZwC3_Rt5-JI",
+        "title": "NUTS NEW DEATH & THANOS. Ranking the latest leaks!",
+        "thumbnail": "https://i.ytimg.com/vi/ZwC3_Rt5-JI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZwC3_Rt5-JI",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-T2xAkGoszYo",
+        "title": "NEW NAMOR IS NICE. This card can do everything!",
+        "thumbnail": "https://i.ytimg.com/vi/T2xAkGoszYo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T2xAkGoszYo",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-olXRaDDqQaM",
+        "title": "Thanos is inevitable.........",
+        "thumbnail": "https://i.ytimg.com/vi/olXRaDDqQaM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=olXRaDDqQaM",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-lzE1Py9ugQY",
+        "title": "EASY MODE. Dominate with the NEW #1 DECK!",
+        "thumbnail": "https://i.ytimg.com/vi/lzE1Py9ugQY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lzE1Py9ugQY",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-Wspd8QL4ph0",
+        "title": "LADY HULK IS BACK!! This dump deck is busted!!",
+        "thumbnail": "https://i.ytimg.com/vi/Wspd8QL4ph0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Wspd8QL4ph0",
+        "publishedAt": "2026-06-14"
       }
     ]
   },
   {
-    "channelId": "UCbarenespanolreal_ph",
-    "avatar": "https://i.pravatar.cc/150?u=bar-en-espanol-real",
+    "channelId": "UCkynGc3kZtAZFSvhiieRlEA",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_lgDEesLPjpVaBuGUWDo0_dM-btQBj7YHjDG75BbnxuwH4=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
-      "youtube": "https://www.youtube.com/@BAREspanolRTS",
-      "twitter": "BARespanol"
+      "youtube": "https://www.youtube.com/@BAREsports",
+      "twitter": "BAREsports"
     },
     "id": "bar-en-espanol-real",
-    "name": "BAR en Español",
-    "channelUrl": "https://www.youtube.com/@BAREspanolRTS",
-    "twitter": "BARespanol",
-    "bioShort": "Guías y partidas de Beyond All Reason en español para la comunidad hispana de RTS.",
-    "bioLong": "Canal dedicado a llevar Beyond All Reason a la comunidad hispanohablante: guías de estrategia, economía y control de unidades, además de partidas comentadas en español.",
+    "name": "BARE Sports",
+    "channelUrl": "https://www.youtube.com/@BAREsports",
+    "twitter": "BAREsports",
+    "bioShort": "Esports y competición de Beyond All Reason. Torneos, highlights y análisis de partidas pro.",
+    "bioLong": "BARE Sports cubre la escena competitiva de Beyond All Reason: torneos, partidas de alto nivel, highlights y análisis del meta competitivo. El canal de referencia para seguir la competición organizada del juego.",
     "contentType": [
-      "educational",
-      "casual"
+      "competitive",
+      "educational"
     ],
     "faction": [
       "armada",
       "cortex"
     ],
     "languages": [
-      "es"
+      "en"
     ],
     "latestVideos": [
       {
-        "id": "vid-bes-001",
-        "title": "Guía para Principiantes — Beyond All Reason",
-        "thumbnail": "https://picsum.photos/seed/bes1/640/360",
-        "url": "https://www.youtube.com/watch?v=bes1",
-        "publishedAt": "2026-06-21"
+        "id": "vid-lYFvnNi6IFI",
+        "title": "Autograph Series Drysuit: Expedition HD2 Tech Dry",
+        "thumbnail": "https://i.ytimg.com/vi/lYFvnNi6IFI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lYFvnNi6IFI",
+        "publishedAt": "2026-05-21"
       },
       {
-        "id": "vid-bes-002",
-        "title": "Cómo Manejar la Economía",
-        "thumbnail": "https://picsum.photos/seed/bes2/640/360",
-        "url": "https://www.youtube.com/watch?v=bes2",
-        "publishedAt": "2026-06-17"
+        "id": "vid-t7pVETM5hQg",
+        "title": "Autograph Series Drysuit: X-Mission Evolution",
+        "thumbnail": "https://i.ytimg.com/vi/t7pVETM5hQg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t7pVETM5hQg",
+        "publishedAt": "2026-05-21"
       },
       {
-        "id": "vid-bes-003",
-        "title": "Estrategias de Apertura Explicadas",
-        "thumbnail": "https://picsum.photos/seed/bes3/640/360",
-        "url": "https://www.youtube.com/watch?v=bes3",
-        "publishedAt": "2026-06-13"
+        "id": "vid-ZKBIzqHZmlU",
+        "title": "Auotgraph Series Drysuits Overview Video",
+        "thumbnail": "https://i.ytimg.com/vi/ZKBIzqHZmlU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZKBIzqHZmlU",
+        "publishedAt": "2026-05-21"
+      },
+      {
+        "id": "vid-4i6JSAr7e10",
+        "title": "BARE Velocity Ultra 2.0 | 3mm 5mm & 7mm",
+        "thumbnail": "https://i.ytimg.com/vi/4i6JSAr7e10/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4i6JSAr7e10",
+        "publishedAt": "2025-05-12"
+      },
+      {
+        "id": "vid-GvdRPkW_hPo",
+        "title": "BARE Velocity Ultra Semi Dry 2.0 | 8/7mm Semi Dry",
+        "thumbnail": "https://i.ytimg.com/vi/GvdRPkW_hPo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GvdRPkW_hPo",
+        "publishedAt": "2025-05-12"
+      },
+      {
+        "id": "vid-ArWjAakdJe0",
+        "title": "S-flex hood",
+        "thumbnail": "https://i.ytimg.com/vi/ArWjAakdJe0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ArWjAakdJe0",
+        "publishedAt": "2023-07-11"
+      },
+      {
+        "id": "vid-MSpnGtp59ZQ",
+        "title": "Bare Ultrawarmth #shorts",
+        "thumbnail": "https://i.ytimg.com/vi/MSpnGtp59ZQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MSpnGtp59ZQ",
+        "publishedAt": "2023-06-19"
+      },
+      {
+        "id": "vid-LuXa42XiSwA",
+        "title": "Trilam Tech Dry",
+        "thumbnail": "https://i.ytimg.com/vi/LuXa42XiSwA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LuXa42XiSwA",
+        "publishedAt": "2023-02-21"
+      },
+      {
+        "id": "vid-PKvoF0NALnk",
+        "title": "Reactive Wetsuit Product Video",
+        "thumbnail": "https://i.ytimg.com/vi/PKvoF0NALnk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PKvoF0NALnk",
+        "publishedAt": "2022-12-28"
+      },
+      {
+        "id": "vid-xt0BxR4QrZM",
+        "title": "BARE X Mission Evolution Drysuit",
+        "thumbnail": "https://i.ytimg.com/vi/xt0BxR4QrZM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xt0BxR4QrZM",
+        "publishedAt": "2022-06-27"
       }
     ]
   }

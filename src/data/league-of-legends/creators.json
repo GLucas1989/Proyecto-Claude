@@ -2,9 +2,9 @@
   {
     "id": "skill-capped-lol",
     "name": "Skill Capped",
-    "channelId": "UCskillcapped_lol",
+    "channelId": "UCFl1mGlf5j0Qno1Kxnyv6FA",
     "channelUrl": "https://www.youtube.com/@SkillCapped",
-    "avatar": "https://i.pravatar.cc/150?u=skillcapped-lol",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_nEHR8cxcuCNHYVZAGwgH2tIQbUVWptpaUoPb0to4Lp5_4=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "El canal de mejora más completo de League of Legends. Guías por rol, tier lists y análisis de la meta.",
     "bioLong": "Skill Capped es el recurso número uno para jugadores que quieren subir de elo en League of Legends. Su equipo de jugadores Challenger y Master produce contenido de altísima calidad: guías por campeón, análisis de partidas, conceptos de macro y micro, y tier lists actualizadas con cada parche. Si quieres mejorar sistemáticamente, este es tu canal.",
     "contentType": [
@@ -24,85 +24,85 @@
     },
     "latestVideos": [
       {
-        "id": "vid-sc-001",
-        "title": "How to Climb Every Role — Season 2026 Guide",
-        "thumbnail": "https://picsum.photos/seed/sc001/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc1",
+        "id": "vid-WXTw04zPCHI",
+        "title": "NEW TIER LIST for PATCH 26.13 - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/WXTw04zPCHI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WXTw04zPCHI",
         "publishedAt": "2026-06-22"
       },
       {
-        "id": "vid-sc-002",
-        "title": "ADC Tier List Patch 14.12 — Best Carries",
-        "thumbnail": "https://picsum.photos/seed/sc002/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc2",
+        "id": "vid-ffV2V01HkS8",
+        "title": "The SECRET Dragon Mechanics 99% of Players MISS #leagueoflegends",
+        "thumbnail": "https://i.ytimg.com/vi/ffV2V01HkS8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ffV2V01HkS8",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-JjC15EzbziE",
+        "title": "The Champion Select TRICKS That Make Climbing EASY - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/JjC15EzbziE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JjC15EzbziE",
         "publishedAt": "2026-06-19"
       },
       {
-        "id": "vid-sc-003",
-        "title": "How to Roam as Mid Laner — Full Breakdown",
-        "thumbnail": "https://picsum.photos/seed/sc003/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc3",
-        "publishedAt": "2026-06-16"
+        "id": "vid-UGjobieojco",
+        "title": "ALL NEW CHANGES for PATCH 26.13 - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/UGjobieojco/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UGjobieojco",
+        "publishedAt": "2026-06-18"
       },
       {
-        "id": "vid-sc-004",
-        "title": "Wave Management Masterclass — Freeze, Slow Push, Fast Push",
-        "thumbnail": "https://picsum.photos/seed/sc004/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc4",
-        "publishedAt": "2026-06-13"
+        "id": "vid-4jGjsjaaCQk",
+        "title": "Top 10 EASIEST Champions to CLIMB FAST this Season - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/4jGjsjaaCQk/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4jGjsjaaCQk",
+        "publishedAt": "2026-06-17"
       },
       {
-        "id": "vid-sc-005",
-        "title": "Jungle Pathing Guide — Optimal Routes 2026",
-        "thumbnail": "https://picsum.photos/seed/sc005/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc5",
+        "id": "vid-f6dvV-XnI5g",
+        "title": "NEW UPDATED TIER LIST for PATCH 26.12! - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/f6dvV-XnI5g/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f6dvV-XnI5g",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-fLzd-auu8es",
+        "title": "This BROKEN Build Has OVER a 60% WIN RATE #leagueoflegends",
+        "thumbnail": "https://i.ytimg.com/vi/fLzd-auu8es/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fLzd-auu8es",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-PMq3eN-_WuE",
+        "title": "The BEST Hidden Trick or Combo For EVERY Champion - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/PMq3eN-_WuE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PMq3eN-_WuE",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-K3GWAs2tmE8",
+        "title": "10 NEW MOST OP BUILDS For PATCH 26.12 - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/K3GWAs2tmE8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=K3GWAs2tmE8",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-sGxcaUe9g90",
+        "title": "The NEW BEST SOLO CARRY CHAMPIONS on PATCH 26.12 - League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/sGxcaUe9g90/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sGxcaUe9g90",
         "publishedAt": "2026-06-10"
-      },
-      {
-        "id": "vid-sc-006",
-        "title": "Support Macro Guide — Vision Control and Roaming",
-        "thumbnail": "https://picsum.photos/seed/sc006/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc6",
-        "publishedAt": "2026-06-07"
-      },
-      {
-        "id": "vid-sc-007",
-        "title": "Top Lane Carries Tier List — Best Split Pushers",
-        "thumbnail": "https://picsum.photos/seed/sc007/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc7",
-        "publishedAt": "2026-06-04"
-      },
-      {
-        "id": "vid-sc-008",
-        "title": "How to Carry Low Elo Games — Mental and Macro",
-        "thumbnail": "https://picsum.photos/seed/sc008/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc8",
-        "publishedAt": "2026-06-01"
-      },
-      {
-        "id": "vid-sc-009",
-        "title": "Gold Diff Explained — Early Game Advantage",
-        "thumbnail": "https://picsum.photos/seed/sc009/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc9",
-        "publishedAt": "2026-05-29"
-      },
-      {
-        "id": "vid-sc-010",
-        "title": "Best Champions to One-Trick in Each Role",
-        "thumbnail": "https://picsum.photos/seed/sc010/640/360",
-        "url": "https://www.youtube.com/watch?v=lolsc10",
-        "publishedAt": "2026-05-26"
       }
     ]
   },
   {
     "id": "proguides-lol",
-    "name": "ProGuides LoL",
-    "channelId": "UCproguides_lol",
-    "channelUrl": "https://www.youtube.com/@ProGuidesLeagueofLegends",
-    "avatar": "https://i.pravatar.cc/150?u=proguides-lol",
-    "bioShort": "Guías profesionales con análisis de partidas de Challenger. Actualizado con cada parche.",
-    "bioLong": "ProGuides ofrece análisis detallados de la meta, guías de campeones y consejos directamente extraídos del análisis de partidas de los mejores jugadores del servidor. Su enfoque es práctico: qué hacer, cuándo hacerlo y por qué funciona. Ideal para jugadores que quieren entender el juego a fondo.",
+    "name": "Zwag",
+    "channelId": "UCpUS8oR-IJSP3gFYrGAWEuQ",
+    "channelUrl": "https://www.youtube.com/@Zwag",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_ke9kO1z35kamG4HKwIJu1sFJBsW4D5I9yIP73Ah6h8oSQ=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Mid lane specialist. Gameplay de alto elo y guías de campeones de mid. Contenido educativo y entretenido.",
+    "bioLong": "Zwag es uno de los creadores de mid lane más populares de League of Legends, conocido por su dominio de campeones de AP y su habilidad para explicar las mecánicas del juego de forma clara. Sus streams y videos son una mezcla perfecta de gameplay de alto nivel y análisis didáctico.",
     "contentType": [
       "competitive",
       "educational"
@@ -118,89 +118,89 @@
       "en"
     ],
     "socials": {
-      "youtube": "https://www.youtube.com/@ProGuidesLeagueofLegends",
-      "twitch": "proguides",
-      "twitter": "proguides"
+      "youtube": "https://www.youtube.com/@Zwag",
+      "twitch": "zwag",
+      "twitter": "TCZwag"
     },
     "latestVideos": [
       {
-        "id": "vid-pg-001",
-        "title": "Best Mid Laners This Patch — Complete Breakdown",
-        "thumbnail": "https://picsum.photos/seed/pg001/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg1",
+        "id": "vid-ZHYQ5IjO-Rc",
+        "title": "Trash Talking Lux gets tilted from my one shot Pantheon build (I DROPPED 38 KILLS)",
+        "thumbnail": "https://i.ytimg.com/vi/ZHYQ5IjO-Rc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZHYQ5IjO-Rc",
         "publishedAt": "2026-06-23"
       },
       {
-        "id": "vid-pg-002",
-        "title": "How Challenger Junglers Track the Enemy Jungler",
-        "thumbnail": "https://picsum.photos/seed/pg002/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg2",
+        "id": "vid-VOdeSQdXO54",
+        "title": "Caitlyn but I trade my Sniper Rifle for a MACHINE GUN and melt your whole team",
+        "thumbnail": "https://i.ytimg.com/vi/VOdeSQdXO54/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VOdeSQdXO54",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-2x2bepE2PSg",
+        "title": "THIS 200% HEALING ZAC MID BUILD IS HILARIOUSLY BROKEN (INFINITE HEAL GLITCH)",
+        "thumbnail": "https://i.ytimg.com/vi/2x2bepE2PSg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2x2bepE2PSg",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-6w9sKWeKjgo",
+        "title": "I DROPPED 38 KILLS WITH THIS BROKEN AD KATARINA BUILD (MY ULT IS A BLENDER)",
+        "thumbnail": "https://i.ytimg.com/vi/6w9sKWeKjgo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6w9sKWeKjgo",
         "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-pg-003",
-        "title": "5 ADC Mechanics Every Player Should Master",
-        "thumbnail": "https://picsum.photos/seed/pg003/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg3",
+        "id": "vid-vgTqXPw863E",
+        "title": "I invented a healing Illaoi build that can literally 1v5 the enemies (PRESS R = FULL HP)",
+        "thumbnail": "https://i.ytimg.com/vi/vgTqXPw863E/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vgTqXPw863E",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-1ph8C5GJq7E",
+        "title": "THE MOST UNFAIR NAUTILUS BUILD IN LEAGUE OF LEGENDS... (100,000+ SHIELDING)",
+        "thumbnail": "https://i.ytimg.com/vi/1ph8C5GJq7E/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1ph8C5GJq7E",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-Frc2EqEjDig",
+        "title": "Enemy Xerath thought I was trolling with Blitzcrank mid... then I made him hate his life",
+        "thumbnail": "https://i.ytimg.com/vi/Frc2EqEjDig/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Frc2EqEjDig",
         "publishedAt": "2026-06-17"
       },
       {
-        "id": "vid-pg-004",
-        "title": "Engager vs Poke Support — When to Pick Each",
-        "thumbnail": "https://picsum.photos/seed/pg004/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg4",
+        "id": "vid-c5nMVB04w5U",
+        "title": "MONEY PRINTER MORGANA GETS FULL BUILD BY 25 MINUTES (POOLS OF WEALTH)",
+        "thumbnail": "https://i.ytimg.com/vi/c5nMVB04w5U/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c5nMVB04w5U",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-_rk--fTgm64",
+        "title": "BRAND BUT MY ABILITIES FREEZE YOU AND BURN YOU AT THE SAME TIME (THIS IS SO BROKEN)",
+        "thumbnail": "https://i.ytimg.com/vi/_rk--fTgm64/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_rk--fTgm64",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-JEDwxRvW1rs",
+        "title": "The enemies picked all Tanks, so I countered them with AP Varus (100% HP ONE SHOTS)",
+        "thumbnail": "https://i.ytimg.com/vi/JEDwxRvW1rs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JEDwxRvW1rs",
         "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-pg-005",
-        "title": "Top Lane Matchup Guide — Tanks vs Bruisers",
-        "thumbnail": "https://picsum.photos/seed/pg005/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg5",
-        "publishedAt": "2026-06-11"
-      },
-      {
-        "id": "vid-pg-006",
-        "title": "Dragon Priority — When Is It Worth Contesting?",
-        "thumbnail": "https://picsum.photos/seed/pg006/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg6",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "id": "vid-pg-007",
-        "title": "Item Build Optimization — Mythic Choices 2026",
-        "thumbnail": "https://picsum.photos/seed/pg007/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg7",
-        "publishedAt": "2026-06-05"
-      },
-      {
-        "id": "vid-pg-008",
-        "title": "Ranked Anxiety — How to Play Your Best in Solo Q",
-        "thumbnail": "https://picsum.photos/seed/pg008/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg8",
-        "publishedAt": "2026-06-02"
-      },
-      {
-        "id": "vid-pg-009",
-        "title": "Ward Placement Guide — Every Map Zone Explained",
-        "thumbnail": "https://picsum.photos/seed/pg009/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg9",
-        "publishedAt": "2026-05-30"
-      },
-      {
-        "id": "vid-pg-010",
-        "title": "Late Game Teamfight Positioning by Role",
-        "thumbnail": "https://picsum.photos/seed/pg010/640/360",
-        "url": "https://www.youtube.com/watch?v=lolpg10",
-        "publishedAt": "2026-05-27"
       }
     ]
   },
   {
     "id": "josedeodo",
     "name": "Josedeodo",
-    "channelId": "UCjosedeodo_placeholder",
+    "channelId": "UCFSqZzL4WR_W0_NnrD1ZEZQ",
     "channelUrl": "https://www.youtube.com/@josedeodo",
-    "avatar": "https://i.pravatar.cc/150?u=josedeodo",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_luV2QcIbIbO027nwATaLOd-9mictf3HeY6zAKLhjj1bg=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Jungla profesional latinoamericano (Team Liquid). Gameplay de alto nivel y aprendizaje de jungla en español.",
     "bioLong": "Brandon 'Josedeodo' Villegas es uno de los junglas latinoamericanos más reconocidos, con paso por la LCS y actualmente en Team Liquid. En sus directos y videos muestra gameplay de jungla de altísimo nivel, pathing, control de objetivos y toma de decisiones, todo en español. Una referencia obligada para la comunidad hispana que quiere mejorar en la jungla.",
     "contentType": [
@@ -220,83 +220,48 @@
     },
     "latestVideos": [
       {
-        "id": "vid-jd-001",
-        "title": "Pathing de Jungla — Cómo Decidir tu Primer Clear",
-        "thumbnail": "https://picsum.photos/seed/jd001/640/360",
-        "url": "https://www.youtube.com/watch?v=jd1",
-        "publishedAt": "2026-06-20"
+        "id": "vid-R_mrli8ze6Y",
+        "title": "Última noche BRC",
+        "thumbnail": "https://i.ytimg.com/vi/R_mrli8ze6Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R_mrli8ze6Y",
+        "publishedAt": "2018-09-30"
       },
       {
-        "id": "vid-jd-002",
-        "title": "Control de Objetivos: Dragón vs Heraldo",
-        "thumbnail": "https://picsum.photos/seed/jd002/640/360",
-        "url": "https://www.youtube.com/watch?v=jd2",
-        "publishedAt": "2026-06-20"
+        "id": "vid-bwsb5gleKDU",
+        "title": "😂😂😂",
+        "thumbnail": "https://i.ytimg.com/vi/bwsb5gleKDU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bwsb5gleKDU",
+        "publishedAt": "2018-09-30"
       },
       {
-        "id": "vid-jd-003",
-        "title": "Cómo Carrear desde la Jungla en SoloQ",
-        "thumbnail": "https://picsum.photos/seed/jd003/640/360",
-        "url": "https://www.youtube.com/watch?v=jd3",
-        "publishedAt": "2026-06-20"
+        "id": "vid-jtSLlKILGRo",
+        "title": "Que hace?",
+        "thumbnail": "https://i.ytimg.com/vi/jtSLlKILGRo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jtSLlKILGRo",
+        "publishedAt": "2018-09-30"
       },
       {
-        "id": "vid-jd-004",
-        "title": "Tracking del Jungla Enemigo — Guía Completa",
-        "thumbnail": "https://picsum.photos/seed/jd004/640/360",
-        "url": "https://www.youtube.com/watch?v=jd4",
-        "publishedAt": "2026-06-20"
+        "id": "vid-mAxwVvuQgYU",
+        "title": "Puerco espín bebe 😍",
+        "thumbnail": "https://i.ytimg.com/vi/mAxwVvuQgYU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mAxwVvuQgYU",
+        "publishedAt": "2018-03-11"
       },
       {
-        "id": "vid-jd-005",
-        "title": "Mis Mejores Campeones de Jungla esta Temporada",
-        "thumbnail": "https://picsum.photos/seed/jd005/640/360",
-        "url": "https://www.youtube.com/watch?v=jd5",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-jd-006",
-        "title": "Errores Comunes en la Jungla en Diamante",
-        "thumbnail": "https://picsum.photos/seed/jd006/640/360",
-        "url": "https://www.youtube.com/watch?v=jd6",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-jd-007",
-        "title": "Ganks Tempranos: Timing y Rutas",
-        "thumbnail": "https://picsum.photos/seed/jd007/640/360",
-        "url": "https://www.youtube.com/watch?v=jd7",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-jd-008",
-        "title": "Cómo Jugar de Atrás sin Tiltearte",
-        "thumbnail": "https://picsum.photos/seed/jd008/640/360",
-        "url": "https://www.youtube.com/watch?v=jd8",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-jd-009",
-        "title": "Análisis de Partida Pro — Decisiones de Macro",
-        "thumbnail": "https://picsum.photos/seed/jd009/640/360",
-        "url": "https://www.youtube.com/watch?v=jd9",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-jd-010",
-        "title": "Tier List de Junglas — Parche Actual",
-        "thumbnail": "https://picsum.photos/seed/jd010/640/360",
-        "url": "https://www.youtube.com/watch?v=jd10",
-        "publishedAt": "2026-06-20"
+        "id": "vid-GsWlLaZIPy0",
+        "title": "Franco Persi",
+        "thumbnail": "https://i.ytimg.com/vi/GsWlLaZIPy0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GsWlLaZIPy0",
+        "publishedAt": "2017-04-25"
       }
     ]
   },
   {
     "id": "doublelift",
     "name": "Doublelift",
-    "channelId": "UCdoublelift",
+    "channelId": "UCrPCP1oaOr0AEs2JdxzfOFA",
     "channelUrl": "https://www.youtube.com/@Doublelift",
-    "avatar": "https://i.pravatar.cc/150?u=doublelift",
+    "avatar": "https://yt3.ggpht.com/WA5x0StKX3509o3ta89h0nRbhJp45SntzgEfgRNIVxnFgx6jrux2lhbAX70sDTL67DnU6Xjy=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Leyenda del ADC norteamericano. Ex-C9, TSM y TL. Streams de alto nivel y análisis del juego profesional.",
     "bioLong": "Yiliang 'Doublelift' Peng es una de las figuras más icónicas de League of Legends en Norteamérica. Múltiple campeón de la LCS con equipos como TSM, CLG y Team Liquid, retirado del pro play pero activo como creador de contenido. Sus streams muestran juego de altísimo nivel en el rol de ADC, acompañado de análisis del meta profesional y entretenimiento genuino.",
     "contentType": [
@@ -316,88 +281,88 @@
     },
     "latestVideos": [
       {
-        "id": "vid-dl-001",
-        "title": "Ranking Every ADC in the Current Meta",
-        "thumbnail": "https://picsum.photos/seed/dl001/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl1",
+        "id": "vid-CeuuI8nd51w",
+        "title": "✅ALL MY SLIMES GET IN HERE✅PLAYING TOP LANERS IN THE MAGE ROLE✅RETIREMENT HOME TOURNAMENT IN 4 DAYS✅",
+        "thumbnail": "https://i.ytimg.com/vi/CeuuI8nd51w/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=CeuuI8nd51w",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-tRN6PRb-6xU",
+        "title": "ARAM Players Are Better Than Challengers...",
+        "thumbnail": "https://i.ytimg.com/vi/tRN6PRb-6xU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tRN6PRb-6xU",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-gIvZ3Q0qUdY",
+        "title": "This Hiding Spot Was UNBELIEVABLE...",
+        "thumbnail": "https://i.ytimg.com/vi/gIvZ3Q0qUdY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gIvZ3Q0qUdY",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-wkvifCHLYmU",
+        "title": "✅ALL MY SLIMES GET IN HERE✅TODAY IS THE DAY OF RECKONING✅RETIREMENT HOME TOURNAMENT IN 6 DAYS✅",
+        "thumbnail": "https://i.ytimg.com/vi/wkvifCHLYmU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wkvifCHLYmU",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-jrtW6gtliIQ",
+        "title": "Wild Rift Sent Me to Porsche",
+        "thumbnail": "https://i.ytimg.com/vi/jrtW6gtliIQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jrtW6gtliIQ",
         "publishedAt": "2026-06-21"
       },
       {
-        "id": "vid-dl-002",
-        "title": "Why NA Can't Make Worlds — Honest Take",
-        "thumbnail": "https://picsum.photos/seed/dl002/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl2",
-        "publishedAt": "2026-06-18"
+        "id": "vid-OoG9Vea_d88",
+        "title": "I WON THE $250,000 AT&T Annihilator Cup AGAIN!",
+        "thumbnail": "https://i.ytimg.com/vi/OoG9Vea_d88/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OoG9Vea_d88",
+        "publishedAt": "2026-06-21"
       },
       {
-        "id": "vid-dl-003",
-        "title": "Jinx Montage — S2026 Ranked Highlights",
-        "thumbnail": "https://picsum.photos/seed/dl003/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl3",
-        "publishedAt": "2026-06-15"
+        "id": "vid-2n3Ciw0J3ds",
+        "title": "Doublelift Had to Leave the Jynxzi / Dantes Call Because of This... 😭",
+        "thumbnail": "https://i.ytimg.com/vi/2n3Ciw0J3ds/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2n3Ciw0J3ds",
+        "publishedAt": "2026-06-21"
       },
       {
-        "id": "vid-dl-004",
-        "title": "Playing ADC vs the Most Annoying Supports",
-        "thumbnail": "https://picsum.photos/seed/dl004/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl4",
-        "publishedAt": "2026-06-12"
+        "id": "vid-YKc4zWeaRe0",
+        "title": "✅PLAYING CHAMPS CHAT TELLS ME TO PICK✅RETIREMENT HOME TOURNEY IN 7 DAYS (NEXT SATURDAY)✅",
+        "thumbnail": "https://i.ytimg.com/vi/YKc4zWeaRe0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YKc4zWeaRe0",
+        "publishedAt": "2026-06-21"
       },
       {
-        "id": "vid-dl-005",
-        "title": "Reacting to LCK Worlds Plays — Insane Mechanics",
-        "thumbnail": "https://picsum.photos/seed/dl005/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl5",
-        "publishedAt": "2026-06-09"
+        "id": "vid-du-1ZA_xGuo",
+        "title": "\"What About Dantes?\" 🥀",
+        "thumbnail": "https://i.ytimg.com/vi/du-1ZA_xGuo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=du-1ZA_xGuo",
+        "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-dl-006",
-        "title": "My ADC Tier List — Honest and Unfiltered",
-        "thumbnail": "https://picsum.photos/seed/dl006/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl6",
-        "publishedAt": "2026-06-06"
-      },
-      {
-        "id": "vid-dl-007",
-        "title": "Caitlyn Guide — Dominando la Fase de Línea",
-        "thumbnail": "https://picsum.photos/seed/dl007/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl7",
-        "publishedAt": "2026-06-03"
-      },
-      {
-        "id": "vid-dl-008",
-        "title": "Best ADC Synergies With Every Support",
-        "thumbnail": "https://picsum.photos/seed/dl008/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl8",
-        "publishedAt": "2026-05-31"
-      },
-      {
-        "id": "vid-dl-009",
-        "title": "Stream Highlights — 5 Penta Kills in One Day",
-        "thumbnail": "https://picsum.photos/seed/dl009/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl9",
-        "publishedAt": "2026-05-28"
-      },
-      {
-        "id": "vid-dl-010",
-        "title": "My Pro Career Story — From Plat to World Champion",
-        "thumbnail": "https://picsum.photos/seed/dl010/640/360",
-        "url": "https://www.youtube.com/watch?v=loldl10",
-        "publishedAt": "2026-05-25"
+        "id": "vid-MXkUn_M8l8Y",
+        "title": "✅PUSHING MY LIMITS ON MAIN ACC✅FREAKY FRIDAY✅RETIREMENT HOME TOURNEY IN 8 DAYS✅",
+        "thumbnail": "https://i.ytimg.com/vi/MXkUn_M8l8Y/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MXkUn_M8l8Y",
+        "publishedAt": "2026-06-20"
       }
     ]
   },
   {
-    "channelId": "UCcorejj_ph",
-    "avatar": "https://i.pravatar.cc/150?u=corejj",
+    "channelId": "UCVDepsrgho0zQxMvkik7KUw",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_ke8pet6xxDbwPSEDUiRRjgZrw-TMXr9bUqp32AkjARLg=s800-c-k-c0x00ffffff-no-rj",
     "socials": {
-      "youtube": "https://www.youtube.com/@CoreJJ",
+      "youtube": "https://www.youtube.com/@CoreJJLoL",
       "twitch": "corejj",
       "twitter": "Team_CoreJJ"
     },
     "id": "corejj",
     "name": "CoreJJ",
-    "channelUrl": "https://www.youtube.com/@CoreJJ",
+    "channelUrl": "https://www.youtube.com/@CoreJJLoL",
     "twitch": "corejj",
     "twitter": "Team_CoreJJ",
     "bioShort": "Soporte profesional campeón mundial. Streams de altísimo nivel y guías de soporte.",
@@ -414,25 +379,74 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-cjj-001",
-        "title": "Support Vision Control Masterclass",
-        "thumbnail": "https://picsum.photos/seed/cjj1/640/360",
-        "url": "https://www.youtube.com/watch?v=cjj1",
-        "publishedAt": "2026-06-21"
+        "id": "vid-gYPgFXvMsK4",
+        "title": "CoreJJ - What Happens When 4 TL plays together in SoloQ",
+        "thumbnail": "https://i.ytimg.com/vi/gYPgFXvMsK4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gYPgFXvMsK4",
+        "publishedAt": "2023-07-26"
       },
       {
-        "id": "vid-cjj-002",
-        "title": "How to Carry from Support",
-        "thumbnail": "https://picsum.photos/seed/cjj2/640/360",
-        "url": "https://www.youtube.com/watch?v=cjj2",
-        "publishedAt": "2026-06-17"
+        "id": "vid-wPXRI0era2I",
+        "title": "CoreJJ - Core is Back with Varus ADC! #4 | CoreJJ Soloq HL #4",
+        "thumbnail": "https://i.ytimg.com/vi/wPXRI0era2I/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wPXRI0era2I",
+        "publishedAt": "2023-07-19"
       },
       {
-        "id": "vid-cjj-003",
-        "title": "Engage Timing — Pro Breakdown",
-        "thumbnail": "https://picsum.photos/seed/cjj3/640/360",
-        "url": "https://www.youtube.com/watch?v=cjj3",
-        "publishedAt": "2026-06-13"
+        "id": "vid-z8zWP0XHqMo",
+        "title": "CoreJJ - Core's Neeko Support and More! | CoreJJ Soloq HL #3",
+        "thumbnail": "https://i.ytimg.com/vi/z8zWP0XHqMo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z8zWP0XHqMo",
+        "publishedAt": "2023-07-13"
+      },
+      {
+        "id": "vid--QlljAGPjvA",
+        "title": "CoreJJ - \"1v2? EAAAASY!!\" | CoreJJ Soloq HL #2",
+        "thumbnail": "https://i.ytimg.com/vi/-QlljAGPjvA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-QlljAGPjvA",
+        "publishedAt": "2023-06-09"
+      },
+      {
+        "id": "vid-C17M0vX4CLU",
+        "title": "CoreJJ - \"Glacier, Phase Rush, and Aftershock.. I would rather..\" | CoreJJ Soloq HL #1",
+        "thumbnail": "https://i.ytimg.com/vi/C17M0vX4CLU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C17M0vX4CLU",
+        "publishedAt": "2023-05-21"
+      },
+      {
+        "id": "vid-cvQfqgRm-IQ",
+        "title": "CoreJJ - T1 wins with 3:0?! Core's Prediction on JDG vs T1 | League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/cvQfqgRm-IQ/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cvQfqgRm-IQ",
+        "publishedAt": "2022-10-28"
+      },
+      {
+        "id": "vid-YtbtxrjuV1Q",
+        "title": "CoreJJ - Watch Why 🐎🐎Rell is Core's Signature Pick | Streaming HL 001 | League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/YtbtxrjuV1Q/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YtbtxrjuV1Q",
+        "publishedAt": "2022-10-13"
+      },
+      {
+        "id": "vid-hJ7saBWpu_g",
+        "title": "CoreJJ - \"Hey 📏Ruler📏, Who's the best ADC?\" - Core Makes 2022 Top5 Laners List",
+        "thumbnail": "https://i.ytimg.com/vi/hJ7saBWpu_g/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hJ7saBWpu_g",
+        "publishedAt": "2022-10-02"
+      },
+      {
+        "id": "vid-7U2ohJmhku4",
+        "title": "CoreJJ - Massive 🔥TOP GAP🔥!!! How to Top Game (feat. C9 Summit) | League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/7U2ohJmhku4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7U2ohJmhku4",
+        "publishedAt": "2022-03-31"
+      },
+      {
+        "id": "vid-f92o_PnPtqI",
+        "title": "CoreJJ - How to 2/9/7 and still Carry the Game (feat. Doublelift) | League of Legends",
+        "thumbnail": "https://i.ytimg.com/vi/f92o_PnPtqI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f92o_PnPtqI",
+        "publishedAt": "2022-01-19"
       }
     ]
   }
