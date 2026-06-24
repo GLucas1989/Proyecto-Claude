@@ -1,6 +1,6 @@
 import { getGames, getCreators } from "@/lib/data";
 import { GameCard } from "@/components/game/GameCard";
-import { GameShowcase } from "@/components/game/GameShowcase";
+import { HomeGamesFilter } from "@/components/home/HomeGamesFilter";
 import { NewsletterSignup } from "@/components/NewsletterSignup";
 import { Zap, Users, Gamepad2, Globe } from "lucide-react";
 
@@ -93,7 +93,7 @@ export default async function HomePage() {
       {/* ── GAMES SECTION ── */}
       <section className="px-4 pb-24">
         <div className="max-w-6xl mx-auto">
-          <div className="mb-10 flex items-center gap-3">
+          <div className="mb-6 flex items-center gap-3">
             <div className="h-px flex-1 bg-gradient-to-r from-transparent to-cyan-500/20" />
             <div className="text-center">
               <p className="text-[10px] font-mono text-cyan-500/50 uppercase tracking-[0.3em] mb-0.5">// creadores por juego</p>
@@ -104,11 +104,7 @@ export default async function HomePage() {
             <div className="h-px flex-1 bg-gradient-to-l from-transparent to-cyan-500/20" />
           </div>
 
-          <div className="flex flex-col gap-3">
-            {activeWithCreators.map(({ game, creators }, i) => (
-              <GameShowcase key={game.id} game={game} creators={creators} defaultOpen={i === 0} />
-            ))}
-          </div>
+          <HomeGamesFilter items={activeWithCreators} />
 
           {comingSoonGames.length > 0 && (
             <div className="mt-20">
