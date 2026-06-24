@@ -154,7 +154,7 @@ export function PublicationCard({
 
           {/* Read more */}
           <Link
-            href={`/publications/${publication.id}`}
+            href={`/ugc/${publication.id}`}
             className={`flex items-center gap-0.5 text-[10px] font-mono font-bold ${cfg.color} hover:opacity-80 transition-opacity shrink-0`}
           >
             Leer <ChevronRight className="h-3 w-3" />

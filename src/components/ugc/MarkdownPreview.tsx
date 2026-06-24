@@ -1,15 +1,38 @@
+import DOMPurify from "isomorphic-dompurify";
+
 interface MarkdownPreviewProps {
   content: string;
 }
 
-// Transforms a subset of Markdown to HTML with cyberpunk styles.
-// For production use react-markdown + rehype-sanitize instead.
+// Allowed HTML tags produced by mdToHtml — nothing else survives DOMPurify.
+// class= attributes are allowed so Tailwind styles pass through intact.
+// Type is widened to satisfy both isomorphic-dompurify and @types/dompurify overloads.
+const DOMPURIFY_CONFIG = {
+  ALLOWED_TAGS: [
+    "h1", "h2", "h3",
+    "p", "br", "hr", "div",
+    "strong", "em", "code", "pre",
+    "blockquote",
+    "ul", "ol", "li",
+    "table", "tr", "th", "td",
+    "span",
+  ] as string[],
+  ALLOWED_ATTR: ["class"] as string[],
+  // Explicitly block anything that could execute scripts
+  FORBID_TAGS: ["script", "style", "iframe", "object", "embed", "form", "input"] as string[],
+  FORBID_ATTR: ["onerror", "onload", "onclick", "onmouseover", "href", "src", "action"] as string[],
+};
+
 function mdToHtml(content: string): string {
   return content
-    // Fenced code blocks (must come before inline code)
-    .replace(/```[\w]*\n([\s\S]*?)```/g, (_m, code) =>
-      `<pre class="bg-black/40 border border-white/8 rounded-xl p-4 my-3 overflow-x-auto"><code class="text-[10px] font-mono text-green-300/70 leading-relaxed whitespace-pre">${code.replace(/</g, "&lt;")}</code></pre>`,
-    )
+    // Fenced code blocks — escape HTML entities inside to prevent injection
+    .replace(/```[\w]*\n([\s\S]*?)```/g, (_m, code) => {
+      const escaped = code
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+      return `<pre class="bg-black/40 border border-white/8 rounded-xl p-4 my-3 overflow-x-auto"><code class="text-[10px] font-mono text-green-300/70 leading-relaxed whitespace-pre">${escaped}</code></pre>`;
+    })
     // Headings
     .replace(/^# (.+)$/gm,   '<h1 class="text-xl font-bold text-white font-mono mb-3 mt-5 first:mt-0">$1</h1>')
     .replace(/^## (.+)$/gm,  '<h2 class="text-base font-bold text-cyan-300 font-mono mb-2 mt-4 border-b border-cyan-500/10 pb-1">$1</h2>')
@@ -50,10 +73,13 @@ function mdToHtml(content: string): string {
 }
 
 export function MarkdownPreview({ content }: MarkdownPreviewProps) {
+  const rawHtml  = mdToHtml(content);
+  const safeHtml = DOMPurify.sanitize(rawHtml, DOMPURIFY_CONFIG) as string;
+
   return (
     <div
       className="text-xs leading-relaxed"
-      dangerouslySetInnerHTML={{ __html: mdToHtml(content) }}
+      dangerouslySetInnerHTML={{ __html: safeHtml }}
     />
   );
 }
