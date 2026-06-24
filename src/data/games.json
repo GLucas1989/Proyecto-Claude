@@ -128,6 +128,21 @@
     ]
   },
   {
+    "id": "multigenero",
+    "name": "Multijuego",
+    "slug": "multigenero",
+    "description": "Creadores que no se limitan a un solo juego. Variety gaming, vlogs, retos y lo mejor del entretenimiento gamer en español.",
+    "coverImage": "/images/games/multigenero.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "🎮",
+    "logoUrl": null,
+    "filters": [
+      "contentType",
+      "language"
+    ]
+  },
+  {
     "id": "diablo-iv",
     "name": "Diablo IV",
     "slug": "diablo-iv",
