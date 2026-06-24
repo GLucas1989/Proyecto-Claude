@@ -257,3 +257,164 @@ insert into public.game_subscription_plans (game_slug, price_cents, features) va
   ('dark-and-darker',     499, '["Class guides PDF", "Dungeon maps PPT", "Video extract strategies", "Audioguía de items"]'),
   ('beyond-all-reason',   499, '["Economy build orders PDF", "Map control PPT", "Video replays pro", "Audioguía de unidades"]'),
   ('multigenero',         799, '["Acceso a TODOS los juegos", "Contenido multiplataforma", "Videos exclusivos", "Biblioteca completa"]');
+
+-- ─────────────────────────────────────────────────────────────────────────────
+-- UGC: USER-GENERATED CONTENT SYSTEM
+-- ─────────────────────────────────────────────────────────────────────────────
+
+create type public.publication_status as enum ('DRAFT', 'PENDING_REVIEW', 'PUBLISHED', 'ARCHIVED');
+create type public.publication_type   as enum ('GUIDE', 'BUILD', 'TIER_LIST');
+create type public.vote_type          as enum ('UPVOTE', 'DOWNVOTE');
+create type public.promotion_payment  as enum ('PENDING', 'PAID', 'REFUNDED');
+
+-- ── Publicaciones de usuario ──────────────────────────────────────────────────
+create table public.user_publications (
+  id               uuid primary key default gen_random_uuid(),
+  user_id          uuid not null references public.profiles(id) on delete cascade,
+  game_slug        text not null,
+  title            text not null,
+  content_markdown text not null default '',
+  status           public.publication_status not null default 'DRAFT',
+  type             public.publication_type   not null default 'GUIDE',
+  attachments_urls text[]   not null default '{}',
+  is_premium       boolean  not null default false,
+  views_count      integer  not null default 0,
+  created_at       timestamptz not null default now(),
+  updated_at       timestamptz not null default now(),
+  published_at     timestamptz,
+  rejected_reason  text
+);
+
+create index user_publications_game_status on public.user_publications(game_slug, status);
+create index user_publications_user        on public.user_publications(user_id);
+
+-- ── Votos de comunidad ────────────────────────────────────────────────────────
+create table public.publication_votes (
+  id             uuid primary key default gen_random_uuid(),
+  user_id        uuid not null references public.profiles(id) on delete cascade,
+  publication_id uuid not null references public.user_publications(id) on delete cascade,
+  vote_type      public.vote_type not null,
+  created_at     timestamptz not null default now(),
+  unique (user_id, publication_id)
+);
+
+-- ── Reputación del usuario ────────────────────────────────────────────────────
+create table public.user_reputation (
+  id               uuid primary key default gen_random_uuid(),
+  user_id          uuid not null unique references public.profiles(id) on delete cascade,
+  points           integer not null default 0,
+  rank_title       text    not null default 'Novato',
+  guides_published integer not null default 0,
+  updated_at       timestamptz not null default now()
+);
+
+-- ── Contenido promocionado ────────────────────────────────────────────────────
+create table public.promoted_content (
+  id                       uuid primary key default gen_random_uuid(),
+  publication_id           uuid not null references public.user_publications(id) on delete cascade,
+  user_id                  uuid not null references public.profiles(id) on delete cascade,
+  game_slug                text not null,
+  expires_at               timestamptz not null,
+  payment_status           public.promotion_payment not null default 'PENDING',
+  stripe_payment_intent_id text,
+  price_cents              integer not null default 999,
+  created_at               timestamptz not null default now()
+);
+
+create index promoted_content_active on public.promoted_content(game_slug, expires_at)
+  where payment_status = 'PAID';
+
+-- ── Función: rank por puntos ──────────────────────────────────────────────────
+create or replace function public.resolve_rank_title(points integer)
+returns text language sql immutable as $$
+  select case
+    when points >= 2000 then 'Leyenda'
+    when points >= 750  then 'Estratega Pro'
+    when points >= 300  then 'Analista'
+    when points >= 100  then 'Teorizador'
+    when points >= 25   then 'Aprendiz'
+    else                     'Novato'
+  end;
+$$;
+
+-- ── Trigger: votos → reputación ───────────────────────────────────────────────
+create or replace function public.handle_vote_reputation()
+returns trigger language plpgsql security definer as $$
+declare
+  v_author_id uuid;
+  v_delta     integer;
+begin
+  select user_id into v_author_id
+  from public.user_publications
+  where id = NEW.publication_id;
+
+  if v_author_id = NEW.user_id then return NEW; end if;
+
+  v_delta := case NEW.vote_type when 'UPVOTE' then 10 else -2 end;
+
+  insert into public.user_reputation (user_id, points, rank_title)
+  values (v_author_id, greatest(0, v_delta), public.resolve_rank_title(greatest(0, v_delta)))
+  on conflict (user_id) do update
+    set points     = greatest(0, user_reputation.points + v_delta),
+        rank_title = public.resolve_rank_title(greatest(0, user_reputation.points + v_delta)),
+        updated_at = now();
+
+  return NEW;
+end;
+$$;
+
+create trigger on_vote_insert
+  after insert on public.publication_votes
+  for each row execute function public.handle_vote_reputation();
+
+-- ── Trigger: publicación aprobada → +5 pts + guides_published ────────────────
+create or replace function public.handle_publication_approved()
+returns trigger language plpgsql security definer as $$
+begin
+  if NEW.status = 'PUBLISHED' and OLD.status != 'PUBLISHED' then
+    insert into public.user_reputation (user_id, points, guides_published, rank_title)
+    values (NEW.user_id, 5, 1, 'Novato')
+    on conflict (user_id) do update
+      set guides_published = user_reputation.guides_published + 1,
+          points           = user_reputation.points + 5,
+          rank_title       = public.resolve_rank_title(user_reputation.points + 5),
+          updated_at       = now();
+
+    update public.user_publications set published_at = now() where id = NEW.id;
+  end if;
+  return NEW;
+end;
+$$;
+
+create trigger on_publication_status_change
+  after update of status on public.user_publications
+  for each row execute function public.handle_publication_approved();
+
+-- ── RLS ───────────────────────────────────────────────────────────────────────
+alter table public.user_publications  enable row level security;
+alter table public.publication_votes  enable row level security;
+alter table public.user_reputation    enable row level security;
+alter table public.promoted_content   enable row level security;
+
+create policy "ugc: public read published"
+  on public.user_publications for select using (status = 'PUBLISHED');
+
+create policy "ugc: owner all"
+  on public.user_publications for all using (auth.uid() = user_id);
+
+create policy "ugc: admin all"
+  on public.user_publications for all
+  using (exists (select 1 from public.profiles where id = auth.uid() and role = 'ADMIN'));
+
+create policy "votes: own rows"
+  on public.publication_votes for all using (auth.uid() = user_id);
+
+create policy "reputation: public read"
+  on public.user_reputation for select using (true);
+
+create policy "promoted: public read active"
+  on public.promoted_content for select
+  using (payment_status = 'PAID' and expires_at > now());
+
+create policy "promoted: owner manage"
+  on public.promoted_content for all using (auth.uid() = user_id);
