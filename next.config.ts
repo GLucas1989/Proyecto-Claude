@@ -25,6 +25,14 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
+        hostname: "*.googleusercontent.com",
+      },
+      {
+        protocol: "https",
+        hostname: "static-cdn.jtvnw.net",
+      },
+      {
+        protocol: "https",
         hostname: "cdn.akamai.steamstatic.com",
       },
       {

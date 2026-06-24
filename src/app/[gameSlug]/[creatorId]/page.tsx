@@ -9,6 +9,7 @@ import { VideoCard } from "@/components/creator/VideoCard";
 import { ArrowLeft, Play, Tv, AtSign, ChevronRight, Home, Video, Zap } from "lucide-react";
 import { TwitchLiveBadge } from "@/components/creator/TwitchLiveBadge";
 import { StarRating } from "@/components/creator/StarRating";
+import { ClaimProfileButton } from "@/components/auth/ClaimProfileButton";
 
 interface CreatorPageProps {
   params: Promise<{ gameSlug: string; creatorId: string }>;
@@ -146,7 +147,15 @@ export default async function CreatorPage({ params }: CreatorPageProps) {
                   </Button>
                 )}
               </div>
-              <StarRating creatorId={creator.id} />
+              <div className="flex items-center gap-3 mt-2">
+                <StarRating creatorId={creator.id} />
+                <ClaimProfileButton
+                  creatorSlug={creator.id}
+                  gameSlug={gameSlug}
+                  creatorName={creator.name}
+                  channelId={creator.channelId}
+                />
+              </div>
             </div>
           </div>
         </div>

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
+import { AuthProvider } from "@/components/auth/AuthProvider";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -30,11 +31,13 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
-        <Navbar />
-        <main className="flex-1">{children}</main>
-        <footer className="border-t border-cyan-500/10 py-6 text-center text-xs text-white/20 font-mono tracking-widest uppercase">
-          CreatorsHub © {new Date().getFullYear()} &mdash; Directorio de creadores gaming
-        </footer>
+        <AuthProvider>
+          <Navbar />
+          <main className="flex-1">{children}</main>
+          <footer className="border-t border-cyan-500/10 py-6 text-center text-xs text-white/20 font-mono tracking-widest uppercase">
+            CreatorsHub © {new Date().getFullYear()} &mdash; Directorio de creadores gaming
+          </footer>
+        </AuthProvider>
       </body>
     </html>
   );
