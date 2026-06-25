@@ -2,13 +2,18 @@
   {
     "id": "tarik",
     "name": "tarik",
-    "channelId": "UCH6fMFNE5H00KCTnOkCNadA",
+    "channelId": "UCTbtlMEiBfs0zZLQyJzR0Uw",
     "channelUrl": "https://www.youtube.com/@tarik",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_nH3CtZ_3pANXb5VJB1CePNzH2e7CDQK8rY3C30=s800-c-k-c0x00ffffff-no-rj",
+    "avatar": "https://yt3.ggpht.com/g5jT8otHDE6oxrGLS4MDlNwbYpAgmdM7z8vPrSv7S82M75ndwxaVIlVEIbGgutTJPczAWoUd-YU=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Ex-pro de CS:GO y referente mundial del contenido de Valorant. Análisis, ranked y entretenimiento.",
     "bioLong": "Mohamed 'tarik' Celik es uno de los creadores de contenido más influyentes del ecosistema de Valorant. Ex-jugador profesional de CS:GO, ganó el Major de Boston 2018 con Cloud9 antes de pasarse al contenido. Su canal combina sesiones de ranked de alto nivel, análisis tácticos, y entretenimiento con otros pros. Es además host del podcast VALORANT Champions Tour, lo que lo convierte en una voz indispensable de la escena competitiva.",
-    "contentType": ["competitive", "educational"],
-    "languages": ["en"],
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@tarik",
       "twitch": "tarik",
@@ -16,59 +21,63 @@
     },
     "latestVideos": [
       {
-        "id": "vid-valorant-tarik-1",
-        "title": "I Played With EVERY VCT Pro in Ranked (They're Insane)",
-        "thumbnail": "https://i.ytimg.com/vi/Kh7x-RkHzXU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Kh7x-RkHzXU",
+        "id": "vid-9o5aMxiKQCI",
+        "title": "a well deserved Masters London MVP",
+        "thumbnail": "https://i.ytimg.com/vi/9o5aMxiKQCI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9o5aMxiKQCI",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-IkrURST3Fjg",
+        "title": "the best duelist duo in the world",
+        "thumbnail": "https://i.ytimg.com/vi/IkrURST3Fjg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IkrURST3Fjg",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-8U8BRrQWZvE",
+        "title": "WHO WILL WIN THE GRAND FINALS? Tarik Reacts to PRX vs LEV | VCT Masters London 2026",
+        "thumbnail": "https://i.ytimg.com/vi/8U8BRrQWZvE/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8U8BRrQWZvE",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-cigYOQf51qo",
+        "title": "i can't believe they actually did it",
+        "thumbnail": "https://i.ytimg.com/vi/cigYOQf51qo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cigYOQf51qo",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-EZDgg9IqkSg",
+        "title": "you will not believe how ohne injured a caster at the major",
+        "thumbnail": "https://i.ytimg.com/vi/EZDgg9IqkSg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EZDgg9IqkSg",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-nFH4VwGq2Ao",
+        "title": "MUST WIN MATCH! Tarik Reacts to LEV vs EDG | VCT Masters London 2026",
+        "thumbnail": "https://i.ytimg.com/vi/nFH4VwGq2Ao/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nFH4VwGq2Ao",
         "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-valorant-tarik-2",
-        "title": "The BEST Agent on Every Map RIGHT NOW (Valorant Tier List)",
-        "thumbnail": "https://i.ytimg.com/vi/7vX2pCgK5hE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7vX2pCgK5hE",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-valorant-tarik-3",
-        "title": "Reacting to Valorant's BIGGEST Plays of the Month",
-        "thumbnail": "https://i.ytimg.com/vi/MnPpkYzOeRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MnPpkYzOeRs",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-valorant-tarik-4",
-        "title": "How to ACTUALLY Improve at Valorant in 2026",
-        "thumbnail": "https://i.ytimg.com/vi/dQ8nWdF8aBo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dQ8nWdF8aBo",
-        "publishedAt": "2026-06-10"
-      },
-      {
-        "id": "vid-valorant-tarik-5",
-        "title": "Playing Ranked with TenZ and Zombs — Full VOD",
-        "thumbnail": "https://i.ytimg.com/vi/RqpF4HfnKpk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RqpF4HfnKpk",
-        "publishedAt": "2026-06-07"
-      },
-      {
-        "id": "vid-valorant-tarik-6",
-        "title": "Every Agent Ranked WORST to BEST — Patch 10.02",
-        "thumbnail": "https://i.ytimg.com/vi/Yg3RnJQf5_A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Yg3RnJQf5_A",
-        "publishedAt": "2026-06-03"
       }
     ]
   },
   {
     "id": "tenz",
     "name": "TenZ",
-    "channelId": "UCgjJGvvJZmjPPKMLbT-0vAw",
+    "channelId": "UCckPYr9b_iVucz8ID1Q67sw",
     "channelUrl": "https://www.youtube.com/@TenZ",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_kW8n0q4ViFdVZM9qkRsUkiT2C8jK3mBIm2L3W0=s800-c-k-c0x00ffffff-no-rj",
+    "avatar": "https://yt3.ggpht.com/oluZPpa10i-HCdtWfw3w1SSUd_qNMXjugGmvgUfFSGQHt9Ch3fttVQODZL1TT62qtYmQGOgD9Q=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "El jugador más mecánicamente dotado de Valorant. Highlights, duelos y sesiones de ranked Radiante.",
     "bioLong": "Tyson 'TenZ' Ngo es ampliamente considerado el mejor jugador mecánico de Valorant del mundo. Conocido por su aim sobrehumano y su capacidad de crear jugadas imposibles, TenZ fue el primer jugador en América del Norte en alcanzar el rango Radiante. Su contenido mezcla highlights explosivos, sesiones educativas y vlogs de lifestyle. Actualmente compite con Sentinels en el VCT Americas.",
-    "contentType": ["competitive"],
-    "languages": ["en"],
+    "contentType": [
+      "competitive"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@TenZ",
       "twitch": "tenz",
@@ -76,59 +85,63 @@
     },
     "latestVideos": [
       {
-        "id": "vid-valorant-tenz-1",
-        "title": "I Hit Radiant with ONLY Jett — Full Journey",
-        "thumbnail": "https://i.ytimg.com/vi/B8nGPRL5OtE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=B8nGPRL5OtE",
+        "id": "vid-qZS-0X_OkQc",
+        "title": "jet lag hitting zzzz",
+        "thumbnail": "https://i.ytimg.com/vi/qZS-0X_OkQc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qZS-0X_OkQc",
+        "publishedAt": "2026-06-25"
+      },
+      {
+        "id": "vid-eeWBxeewimg",
+        "title": "TenZ TESTS & REACTS TO *NEW* SUMMIT MAP & SENTINEL BUFFS !!!",
+        "thumbnail": "https://i.ytimg.com/vi/eeWBxeewimg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eeWBxeewimg",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-N8RH-ZihVZc",
+        "title": "NEW PATCH?! NEW MAP?! BACK HOME LETS GO",
+        "thumbnail": "https://i.ytimg.com/vi/N8RH-ZihVZc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N8RH-ZihVZc",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-BPbtSn_Jvms",
+        "title": "grand final was insane #Valorant #tenz #vct",
+        "thumbnail": "https://i.ytimg.com/vi/BPbtSn_Jvms/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BPbtSn_Jvms",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-NWanHANz3Cc",
+        "title": "TenZ & Oxy MAKES THE PERFECT DUO !!!",
+        "thumbnail": "https://i.ytimg.com/vi/NWanHANz3Cc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NWanHANz3Cc",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-5bXMo7nTDDw",
+        "title": "WHO'S TAKING IT HOME?! | TenZ Reacts To LEV vs PRX | VCT Masters London Grand Final)",
+        "thumbnail": "https://i.ytimg.com/vi/5bXMo7nTDDw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5bXMo7nTDDw",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-valorant-tenz-2",
-        "title": "My UPDATED Crosshair Settings + Aim Routine (2026)",
-        "thumbnail": "https://i.ytimg.com/vi/xkZmn3H9F5c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xkZmn3H9F5c",
-        "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-valorant-tenz-3",
-        "title": "EVERY Pro Carry Tip I Wish I Knew Earlier",
-        "thumbnail": "https://i.ytimg.com/vi/L4VqX8PKHmA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=L4VqX8PKHmA",
-        "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-valorant-tenz-4",
-        "title": "Neon Is BACK and I Can't Stop Winning",
-        "thumbnail": "https://i.ytimg.com/vi/nRwK4j0BZQM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nRwK4j0BZQM",
-        "publishedAt": "2026-06-11"
-      },
-      {
-        "id": "vid-valorant-tenz-5",
-        "title": "VCT Masters Highlights + My Predictions",
-        "thumbnail": "https://i.ytimg.com/vi/Fq7dJZ5mvBw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Fq7dJZ5mvBw",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "id": "vid-valorant-tenz-6",
-        "title": "Teaching My Girlfriend to Play Valorant (Gone Wrong)",
-        "thumbnail": "https://i.ytimg.com/vi/8mKpZQkOCIs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8mKpZQkOCIs",
-        "publishedAt": "2026-06-04"
       }
     ]
   },
   {
     "id": "shroud-valorant",
     "name": "shroud",
-    "channelId": "UCoz3Kpu5lv-ALdPDFAFEwOQ",
+    "channelId": "UCoz3Kpu5lv-ALhR4h9bDvcw",
     "channelUrl": "https://www.youtube.com/@shroud",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_n9MF5VVKcrOxwPfO1vVjqBqLRMUSwAlQGjn-rBqA=s800-c-k-c0x00ffffff-no-rj",
+    "avatar": "https://yt3.ggpht.com/1JP91m1bN52qiUOGFIfHOHFSR62_Ll0FpYF4-UM2zFXv3V_azvHY3PT1sgfggzjNKxwqbulr=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Leyenda del FPS con aim perfecto. Shroud juega Valorant a un nivel que muy pocos alcanzan.",
     "bioLong": "Michael 'shroud' Grzesiek es considerado uno de los mejores aimers del mundo. Ex-jugador profesional de CS:GO con Cloud9, es conocido por su precisión sobrenatural y su capacidad de adaptarse a cualquier FPS. En Valorant, su contenido es una clase magistral de mecánicas. Su estilo tranquilo y analítico lo hace ideal para jugadores que quieren entender el juego a un nivel profundo.",
-    "contentType": ["competitive"],
-    "languages": ["en"],
+    "contentType": [
+      "competitive"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@shroud",
       "twitch": "shroud",
@@ -136,118 +149,128 @@
     },
     "latestVideos": [
       {
-        "id": "vid-valorant-shroud-1",
-        "title": "Shroud Goes FULL TRYHARD in Ranked — Episode 10",
-        "thumbnail": "https://i.ytimg.com/vi/JqK2hMXvBCc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JqK2hMXvBCc",
-        "publishedAt": "2026-06-22"
+        "id": "vid-FKnv79A3OS4",
+        "title": "Hiding in plain sight ✅",
+        "thumbnail": "https://i.ytimg.com/vi/FKnv79A3OS4/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FKnv79A3OS4",
+        "publishedAt": "2026-06-23"
       },
       {
-        "id": "vid-valorant-shroud-2",
-        "title": "The Agent Shroud Can't Stop Picking (Omen)",
-        "thumbnail": "https://i.ytimg.com/vi/3sWqMnKfyXk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3sWqMnKfyXk",
-        "publishedAt": "2026-06-19"
+        "id": "vid-T3iN4_WZj60",
+        "title": "MECCHA CHAMELEON, BUT IT'S COUNTER STRIKE...",
+        "thumbnail": "https://i.ytimg.com/vi/T3iN4_WZj60/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T3iN4_WZj60",
+        "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-valorant-shroud-3",
-        "title": "How I Warmup Before EVERY Valorant Session",
-        "thumbnail": "https://i.ytimg.com/vi/7KpRnGF4hWs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7KpRnGF4hWs",
+        "id": "vid-rAcOtMmdZ7Y",
+        "title": "DESTROYING THE BIGGEST STREAMERS IN A $150K TOURNEY",
+        "thumbnail": "https://i.ytimg.com/vi/rAcOtMmdZ7Y/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rAcOtMmdZ7Y",
         "publishedAt": "2026-06-15"
       },
       {
-        "id": "vid-valorant-shroud-4",
-        "title": "Valorant vs CS2: Which Is The Better FPS?",
-        "thumbnail": "https://i.ytimg.com/vi/N8aGpHXZdvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N8aGpHXZdvE",
+        "id": "vid-iMc2mt_JXNM",
+        "title": "IS THIS THE NEXT BIG SHOOTER ?!",
+        "thumbnail": "https://i.ytimg.com/vi/iMc2mt_JXNM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iMc2mt_JXNM",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-ZZjLBKmrogM",
+        "title": "Got second place but I still farmed 👨‍🌾🌾",
+        "thumbnail": "https://i.ytimg.com/vi/ZZjLBKmrogM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZZjLBKmrogM",
+        "publishedAt": "2026-06-13"
+      },
+      {
+        "id": "vid-LJF2ONMny74",
+        "title": "shroud + sniper = win 🥇",
+        "thumbnail": "https://i.ytimg.com/vi/LJF2ONMny74/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LJF2ONMny74",
         "publishedAt": "2026-06-12"
-      },
-      {
-        "id": "vid-valorant-shroud-5",
-        "title": "Ranked Grind with Former CS Pros",
-        "thumbnail": "https://i.ytimg.com/vi/wKp7v4BmRqo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wKp7v4BmRqo",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "id": "vid-valorant-shroud-6",
-        "title": "I Tried Every DUELIST Agent for a Week",
-        "thumbnail": "https://i.ytimg.com/vi/sGqcTlP5Ywc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sGqcTlP5Ywc",
-        "publishedAt": "2026-06-05"
       }
     ]
   },
   {
     "id": "valorant-oficial",
     "name": "VALORANT",
-    "channelId": "UC0ZV6M2THA81QT9hrVWJG3A",
+    "channelId": "UC8CX0LD98EDXl4UYX1MDCXg",
     "channelUrl": "https://www.youtube.com/@valorant",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mUOGbwcBiSJEHwUo5N3tKzLQ0iU1rJgIv9DKo=s800-c-k-c0x00ffffff-no-rj",
+    "avatar": "https://yt3.ggpht.com/H7FJUqOE9ziedHNMwFzbJtqZ-CJj0fiAOFZcnrPo1LaZQRI34ccAVOizrARCQXF-i8i8mnY3sw=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "Canal oficial de VALORANT. Parches, trailers, lore y highlights del VCT directo de Riot Games.",
     "bioLong": "El canal oficial de VALORANT por Riot Games. Acá encontrás los trailers de nuevos agentes y mapas, los resúmenes de parches, highlights del VALORANT Champions Tour y todo el contenido de lore del universo de Valorant. Seguilo para no perderte ninguna novedad del juego.",
-    "contentType": ["competitive", "educational"],
-    "languages": ["en"],
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@valorant",
       "twitter": "VALORANT"
     },
     "latestVideos": [
       {
-        "id": "vid-valorant-oficial-1",
-        "title": "VALORANT Patch 10.03 Notes — New Map Changes",
-        "thumbnail": "https://i.ytimg.com/vi/mVB2p-R_Rys/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mVB2p-R_Rys",
+        "id": "vid-0thjU8uGeYU",
+        "title": "Defuse the Spike or take the site. This is Retake",
+        "thumbnail": "https://i.ytimg.com/vi/0thjU8uGeYU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0thjU8uGeYU",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-1nV-wUnIEas",
+        "title": "Establish the vibe. Match the energy with these BP skins.",
+        "thumbnail": "https://i.ytimg.com/vi/1nV-wUnIEas/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1nV-wUnIEas",
         "publishedAt": "2026-06-23"
       },
       {
-        "id": "vid-valorant-oficial-2",
-        "title": "VCT Masters 2026 — Best Plays Compilation",
-        "thumbnail": "https://i.ytimg.com/vi/PxdEVvMxsos/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PxdEVvMxsos",
-        "publishedAt": "2026-06-20"
+        "id": "vid-3bE7ttLnWi8",
+        "title": "Summit Gameplay Reveal Trailer - VALORANT",
+        "thumbnail": "https://i.ytimg.com/vi/3bE7ttLnWi8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3bE7ttLnWi8",
+        "publishedAt": "2026-06-23"
       },
       {
-        "id": "vid-valorant-oficial-3",
-        "title": "New Agent Reveal: Abilities & Release Date",
-        "thumbnail": "https://i.ytimg.com/vi/HQb9mhPQkBw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HQb9mhPQkBw",
-        "publishedAt": "2026-06-16"
+        "id": "vid-azlfHUtrG5g",
+        "title": "Dive into the void… This is Blackspyre",
+        "thumbnail": "https://i.ytimg.com/vi/azlfHUtrG5g/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=azlfHUtrG5g",
+        "publishedAt": "2026-06-23"
       },
       {
-        "id": "vid-valorant-oficial-4",
-        "title": "Episode 10 Act 3 Battle Pass Trailer",
-        "thumbnail": "https://i.ytimg.com/vi/FKjm0n6KTQ4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FKjm0n6KTQ4",
-        "publishedAt": "2026-06-13"
+        "id": "vid-wN_lh-k1ctg",
+        "title": "Your new COMPETITIVE map rotation with some matchmaking adjustments.",
+        "thumbnail": "https://i.ytimg.com/vi/wN_lh-k1ctg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wN_lh-k1ctg",
+        "publishedAt": "2026-06-23"
       },
       {
-        "id": "vid-valorant-oficial-5",
-        "title": "VALORANT Champions 2026 — Road to Istanbul",
-        "thumbnail": "https://i.ytimg.com/vi/yBqG_pJdlmA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yBqG_pJdlmA",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "id": "vid-valorant-oficial-6",
-        "title": "The Story of Valorant — 4 Years of Lore Explained",
-        "thumbnail": "https://i.ytimg.com/vi/J6KPGF9FKXM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=J6KPGF9FKXM",
-        "publishedAt": "2026-06-05"
+        "id": "vid-ahqFkWj4WcY",
+        "title": "Rejoice my fellow Sentinel and Initiator mains. The buffs are finally here.",
+        "thumbnail": "https://i.ytimg.com/vi/ahqFkWj4WcY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ahqFkWj4WcY",
+        "publishedAt": "2026-06-23"
       }
     ]
   },
   {
     "id": "spreen",
     "name": "Spreen",
-    "channelId": "UC9S0KfhLGef2n8fSHxJIGew",
+    "channelId": "UCgTOIiEgjm58xLjHvDjmgdA",
     "channelUrl": "https://www.youtube.com/@Spreen",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_lHHAZQRnv5NiU1DSSV0cFV_k8mkjWJsqV_eoWr=s800-c-k-c0x00ffffff-no-rj",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_l_qfAZ50hA3aZW2IEaYcsH3TBbh5CrW83u9oiOEcrQJIo=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "El streamer argentino que rompió todos los récords. Valorant, eventos y entretenimiento sin filtro.",
     "bioLong": "Lucas 'Spreen' Spreen es uno de los creadores de habla hispana más grandes del mundo. De Argentina para el mundo, Spreen es conocido por sus eventos masivos, sus streams de Valorant de alto nivel y su personalidad auténtica. Fue uno de los participantes del mítico 'Minecraft en el SMP' y ha colaborado con los streamers más grandes de habla hispana. Su sección de Valorant combina gameplay competitivo con humor y entretenimiento.",
-    "contentType": ["competitive", "casual"],
-    "languages": ["es"],
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "languages": [
+      "es"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@Spreen",
       "twitch": "spreen",
@@ -255,119 +278,108 @@
     },
     "latestVideos": [
       {
-        "id": "vid-valorant-spreen-1",
-        "title": "Llegué a RADIANTE y esto pasó...",
-        "thumbnail": "https://i.ytimg.com/vi/4zW9G3HQXQE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4zW9G3HQXQE",
+        "id": "vid-hm4iRiGg2mc",
+        "title": "Me escondo pintando",
+        "thumbnail": "https://i.ytimg.com/vi/hm4iRiGg2mc/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hm4iRiGg2mc",
         "publishedAt": "2026-06-22"
       },
       {
-        "id": "vid-valorant-spreen-2",
-        "title": "TORNEO de Valorant con los MEJORES streamers de habla hispana",
-        "thumbnail": "https://i.ytimg.com/vi/Ru1k8pqjEHc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ru1k8pqjEHc",
-        "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-valorant-spreen-3",
-        "title": "El mejor ACE de mi vida en ranked",
-        "thumbnail": "https://i.ytimg.com/vi/sYkfVN3AzCw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sYkfVN3AzCw",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-valorant-spreen-4",
-        "title": "Jugué con el PRO más famoso de Argentina",
-        "thumbnail": "https://i.ytimg.com/vi/KpH4TGFPZPE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KpH4TGFPZPE",
+        "id": "vid-ze6i2GnzqB0",
+        "title": "YouTube me mandó UN REGALO",
+        "thumbnail": "https://i.ytimg.com/vi/ze6i2GnzqB0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ze6i2GnzqB0",
         "publishedAt": "2026-06-10"
       },
       {
-        "id": "vid-valorant-spreen-5",
-        "title": "Mi CONFIGURACIÓN DEFINITIVA para Valorant 2026",
-        "thumbnail": "https://i.ytimg.com/vi/V8qfNmPT3K0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V8qfNmPT3K0",
-        "publishedAt": "2026-06-06"
+        "id": "vid-45b1_1p6I-8",
+        "title": "Adivino EL COLOR de los PERSONAJES 😎",
+        "thumbnail": "https://i.ytimg.com/vi/45b1_1p6I-8/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=45b1_1p6I-8",
+        "publishedAt": "2026-06-05"
       },
       {
-        "id": "vid-valorant-spreen-6",
-        "title": "REACTING a los MEJORES clipes de mis subs",
-        "thumbnail": "https://i.ytimg.com/vi/bBf3vHT8pXc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bBf3vHT8pXc",
-        "publishedAt": "2026-06-02"
+        "id": "vid-nOwhCQsAdAU",
+        "title": "Roblox pero todo es satisfactorio",
+        "thumbnail": "https://i.ytimg.com/vi/nOwhCQsAdAU/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nOwhCQsAdAU",
+        "publishedAt": "2026-06-01"
+      },
+      {
+        "id": "vid-sirjszqSmFo",
+        "title": "viendo edits que me hicieron 😎",
+        "thumbnail": "https://i.ytimg.com/vi/sirjszqSmFo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sirjszqSmFo",
+        "publishedAt": "2026-05-27"
+      },
+      {
+        "id": "vid-qkq98SC4WZI",
+        "title": "Hice MI PROPIO ALFAJOR 😎",
+        "thumbnail": "https://i.ytimg.com/vi/qkq98SC4WZI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qkq98SC4WZI",
+        "publishedAt": "2026-05-05"
       }
     ]
   },
   {
-    "id": "kotei",
-    "name": "Kotei",
-    "channelId": "UCkjfz7LnT8vimDe5HlMVFyA",
-    "channelUrl": "https://www.youtube.com/@KoteiNaci",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_lQYXjNb8xEJeT2KDcUK9GKQM4h3TYKoHwPsPb8=s800-c-k-c0x00ffffff-no-rj",
-    "bioShort": "Creador español de Valorant. Tips, guías y ranked de alto nivel en español.",
-    "bioLong": "Kotei es uno de los creadores de contenido de Valorant más respetados en español. Conocido por sus guías detalladas, análisis de la meta y contenido educativo orientado a jugadores que quieren subir de rango. Su estilo claro y didáctico lo convierte en un recurso esencial para la comunidad hispanohablante que quiere mejorar en Valorant.",
-    "contentType": ["competitive", "educational"],
-    "languages": ["es"],
+    "id": "ibai",
+    "name": "Ibai",
+    "channelId": "UCzExIqRGZ6EXRBJ_CYIC5LQ",
+    "channelUrl": "https://www.youtube.com/@ibai",
+    "avatar": "https://yt3.ggpht.com/ZA7FPB-Q5WEJdIBan_PBTxcTjMpTS4DGIBav-gBo3--FJew-AVMiWZGtf8T4QKNOy2tVm2-h=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "El streamer más visto en español. Valorant, eventos y entretenimiento masivo desde España.",
+    "bioLong": "Ibai Llanos es el creador de contenido en español más influyente de los últimos años. Con millones de seguidores en Twitch y YouTube, sus streams de Valorant combinan humor, competitividad y entretenimiento de primer nivel. Organizador de eventos históricos como La Velada del Año, es la cara más visible del entretenimiento gaming hispanohablante.",
+    "contentType": [
+      "competitive",
+      "casual"
+    ],
+    "languages": [
+      "es"
+    ],
     "socials": {
-      "youtube": "https://www.youtube.com/@KoteiNaci",
-      "twitch": "koteinaci",
-      "twitter": "KoteiNaci"
+      "youtube": "https://www.youtube.com/@ibai",
+      "twitch": "ibai",
+      "twitter": "IbaiLlanos"
     },
     "latestVideos": [
       {
-        "id": "vid-valorant-kotei-1",
-        "title": "La GUÍA DEFINITIVA de Jett en 2026 — De Plata a Diamante",
-        "thumbnail": "https://i.ytimg.com/vi/V3pLhQs5K4E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V3pLhQs5K4E",
-        "publishedAt": "2026-06-21"
+        "id": "vid-vCOskfRq8V4",
+        "title": "Loleando foerte",
+        "thumbnail": "https://i.ytimg.com/vi/vCOskfRq8V4/maxresdefault_live.jpg",
+        "url": "https://www.youtube.com/watch?v=vCOskfRq8V4",
+        "publishedAt": "2017-10-27"
       },
       {
-        "id": "vid-valorant-kotei-2",
-        "title": "TODOS los ERRORES que cometes en Valorant (y cómo evitarlos)",
-        "thumbnail": "https://i.ytimg.com/vi/WqmH4KX5Gzs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WqmH4KX5Gzs",
-        "publishedAt": "2026-06-17"
+        "id": "vid-Fyab0zAzpEI",
+        "title": "L  k  s   -   F  a  r  e  w  e  l  l     t  r  i  p",
+        "thumbnail": "https://i.ytimg.com/vi/Fyab0zAzpEI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fyab0zAzpEI",
+        "publishedAt": "2017-08-09"
       },
       {
-        "id": "vid-valorant-kotei-3",
-        "title": "Tier List de AGENTES — Parche 10.03 en Español",
-        "thumbnail": "https://i.ytimg.com/vi/RnKcT4mLQBw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RnKcT4mLQBw",
-        "publishedAt": "2026-06-13"
-      },
-      {
-        "id": "vid-valorant-kotei-4",
-        "title": "Los 5 HÁBITOS que te mantienen en ELO BAJO",
-        "thumbnail": "https://i.ytimg.com/vi/GmPzLcDw4Q8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GmPzLcDw4Q8",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "id": "vid-valorant-kotei-5",
-        "title": "Cómo USAR el UTIL correctamente en cada mapa",
-        "thumbnail": "https://i.ytimg.com/vi/JX4rN8KHPQE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JX4rN8KHPQE",
-        "publishedAt": "2026-06-05"
-      },
-      {
-        "id": "vid-valorant-kotei-6",
-        "title": "Subí 3 rangos en 2 semanas — Esto hice diferente",
-        "thumbnail": "https://i.ytimg.com/vi/BpJ3hGcTFmA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BpJ3hGcTFmA",
-        "publishedAt": "2026-06-01"
+        "id": "vid-lXqjDVX5Fqw",
+        "title": "Corregir menú sin letras Philips Modelo 22pfl3606",
+        "thumbnail": "https://i.ytimg.com/vi/lXqjDVX5Fqw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lXqjDVX5Fqw",
+        "publishedAt": "2014-12-03"
       }
     ]
   },
   {
     "id": "averagjJonas",
     "name": "AverageJonas",
-    "channelId": "UCBlDMLCVG_DlFr6xF_A5IEA",
+    "channelId": "UCg7fw-hJTvJBie_2T6l1dGg",
     "channelUrl": "https://www.youtube.com/@AverageJonas",
-    "avatar": "https://yt3.ggpht.com/ytc/AIdro_naXY9H3qNjVM3DkNtFzaI2eG2GJRJb8JgLsw_K=s800-c-k-c0x00ffffff-no-rj",
+    "avatar": "https://yt3.ggpht.com/xaUgb7GNDmupJfudhPxM5c5PMnWFModZtZunfEMGQD3VRYWu0EMD3QyOKgAtsYtK1NY0biZlZw=s800-c-k-c0x00ffffff-no-rj",
     "bioShort": "El maestro de los Controllers. Guías profundas de Omen, Astra y Brimstone para subir elo.",
     "bioLong": "AverageJonas es el referente número uno para jugadores de Controllers en Valorant. Sus guías ultra-detalladas de smokes, lineups y posicionamiento son las más completas de YouTube en inglés. Si querés dominar Omen, Astra o Brimstone y entender el juego desde el rol de soporte-control, su canal es obligatorio.",
-    "contentType": ["educational", "competitive"],
-    "languages": ["en"],
+    "contentType": [
+      "educational",
+      "competitive"
+    ],
+    "languages": [
+      "en"
+    ],
     "socials": {
       "youtube": "https://www.youtube.com/@AverageJonas",
       "twitch": "averagejonas",
@@ -375,46 +387,46 @@
     },
     "latestVideos": [
       {
-        "id": "vid-valorant-jonas-1",
-        "title": "The COMPLETE Omen Guide for 2026 — Every Smoke Lineup",
-        "thumbnail": "https://i.ytimg.com/vi/4QzK9GhXs7E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4QzK9GhXs7E",
+        "id": "vid-yh-TwzWVUnw",
+        "title": "Escape Artist",
+        "thumbnail": "https://i.ytimg.com/vi/yh-TwzWVUnw/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yh-TwzWVUnw",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-0Q3g3-ZuTCg",
+        "title": "Bebop ult does INSANE damage",
+        "thumbnail": "https://i.ytimg.com/vi/0Q3g3-ZuTCg/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0Q3g3-ZuTCg",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-G0WZfCGicgY",
+        "title": "Deep Extraction",
+        "thumbnail": "https://i.ytimg.com/vi/G0WZfCGicgY/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G0WZfCGicgY",
         "publishedAt": "2026-06-20"
       },
       {
-        "id": "vid-valorant-jonas-2",
-        "title": "Controllers TIER LIST — Who's Actually Worth Playing?",
-        "thumbnail": "https://i.ytimg.com/vi/5NpHBzQTxCw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5NpHBzQTxCw",
-        "publishedAt": "2026-06-16"
+        "id": "vid-jSxApyTklEI",
+        "title": "INSANE wombo combo urn fight",
+        "thumbnail": "https://i.ytimg.com/vi/jSxApyTklEI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jSxApyTklEI",
+        "publishedAt": "2026-06-19"
       },
       {
-        "id": "vid-valorant-jonas-3",
-        "title": "How to WIN with Brimstone on EVERY Map",
-        "thumbnail": "https://i.ytimg.com/vi/Kq8rJxmNV4s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Kq8rJxmNV4s",
-        "publishedAt": "2026-06-12"
+        "id": "vid-5wnOlSrPYDM",
+        "title": "Evil Jonas awakened",
+        "thumbnail": "https://i.ytimg.com/vi/5wnOlSrPYDM/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5wnOlSrPYDM",
+        "publishedAt": "2026-06-18"
       },
       {
-        "id": "vid-valorant-jonas-4",
-        "title": "Stop Playing Smokes WRONG — The Real Guide",
-        "thumbnail": "https://i.ytimg.com/vi/TqL9bHfXkVo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TqL9bHfXkVo",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "id": "vid-valorant-jonas-5",
-        "title": "Astra Remastered: The Agent Nobody Talks About",
-        "thumbnail": "https://i.ytimg.com/vi/ZGxPv4F8bNA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZGxPv4F8bNA",
-        "publishedAt": "2026-06-04"
-      },
-      {
-        "id": "vid-valorant-jonas-6",
-        "title": "Ranked Tips for Controllers That ACTUALLY Work",
-        "thumbnail": "https://i.ytimg.com/vi/Gq7VpJHrK5M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gq7VpJHrK5M",
-        "publishedAt": "2026-05-31"
+        "id": "vid-MLMbHmN9BR0",
+        "title": "Juicy bomb",
+        "thumbnail": "https://i.ytimg.com/vi/MLMbHmN9BR0/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MLMbHmN9BR0",
+        "publishedAt": "2026-06-17"
       }
     ]
   }
