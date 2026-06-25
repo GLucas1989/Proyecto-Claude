@@ -157,5 +157,35 @@
       "class",
       "language"
     ]
+  },
+  {
+    "id": "valorant",
+    "name": "Valorant",
+    "slug": "valorant",
+    "description": "El tactical shooter de Riot Games. Agentes con habilidades únicas, aim preciso y estrategia en cada ronda.",
+    "coverImage": "/images/games/valorant.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "🎯",
+    "logoUrl": "/images/games/valorant.svg",
+    "filters": [
+      "contentType",
+      "language"
+    ]
+  },
+  {
+    "id": "sim-racing",
+    "name": "Sim Racing",
+    "slug": "sim-racing",
+    "description": "iRacing, Assetto Corsa, F1 y más. La comunidad del automovilismo virtual más apasionada del mundo.",
+    "coverImage": "/images/games/sim-racing.jpg",
+    "active": true,
+    "comingSoon": false,
+    "emoji": "🏎️",
+    "logoUrl": "/images/games/sim-racing.svg",
+    "filters": [
+      "contentType",
+      "language"
+    ]
   }
 ]

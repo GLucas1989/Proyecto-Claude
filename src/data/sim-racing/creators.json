@@ -1,0 +1,360 @@
+[
+  {
+    "id": "jimmy-broadbent",
+    "name": "Jimmy Broadbent",
+    "channelId": "UCHn8DRNq5EKuUZJiexAf3KA",
+    "channelUrl": "https://www.youtube.com/@JimmyBroadbent",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_k2v4TqAsmJqEaBLMp6YHgcFJE0F0LNFaYCFt1h=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "El rey del sim racing en YouTube. Reseñas de hardware, builds de cockpit y endurances épicas.",
+    "bioLong": "Jimmy Broadbent es la voz más reconocida del sim racing en todo el mundo. Conocido por sus endurance races de 24 horas, sus builds de simuladores caseros y sus reseñas detalladas de volantes y periféricos, Jimmy lleva más de una década cubriendo todo el espectro del sim racing. Su contenido va desde recomendaciones para principiantes hasta configuraciones de nivel profesional. Imprescindible para cualquier simracer.",
+    "contentType": ["casual", "educational"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@JimmyBroadbent",
+      "twitch": "jimmy_broadbent",
+      "twitter": "Jimmy_Broadbent"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-simracing-jimmy-1",
+        "title": "I Built The ULTIMATE Sim Racing Rig for Under £2000",
+        "thumbnail": "https://i.ytimg.com/vi/6Nq8vVmRkKE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6Nq8vVmRkKE",
+        "publishedAt": "2026-06-23"
+      },
+      {
+        "id": "vid-simracing-jimmy-2",
+        "title": "24 Hours of Le Mans in iRacing — Full Endurance Race",
+        "thumbnail": "https://i.ytimg.com/vi/HmRqT7vgXnA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HmRqT7vgXnA",
+        "publishedAt": "2026-06-19"
+      },
+      {
+        "id": "vid-simracing-jimmy-3",
+        "title": "The BEST Sim Racing Wheel Under £500 (2026 Guide)",
+        "thumbnail": "https://i.ytimg.com/vi/pKv3GsFJmJo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pKv3GsFJmJo",
+        "publishedAt": "2026-06-15"
+      },
+      {
+        "id": "vid-simracing-jimmy-4",
+        "title": "Testing the NEW Fanatec GT DD Pro — Honest Review",
+        "thumbnail": "https://i.ytimg.com/vi/xTr2Qm8BkYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xTr2Qm8BkYc",
+        "publishedAt": "2026-06-11"
+      },
+      {
+        "id": "vid-simracing-jimmy-5",
+        "title": "Assetto Corsa Evo vs ACC — Which Feels More Real?",
+        "thumbnail": "https://i.ytimg.com/vi/WBnYpXKqvsE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WBnYpXKqvsE",
+        "publishedAt": "2026-06-07"
+      },
+      {
+        "id": "vid-simracing-jimmy-6",
+        "title": "I Drove a REAL Race Car After 5 Years of Sim Racing",
+        "thumbnail": "https://i.ytimg.com/vi/LkP9zFNmQ3g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LkP9zFNmQ3g",
+        "publishedAt": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "jardier",
+    "name": "Jardier",
+    "channelId": "UCdSXJkHPRkNMkFmSbHxCcWA",
+    "channelUrl": "https://www.youtube.com/@Jardier",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_k0BbJKW8ioJi1XPvR5NYEKZqYJbhF9k9hSu6Gc=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Setup tips, FFB guides y mejoras de rendimiento para todos los niveles. El recurso educativo del sim racing.",
+    "bioLong": "Jardier es el canal de referencia para mejorar tu rendimiento en sim racing. Sus guías de FFB (Force Feedback), configuración de autos y técnica de conducción son de las más detalladas y bien producidas de YouTube. Si querés pasar de dar vueltas a realmente entender cómo sacar el máximo tiempo de vuelta, Jardier es tu canal. Cubre iRacing, Assetto Corsa, ACC y más.",
+    "contentType": ["educational", "competitive"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@Jardier",
+      "twitch": "jardier",
+      "twitter": "Jardier"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-simracing-jardier-1",
+        "title": "The FFB Settings That Changed My Lap Times FOREVER",
+        "thumbnail": "https://i.ytimg.com/vi/3N7KhBqYvCE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3N7KhBqYvCE",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-simracing-jardier-2",
+        "title": "iRacing Setup Guide for ABSOLUTE Beginners (2026)",
+        "thumbnail": "https://i.ytimg.com/vi/F8nYwP5GqKs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F8nYwP5GqKs",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-simracing-jardier-3",
+        "title": "How to Find the LIMIT Without Crashing Every Lap",
+        "thumbnail": "https://i.ytimg.com/vi/7QsTBmXzRPc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7QsTBmXzRPc",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-simracing-jardier-4",
+        "title": "Assetto Corsa Evo — Everything You Need to Know",
+        "thumbnail": "https://i.ytimg.com/vi/NpKz4vfLBsE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NpKz4vfLBsE",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-simracing-jardier-5",
+        "title": "The Car Setup SECRET No One Tells You",
+        "thumbnail": "https://i.ytimg.com/vi/QmBpVH4ZnKo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QmBpVH4ZnKo",
+        "publishedAt": "2026-06-06"
+      },
+      {
+        "id": "vid-simracing-jardier-6",
+        "title": "Direct Drive Wheels — Are They Worth It?",
+        "thumbnail": "https://i.ytimg.com/vi/RvHxGqPcTMs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RvHxGqPcTMs",
+        "publishedAt": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "driver61",
+    "name": "Driver61",
+    "channelId": "UCdSJjAV2bnMsRfXc1EYIxPg",
+    "channelUrl": "https://www.youtube.com/@Driver61",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_kfRqKHsLHdFnvLpGb9G8HCT1xKG3vBMqJgqCUs=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Técnica de conducción explicada por un piloto real. El canal que conecta el sim racing con la pista real.",
+    "bioLong": "Driver61, conducido por Scott Mansell, es el puente entre el sim racing y el motorsport real. Scott es un piloto de carrera profesional que explica técnicas de conducción de forma científica y accesible. Su canal cubre desde cómo trazar correctamente una curva hasta análisis de datos de telemetría. Ideal para cualquier simracer que quiera entender el 'por qué' detrás de cada décima de segundo.",
+    "contentType": ["educational"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@Driver61",
+      "twitter": "Driver61Scott"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-simracing-d61-1",
+        "title": "Why You're SLOW at Every Track (And How to Fix It)",
+        "thumbnail": "https://i.ytimg.com/vi/T8QnR4kJrBE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T8QnR4kJrBE",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-simracing-d61-2",
+        "title": "The Science of Trail Braking — Full Explanation",
+        "thumbnail": "https://i.ytimg.com/vi/2bZHzJKnhKs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2bZHzJKnhKs",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-simracing-d61-3",
+        "title": "How to Read Telemetry Data to Find Lap Time",
+        "thumbnail": "https://i.ytimg.com/vi/4pVQB8FKZNE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4pVQB8FKZNE",
+        "publishedAt": "2026-06-13"
+      },
+      {
+        "id": "vid-simracing-d61-4",
+        "title": "Real Driver vs Sim Racer — Who's Faster on Spa?",
+        "thumbnail": "https://i.ytimg.com/vi/JVcBhQ3FKmg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JVcBhQ3FKmg",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "id": "vid-simracing-d61-5",
+        "title": "Nürburgring Full Lap Guide — Every Corner Explained",
+        "thumbnail": "https://i.ytimg.com/vi/5mNBPKpq8Cc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5mNBPKpq8Cc",
+        "publishedAt": "2026-06-05"
+      },
+      {
+        "id": "vid-simracing-d61-6",
+        "title": "Does Sim Racing Make You a Better Real Driver?",
+        "thumbnail": "https://i.ytimg.com/vi/GK7qM8pHKxs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GK7qM8pHKxs",
+        "publishedAt": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "id": "tiametmarduk",
+    "name": "Tiametmarduk",
+    "channelId": "UCrb8EMWNiEjfPMFqJTWwf2g",
+    "channelUrl": "https://www.youtube.com/@Tiametmarduk",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_mZG_tHbz8HqHynHCOX4X2FLvRKTQ4wR_U7BrJt=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Fórmula 1 y sim racing. El canal que cubre la F1 con el mayor detalle del ecosistema.",
+    "bioLong": "Benjamin 'Tiametmarduk' Daly es la referencia del sim racing orientado a la Fórmula 1. Su canal cubre el juego oficial de F1, iRacing con coches de monoplaza y el seguimiento del calendario real de la F1. Con más de una década de experiencia y millones de suscriptores, es uno de los creadores más veteranos y respetados del género. Indispensable para fans del motorsport y del sim racing de monoplazas.",
+    "contentType": ["competitive", "casual"],
+    "languages": ["en"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@Tiametmarduk",
+      "twitch": "tiametmarduk",
+      "twitter": "Tiametmarduk"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-simracing-tia-1",
+        "title": "F1 2026 Game — First Look and Career Mode Deep Dive",
+        "thumbnail": "https://i.ytimg.com/vi/xKNq8pT5Wms/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xKNq8pT5Wms",
+        "publishedAt": "2026-06-24"
+      },
+      {
+        "id": "vid-simracing-tia-2",
+        "title": "Monaco GP Lap in the F1 25 — Closest to Reality?",
+        "thumbnail": "https://i.ytimg.com/vi/PmZvYKqR3Jo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PmZvYKqR3Jo",
+        "publishedAt": "2026-06-20"
+      },
+      {
+        "id": "vid-simracing-tia-3",
+        "title": "iRacing F1 League Season 2026 — Race Highlights",
+        "thumbnail": "https://i.ytimg.com/vi/NtKz4R8FhGs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NtKz4R8FhGs",
+        "publishedAt": "2026-06-16"
+      },
+      {
+        "id": "vid-simracing-tia-4",
+        "title": "Real F1 Driver Tests Our Sim Setup — They're Shocked",
+        "thumbnail": "https://i.ytimg.com/vi/KBpQmzXrFsE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KBpQmzXrFsE",
+        "publishedAt": "2026-06-12"
+      },
+      {
+        "id": "vid-simracing-tia-5",
+        "title": "The Most DIFFICULT Track in Sim Racing — Nordschleife Guide",
+        "thumbnail": "https://i.ytimg.com/vi/6XfBjGqRnKo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6XfBjGqRnKo",
+        "publishedAt": "2026-06-08"
+      },
+      {
+        "id": "vid-simracing-tia-6",
+        "title": "2026 F1 Season Mid-Year Review — Who's Actually Winning?",
+        "thumbnail": "https://i.ytimg.com/vi/7VcGkHqBMzP/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7VcGkHqBMzP",
+        "publishedAt": "2026-06-04"
+      }
+    ]
+  },
+  {
+    "id": "elguerrero",
+    "name": "El Guerrero del Asfalto",
+    "channelId": "UCgCm_FNn2WZkNqb9dz9RdTg",
+    "channelUrl": "https://www.youtube.com/@ElGuerreroDelAsfalto",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_nVNTKhPrqmNvBp3mBQLcf8YQtF9NvP3kLY3YRo=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "El canal de sim racing en español. Reseñas de hardware, guías y sesiones de iRacing y ACC.",
+    "bioLong": "El Guerrero del Asfalto es el canal de referencia del sim racing en español. Cubre todo lo que necesitás saber: desde los mejores volantes para empezar, configuraciones de cockpit, guías de los circuitos más técnicos, hasta sesiones de iRacing y Assetto Corsa Competizione. Su contenido está pensado para la comunidad hispanohablante que quiere entrar o mejorar en el mundo del sim racing.",
+    "contentType": ["educational", "casual"],
+    "languages": ["es"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@ElGuerreroDelAsfalto",
+      "twitch": "elguerrerodelasfalto",
+      "twitter": "GuerreroAsfalto"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-simracing-guerrero-1",
+        "title": "El MEJOR volante de entrada para sim racing en 2026",
+        "thumbnail": "https://i.ytimg.com/vi/3Kp8zXvQmBE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3Kp8zXvQmBE",
+        "publishedAt": "2026-06-22"
+      },
+      {
+        "id": "vid-simracing-guerrero-2",
+        "title": "GUÍA completa de iRacing para principiantes en ESPAÑOL",
+        "thumbnail": "https://i.ytimg.com/vi/Rq7BnKG5TvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rq7BnKG5TvE",
+        "publishedAt": "2026-06-18"
+      },
+      {
+        "id": "vid-simracing-guerrero-3",
+        "title": "Configuré un COCKPIT completo por menos de $500 USD",
+        "thumbnail": "https://i.ytimg.com/vi/KpL4NxFmY2c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KpL4NxFmY2c",
+        "publishedAt": "2026-06-14"
+      },
+      {
+        "id": "vid-simracing-guerrero-4",
+        "title": "Assetto Corsa Evo — ¿Vale la pena comprarlo?",
+        "thumbnail": "https://i.ytimg.com/vi/VmNzR8KpJqA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VmNzR8KpJqA",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-simracing-guerrero-5",
+        "title": "Los MEJORES mods de Assetto Corsa para 2026",
+        "thumbnail": "https://i.ytimg.com/vi/BzP7wKqRmXs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BzP7wKqRmXs",
+        "publishedAt": "2026-06-06"
+      },
+      {
+        "id": "vid-simracing-guerrero-6",
+        "title": "Probé el Thrustmaster T-GT II — Review honesta",
+        "thumbnail": "https://i.ytimg.com/vi/NqJ5VGcBpTs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NqJ5VGcBpTs",
+        "publishedAt": "2026-06-02"
+      }
+    ]
+  },
+  {
+    "id": "simracingcorner",
+    "name": "Sim Racing Corner",
+    "channelId": "UCpLRhqRhh1gRqCvxmIjzENQ",
+    "channelUrl": "https://www.youtube.com/@SimRacingCorner",
+    "avatar": "https://yt3.ggpht.com/ytc/AIdro_nS8Kb9EkH3cFNpVwMqzXjR4LqQTBzL5HYoZkTA=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Noticias, comparativas y guías en español. El hub de la comunidad sim racing latinoamericana.",
+    "bioLong": "Sim Racing Corner es el canal en español que cubre las novedades del mundo del sim racing: nuevos juegos, hardware, campeonatos y tutoriales. Su enfoque está en hacer accesible el sim racing para la comunidad latina, con comparativas honestas y guías paso a paso para armar tu primer setup o mejorar el que ya tenés. Comunidad activa y contenido constante.",
+    "contentType": ["educational", "casual"],
+    "languages": ["es"],
+    "socials": {
+      "youtube": "https://www.youtube.com/@SimRacingCorner",
+      "twitter": "SimRacingCorner"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-simracing-corner-1",
+        "title": "TOP 5 juegos de sim racing para empezar en 2026",
+        "thumbnail": "https://i.ytimg.com/vi/4VmGqBpHnKs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4VmGqBpHnKs",
+        "publishedAt": "2026-06-21"
+      },
+      {
+        "id": "vid-simracing-corner-2",
+        "title": "Fanatec vs Thrustmaster: ¿Cuál comprar en Latinoamérica?",
+        "thumbnail": "https://i.ytimg.com/vi/GnPzRmKvCQE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GnPzRmKvCQE",
+        "publishedAt": "2026-06-17"
+      },
+      {
+        "id": "vid-simracing-corner-3",
+        "title": "Cómo mejorar tus tiempos en ACC — Guía completa",
+        "thumbnail": "https://i.ytimg.com/vi/RmKpJzXqBsE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RmKpJzXqBsE",
+        "publishedAt": "2026-06-13"
+      },
+      {
+        "id": "vid-simracing-corner-4",
+        "title": "El NUEVO Le Mans Ultimate — ¿El mejor juego de endurance?",
+        "thumbnail": "https://i.ytimg.com/vi/5NqBpWKzMvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5NqBpWKzMvE",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "id": "vid-simracing-corner-5",
+        "title": "Setup mínimo para entrar al sim racing serio",
+        "thumbnail": "https://i.ytimg.com/vi/BqK7WnRpGmE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BqK7WnRpGmE",
+        "publishedAt": "2026-06-05"
+      },
+      {
+        "id": "vid-simracing-corner-6",
+        "title": "Gran Turismo 7 vs iRacing — La comparativa definitiva",
+        "thumbnail": "https://i.ytimg.com/vi/NzP3VcQmBsK/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NzP3VcQmBsK",
+        "publishedAt": "2026-06-01"
+      }
+    ]
+  }
+]
