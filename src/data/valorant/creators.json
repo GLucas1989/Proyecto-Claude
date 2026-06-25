@@ -322,50 +322,6 @@
     ]
   },
   {
-    "id": "ibai",
-    "name": "Ibai",
-    "channelId": "UCzExIqRGZ6EXRBJ_CYIC5LQ",
-    "channelUrl": "https://www.youtube.com/@ibai",
-    "avatar": "https://yt3.ggpht.com/ZA7FPB-Q5WEJdIBan_PBTxcTjMpTS4DGIBav-gBo3--FJew-AVMiWZGtf8T4QKNOy2tVm2-h=s800-c-k-c0x00ffffff-no-rj",
-    "bioShort": "El streamer más visto en español. Valorant, eventos y entretenimiento masivo desde España.",
-    "bioLong": "Ibai Llanos es el creador de contenido en español más influyente de los últimos años. Con millones de seguidores en Twitch y YouTube, sus streams de Valorant combinan humor, competitividad y entretenimiento de primer nivel. Organizador de eventos históricos como La Velada del Año, es la cara más visible del entretenimiento gaming hispanohablante.",
-    "contentType": [
-      "competitive",
-      "casual"
-    ],
-    "languages": [
-      "es"
-    ],
-    "socials": {
-      "youtube": "https://www.youtube.com/@ibai",
-      "twitch": "ibai",
-      "twitter": "IbaiLlanos"
-    },
-    "latestVideos": [
-      {
-        "id": "vid-vCOskfRq8V4",
-        "title": "Loleando foerte",
-        "thumbnail": "https://i.ytimg.com/vi/vCOskfRq8V4/maxresdefault_live.jpg",
-        "url": "https://www.youtube.com/watch?v=vCOskfRq8V4",
-        "publishedAt": "2017-10-27"
-      },
-      {
-        "id": "vid-Fyab0zAzpEI",
-        "title": "L  k  s   -   F  a  r  e  w  e  l  l     t  r  i  p",
-        "thumbnail": "https://i.ytimg.com/vi/Fyab0zAzpEI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Fyab0zAzpEI",
-        "publishedAt": "2017-08-09"
-      },
-      {
-        "id": "vid-lXqjDVX5Fqw",
-        "title": "Corregir menú sin letras Philips Modelo 22pfl3606",
-        "thumbnail": "https://i.ytimg.com/vi/lXqjDVX5Fqw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lXqjDVX5Fqw",
-        "publishedAt": "2014-12-03"
-      }
-    ]
-  },
-  {
     "id": "averagjJonas",
     "name": "AverageJonas",
     "channelId": "UCg7fw-hJTvJBie_2T6l1dGg",
@@ -427,6 +383,71 @@
         "thumbnail": "https://i.ytimg.com/vi/MLMbHmN9BR0/maxresdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MLMbHmN9BR0",
         "publishedAt": "2026-06-17"
+      }
+    ]
+  },
+  {
+    "id": "bren-valorant",
+    "name": "Bren VALORANT",
+    "channelId": "UCDgBfCqbkawxJgd2EakJ7FQ",
+    "channelUrl": "https://www.youtube.com/@brenValorant",
+    "avatar": "https://yt3.ggpht.com/SoO_cqpA9M_jXFgAJ4nxHB73Z5NmIEj_NWF0KRLOD9mOru1vrNk7gJ5zJI_c0TAzMa4ysu7f1Q=s800-c-k-c0x00ffffff-no-rj",
+    "bioShort": "Jugador competitivo español de Valorant. Ranked de alto nivel, análisis y guías en español.",
+    "bioLong": "Bren es uno de los creadores de contenido de Valorant más activos en español. Combina sesiones de ranked de alto nivel con guías detalladas de agentes y análisis tácticos. Su contenido está orientado a jugadores que quieren mejorar seriamente en Valorant desde una perspectiva hispanohablante.",
+    "contentType": [
+      "competitive",
+      "educational"
+    ],
+    "languages": [
+      "es"
+    ],
+    "socials": {
+      "youtube": "https://www.youtube.com/@brenValorant",
+      "twitch": "bren",
+      "twitter": "brenValorant"
+    },
+    "latestVideos": [
+      {
+        "id": "vid-Rn63sUGAc2w",
+        "title": "MASTERS LONDON DAY 5 | FUT vs NRG, GE vs XLG #VCTWatchParty",
+        "thumbnail": "https://i.ytimg.com/vi/Rn63sUGAc2w/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rn63sUGAc2w",
+        "publishedAt": "2026-06-10"
+      },
+      {
+        "id": "vid-aTEqyDwhwes",
+        "title": "MASTERS LONDON DAY 4 | DRG vs XLG, GE vs FS #VCTWatchParty",
+        "thumbnail": "https://i.ytimg.com/vi/aTEqyDwhwes/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aTEqyDwhwes",
+        "publishedAt": "2026-06-09"
+      },
+      {
+        "id": "vid-UO0XKqMAMTA",
+        "title": "MASTERS LONDON DAY 3 | VIT vs FUT, NRG vs LEV #VCTWatchParty",
+        "thumbnail": "https://i.ytimg.com/vi/UO0XKqMAMTA/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UO0XKqMAMTA",
+        "publishedAt": "2026-06-08"
+      },
+      {
+        "id": "vid-icUHOW7aMgo",
+        "title": "MASTERS LONDON DAY 2 | FS vs FUT, LEV vs GE #VCTWatchParty",
+        "thumbnail": "https://i.ytimg.com/vi/icUHOW7aMgo/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=icUHOW7aMgo",
+        "publishedAt": "2026-06-07"
+      },
+      {
+        "id": "vid-NKRBH4JyJZs",
+        "title": "MASTERS LONDON DAY 1 | XLG vs NRG, VIT vs DRG #VCTWatchParty",
+        "thumbnail": "https://i.ytimg.com/vi/NKRBH4JyJZs/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NKRBH4JyJZs",
+        "publishedAt": "2026-06-06"
+      },
+      {
+        "id": "vid-M3P3mVs4meI",
+        "title": "ANTI-STRATTING FULL SENSE VOD REVIEWS!",
+        "thumbnail": "https://i.ytimg.com/vi/M3P3mVs4meI/maxresdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=M3P3mVs4meI",
+        "publishedAt": "2026-06-05"
       }
     ]
   }
