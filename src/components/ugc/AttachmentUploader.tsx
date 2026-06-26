@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useCallback, useRef } from "react";
-import { Upload, FileText, FileSpreadsheet, X, Loader2 } from "lucide-react";
+import { Upload, FileText, FileSpreadsheet, FileAudio, X, Loader2 } from "lucide-react";
 
 interface AttachmentUploaderProps {
   gameSlug: string;
@@ -12,13 +12,19 @@ interface AttachmentUploaderProps {
 const ALLOWED_MIME = [
   "application/pdf",
   "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  // Audio-guías
+  "audio/mpeg",
+  "audio/mp4",
+  "audio/wav",
+  "audio/ogg",
+  "audio/webm",
 ];
-const MAX_MB = 25;
+const MAX_MB = 50;
 
 function FileIcon({ name }: { name: string }) {
-  return name.endsWith(".pdf")
-    ? <FileText className="h-4 w-4 text-red-400 shrink-0" />
-    : <FileSpreadsheet className="h-4 w-4 text-orange-400 shrink-0" />;
+  if (name.endsWith(".pdf")) return <FileText className="h-4 w-4 text-red-400 shrink-0" />;
+  if (/\.(mp3|m4a|wav|ogg|weba)$/i.test(name)) return <FileAudio className="h-4 w-4 text-violet-400 shrink-0" />;
+  return <FileSpreadsheet className="h-4 w-4 text-orange-400 shrink-0" />;
 }
 
 export function AttachmentUploader({ gameSlug, value, onChange }: AttachmentUploaderProps) {
@@ -29,7 +35,7 @@ export function AttachmentUploader({ gameSlug, value, onChange }: AttachmentUplo
 
   const uploadFile = useCallback(async (file: File) => {
     if (!ALLOWED_MIME.includes(file.type)) {
-      setError("Solo se permiten archivos PDF o PPTX.");
+      setError("Solo se permiten archivos PDF, PPTX o audio (MP3/M4A/WAV/OGG).");
       return;
     }
     if (file.size > MAX_MB * 1024 * 1024) {
@@ -62,7 +68,7 @@ export function AttachmentUploader({ gameSlug, value, onChange }: AttachmentUplo
       <div className="flex items-center gap-2 px-4 py-2.5 border-b border-white/8 bg-black/20">
         <Upload className="h-3.5 w-3.5 text-white/25" />
         <span className="text-xs font-mono text-white/30">
-          {"// adjuntos › PDF · PPTX · máx 25 MB por archivo"}
+          {"// adjuntos › PDF · PPTX · audio · máx 50 MB por archivo"}
         </span>
       </div>
 
@@ -94,7 +100,7 @@ export function AttachmentUploader({ gameSlug, value, onChange }: AttachmentUplo
           <input
             ref={inputRef}
             type="file"
-            accept=".pdf,.pptx"
+            accept=".pdf,.pptx,.mp3,.m4a,.wav,.ogg,.weba,audio/*"
             className="sr-only"
             onChange={(e) => { if (e.target.files?.[0]) uploadFile(e.target.files[0]); }}
           />

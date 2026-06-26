@@ -2,14 +2,17 @@
 
 import { useState } from "react";
 import { FileText, Download, ExternalLink, ZoomIn, ZoomOut } from "lucide-react";
+import { WatermarkOverlay } from "@/components/security/WatermarkOverlay";
 
 interface PDFViewerProps {
   url: string;
   title: string;
   fileName?: string;
+  /** Email del comprador: activa la marca de agua anti-piratería */
+  viewerEmail?: string;
 }
 
-export function PDFViewer({ url, title, fileName }: PDFViewerProps) {
+export function PDFViewer({ url, title, fileName, viewerEmail }: PDFViewerProps) {
   const [zoom, setZoom] = useState(100);
 
   const downloadName = fileName ?? `${title.replace(/\s+/g, "-").toLowerCase()}.pdf`;
@@ -59,7 +62,8 @@ export function PDFViewer({ url, title, fileName }: PDFViewerProps) {
       </div>
 
       {/* PDF iframe embed */}
-      <div className="w-full overflow-auto bg-[#0a0a0f]">
+      <div className="relative w-full overflow-auto bg-[#0a0a0f]">
+        {viewerEmail && <WatermarkOverlay email={viewerEmail} />}
         <iframe
           src={`${url}#toolbar=0&navpanes=0&scrollbar=0&zoom=${zoom}`}
           title={title}
