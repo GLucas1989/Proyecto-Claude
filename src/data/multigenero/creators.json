@@ -119,74 +119,74 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-X5oHpsXbE98",
+        "title": "El mejor jugador de MECCHA CHAMELEON",
+        "thumbnail": "https://i1.ytimg.com/vi/X5oHpsXbE98/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=X5oHpsXbE98",
+        "publishedAt": "2026-06-26"
+      },
+      {
+        "id": "vid-Wy71QpNM2NU",
+        "title": "ME ENFRENTÉ A LOS MEJORES JUGADORES DE MECCHA CHAMELEON",
+        "thumbnail": "https://i4.ytimg.com/vi/Wy71QpNM2NU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Wy71QpNM2NU",
+        "publishedAt": "2026-06-25"
+      },
+      {
+        "id": "vid-20nuSTwrD4Y",
+        "title": "El precio de GTA 6 😭",
+        "thumbnail": "https://i3.ytimg.com/vi/20nuSTwrD4Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=20nuSTwrD4Y",
+        "publishedAt": "2026-06-25"
+      },
+      {
+        "id": "vid-jwvBtEinOvE",
+        "title": "Xokas…? 🤨",
+        "thumbnail": "https://i3.ytimg.com/vi/jwvBtEinOvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jwvBtEinOvE",
+        "publishedAt": "2026-06-24"
+      },
+      {
         "id": "vid-PLQm-9hizmI",
         "title": "EL MEJOR CHEF DEL MUNDO COCINA PARA XOKAS Y GREFG",
-        "thumbnail": "https://i.ytimg.com/vi/PLQm-9hizmI/maxresdefault.jpg",
+        "thumbnail": "https://i1.ytimg.com/vi/PLQm-9hizmI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PLQm-9hizmI",
         "publishedAt": "2026-06-22"
       },
       {
         "id": "vid-nZBFkrG0xC8",
         "title": "Quién lo hace mejor?",
-        "thumbnail": "https://i.ytimg.com/vi/nZBFkrG0xC8/maxresdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/nZBFkrG0xC8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nZBFkrG0xC8",
         "publishedAt": "2026-06-17"
       },
       {
         "id": "vid-oPh37K00rJg",
         "title": "¿Quién pega más fuerte?",
-        "thumbnail": "https://i.ytimg.com/vi/oPh37K00rJg/maxresdefault.jpg",
+        "thumbnail": "https://i4.ytimg.com/vi/oPh37K00rJg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oPh37K00rJg",
         "publishedAt": "2026-06-16"
       },
       {
         "id": "vid-BlFwXmue8tI",
         "title": "Mi reacción al combate de Ilia Topuria Vs Justin Gaethje",
-        "thumbnail": "https://i.ytimg.com/vi/BlFwXmue8tI/maxresdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/BlFwXmue8tI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BlFwXmue8tI",
         "publishedAt": "2026-06-15"
       },
       {
         "id": "vid-URCFTAXdkgY",
         "title": "Entrenando con Marta, Fabiana y Roro para la Velada - TheGrefg",
-        "thumbnail": "https://i.ytimg.com/vi/URCFTAXdkgY/maxresdefault.jpg",
+        "thumbnail": "https://i2.ytimg.com/vi/URCFTAXdkgY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=URCFTAXdkgY",
         "publishedAt": "2026-06-14"
       },
       {
         "id": "vid-PF_Y2QpHLtQ",
         "title": "La importancia de calentar la nariz 🐽",
-        "thumbnail": "https://i.ytimg.com/vi/PF_Y2QpHLtQ/maxresdefault.jpg",
+        "thumbnail": "https://i1.ytimg.com/vi/PF_Y2QpHLtQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PF_Y2QpHLtQ",
         "publishedAt": "2026-06-13"
-      },
-      {
-        "id": "vid-fi5WNW1J8H0",
-        "title": "Por esto Xokas es la cabra 🐐",
-        "thumbnail": "https://i.ytimg.com/vi/fi5WNW1J8H0/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fi5WNW1J8H0",
-        "publishedAt": "2026-06-12"
-      },
-      {
-        "id": "vid-XudEHwh1bSI",
-        "title": "Fortnite lo ha vuelto a hacer...",
-        "thumbnail": "https://i.ytimg.com/vi/XudEHwh1bSI/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XudEHwh1bSI",
-        "publishedAt": "2026-06-11"
-      },
-      {
-        "id": "vid-_C9OofjouNo",
-        "title": "Adivina el tiempo exacto",
-        "thumbnail": "https://i.ytimg.com/vi/_C9OofjouNo/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_C9OofjouNo",
-        "publishedAt": "2026-06-10"
-      },
-      {
-        "id": "vid-IOtW5j-bmtY",
-        "title": "Mi momento favorito del concierto de Bad Bunny",
-        "thumbnail": "https://i.ytimg.com/vi/IOtW5j-bmtY/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IOtW5j-bmtY",
-        "publishedAt": "2026-06-09"
       }
     ]
   },
@@ -213,6 +213,20 @@
       "es"
     ],
     "latestVideos": [
+      {
+        "id": "vid-YLpuvPdMRyE",
+        "title": "El milagro de Ecuador.",
+        "thumbnail": "https://i2.ytimg.com/vi/YLpuvPdMRyE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YLpuvPdMRyE",
+        "publishedAt": "2026-06-25"
+      },
+      {
+        "id": "vid-Vzj1Gw6oEa0",
+        "title": "¿Qué Hay Detrás Del Ascensor?",
+        "thumbnail": "https://i3.ytimg.com/vi/Vzj1Gw6oEa0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vzj1Gw6oEa0",
+        "publishedAt": "2026-06-25"
+      },
       {
         "id": "vid-YVYKLtBT_q8",
         "title": "Se viene invasión alienígena. Hoy es el día.",
@@ -268,20 +282,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/AheVQN7ndV8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AheVQN7ndV8",
         "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-VG6s2N6epj0",
-        "title": "Paraguay vs Turquía ¿Quién ganará en el Mundial 2026?",
-        "thumbnail": "https://i3.ytimg.com/vi/VG6s2N6epj0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VG6s2N6epj0",
-        "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-ohDDDF41XwY",
-        "title": "RoRo vs Rivers ¿Quién aceptaría un amaño?",
-        "thumbnail": "https://i4.ytimg.com/vi/ohDDDF41XwY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ohDDDF41XwY",
-        "publishedAt": "2026-06-18"
       }
     ]
   },

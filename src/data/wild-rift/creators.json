@@ -69,74 +69,74 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-DFcri67WAZs",
+        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #13",
+        "thumbnail": "https://i1.ytimg.com/vi/DFcri67WAZs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DFcri67WAZs",
+        "publishedAt": "2026-06-26"
+      },
+      {
+        "id": "vid-5JUFYVPC5Rs",
+        "title": "SMARTEST MOMENTS IN LEAGUE OF LEGENDS #76",
+        "thumbnail": "https://i2.ytimg.com/vi/5JUFYVPC5Rs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5JUFYVPC5Rs",
+        "publishedAt": "2026-06-25"
+      },
+      {
         "id": "vid-7gc0B5eeoL8",
         "title": "PERFECT PENTAKILL MOMENTS IN LEAGUE OF LEGENDS #31",
-        "thumbnail": "https://i.ytimg.com/vi/7gc0B5eeoL8/maxresdefault.jpg",
+        "thumbnail": "https://i4.ytimg.com/vi/7gc0B5eeoL8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7gc0B5eeoL8",
         "publishedAt": "2026-06-23"
       },
       {
         "id": "vid-yb8plzGC_9M",
         "title": "ULTRA SATISFYING MOMENTS #43",
-        "thumbnail": "https://i.ytimg.com/vi/yb8plzGC_9M/maxresdefault.jpg",
+        "thumbnail": "https://i2.ytimg.com/vi/yb8plzGC_9M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yb8plzGC_9M",
         "publishedAt": "2026-06-21"
       },
       {
         "id": "vid-JEAqZkR6xb8",
         "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #12",
-        "thumbnail": "https://i.ytimg.com/vi/JEAqZkR6xb8/maxresdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/JEAqZkR6xb8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JEAqZkR6xb8",
         "publishedAt": "2026-06-19"
       },
       {
         "id": "vid-HRUYdh2TC_s",
         "title": "100% INSTANT DELETES",
-        "thumbnail": "https://i.ytimg.com/vi/HRUYdh2TC_s/maxresdefault.jpg",
+        "thumbnail": "https://i1.ytimg.com/vi/HRUYdh2TC_s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=HRUYdh2TC_s",
         "publishedAt": "2026-06-17"
       },
       {
         "id": "vid-j_viVpIN3Qk",
         "title": "FUNNIEST MOMENTS IN LEAGUE OF LEGENDS #68",
-        "thumbnail": "https://i.ytimg.com/vi/j_viVpIN3Qk/maxresdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/j_viVpIN3Qk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=j_viVpIN3Qk",
         "publishedAt": "2026-06-15"
       },
       {
         "id": "vid-89qg0OptM9Y",
         "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #11",
-        "thumbnail": "https://i.ytimg.com/vi/89qg0OptM9Y/maxresdefault.jpg",
+        "thumbnail": "https://i1.ytimg.com/vi/89qg0OptM9Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=89qg0OptM9Y",
         "publishedAt": "2026-06-12"
       },
       {
         "id": "vid-R30arBA6dd8",
         "title": "SMARTEST MOMENTS IN LEAGUE OF LEGENDS #75",
-        "thumbnail": "https://i.ytimg.com/vi/R30arBA6dd8/maxresdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/R30arBA6dd8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=R30arBA6dd8",
         "publishedAt": "2026-06-11"
       },
       {
         "id": "vid-yHgopljwOa8",
         "title": "ULTRA SATISFYING MOMENTS #42",
-        "thumbnail": "https://i.ytimg.com/vi/yHgopljwOa8/maxresdefault.jpg",
+        "thumbnail": "https://i2.ytimg.com/vi/yHgopljwOa8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yHgopljwOa8",
         "publishedAt": "2026-06-09"
-      },
-      {
-        "id": "vid-npBDjZUo2rM",
-        "title": "PERFECT PENTAKILL MOMENTS IN LEAGUE OF LEGENDS #30",
-        "thumbnail": "https://i.ytimg.com/vi/npBDjZUo2rM/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=npBDjZUo2rM",
-        "publishedAt": "2026-06-07"
-      },
-      {
-        "id": "vid-g_G5N_K6Jvc",
-        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #10",
-        "thumbnail": "https://i.ytimg.com/vi/g_G5N_K6Jvc/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g_G5N_K6Jvc",
-        "publishedAt": "2026-06-05"
       }
     ]
   },
@@ -163,6 +163,13 @@
       "youtube": "https://www.youtube.com/@Royal-WildRift"
     },
     "latestVideos": [
+      {
+        "id": "vid-aoVphkToR1s",
+        "title": "Skarner Guide Wild Rift #wildrift #riotpartner",
+        "thumbnail": "https://i2.ytimg.com/vi/aoVphkToR1s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aoVphkToR1s",
+        "publishedAt": "2026-06-25"
+      },
       {
         "id": "vid-GcYilNKHOu8",
         "title": "Wild Rift: PATCH 7.1H - HUGE BUFFS!!",
@@ -225,13 +232,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/IDyXp1tLSzU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=IDyXp1tLSzU",
         "publishedAt": "2026-06-08"
-      },
-      {
-        "id": "vid-PAbhqW-DUic",
-        "title": "Riot made every champion into a Cat #wildrift #wildriftpartner",
-        "thumbnail": "https://i1.ytimg.com/vi/PAbhqW-DUic/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PAbhqW-DUic",
-        "publishedAt": "2026-06-05"
       }
     ]
   },

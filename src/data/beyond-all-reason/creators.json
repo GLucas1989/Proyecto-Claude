@@ -121,11 +121,18 @@
     },
     "latestVideos": [
       {
+        "id": "vid-MGrETZeEuZE",
+        "title": "Early Nuke Bomber - The Liche - We're Back",
+        "thumbnail": "https://i2.ytimg.com/vi/MGrETZeEuZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MGrETZeEuZE",
+        "publishedAt": "2026-06-26"
+      },
+      {
         "id": "vid-lYiAfy21Yr4",
         "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
         "thumbnail": "https://i1.ytimg.com/vi/lYiAfy21Yr4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lYiAfy21Yr4",
-        "publishedAt": "2026-06-24"
+        "publishedAt": "2026-06-25"
       },
       {
         "id": "vid-e17iDylyu3o",
@@ -181,13 +188,6 @@
         "title": "Hans Join the THUG WALK | Beyond All Reason | Angel Crossing",
         "thumbnail": "https://i2.ytimg.com/vi/YFEJginGZms/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YFEJginGZms",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-4lVpNUgPAns",
-        "title": "Beyond All Reason - KING of the HILL- AllReasonNoLogic",
-        "thumbnail": "https://i1.ytimg.com/vi/4lVpNUgPAns/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4lVpNUgPAns",
         "publishedAt": "2026-06-17"
       }
     ]
