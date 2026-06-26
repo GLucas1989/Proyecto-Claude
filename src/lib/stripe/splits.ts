@@ -42,6 +42,16 @@ export function computeUGCSplit(totalCents: number): UGCSplitResult {
 }
 
 /**
+ * 60/40 split para guías UGC individuales (autor 60% / plataforma 40%).
+ * Soporta "Pay What You Want": el total es variable según lo abonado en checkout.
+ */
+export function computeUGCSplit6040(totalCents: number): UGCSplitResult {
+  const authorAmountCents = Math.floor(totalCents * 0.6);
+  const platformAmountCents = totalCents - authorAmountCents;
+  return { authorAmountCents, platformAmountCents };
+}
+
+/**
  * Builds the Stripe PaymentIntent / Invoice params for a creator subscription.
  * Uses Stripe Connect: funds flow to platform, then transfer to creator.
  *

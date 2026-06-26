@@ -19,6 +19,8 @@ interface PremiumContentGuardProps {
   creatorName: string;
   /** Pre-fetched plans (pass from Server Component to avoid extra client fetch) */
   plans?: Plan[];
+  /** Academia/juego asociado: habilita acceso vía suscripción individual o All-Access Pass */
+  academyId?: string;
   children: React.ReactNode;
 }
 
@@ -26,6 +28,7 @@ export function PremiumContentGuard({
   creatorSlug,
   creatorName,
   plans = [],
+  academyId,
   children,
 }: PremiumContentGuardProps) {
   const [isSubscribed, setIsSubscribed] = useState<boolean | null>(null);
@@ -46,6 +49,25 @@ export function PremiumContentGuard({
       const { data: { user } } = await sb.auth.getUser();
       if (!user) { setIsSubscribed(false); return; }
 
+      // 1. All-Access Pass global o suscripción de academia individual vigente
+      const nowIso = new Date().toISOString();
+      const { data: passes } = await sb
+        .from("user_subscriptions")
+        .select("id, is_global_pass, academy_id, expires_at")
+        .eq("user_id", user.id)
+        .eq("status", "active");
+
+      const hasValidPass = (passes ?? []).some((p) => {
+        const notExpired = !p.expires_at || p.expires_at > nowIso;
+        if (!notExpired) return false;
+        if (p.is_global_pass) return true;               // All-Access Pass
+        if (academyId && p.academy_id === academyId) return true; // academia individual
+        return false;
+      });
+
+      if (hasValidPass) { setIsSubscribed(true); return; }
+
+      // 2. Suscripción directa al creador
       const { data: creatorProfile } = await sb
         .from("creator_profiles")
         .select("id")
@@ -65,7 +87,7 @@ export function PremiumContentGuard({
       setIsSubscribed(!!sub);
     }
     checkSubscription();
-  }, [creatorSlug]);
+  }, [creatorSlug, academyId]);
 
   async function handleSubscribe() {
     if (!selectedPlan) return;

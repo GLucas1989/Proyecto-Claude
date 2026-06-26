@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { createHmac, timingSafeEqual } from "crypto";
 import { createClient } from "@/lib/supabase/server";
 import { setupLemonSqueezy, LS_WEBHOOK_SECRET } from "@/lib/lemonsqueezy/client";
-import { computeUGCSplit } from "@/lib/stripe/splits";
+import { computeUGCSplit, computeUGCSplit6040 } from "@/lib/stripe/splits";
 
 export const runtime = "nodejs";
 
@@ -94,50 +94,113 @@ export async function POST(request: Request) {
       break;
     }
 
-    // ── Creator subscription paid ─────────────────────────────────────────
+    // ── Compra única: despacho por custom_data.type ───────────────────────
     case "order_created": {
-      if (custom_data.type !== "creator_sub") break;
-      const userId    = custom_data.user_id;
-      const creatorId = custom_data.creator_id;
-      if (!userId || !creatorId) break;
-
-      const amountCents = typeof attrs.total === "number" ? attrs.total : 0;
-
-      await supabase.from("payment_events").insert({
-        stripe_event_id:      `ls_${event.data.id}`,
-        event_type:           event_name,
-        amount_cents:         amountCents,
-        creator_payout_cents: Math.floor(amountCents * 0.6),
-        platform_fee_cents:   amountCents - Math.floor(amountCents * 0.6),
-        payload:              event as unknown as Record<string, unknown>,
-      });
-      break;
-    }
-
-    // ── UGC promotion purchased ───────────────────────────────────────────
-    case "order_created": {
-      if (custom_data.type !== "ugc_promotion") break;
-      const publicationId = custom_data.publication_id;
-      const authorId      = custom_data.author_id;
-      if (!publicationId || !authorId) break;
-
       const totalCents = typeof attrs.total === "number" ? attrs.total : 0;
-      const { authorAmountCents } = computeUGCSplit(totalCents);
+      const type = (custom_data.type ?? "").toLowerCase();
 
-      // Activate promotion
-      await supabase
-        .from("promoted_content")
-        .update({ payment_status: "PAID" })
-        .eq("publication_id", publicationId)
-        .eq("payment_status", "PENDING");
+      switch (type) {
+        // Suscripción a creador (registro contable 60/40)
+        case "creator_sub": {
+          const userId    = custom_data.user_id;
+          const creatorId = custom_data.creator_id;
+          if (!userId || !creatorId) break;
 
-      // Credit author wallet 50%
-      await supabase.rpc("credit_author_wallet", {
-        p_user_id:     authorId,
-        p_amount_cents: authorAmountCents,
-        p_description: `UGC promotion purchase — publication ${publicationId}`,
-        p_stripe_ref:  `ls_${event.data.id}`,
-      });
+          await supabase.from("payment_events").insert({
+            stripe_event_id:      `ls_${event.data.id}`,
+            event_type:           event_name,
+            amount_cents:         totalCents,
+            creator_payout_cents: Math.floor(totalCents * 0.6),
+            platform_fee_cents:   totalCents - Math.floor(totalCents * 0.6),
+            payload:              event as unknown as Record<string, unknown>,
+          });
+          break;
+        }
+
+        // Promoción de contenido UGC (split 50/50)
+        case "ugc_promotion": {
+          const publicationId = custom_data.publication_id;
+          const authorId      = custom_data.author_id;
+          if (!publicationId || !authorId) break;
+
+          const { authorAmountCents } = computeUGCSplit(totalCents);
+          await supabase
+            .from("promoted_content")
+            .update({ payment_status: "PAID" })
+            .eq("publication_id", publicationId)
+            .eq("payment_status", "PENDING");
+
+          await supabase.rpc("credit_author_wallet", {
+            p_user_id:      authorId,
+            p_amount_cents: authorAmountCents,
+            p_description:  `UGC promotion purchase — publication ${publicationId}`,
+            p_stripe_ref:   `ls_${event.data.id}`,
+          });
+          break;
+        }
+
+        // Compra de guía individual UGC — split 60/40, soporta Pay What You Want
+        case "ugc_purchase": {
+          const publicationId = custom_data.publication_id;
+          const authorId      = custom_data.author_id;
+          if (!publicationId || !authorId) break;
+
+          // PWYW: el total real abonado en checkout es la fuente de verdad
+          const { authorAmountCents } = computeUGCSplit6040(totalCents);
+
+          await supabase.rpc("credit_author_wallet", {
+            p_user_id:      authorId,
+            p_amount_cents: authorAmountCents,
+            p_description:  `UGC guide purchase (60/40 PWYW) — publication ${publicationId}`,
+            p_stripe_ref:   `ls_${event.data.id}`,
+          });
+
+          await supabase.from("payment_events").insert({
+            stripe_event_id:      `ls_${event.data.id}`,
+            event_type:           "ugc_purchase",
+            amount_cents:         totalCents,
+            creator_payout_cents: authorAmountCents,
+            platform_fee_cents:   totalCents - authorAmountCents,
+            payload:              event as unknown as Record<string, unknown>,
+          });
+          break;
+        }
+
+        // Compra de paquete de S-Credits — acreditar tokens (mitiga fees fijos)
+        case "s_credit_bulk": {
+          const userId = custom_data.user_id;
+          const tokenAmount = Number(custom_data.token_amount ?? "0");
+          if (!userId || tokenAmount <= 0) break;
+
+          await supabase.rpc("credit_user_credits", {
+            p_user_id: userId,
+            p_amount:  tokenAmount,
+            p_ref:     `ls_${event.data.id}`,
+          });
+          break;
+        }
+
+        // All-Access Pass — suscripción global
+        case "all_access_pass": {
+          const userId = custom_data.user_id;
+          if (!userId) break;
+
+          const expires = new Date();
+          expires.setDate(expires.getDate() + 30);
+
+          await supabase.from("user_subscriptions").insert({
+            user_id:        userId,
+            academy_id:     null,
+            is_global_pass: true,
+            status:         "active",
+            expires_at:     expires.toISOString(),
+          });
+          break;
+        }
+
+        default:
+          break;
+      }
       break;
     }
   }

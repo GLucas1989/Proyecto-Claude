@@ -3,6 +3,45 @@
 import { createClient } from "@/lib/supabase/server";
 import { redirect } from "next/navigation";
 import type { PublicationType, PublicationStatus, UserPublication, UserReputation, PromotedContent } from "@/types/database";
+import { sendTransactionalEmail } from "@/lib/email/client";
+import { ugcApprovedEmail, ugcRejectedEmail } from "@/lib/email/templates";
+
+/**
+ * Envía la notificación transaccional al autor tras una decisión de moderación.
+ * No bloquea el flujo: cualquier fallo de email se loguea pero no revierte la acción.
+ */
+async function notifyAuthorOfModeration(
+  supabase: Awaited<ReturnType<typeof createClient>>,
+  publicationId: string,
+  decision: "approved" | "rejected",
+  reason?: string
+): Promise<void> {
+  try {
+    const { data: pub } = await supabase
+      .from("user_publications")
+      .select("title, user_id")
+      .eq("id", publicationId)
+      .single();
+    if (!pub) return;
+
+    const { data: profile } = await supabase
+      .from("profiles")
+      .select("email, display_name")
+      .eq("id", pub.user_id)
+      .single();
+    if (!profile?.email) return;
+
+    const authorName = profile.display_name ?? "creador";
+    const email =
+      decision === "approved"
+        ? ugcApprovedEmail({ authorName, publicationTitle: pub.title, publicationId })
+        : ugcRejectedEmail({ authorName, publicationTitle: pub.title, reason: reason ?? "Revisá el contenido y volvé a enviar.", publicationId });
+
+    await sendTransactionalEmail({ to: profile.email, subject: email.subject, html: email.html });
+  } catch (err) {
+    console.error("[ugc] moderation email failed:", err);
+  }
+}
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Helpers
@@ -139,7 +178,11 @@ export async function approvePublication(publicationId: string): Promise<boolean
       .eq("id", publicationId)
       .eq("status", "PENDING_REVIEW");
 
-    return !error;
+    if (error) return false;
+
+    // Brecha-09: notificar al autor que su guía fue aprobada
+    await notifyAuthorOfModeration(supabase, publicationId, "approved");
+    return true;
   } catch {
     return false;
   }
@@ -171,7 +214,16 @@ export async function rejectPublication(publicationId: string, reason: string): 
       .eq("id", publicationId)
       .eq("status", "PENDING_REVIEW");
 
-    return !error;
+    if (error) return false;
+
+    // Brecha-09: notificar al autor que su guía requiere ajustes
+    await notifyAuthorOfModeration(
+      supabase,
+      publicationId,
+      "rejected",
+      reason.trim() || "Revisá el contenido y volvé a enviar."
+    );
+    return true;
   } catch {
     return false;
   }

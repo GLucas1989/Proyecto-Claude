@@ -41,7 +41,9 @@ export interface PromotedContent {
   price_cents: number;
   created_at: string;
 }
-export type WalletTxType = "EARNING" | "WITHDRAWAL" | "REFUND";
+export type WalletTxType = "EARNING" | "WITHDRAWAL" | "REFUND" | "STREAM_TIP";
+export type FollowTargetType = "game" | "author";
+export type UserSubStatus = "active" | "canceled" | "expired" | "past_due";
 
 export interface FoundingPartner {
   id: string;
@@ -95,6 +97,8 @@ export interface Database {
           display_name: string | null;
           avatar_url: string | null;
           role: UserRole;
+          is_claimed: boolean;
+          is_founding_partner: boolean;
           created_at: string;
           updated_at: string;
         };
@@ -104,12 +108,16 @@ export interface Database {
           display_name?: string | null;
           avatar_url?: string | null;
           role?: UserRole;
+          is_claimed?: boolean;
+          is_founding_partner?: boolean;
         };
         Update: {
           email?: string;
           display_name?: string | null;
           avatar_url?: string | null;
           role?: UserRole;
+          is_claimed?: boolean;
+          is_founding_partner?: boolean;
         };
       };
       creator_profiles: {
@@ -319,6 +327,96 @@ export interface Database {
           is_active?: boolean;
           starts_at?: string | null;
           ends_at?: string | null;
+        };
+      };
+      user_follows: {
+        Row: {
+          id: string;
+          user_id: string;
+          target_id: string;
+          type: FollowTargetType;
+          created_at: string;
+        };
+        Insert: {
+          user_id: string;
+          target_id: string;
+          type: FollowTargetType;
+        };
+        Update: {
+          target_id?: string;
+          type?: FollowTargetType;
+        };
+      };
+      user_credits: {
+        Row: {
+          user_id: string;
+          balance: number;
+          updated_at: string;
+        };
+        Insert: {
+          user_id: string;
+          balance?: number;
+        };
+        Update: {
+          balance?: number;
+        };
+      };
+      user_subscriptions: {
+        Row: {
+          id: string;
+          user_id: string;
+          academy_id: string | null;
+          is_global_pass: boolean;
+          status: UserSubStatus;
+          expires_at: string | null;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          user_id: string;
+          academy_id?: string | null;
+          is_global_pass?: boolean;
+          status?: UserSubStatus;
+          expires_at?: string | null;
+        };
+        Update: {
+          academy_id?: string | null;
+          is_global_pass?: boolean;
+          status?: UserSubStatus;
+          expires_at?: string | null;
+        };
+      };
+    };
+    Functions: {
+      credit_author_wallet: {
+        Args: {
+          p_user_id: string;
+          p_amount_cents: number;
+          p_description: string;
+          p_stripe_ref: string;
+        };
+        Returns: undefined;
+      };
+      credit_user_credits: {
+        Args: {
+          p_user_id: string;
+          p_amount: number;
+          p_ref?: string | null;
+        };
+        Returns: undefined;
+      };
+      process_stream_tip: {
+        Args: {
+          p_sender_id: string;
+          p_receiver_id: string;
+          p_token_amount: number;
+        };
+        Returns: {
+          success: boolean;
+          tokens_spent: number;
+          gross_usd: number;
+          net_usd: number;
+          receiver_id: string;
         };
       };
     };
