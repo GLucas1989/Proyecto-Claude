@@ -124,6 +124,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-W76E46bm9bk",
+        "title": "Magic y verano de #RockImperium",
+        "thumbnail": "https://i4.ytimg.com/vi/W76E46bm9bk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W76E46bm9bk",
+        "publishedAt": "2026-06-26"
+      },
+      {
         "id": "vid-JRoiFpyxT78",
         "title": "Los MEJORES MAZOS 100% winrate del acceso anticipado de Magic Marvel Super Heroes",
         "thumbnail": "https://i3.ytimg.com/vi/JRoiFpyxT78/hqdefault.jpg",
@@ -185,13 +192,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/eJy7bm-4PCo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=eJy7bm-4PCo",
         "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-tx9mt19Qo3o",
-        "title": "Así, ¡SÍ! Análisis del color AZUL de Marvel Super Heroes",
-        "thumbnail": "https://i1.ytimg.com/vi/tx9mt19Qo3o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tx9mt19Qo3o",
-        "publishedAt": "2026-06-16"
       }
     ]
   },

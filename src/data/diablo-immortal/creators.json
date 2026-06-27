@@ -23,6 +23,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-T4IsSrQh2Bg",
+        "title": "Diablo Immortal – Challenge Of Unequals | Legacy Loadouts VS Inferno 13",
+        "thumbnail": "https://i1.ytimg.com/vi/T4IsSrQh2Bg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T4IsSrQh2Bg",
+        "publishedAt": "2026-06-26"
+      },
+      {
         "id": "vid-eNtgNp3tYHo",
         "title": "Diablo Immortal – Warlock PVP Build | NA Meta",
         "thumbnail": "https://i2.ytimg.com/vi/eNtgNp3tYHo/hqdefault.jpg",
@@ -83,13 +90,6 @@
         "title": "Diablo Immortal – Sixth Bout Of Realms | Championship: Legendary VS Pigeons",
         "thumbnail": "https://i1.ytimg.com/vi/hZX1uIjX9lE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hZX1uIjX9lE",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-LJuIKRz3HTY",
-        "title": "Diablo Immortal - Guinevere's Battleground Bounty Board",
-        "thumbnail": "https://i1.ytimg.com/vi/LJuIKRz3HTY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LJuIKRz3HTY",
         "publishedAt": "2026-06-14"
       }
     ]
@@ -309,6 +309,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-LJWVuUN3JbE",
+        "title": "LIVE: Warlock PvP DoT Build + Viewer Dungeons!",
+        "thumbnail": "https://i1.ytimg.com/vi/LJWVuUN3JbE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LJWVuUN3JbE",
+        "publishedAt": "2026-06-26"
+      },
+      {
         "id": "vid-43KdYxMsX7s",
         "title": "The Ultimate Warlock DoT Build! | Diablo Immortal",
         "thumbnail": "https://i1.ytimg.com/vi/43KdYxMsX7s/hqdefault.jpg",
@@ -369,13 +376,6 @@
         "title": "Warlock PvP Build: Burn, Slow & Dominate! | Diablo Immortal",
         "thumbnail": "https://i2.ytimg.com/vi/ahWJ_4dBLZ0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ahWJ_4dBLZ0",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-sEQd0vkELdo",
-        "title": "LIVE: WARLOCK LAUNCH! Builds, PvP, Dungeons & Q&A",
-        "thumbnail": "https://i4.ytimg.com/vi/sEQd0vkELdo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sEQd0vkELdo",
         "publishedAt": "2026-06-17"
       }
     ]

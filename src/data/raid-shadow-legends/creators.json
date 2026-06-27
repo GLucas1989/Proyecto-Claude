@@ -223,6 +223,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-d1ZjmH-LOFE",
+        "title": "I GRINDED THIS FOR 8 HOURS in Raid Shadow Legends... (Challenge Day 3)",
+        "thumbnail": "https://i1.ytimg.com/vi/d1ZjmH-LOFE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d1ZjmH-LOFE",
+        "publishedAt": "2026-06-26"
+      },
+      {
         "id": "vid-sUgyvgjgimw",
         "title": "BEST PATH for the Talenna Hero Path! (HOW MANY SHARDS?) - Raid Shadow Legends",
         "thumbnail": "https://i4.ytimg.com/vi/sUgyvgjgimw/hqdefault.jpg",
@@ -284,13 +291,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/0wnGl_zFlOo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0wnGl_zFlOo",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-N2lPriF--ls",
-        "title": "This Team of 5 RARES BEATS EVERY DUNGEON?! (Worth Maxing!) - Raid Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/N2lPriF--ls/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N2lPriF--ls",
-        "publishedAt": "2026-06-21"
       }
     ]
   },

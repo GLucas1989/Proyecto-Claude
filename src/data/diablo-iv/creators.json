@@ -315,6 +315,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-w6TaR7pQ4Mo",
+        "title": "Updating Builds & Takedown Grind! // Borderlands 4 Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/w6TaR7pQ4Mo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w6TaR7pQ4Mo",
+        "publishedAt": "2026-06-26"
+      },
+      {
+        "id": "vid-OvKryMBG7oA",
+        "title": "Best New Weapons & Gear So Far! + New Classmods! // Borderlands 4 Takedown Update",
+        "thumbnail": "https://i4.ytimg.com/vi/OvKryMBG7oA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OvKryMBG7oA",
+        "publishedAt": "2026-06-26"
+      },
+      {
         "id": "vid-RbUSaRwc2NI",
         "title": "TAKEDOWN LAUNCH TODAY AND NEW BOUNTY PACK! // Borderlands 4 Livestream",
         "thumbnail": "https://i3.ytimg.com/vi/RbUSaRwc2NI/hqdefault.jpg",
@@ -369,20 +383,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/WEacS9ntx8I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WEacS9ntx8I",
         "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-b6AdufBAfr4",
-        "title": "Cold Convert Molten Blast Gemling?! // Path of Exile 2 Livestream",
-        "thumbnail": "https://i3.ytimg.com/vi/b6AdufBAfr4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b6AdufBAfr4",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-MyfShI5rqlg",
-        "title": "Endgame Spin To Win Martial Artist!! // Path of Exile 2 Livestream",
-        "thumbnail": "https://i2.ytimg.com/vi/MyfShI5rqlg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MyfShI5rqlg",
-        "publishedAt": "2026-06-13"
       }
     ]
   },

@@ -483,6 +483,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-ZOx2CCsQiZI",
+        "title": "My Top 5 bebop plays of June",
+        "thumbnail": "https://i3.ytimg.com/vi/ZOx2CCsQiZI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZOx2CCsQiZI",
+        "publishedAt": "2026-06-26"
+      },
+      {
         "id": "vid-yh-TwzWVUnw",
         "title": "Escape Artist",
         "thumbnail": "https://i2.ytimg.com/vi/yh-TwzWVUnw/hqdefault.jpg",
@@ -544,13 +551,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/i-v1HtbAgJY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=i-v1HtbAgJY",
         "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-qNiGjhC4m1s",
-        "title": "Floor is always lava for Infernus",
-        "thumbnail": "https://i2.ytimg.com/vi/qNiGjhC4m1s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qNiGjhC4m1s",
-        "publishedAt": "2026-06-13"
       }
     ]
   },
