@@ -31,3 +31,7 @@ next-env.d.ts
 
 # vercel
 .vercel
+
+# Python cache (skills)
+__pycache__/
+*.pyc
