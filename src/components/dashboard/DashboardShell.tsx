@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import {
   GraduationCap, Wrench, Wallet, Coins, Receipt, PlusCircle,
-  ShieldCheck, Clock, Zap, TrendingUp, Eye, Download, Compass,
+  ShieldCheck, Clock, Zap, TrendingUp, Eye, Download, Compass, ShieldAlert,
 } from "lucide-react";
 import { ReputationCard } from "@/components/dashboard/ReputationCard";
 import { MyPublicationsList } from "@/components/dashboard/MyPublicationsList";
@@ -43,8 +43,29 @@ export function DashboardShell(props: DashboardShellProps) {
   const isCreator = props.role === "CREATOR" || props.claimedProfile !== null || props.publications.length > 0;
   const [mode, setMode] = useState<Mode>(isCreator ? "creator" : "student");
 
+  const isAdmin = props.role === "ADMIN";
+
   return (
     <div className="max-w-5xl mx-auto px-4 py-6 sm:py-10 space-y-6 sm:space-y-8">
+      {/* Acceso admin — solo visible para ADMIN */}
+      {isAdmin && (
+        <Link
+          href="/dashboard/admin/moderation"
+          className="flex items-center gap-3 rounded-2xl border border-pink-500/30 bg-gradient-to-r from-pink-500/10 to-transparent px-5 py-4 hover:from-pink-500/20 hover:shadow-[0_0_24px_rgba(244,63,94,0.18)] transition-all group"
+        >
+          <span className="flex items-center justify-center w-10 h-10 rounded-xl border border-pink-500/40 bg-pink-500/10">
+            <ShieldAlert className="h-5 w-5 text-pink-300" />
+          </span>
+          <div className="flex-1">
+            <p className="text-sm font-bold text-white">Panel de moderación</p>
+            <p className="text-[11px] font-mono text-white/40">
+              {"// revisá y aprobá/rechazá el contenido pendiente de los creadores"}
+            </p>
+          </div>
+          <span className="text-xs font-mono text-pink-300 group-hover:translate-x-0.5 transition-transform">Abrir →</span>
+        </Link>
+      )}
+
       {/* Header + toggle */}
       <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-3 sm:gap-4">
         <div>
