@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { TemplateSelector, type TemplateId } from "./TemplateSelector";
 import { MarkdownEditor } from "./MarkdownEditor";
@@ -45,6 +45,19 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
   const [submitting, setSubmitting]   = useState(false);
   const [saved, setSaved]             = useState(false);
   const [submitError, setSubmitError] = useState<string | null>(null);
+  const [canMonetize, setCanMonetize] = useState<boolean | null>(null);
+  const [isOfficial, setIsOfficial]   = useState(false);
+  const [reqSent, setReqSent]         = useState(false);
+
+  useEffect(() => {
+    (async () => {
+      const { getMonetizationStatus } = await import("@/app/actions/monetization");
+      const s = await getMonetizationStatus();
+      setCanMonetize(s.canMonetize);
+      setIsOfficial(s.isOfficial);
+      setReqSent(s.pendingRequest);
+    })();
+  }, []);
 
   const handleTemplateSelect = useCallback(
     (_id: TemplateId, markdown: string, pubType: PublicationType) => {
@@ -70,6 +83,11 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
 
   const handleSubmitForReview = async () => {
     if (!title.trim() || content.length < 100) return;
+    // Gating de monetización: premium requiere can_monetize
+    if (isPremium && canMonetize === false) {
+      setSubmitError("Habilitá la monetización para enviar contenido premium (tarifa mensual o autorización).");
+      return;
+    }
     setSubmitError(null);
     setSubmitting(true);
     try {
@@ -77,6 +95,8 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
       const result = await submitForReview({ publicationId, gameSlug, title, type, content, attachments, isPremium });
       if (result?.id) {
         router.push(`/dashboard?submitted=${result.id}`);
+      } else if (isPremium) {
+        setSubmitError("No se pudo enviar: verificá que tengas la monetización habilitada.");
       }
     } catch {
       setSubmitError("Error al enviar. Guardá un borrador e intenta de nuevo.");
@@ -205,18 +225,70 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
               onChange={(videos) => setAttachments([...attachments.filter((u) => !isVideoUrl(u)), ...videos])}
             />
 
-            {/* Premium info */}
-            {isPremium && (
+            {/* Premium — habilitado: info de split */}
+            {isPremium && canMonetize === true && (
               <div className="rounded-xl border border-violet-500/15 bg-violet-500/[0.03] px-5 py-4">
                 <div className="flex items-center gap-2 mb-1">
                   <Sparkles className="h-4 w-4 text-violet-400" />
                   <span className="text-sm font-mono font-bold text-violet-300">
-                    Contenido Premium — Split 50 / 50
+                    Contenido Premium — pasa por revisión
                   </span>
                 </div>
                 <p className="text-xs text-white/35 font-mono leading-relaxed">
-                  {"// 50% de los ingresos van a tu billetera · 50% a la plataforma"}<br />
-                  {"// +20 pts de reputación cada vez que alguien se suscribe a tu guía"}
+                  {"// el contenido monetizable se revisa antes de publicarse"}<br />
+                  {"// tus ingresos van a tu billetera según el split vigente"}
+                </p>
+              </div>
+            )}
+
+            {/* Premium — bloqueado: necesita habilitar monetización */}
+            {isPremium && canMonetize === false && (
+              <div className="rounded-xl border border-amber-500/25 bg-amber-500/[0.05] px-5 py-4 space-y-3">
+                <div className="flex items-center gap-2">
+                  <Sparkles className="h-4 w-4 text-amber-400" />
+                  <span className="text-sm font-bold text-amber-300">Monetización no habilitada</span>
+                </div>
+                <p className="text-xs text-white/45 leading-relaxed">
+                  Para publicar contenido monetizable necesitás habilitar la monetización.
+                  {isOfficial
+                    ? " Como creador oficial podés solicitar autorización gratuita, o activar la tarifa mensual (USD 20)."
+                    : " Activá la tarifa mensual de creador (USD 5)."}
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  {isOfficial && (
+                    <button
+                      type="button"
+                      disabled={reqSent}
+                      onClick={async () => {
+                        const { requestMonetization } = await import("@/app/actions/monetization");
+                        const r = await requestMonetization();
+                        if (r.ok) setReqSent(true);
+                        else setSubmitError(r.error ?? "No se pudo solicitar.");
+                      }}
+                      className="px-4 py-2 rounded-lg border border-cyan-500/40 bg-cyan-500/10 text-cyan-200 text-xs font-mono font-semibold hover:bg-cyan-500/20 transition-colors disabled:opacity-50"
+                    >
+                      {reqSent ? "✓ Solicitud enviada" : "Solicitar autorización (gratis)"}
+                    </button>
+                  )}
+                  <button
+                    type="button"
+                    onClick={async () => {
+                      const res = await fetch("/api/lemonsqueezy/checkout", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ type: isOfficial ? "fee_official" : "fee_standard" }),
+                      });
+                      const json = await res.json() as { url?: string; error?: string };
+                      if (json.url) window.location.href = json.url;
+                      else setSubmitError(json.error ?? "Checkout no disponible todavía.");
+                    }}
+                    className="px-4 py-2 rounded-lg border border-violet-500/40 bg-violet-500/10 text-violet-200 text-xs font-mono font-semibold hover:bg-violet-500/20 transition-colors"
+                  >
+                    Activar tarifa mensual ({isOfficial ? "USD 20" : "USD 5"})
+                  </button>
+                </div>
+                <p className="text-[10px] font-mono text-white/25">
+                  {"// podés guardar el borrador, pero no enviarlo a revisión hasta habilitar"}
                 </p>
               </div>
             )}

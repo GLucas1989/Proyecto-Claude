@@ -35,6 +35,10 @@ export const LS_VARIANTS = {
 
   // UGC promotion — one-time payment, 7 days
   UGC_PROMOTION: process.env.LS_VARIANT_UGC_PROMOTION ?? "",
+
+  // Tarifas mensuales de monetización
+  FEE_STANDARD: process.env.LS_VARIANT_FEE_STANDARD ?? "", // USD 5/mes — usuario normal
+  FEE_OFFICIAL: process.env.LS_VARIANT_FEE_OFFICIAL ?? "", // USD 20/mes — creador oficial
 } as const;
 
 export const LS_WEBHOOK_SECRET = process.env.LEMONSQUEEZY_WEBHOOK_SECRET ?? "";

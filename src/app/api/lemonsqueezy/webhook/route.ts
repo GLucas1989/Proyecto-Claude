@@ -48,6 +48,18 @@ export async function POST(request: Request) {
     // ── Game subscription activated / renewed ─────────────────────────────
     case "subscription_created":
     case "subscription_payment_success": {
+      // Tarifa mensual de monetización → habilitar can_monetize
+      if (custom_data.type === "fee_standard" || custom_data.type === "fee_official") {
+        const userId = custom_data.user_id;
+        if (userId) {
+          await supabase
+            .from("profiles")
+            .update({ can_monetize: true, monetization_source: custom_data.type })
+            .eq("id", userId);
+        }
+        break;
+      }
+
       if (custom_data.type !== "game_sub") break;
       const userId   = custom_data.user_id;
       const gameSlug = custom_data.game_slug;
@@ -81,6 +93,22 @@ export async function POST(request: Request) {
     // ── Game subscription canceled ────────────────────────────────────────
     case "subscription_cancelled":
     case "subscription_expired": {
+      // Tarifa de monetización cancelada → revocar (salvo que tenga grant de admin)
+      if (custom_data.type === "fee_standard" || custom_data.type === "fee_official") {
+        const userId = custom_data.user_id;
+        if (userId) {
+          const { data: prof } = await supabase
+            .from("profiles").select("monetization_source").eq("id", userId).single();
+          if (prof?.monetization_source !== "admin") {
+            await supabase
+              .from("profiles")
+              .update({ can_monetize: false, monetization_source: null })
+              .eq("id", userId);
+          }
+        }
+        break;
+      }
+
       if (custom_data.type !== "game_sub") break;
       const userId   = custom_data.user_id;
       const gameSlug = custom_data.game_slug;

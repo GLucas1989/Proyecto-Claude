@@ -16,7 +16,7 @@ export async function POST(request: Request) {
   }
 
   const body = await request.json() as {
-    type: "game_sub" | "creator_sub" | "ugc_promotion";
+    type: "game_sub" | "creator_sub" | "ugc_promotion" | "fee_standard" | "fee_official";
     gameSlug?: string;
     creatorId?: string;
     publicationId?: string;
@@ -33,8 +33,16 @@ export async function POST(request: Request) {
     variantId = LS_VARIANTS.CREATOR_SUB;
   } else if (body.type === "ugc_promotion") {
     variantId = LS_VARIANTS.UGC_PROMOTION;
+  } else if (body.type === "fee_standard") {
+    variantId = LS_VARIANTS.FEE_STANDARD;
+  } else if (body.type === "fee_official") {
+    variantId = LS_VARIANTS.FEE_OFFICIAL;
   } else {
     return NextResponse.json({ error: "Invalid type" }, { status: 400 });
+  }
+
+  if (!variantId) {
+    return NextResponse.json({ error: "Producto no configurado todavía en Lemon Squeezy." }, { status: 503 });
   }
 
   const origin = request.headers.get("origin") ?? process.env.NEXT_PUBLIC_APP_URL ?? "";

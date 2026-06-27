@@ -100,6 +100,9 @@ export interface Database {
           is_claimed: boolean;
           is_founding_partner: boolean;
           is_trusted_creator: boolean;
+          can_monetize: boolean;
+          monetization_source: string | null;
+          is_official_creator: boolean;
           created_at: string;
           updated_at: string;
         };
@@ -112,6 +115,9 @@ export interface Database {
           is_claimed?: boolean;
           is_founding_partner?: boolean;
           is_trusted_creator?: boolean;
+          can_monetize?: boolean;
+          monetization_source?: string | null;
+          is_official_creator?: boolean;
         };
         Update: {
           email?: string;
@@ -121,6 +127,9 @@ export interface Database {
           is_claimed?: boolean;
           is_founding_partner?: boolean;
           is_trusted_creator?: boolean;
+          can_monetize?: boolean;
+          monetization_source?: string | null;
+          is_official_creator?: boolean;
         };
       };
       creator_profiles: {
