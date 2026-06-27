@@ -68,6 +68,7 @@
 - [x] **Niveles de creador** (creator_tier/subscription_status/is_authorized_to_monetize) + backfill
 - [x] **Sistema de calificación real**: tabla `ratings`, RPC `update_publication_rating`, StarRating funcional con reseñas en `/ugc/[id]`
 - [x] Tarjeta **"Activá monetización"** en el dashboard (Pro $5 / Oficial $20 / solicitar autorización)
+- [x] **Verificación de propiedad de canal** (Challenge-Response): código SHUB-XXXXXX en la descripción de YouTube, verificación automática (API + scraping), rate-limit, guardas anti race-condition → reclama perfil + marca oficial
 
 ---
 
