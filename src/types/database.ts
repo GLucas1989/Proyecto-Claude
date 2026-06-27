@@ -15,6 +15,8 @@ export interface UserPublication {
   attachments_urls: string[];
   is_premium: boolean;
   views_count: number;
+  average_rating: number;
+  ratings_count: number;
   created_at: string;
   updated_at: string;
   published_at: string | null;

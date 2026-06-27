@@ -26,9 +26,12 @@ function getNextRankInfo(points: number, rankTitle: string): { next: string; nee
 
 interface ReputationCardProps {
   reputation: UserReputation | null;
+  /** Promedio de calificaciones del creador (0-5), ponderado por sus guías */
+  averageRating?: number;
+  ratingsCount?: number;
 }
 
-export function ReputationCard({ reputation }: ReputationCardProps) {
+export function ReputationCard({ reputation, averageRating = 0, ratingsCount = 0 }: ReputationCardProps) {
   const rankTitle = reputation?.rank_title ?? "Novato";
   const points    = reputation?.points ?? 0;
   const guides    = reputation?.guides_published ?? 0;
@@ -108,6 +111,24 @@ export function ReputationCard({ reputation }: ReputationCardProps) {
             </p>
             <p className="text-[9px] font-mono text-white/25">nivel de rango</p>
           </div>
+        </div>
+      </div>
+
+      {/* Calificación promedio del creador */}
+      <div className="mt-4 pt-3 border-t border-white/5">
+        <div className="flex items-center justify-between mb-1.5">
+          <span className="text-[9px] font-mono text-white/25 uppercase tracking-widest">calificación del público</span>
+          <span className="flex items-center gap-1 text-amber-400">
+            <Star className="h-3 w-3 fill-amber-400" />
+            <span className="text-xs font-black tabular-nums">{averageRating > 0 ? averageRating.toFixed(1) : "—"}</span>
+            {ratingsCount > 0 && <span className="text-[9px] text-white/25 font-mono">({ratingsCount})</span>}
+          </span>
+        </div>
+        <div className="h-2 rounded-full bg-white/5 overflow-hidden">
+          <div
+            className="h-full rounded-full bg-gradient-to-r from-amber-500 to-yellow-400 shadow-[0_0_10px_rgba(251,191,36,0.55)] transition-[width] duration-1000 ease-out"
+            style={{ width: `${Math.min(100, (averageRating / 5) * 100)}%` }}
+          />
         </div>
       </div>
 

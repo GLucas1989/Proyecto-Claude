@@ -53,6 +53,11 @@ export default async function DashboardPage() {
   const reputation   = (reputationRaw ?? null) as UserReputation | null;
   const transactions = (transactionsRaw ?? []) as WalletTransaction[];
 
+  // Promedio de calificaciones del creador, ponderado por cantidad de votos
+  const totalVotes = publications.reduce((a, p) => a + (p.ratings_count ?? 0), 0);
+  const weightedSum = publications.reduce((a, p) => a + (p.average_rating ?? 0) * (p.ratings_count ?? 0), 0);
+  const creatorRating = totalVotes > 0 ? weightedSum / totalVotes : 0;
+
   return (
     <DashboardShell
       displayName={profile?.display_name ?? user.email ?? "creador"}
@@ -61,6 +66,8 @@ export default async function DashboardPage() {
       userId={user.id}
       publications={publications}
       reputation={reputation}
+      creatorRating={creatorRating}
+      creatorRatingCount={totalVotes}
       walletBalance={Number(walletRaw?.available_balance ?? 0)}
       withdrawnBalance={Number(walletRaw?.withdrawn_balance ?? 0)}
       transactions={transactions}

@@ -31,6 +31,8 @@ interface DashboardShellProps {
   userId: string;
   publications: UserPublication[];
   reputation: UserReputation | null;
+  creatorRating: number;
+  creatorRatingCount: number;
   walletBalance: number;
   withdrawnBalance: number;
   transactions: WalletTransaction[];
@@ -187,7 +189,7 @@ function CreatorView(props: DashboardShellProps) {
     <div className="space-y-6 sm:space-y-8">
       {/* Top: reputación + perfil */}
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
-        <ReputationCard reputation={props.reputation} />
+        <ReputationCard reputation={props.reputation} averageRating={props.creatorRating} ratingsCount={props.creatorRatingCount} />
 
         {props.claimedProfile ? (
           <div className="rounded-xl border border-cyan-500/20 bg-cyan-500/5 p-5">
