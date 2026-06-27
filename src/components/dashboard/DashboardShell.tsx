@@ -10,6 +10,7 @@ import { ReputationCard } from "@/components/dashboard/ReputationCard";
 import { MyPublicationsList } from "@/components/dashboard/MyPublicationsList";
 import { EmptyStatePlaceholder } from "@/components/dashboard/EmptyStatePlaceholder";
 import { StatCard } from "@/components/dashboard/StatCard";
+import { OBSOverlayCard } from "@/components/dashboard/OBSOverlayCard";
 import type { UserPublication, UserReputation, WalletTransaction } from "@/types/database";
 
 type Mode = "student" | "creator";
@@ -26,6 +27,7 @@ interface DashboardShellProps {
   displayName: string;
   email: string;
   role: string;
+  userId: string;
   publications: UserPublication[];
   reputation: UserReputation | null;
   walletBalance: number;
@@ -237,6 +239,9 @@ function CreatorView(props: DashboardShellProps) {
           )}
         </div>
       </section>
+
+      {/* Widget de alertas para OBS */}
+      <OBSOverlayCard userId={props.userId} />
 
       {/* Publicaciones con contadores */}
       <section>

@@ -58,6 +58,7 @@ export default async function DashboardPage() {
       displayName={profile?.display_name ?? user.email ?? "creador"}
       email={user.email ?? ""}
       role={profile?.role ?? "USER"}
+      userId={user.id}
       publications={publications}
       reputation={reputation}
       walletBalance={Number(walletRaw?.available_balance ?? 0)}

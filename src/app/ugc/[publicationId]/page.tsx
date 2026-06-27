@@ -5,6 +5,8 @@ import { createClient } from "@/lib/supabase/server";
 import { MarkdownPreview } from "@/components/ugc/MarkdownPreview";
 import { VoteSection } from "@/components/ugc/VoteSection";
 import { incrementViews } from "@/app/actions/ugc";
+import { VideoEmbed } from "@/components/media/VideoEmbed";
+import { youTubeUnlistedAsset, parseYouTubeId } from "@/lib/media/types";
 import {
   BookOpen, Swords, Trophy, ChevronRight, Lock,
   Calendar, Eye, Paperclip, Download, FileText, FileSpreadsheet,
@@ -222,8 +224,25 @@ export default async function PublicationPage({ params }: PublicationPageProps) 
               <MarkdownPreview content={pub.content_markdown} />
             </section>
 
-            {/* Adjuntos */}
-            {pub.attachments_urls.length > 0 && (
+            {/* Videos embebidos (YouTube Unlisted) */}
+            {pub.attachments_urls.filter((u) => parseYouTubeId(u) && /youtube\.com|youtu\.be/.test(u)).length > 0 && (
+              <section className="space-y-3">
+                <div className="flex items-center gap-2">
+                  <span className="text-xs font-mono text-white/30">{"// videos"}</span>
+                </div>
+                <div className="grid grid-cols-1 gap-4">
+                  {pub.attachments_urls
+                    .filter((u) => parseYouTubeId(u) && /youtube\.com|youtu\.be/.test(u))
+                    .map((url, i) => {
+                      const asset = youTubeUnlistedAsset(url, `Video ${i + 1}`);
+                      return asset ? <VideoEmbed key={url} asset={asset} /> : null;
+                    })}
+                </div>
+              </section>
+            )}
+
+            {/* Adjuntos (archivos, sin videos) */}
+            {pub.attachments_urls.filter((u) => !/youtube\.com|youtu\.be/.test(u)).length > 0 && (
               <section className="rounded-2xl border border-white/8 bg-black/20 overflow-hidden">
                 <div className="flex items-center gap-2 px-5 py-3 border-b border-white/6">
                   <Paperclip className="h-3.5 w-3.5 text-white/25" />
@@ -232,7 +251,7 @@ export default async function PublicationPage({ params }: PublicationPageProps) 
                   </span>
                 </div>
                 <ul className="divide-y divide-white/5">
-                  {pub.attachments_urls.map((url) => {
+                  {pub.attachments_urls.filter((u) => !/youtube\.com|youtu\.be/.test(u)).map((url) => {
                     const name = decodeURIComponent(url.split("/").pop() ?? url);
                     return (
                       <li key={url} className="flex items-center gap-3 px-5 py-3 hover:bg-white/[0.01] transition-colors">

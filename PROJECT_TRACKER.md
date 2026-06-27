@@ -63,6 +63,8 @@
 - [x] Panel de moderación (cola de revisión approve/reject)
 - [x] Sistema de **creadores de confianza** (auto-publicación sin moderar)
 - [x] Botón **Seguir** implementado en UI: tarjetas de creador (landing + categoría), hero de juego y página de creador
+- [x] Reproductor de **videos** (YouTube Unlisted) embebido en la página de publicación
+- [x] **URL de overlay OBS** visible y copiable en el dashboard del creador
 
 ---
 
@@ -78,14 +80,24 @@
 
 ---
 
-## 🔲 Pendientes (próximas iteraciones)
+## 🔲 Pendientes — UI bloqueada por configurar Lemon Squeezy
 
-- [ ] Botón "Comprar esta guía" (venta individual one-time) en página de publicación
+> Estas funcionalidades tienen el **backend/webhook listo** pero la UI de compra
+> generaría botones sin destino hasta crear los productos/variantes en Lemon Squeezy.
+
+- [ ] Botón "Comprar esta guía" (venta individual 60/40 PWYW) — webhook `ugc_purchase` listo
+- [ ] Botón comprar **All-Access Pass** — webhook `all_access_pass` listo
+- [ ] Comprar **paquete de S-Credits** — webhook `s_credit_bulk` listo
+- [ ] UI para **enviar propina** en stream (RPC `process_stream_tip` lista)
 - [ ] Lemon Squeezy: crear productos/variantes y conectar `custom_data.type`
-- [ ] Auto-rechazo por filtros (palabras prohibidas / archivos sospechosos) antes de la cola
-- [ ] Subir contenido real del CEO a la academia (PDFs/PPTs listos)
 - [ ] Página de pricing / planes de suscripción
-- [ ] Sistema de propinas en stream (UI para enviar S-Credits)
+
+## 🔲 Pendientes — independientes de pagos
+
+- [ ] Taxonomía de marketplace (TCG/cosmaking/etc.) surfaceada en el formulario UGC
+- [ ] Auto-rechazo por filtros (palabras prohibidas / archivos sospechosos) antes de la cola
+- [ ] Watermark anti-piratería activo en vista inline de PDF premium (hoy solo descarga)
+- [ ] Subir contenido real del CEO a la academia (PDFs/PPTs listos)
 
 ---
 
