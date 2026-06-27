@@ -851,6 +851,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-h5J3GimOnOQ",
+        "title": "Unfortunate Skarner movement 🦂 | LEC Plays Arena",
+        "thumbnail": "https://i1.ytimg.com/vi/h5J3GimOnOQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h5J3GimOnOQ",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-QND135FgIAY",
         "title": "HP bar diff 📈 | LEC Plays Arena",
         "thumbnail": "https://i2.ytimg.com/vi/QND135FgIAY/hqdefault.jpg",
@@ -912,13 +919,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/UzmZLh8m-dE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UzmZLh8m-dE",
         "publishedAt": "2026-06-16"
-      },
-      {
-        "id": "vid-2IQ8bVLaOD8",
-        "title": "Not playing Bravery ever again | LEC Plays Arena Shorts",
-        "thumbnail": "https://i3.ytimg.com/vi/2IQ8bVLaOD8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2IQ8bVLaOD8",
-        "publishedAt": "2026-06-13"
       }
     ]
   },

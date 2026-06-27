@@ -24,6 +24,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-hx5pHQJaRB8",
+        "title": "Diablo 4 on Switch 2 Is Looking More Real",
+        "thumbnail": "https://i1.ytimg.com/vi/hx5pHQJaRB8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hx5pHQJaRB8",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-KvH0SGErePI",
         "title": "Titan Quest 2 Is Not Trying to Be Diablo 4",
         "thumbnail": "https://i4.ytimg.com/vi/KvH0SGErePI/hqdefault.jpg",
@@ -85,13 +92,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/o3NK3Mt_DIA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=o3NK3Mt_DIA",
         "publishedAt": "2026-05-30"
-      },
-      {
-        "id": "vid-E-UudopJaCE",
-        "title": "We Just Saw Diablo 4 Season 14 and It's...",
-        "thumbnail": "https://i2.ytimg.com/vi/E-UudopJaCE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E-UudopJaCE",
-        "publishedAt": "2026-05-28"
       }
     ]
   },

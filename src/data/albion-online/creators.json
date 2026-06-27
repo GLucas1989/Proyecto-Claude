@@ -122,6 +122,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-Eq5_kUqr9rI",
+        "title": "My Favorite Warlock Build in Diablo Immortal",
+        "thumbnail": "https://i2.ytimg.com/vi/Eq5_kUqr9rI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Eq5_kUqr9rI",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-3BMMoCtbz8k",
         "title": "Should You Return to Diablo Immortal for WARLOCK?",
         "thumbnail": "https://i4.ytimg.com/vi/3BMMoCtbz8k/hqdefault.jpg",
@@ -183,13 +190,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/HUN7myal_ms/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=HUN7myal_ms",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-Rpp08AHBoys",
-        "title": "My Top 3 CHEAP Solo Builds in Albion Online (June 2026)",
-        "thumbnail": "https://i3.ytimg.com/vi/Rpp08AHBoys/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rpp08AHBoys",
-        "publishedAt": "2026-06-23"
       }
     ]
   },

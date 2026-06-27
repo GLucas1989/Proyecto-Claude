@@ -25,74 +25,74 @@
     },
     "latestVideos": [
       {
+        "id": "vid-M7CWUwUYzX8",
+        "title": "BAR Pro League Finals!",
+        "thumbnail": "https://i2.ytimg.com/vi/M7CWUwUYzX8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=M7CWUwUYzX8",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-DDnEvu4DUAA",
         "title": "King of the Hill by @AllReasonNoLogic",
-        "thumbnail": "https://i.ytimg.com/vi/DDnEvu4DUAA/maxresdefault.jpg",
+        "thumbnail": "https://i1.ytimg.com/vi/DDnEvu4DUAA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DDnEvu4DUAA",
         "publishedAt": "2026-06-22"
       },
       {
         "id": "vid-vm55WqPyMDU",
         "title": "BPL Season 9 Qualifiers",
-        "thumbnail": "https://i.ytimg.com/vi/vm55WqPyMDU/maxresdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/vm55WqPyMDU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vm55WqPyMDU",
         "publishedAt": "2026-06-13"
       },
       {
         "id": "vid-34rBmIqjLK4",
         "title": "King Of The Hill by @AllReasonNoLogic",
-        "thumbnail": "https://i.ytimg.com/vi/34rBmIqjLK4/maxresdefault.jpg",
+        "thumbnail": "https://i4.ytimg.com/vi/34rBmIqjLK4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=34rBmIqjLK4",
         "publishedAt": "2026-06-08"
       },
       {
         "id": "vid-4xIfRhSdHF8",
         "title": "Fight Night - Masters League",
-        "thumbnail": "https://i.ytimg.com/vi/4xIfRhSdHF8/hqdefault.jpg",
+        "thumbnail": "https://i1.ytimg.com/vi/4xIfRhSdHF8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4xIfRhSdHF8",
         "publishedAt": "2026-06-07"
       },
       {
         "id": "vid-VX853oiuMTA",
         "title": "King of the Hill by @AllReasonNoLogic",
-        "thumbnail": "https://i.ytimg.com/vi/VX853oiuMTA/maxresdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/VX853oiuMTA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VX853oiuMTA",
         "publishedAt": "2026-06-01"
       },
       {
         "id": "vid-5bFqSBFlGIQ",
         "title": "West Basinger - Adaptation (RAPTOR OST - INTERLUDE)",
-        "thumbnail": "https://i.ytimg.com/vi/5bFqSBFlGIQ/maxresdefault.jpg",
+        "thumbnail": "https://i2.ytimg.com/vi/5bFqSBFlGIQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5bFqSBFlGIQ",
         "publishedAt": "2026-05-27"
       },
       {
         "id": "vid-hacglHplZ2g",
         "title": "West Basinger - Biomass Reclamation (RAPTORS OST - PEACE)",
-        "thumbnail": "https://i.ytimg.com/vi/hacglHplZ2g/maxresdefault.jpg",
+        "thumbnail": "https://i1.ytimg.com/vi/hacglHplZ2g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hacglHplZ2g",
         "publishedAt": "2026-05-25"
       },
       {
         "id": "vid-XgIskVYpV1U",
         "title": "Nation Wars - FINALS",
-        "thumbnail": "https://i.ytimg.com/vi/XgIskVYpV1U/maxresdefault.jpg",
+        "thumbnail": "https://i1.ytimg.com/vi/XgIskVYpV1U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XgIskVYpV1U",
         "publishedAt": "2026-05-25"
       },
       {
         "id": "vid-V_BvohS545I",
         "title": "Fight Night - Masters League",
-        "thumbnail": "https://i.ytimg.com/vi/V_BvohS545I/hqdefault.jpg",
+        "thumbnail": "https://i3.ytimg.com/vi/V_BvohS545I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=V_BvohS545I",
         "publishedAt": "2026-05-22"
-      },
-      {
-        "id": "vid-T6DGb5-huQ0",
-        "title": "Nation WARS",
-        "thumbnail": "https://i.ytimg.com/vi/T6DGb5-huQ0/maxresdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T6DGb5-huQ0",
-        "publishedAt": "2026-05-18"
       }
     ]
   },
