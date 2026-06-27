@@ -287,16 +287,25 @@ export async function uploadAttachment(
   try {
     const { supabase, user } = await requireAuth();
 
-    const ext  = fileName.split(".").pop() ?? "bin";
+    const ext  = (fileName.split(".").pop() ?? "bin").toLowerCase();
     const safe = fileName.replace(/[^a-zA-Z0-9._-]/g, "_");
     const path = `ugc/${user.id}/${gameSlug}/${Date.now()}-${safe}`;
+
+    const CONTENT_TYPES: Record<string, string> = {
+      pdf:  "application/pdf",
+      pptx: "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      ppt:  "application/vnd.ms-powerpoint",
+      mp3:  "audio/mpeg",
+      m4a:  "audio/mp4",
+      wav:  "audio/wav",
+      ogg:  "audio/ogg",
+      weba: "audio/webm",
+    };
 
     const { error } = await supabase.storage
       .from("attachments")
       .upload(path, buffer, {
-        contentType: ext === "pdf"
-          ? "application/pdf"
-          : "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        contentType: CONTENT_TYPES[ext] ?? "application/octet-stream",
         upsert: false,
       });
 
