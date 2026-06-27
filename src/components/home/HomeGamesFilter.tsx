@@ -5,6 +5,7 @@ import { Search, X } from "lucide-react";
 import { Game, Creator } from "@/types";
 import { GameShowcase } from "@/components/game/GameShowcase";
 import { NativeAdSlot } from "@/components/ads/NativeAdSlot";
+import { Reveal } from "@/components/motion/Reveal";
 
 interface GameWithCreators {
   game: Game;
@@ -131,7 +132,9 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
         <div className="flex flex-col gap-3">
           {filtered.map(({ game, creators }, i) => (
             <Fragment key={game.id}>
-              <GameShowcase game={game} creators={creators} defaultOpen={i === 0 && !hasFilters} />
+              <Reveal delay={Math.min(i, 6) * 60}>
+                <GameShowcase game={game} creators={creators} defaultOpen={i === 0 && !hasFilters} />
+              </Reveal>
               {/* Sponsored slot after 3rd game, only when no filters active */}
               {i === 2 && !hasFilters && (
                 <NativeAdSlot

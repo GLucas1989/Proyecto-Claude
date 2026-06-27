@@ -90,3 +90,62 @@ body::before {
 .hide-scrollbar::-webkit-scrollbar {
   display: none;
 }
+
+/* ════════════════════════════════════════════════════════════
+   ANIMACIONES PRO (estilo 21st.dev) — on-brand cyberpunk
+   ════════════════════════════════════════════════════════════ */
+
+/* Entrada fade-up + blur (firma 21st.dev) */
+@keyframes reveal-up {
+  0%   { opacity: 0; transform: translateY(18px); filter: blur(6px); }
+  100% { opacity: 1; transform: translateY(0);    filter: blur(0); }
+}
+.reveal-init { opacity: 0; }
+.reveal-in {
+  animation: reveal-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Shine sweep para botones primarios */
+@keyframes shine-sweep {
+  0%   { transform: translateX(-120%) skewX(-20deg); }
+  60%, 100% { transform: translateX(220%) skewX(-20deg); }
+}
+.shine-btn { position: relative; overflow: hidden; }
+.shine-btn::after {
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(110deg, transparent 30%, rgba(255,255,255,0.18) 50%, transparent 70%);
+  transform: translateX(-120%) skewX(-20deg);
+  pointer-events: none;
+}
+.shine-btn:hover::after { animation: shine-sweep 0.9s ease-out; }
+
+/* Neon pulse sutil (CTAs) */
+@keyframes neon-pulse {
+  0%, 100% { box-shadow: 0 0 14px rgba(0,240,255,0.30); }
+  50%      { box-shadow: 0 0 26px rgba(0,240,255,0.55); }
+}
+.neon-pulse { animation: neon-pulse 2.4s ease-in-out infinite; }
+
+/* Shimmer para skeletons/carga */
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.shimmer {
+  background: linear-gradient(90deg, rgba(255,255,255,0.03) 25%, rgba(0,240,255,0.08) 37%, rgba(255,255,255,0.03) 63%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+}
+
+/* ── Respetar prefers-reduced-motion (gap crítico del skill) ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+  .reveal-init { opacity: 1 !important; }
+  .cyber-glow, .cyber-border, .neon-pulse, .shimmer { animation: none !important; }
+}
