@@ -122,6 +122,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-S0k6oqe9RGM",
+        "title": "🔴 BIG MIST UPDATE is COMING to Albion Online!",
+        "thumbnail": "https://i4.ytimg.com/vi/S0k6oqe9RGM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S0k6oqe9RGM",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-Eq5_kUqr9rI",
         "title": "My Favorite Warlock Build in Diablo Immortal",
         "thumbnail": "https://i2.ytimg.com/vi/Eq5_kUqr9rI/hqdefault.jpg",
@@ -182,13 +189,6 @@
         "title": "I Asked for Warlock… Diablo Immortal Did It!",
         "thumbnail": "https://i3.ytimg.com/vi/rWmqzIhAiLQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rWmqzIhAiLQ",
-        "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-HUN7myal_ms",
-        "title": "🔴 Buffed Corrupted Dungeon Night! | Albion Online",
-        "thumbnail": "https://i1.ytimg.com/vi/HUN7myal_ms/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HUN7myal_ms",
         "publishedAt": "2026-06-24"
       }
     ]
