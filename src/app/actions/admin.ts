@@ -142,6 +142,79 @@ export async function listCreators(search = ""): Promise<CreatorRow[]> {
   return (data ?? []) as CreatorRow[];
 }
 
+// ── Reclamos de perfil (claims) ───────────────────────────────────────────────
+
+export interface ClaimRow {
+  id: string;
+  user_id: string;
+  creator_slug: string;
+  game_slug: string;
+  verification_code: string | null;
+  created_at: string;
+  display_name: string | null;
+  email: string;
+}
+
+/** Lista los reclamos de perfil pendientes (admin). */
+export async function listPendingClaims(): Promise<ClaimRow[]> {
+  const { supabase } = await requireAdmin();
+  const { data } = await supabase
+    .from("claim_requests")
+    .select("id, user_id, creator_slug, game_slug, verification_code, created_at, profiles(display_name, email)")
+    .eq("status", "pending")
+    .order("created_at", { ascending: true });
+
+  return (data ?? []).map((r) => {
+    const p = r.profiles as unknown as { display_name: string | null; email: string } | null;
+    return {
+      id: r.id, user_id: r.user_id, creator_slug: r.creator_slug, game_slug: r.game_slug,
+      verification_code: r.verification_code, created_at: r.created_at,
+      display_name: p?.display_name ?? null, email: p?.email ?? "",
+    };
+  });
+}
+
+/**
+ * Aprueba un reclamo: vincula el creator_profile al usuario, lo marca verificado
+ * y designa al usuario como CREADOR OFICIAL (is_official_creator) — habilitando
+ * la vía de autorización gratuita de monetización.
+ */
+export async function resolveClaim(
+  claimId: string,
+  approve: boolean
+): Promise<{ ok: boolean; error?: string }> {
+  const { supabase } = await requireAdmin();
+
+  const { data: claim } = await supabase
+    .from("claim_requests")
+    .select("user_id, creator_slug, game_slug")
+    .eq("id", claimId)
+    .single();
+  if (!claim) return { ok: false, error: "Reclamo no encontrado." };
+
+  await supabase
+    .from("claim_requests")
+    .update({ status: approve ? "approved" : "rejected", resolved_at: new Date().toISOString() })
+    .eq("id", claimId);
+
+  if (approve) {
+    // Vincular y verificar el perfil de creador
+    await supabase
+      .from("creator_profiles")
+      .update({ user_id: claim.user_id, verified: true, verified_at: new Date().toISOString(), verified_method: "admin_claim" })
+      .eq("slug", claim.creator_slug);
+
+    // Marcar al usuario como creador oficial
+    await supabase
+      .from("profiles")
+      .update({ is_official_creator: true })
+      .eq("id", claim.user_id);
+  }
+
+  revalidatePath("/dashboard/admin/moderation");
+  return { ok: true };
+}
+
 /**
  * Designa o revoca un "creador de confianza".
  * Si está activo, sus publicaciones se auto-publican sin pasar por moderación.

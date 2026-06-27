@@ -2,10 +2,11 @@ import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
 import { approvePublication, rejectPublication } from "@/app/actions/ugc";
-import { listCreators } from "@/app/actions/admin";
+import { listCreators, listPendingClaims } from "@/app/actions/admin";
 import { listMonetizationRequests } from "@/app/actions/monetization";
 import { TrustedCreatorsManager } from "@/components/admin/TrustedCreatorsManager";
 import { MonetizationRequests } from "@/components/admin/MonetizationRequests";
+import { ClaimRequests } from "@/components/admin/ClaimRequests";
 import {
   ShieldCheck, CheckCircle2, XCircle, Clock, BookOpen, Swords, Trophy, AlertTriangle,
 } from "lucide-react";
@@ -29,6 +30,7 @@ export default async function ModerationPage() {
 
   const creators = await listCreators();
   const monetizationReqs = await listMonetizationRequests();
+  const claims = await listPendingClaims();
 
   const TYPE_ICON: Record<string, React.ReactNode> = {
     GUIDE:     <BookOpen className="h-4 w-4 text-cyan-400" />,
@@ -151,8 +153,13 @@ export default async function ModerationPage() {
         </div>
       )}
 
-      {/* Solicitudes de monetización */}
+      {/* Reclamos de perfil oficial */}
       <div className="mt-10">
+        <ClaimRequests initial={claims} />
+      </div>
+
+      {/* Solicitudes de monetización */}
+      <div className="mt-6">
         <MonetizationRequests initial={monetizationReqs} />
       </div>
 
