@@ -62,6 +62,7 @@
 - [x] VideoLinkInput cableado al formulario de carga
 - [x] Panel de moderación (cola de revisión approve/reject)
 - [x] Sistema de **creadores de confianza** (auto-publicación sin moderar)
+- [x] Botón **Seguir** implementado en UI: tarjetas de creador (landing + categoría), hero de juego y página de creador
 
 ---
 

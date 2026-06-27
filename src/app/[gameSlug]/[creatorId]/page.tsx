@@ -10,6 +10,7 @@ import { ArrowLeft, Play, Tv, AtSign, ChevronRight, Home, Video, Zap } from "luc
 import { TwitchLiveBadge } from "@/components/creator/TwitchLiveBadge";
 import { StarRating } from "@/components/creator/StarRating";
 import { ClaimProfileButton } from "@/components/auth/ClaimProfileButton";
+import { FollowButton } from "@/components/follow/FollowButton";
 
 interface CreatorPageProps {
   params: Promise<{ gameSlug: string; creatorId: string }>;
@@ -146,6 +147,7 @@ export default async function CreatorPage({ params }: CreatorPageProps) {
                     <a href={twitterUrl} target="_blank" rel="noopener noreferrer"><AtSign className="h-3.5 w-3.5" />Twitter</a>
                   </Button>
                 )}
+                <FollowButton targetId={creator.id} type="author" label="Seguir creador" />
               </div>
               <div className="flex items-center gap-3 mt-2">
                 <StarRating creatorId={creator.id} />

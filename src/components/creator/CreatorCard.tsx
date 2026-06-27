@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Play, Tv, AtSign, ArrowUpRight } from "lucide-react";
 import { TwitchLiveBadge } from "./TwitchLiveBadge";
 import { StarRating } from "./StarRating";
+import { FollowButton } from "@/components/follow/FollowButton";
 
 const contentTypeLabel: Record<string, string> = {
   competitive: "Competitivo",
@@ -122,9 +123,12 @@ export function CreatorCard({ creator, gameSlug }: CreatorCardProps) {
             </a>
           )}
         </div>
-        <Button asChild size="sm" className="h-7 px-3 text-xs bg-white/8 hover:bg-amber-500/20 hover:text-amber-300 border border-white/10 hover:border-amber-500/40 text-white/70 transition-all gap-1" variant="ghost">
-          <Link href={`/${gameSlug}/${creator.id}`}>Ver Perfil<ArrowUpRight className="h-3 w-3" /></Link>
-        </Button>
+        <div className="flex items-center gap-2">
+          <FollowButton targetId={creator.id} type="author" />
+          <Button asChild size="sm" className="h-7 px-3 text-xs bg-white/8 hover:bg-amber-500/20 hover:text-amber-300 border border-white/10 hover:border-amber-500/40 text-white/70 transition-all gap-1" variant="ghost">
+            <Link href={`/${gameSlug}/${creator.id}`}>Ver Perfil<ArrowUpRight className="h-3 w-3" /></Link>
+          </Button>
+        </div>
       </div>
     </div>
   );
