@@ -4,10 +4,12 @@ import { useState } from "react";
 import Link from "next/link";
 import {
   GraduationCap, Wrench, Wallet, Coins, Receipt, PlusCircle,
-  ShieldCheck, Clock, Zap, TrendingUp, Eye, Download,
+  ShieldCheck, Clock, Zap, TrendingUp, Eye, Download, Compass,
 } from "lucide-react";
 import { ReputationCard } from "@/components/dashboard/ReputationCard";
 import { MyPublicationsList } from "@/components/dashboard/MyPublicationsList";
+import { EmptyStatePlaceholder } from "@/components/dashboard/EmptyStatePlaceholder";
+import { StatCard } from "@/components/dashboard/StatCard";
 import type { UserPublication, UserReputation, WalletTransaction } from "@/types/database";
 
 type Mode = "student" | "creator";
@@ -40,9 +42,9 @@ export function DashboardShell(props: DashboardShellProps) {
   const [mode, setMode] = useState<Mode>(isCreator ? "creator" : "student");
 
   return (
-    <div className="max-w-5xl mx-auto px-4 py-12 space-y-8">
+    <div className="max-w-5xl mx-auto px-4 py-6 sm:py-10 space-y-6 sm:space-y-8">
       {/* Header + toggle */}
-      <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
+      <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-3 sm:gap-4">
         <div>
           <p className="text-[10px] font-mono text-cyan-500/50 uppercase tracking-[0.3em] mb-1">
             {"// panel de control"}
@@ -98,37 +100,37 @@ function StudentView({
 }: { email: string; creditBalance: number; subscriptions: SubscriptionView[] }) {
   const activeSubs = subscriptions.filter((s) => s.status === "active");
   return (
-    <div className="space-y-6">
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+    <div className="space-y-5 sm:space-y-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
         {/* Balance de S-Credits */}
-        <div className="rounded-xl border border-cyan-500/20 bg-gradient-to-br from-cyan-500/[0.06] to-transparent p-5">
-          <div className="flex items-center gap-2 mb-2">
-            <Coins className="h-4 w-4 text-cyan-400" />
-            <p className="text-xs font-mono text-white/50 uppercase tracking-widest">S-Credits</p>
-          </div>
-          <p className="text-3xl font-black text-white">{creditBalance.toLocaleString("es-AR")}</p>
-          <p className="text-[10px] text-white/30 font-mono mt-1">
-            ≈ ${(creditBalance * 0.01).toFixed(2)} USD en valor de propina
-          </p>
-        </div>
+        <StatCard
+          icon={Coins}
+          label="S-Credits"
+          value={creditBalance.toLocaleString("es-AR")}
+          hint={`≈ $${(creditBalance * 0.01).toFixed(2)} USD en valor de propina`}
+          accent="cyan"
+        />
 
         {/* Cuenta */}
-        <div className="rounded-xl border border-white/8 bg-white/[0.02] p-5">
+        <div className="relative overflow-hidden rounded-2xl border border-white/10 bg-[#0B0F19]/50 backdrop-blur-md p-5 flex flex-col justify-center">
           <p className="text-[10px] font-mono text-white/25 uppercase tracking-widest mb-2">{"// cuenta"}</p>
-          <p className="text-xs text-white/50 font-mono truncate">{email}</p>
+          <p className="text-xs text-white/55 font-mono truncate">{email}</p>
         </div>
       </div>
 
       {/* Suscripciones activas */}
       <section>
-        <h2 className="text-base font-bold text-white mb-4">Suscripciones activas</h2>
+        <h2 className="text-base font-bold text-white mb-3 sm:mb-4">Suscripciones activas</h2>
         {activeSubs.length === 0 ? (
-          <div className="rounded-xl border border-dashed border-white/10 bg-white/[0.02] p-8 text-center">
-            <p className="text-sm text-white/40">Todavía no tenés suscripciones activas.</p>
-            <Link href="/" className="inline-block mt-3 text-xs font-mono text-cyan-400 hover:text-cyan-300">
-              Explorar academias →
-            </Link>
-          </div>
+          <EmptyStatePlaceholder
+            icon={Compass}
+            title="Todavía no tenés suscripciones"
+            description="Desbloqueá academias premium de tus creadores favoritos y aprendé de los mejores. Tu próximo nivel arranca acá."
+            ctaLabel="Explorar academias"
+            ctaHref="/"
+            ctaIcon={Compass}
+            accent="cyan"
+          />
         ) : (
           <ul className="space-y-2">
             {activeSubs.map((s) => (
@@ -158,9 +160,9 @@ function StudentView({
 function CreatorView(props: DashboardShellProps) {
   const totalViews = props.publications.reduce((a, p) => a + (p.views_count ?? 0), 0);
   return (
-    <div className="space-y-8">
+    <div className="space-y-6 sm:space-y-8">
       {/* Top: reputación + perfil */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
         <ReputationCard reputation={props.reputation} />
 
         {props.claimedProfile ? (
@@ -199,22 +201,24 @@ function CreatorView(props: DashboardShellProps) {
         <div className="rounded-xl border border-white/8 bg-white/[0.02] p-5 flex flex-col gap-3">
           <div className="flex items-center gap-2"><Eye className="h-3.5 w-3.5 text-white/30" /><span className="text-xs font-mono text-white/40">Vistas totales</span><span className="ml-auto text-sm font-bold text-white">{totalViews.toLocaleString("es-AR")}</span></div>
           <div className="flex items-center gap-2"><TrendingUp className="h-3.5 w-3.5 text-white/30" /><span className="text-xs font-mono text-white/40">Publicaciones</span><span className="ml-auto text-sm font-bold text-white">{props.publications.length}</span></div>
-          <Link href="/ugc/new" className="mt-1 flex items-center justify-center gap-2 px-4 py-2 rounded-xl border border-cyan-500/25 bg-cyan-500/8 text-xs font-mono font-bold text-cyan-400 hover:bg-cyan-500/15 transition-all">
+          <Link href="/ugc/new" className="mt-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border border-cyan-500/40 bg-gradient-to-r from-cyan-500/20 to-cyan-400/10 text-xs font-mono font-bold text-cyan-200 hover:from-cyan-500/30 hover:to-cyan-400/20 hover:shadow-[0_0_24px_rgba(0,240,255,0.25)] transition-all">
             <PlusCircle className="h-3.5 w-3.5" /> Nueva publicación
           </Link>
         </div>
       </div>
 
       {/* Panel financiero */}
-      <section className="grid grid-cols-1 lg:grid-cols-3 gap-4">
-        <div className="rounded-xl border border-pink-500/20 bg-gradient-to-br from-pink-500/[0.06] to-transparent p-5">
-          <div className="flex items-center gap-2 mb-2"><Wallet className="h-4 w-4 text-pink-400" /><p className="text-xs font-mono text-white/50 uppercase tracking-widest">Saldo disponible</p></div>
-          <p className="text-3xl font-black text-white">${props.walletBalance.toFixed(2)}</p>
-          <p className="text-[10px] text-white/30 font-mono mt-1">Retirado histórico: ${props.withdrawnBalance.toFixed(2)}</p>
-        </div>
+      <section className="grid grid-cols-1 lg:grid-cols-3 gap-3 sm:gap-4">
+        <StatCard
+          icon={Wallet}
+          label="Saldo disponible"
+          value={`$${props.walletBalance.toFixed(2)}`}
+          hint={`Retirado histórico: $${props.withdrawnBalance.toFixed(2)}`}
+          accent="pink"
+        />
 
         {/* Historial de transacciones */}
-        <div className="lg:col-span-2 rounded-xl border border-white/8 bg-white/[0.02] p-5">
+        <div className="lg:col-span-2 rounded-2xl border border-white/10 bg-[#0B0F19]/50 backdrop-blur-md p-5">
           <div className="flex items-center gap-2 mb-3"><Receipt className="h-4 w-4 text-white/40" /><p className="text-sm font-semibold text-white">Historial de transacciones</p></div>
           {props.transactions.length === 0 ? (
             <p className="text-xs text-white/30 font-mono py-4">{"// sin movimientos todavía"}</p>

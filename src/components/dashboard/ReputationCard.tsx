@@ -36,7 +36,7 @@ export function ReputationCard({ reputation }: ReputationCardProps) {
   const { next, needed, progress } = getNextRankInfo(points, rankTitle);
 
   return (
-    <div className="rounded-2xl border border-white/8 bg-white/[0.02] p-5 relative overflow-hidden">
+    <div className="rounded-2xl border border-white/10 bg-[#0B0F19]/50 backdrop-blur-md p-5 relative overflow-hidden">
       {/* Scanline decoration */}
       <div className="pointer-events-none absolute inset-0 opacity-[0.02]"
         style={{ backgroundImage: "repeating-linear-gradient(0deg, transparent, transparent 2px, white 2px, white 3px)" }}
@@ -74,10 +74,16 @@ export function ReputationCard({ reputation }: ReputationCardProps) {
             <span>{rankTitle}</span>
             <span>{next} — faltan {needed} pts</span>
           </div>
-          <div className="h-1.5 rounded-full bg-white/5 overflow-hidden">
+          <div className="h-2 rounded-full bg-white/5 overflow-hidden">
             <div
-              className={`h-full rounded-full transition-all duration-700 ${
-                cfg.tier >= 5 ? "bg-fuchsia-500" : cfg.tier >= 4 ? "bg-violet-500" : cfg.tier >= 3 ? "bg-cyan-500" : "bg-green-500"
+              className={`h-full rounded-full transition-[width] duration-1000 ease-out ${
+                cfg.tier >= 5
+                  ? "bg-gradient-to-r from-fuchsia-600 to-fuchsia-400 shadow-[0_0_10px_rgba(232,121,249,0.5)]"
+                  : cfg.tier >= 4
+                    ? "bg-gradient-to-r from-violet-600 to-violet-400 shadow-[0_0_10px_rgba(167,139,250,0.5)]"
+                    : cfg.tier >= 3
+                      ? "bg-gradient-to-r from-cyan-600 to-cyan-400 shadow-[0_0_10px_rgba(34,211,238,0.5)]"
+                      : "bg-gradient-to-r from-green-600 to-green-400 shadow-[0_0_10px_rgba(74,222,128,0.5)]"
               }`}
               style={{ width: `${progress}%` }}
             />

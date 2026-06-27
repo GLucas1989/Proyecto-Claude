@@ -3,6 +3,7 @@ import {
   BookOpen, Swords, Trophy, Eye, Edit3,
   PlusCircle, FileText,
 } from "lucide-react";
+import { EmptyStatePlaceholder } from "@/components/dashboard/EmptyStatePlaceholder";
 import type { UserPublication, PublicationStatus, PublicationType } from "@/types/database";
 
 const TYPE_CONFIG: Record<PublicationType, { icon: React.ReactNode; label: string; color: string }> = {
@@ -25,24 +26,15 @@ interface MyPublicationsListProps {
 export function MyPublicationsList({ publications }: MyPublicationsListProps) {
   if (publications.length === 0) {
     return (
-      <div className="rounded-2xl border border-dashed border-white/8 bg-white/[0.015] p-12 flex flex-col items-center text-center gap-5">
-        <div className="flex items-center justify-center w-14 h-14 rounded-2xl border border-white/8 bg-white/[0.03]">
-          <FileText className="h-6 w-6 text-white/20" />
-        </div>
-        <div>
-          <p className="text-sm font-bold text-white/50 mb-1">Sin publicaciones todavía</p>
-          <p className="text-xs font-mono text-white/25 max-w-xs">
-            Compartí tu conocimiento con la comunidad. Guías, builds y tier lists que ayuden a otros jugadores.
-          </p>
-        </div>
-        <Link
-          href="/ugc/new"
-          className="flex items-center gap-2 px-5 py-2.5 rounded-xl border border-cyan-500/30 bg-cyan-500/10 text-xs font-mono font-bold text-cyan-400 hover:bg-cyan-500/20 hover:border-cyan-500/50 transition-all"
-        >
-          <PlusCircle className="h-4 w-4" />
-          Crear mi primera guía profesional
-        </Link>
-      </div>
+      <EmptyStatePlaceholder
+        icon={FileText}
+        title="Sin publicaciones todavía"
+        description="Compartí tu conocimiento con la comunidad. Guías, builds y tier lists que ayuden a otros jugadores a subir de nivel."
+        ctaLabel="Crear mi primera guía profesional"
+        ctaHref="/ugc/new"
+        ctaIcon={PlusCircle}
+        accent="cyan"
+      />
     );
   }
 
