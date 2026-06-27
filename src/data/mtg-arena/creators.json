@@ -320,6 +320,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-66uBPPD55uQ",
+        "title": "🔴DOUBLE MYTHIC TODAY🔴MAGIC FATES LATER🔴",
+        "thumbnail": "https://i3.ytimg.com/vi/66uBPPD55uQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=66uBPPD55uQ",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-l-Y10SLiN6o",
         "title": "🔴DOUBLE MYTHIC?🔴",
         "thumbnail": "https://i1.ytimg.com/vi/l-Y10SLiN6o/hqdefault.jpg",
@@ -381,13 +388,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/ZRlN9chBKbs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZRlN9chBKbs",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-YJ6SXEGmotI",
-        "title": "Tolarian Academy Goes BRRR",
-        "thumbnail": "https://i2.ytimg.com/vi/YJ6SXEGmotI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YJ6SXEGmotI",
-        "publishedAt": "2026-06-21"
       }
     ]
   },

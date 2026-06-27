@@ -119,6 +119,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-RYDHbqorsus",
+        "title": "Warlock DoT PvP Build MELTS Players! | Diablo Immortal",
+        "thumbnail": "https://i3.ytimg.com/vi/RYDHbqorsus/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RYDHbqorsus",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-NNfRDmH73Bo",
         "title": "Blizzard Removed Essences... And Nobody Is Talking About It",
         "thumbnail": "https://i3.ytimg.com/vi/NNfRDmH73Bo/hqdefault.jpg",
@@ -180,13 +187,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/ZX47xC5c5g4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZX47xC5c5g4",
         "publishedAt": "2026-05-30"
-      },
-      {
-        "id": "vid-IbVIAYRHRvI",
-        "title": "BK Shadow Clones Proc Shivering Breath!",
-        "thumbnail": "https://i2.ytimg.com/vi/IbVIAYRHRvI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IbVIAYRHRvI",
-        "publishedAt": "2026-05-29"
       }
     ]
   },

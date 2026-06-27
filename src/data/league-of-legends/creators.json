@@ -663,6 +663,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-IBjvCsVRhsk",
+        "title": "For years, Bin and Zeus have defined top lane greatness. Will #MSI2026 renew the rivalry?",
+        "thumbnail": "https://i2.ytimg.com/vi/IBjvCsVRhsk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IBjvCsVRhsk",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-eYllTZkvT1o",
         "title": "HongSuo versus Faker?! 😳",
         "thumbnail": "https://i2.ytimg.com/vi/eYllTZkvT1o/hqdefault.jpg",
@@ -723,13 +730,6 @@
         "title": "Josedeodo's BEATIFUL kick from South 🙌",
         "thumbnail": "https://i2.ytimg.com/vi/eHVXijapEjA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=eHVXijapEjA",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-dYM4OtdS7j0",
-        "title": "Bin putting on a show... Almost...",
-        "thumbnail": "https://i1.ytimg.com/vi/dYM4OtdS7j0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dYM4OtdS7j0",
         "publishedAt": "2026-06-22"
       }
     ]
@@ -851,6 +851,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-QND135FgIAY",
+        "title": "HP bar diff 📈 | LEC Plays Arena",
+        "thumbnail": "https://i2.ytimg.com/vi/QND135FgIAY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QND135FgIAY",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-G2s7dHH9kKA",
         "title": "\"Gonna be a MASSIVE Nasus game\" 🐶",
         "thumbnail": "https://i4.ytimg.com/vi/G2s7dHH9kKA/hqdefault.jpg",
@@ -912,13 +919,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/2IQ8bVLaOD8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2IQ8bVLaOD8",
         "publishedAt": "2026-06-13"
-      },
-      {
-        "id": "vid-asKgC5lBmIA",
-        "title": "Yike picks his ideal KC teamcomp",
-        "thumbnail": "https://i2.ytimg.com/vi/asKgC5lBmIA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=asKgC5lBmIA",
-        "publishedAt": "2026-06-12"
       }
     ]
   },
@@ -994,6 +994,13 @@
         "publishedAt": "2026-06-20"
       },
       {
+        "id": "vid-FNv9spD_NqI",
+        "title": "T1 vs TLAW - KC vs DCG | 플레이-인 스테이지 1라운드 | MSI 2026",
+        "thumbnail": "https://i3.ytimg.com/vi/FNv9spD_NqI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FNv9spD_NqI",
+        "publishedAt": "2026-06-19"
+      },
+      {
         "id": "vid-RPtMTZcpez0",
         "title": "5초안에 우리 팀 자랑하기 챌린지 in 원주",
         "thumbnail": "https://i3.ytimg.com/vi/RPtMTZcpez0/hqdefault.jpg",
@@ -1006,13 +1013,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/pLYh0ox5IHI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pLYh0ox5IHI",
         "publishedAt": "2026-06-16"
-      },
-      {
-        "id": "vid-hL2AHOehBy4",
-        "title": "진행 방식 안내 | 2026 MSI",
-        "thumbnail": "https://i1.ytimg.com/vi/hL2AHOehBy4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hL2AHOehBy4",
-        "publishedAt": "2026-06-15"
       }
     ]
   },
@@ -1061,6 +1061,20 @@
       "youtube": "https://www.youtube.com/@todayonthekoreanserver"
     },
     "latestVideos": [
+      {
+        "id": "vid-XaZoMY50_Q4",
+        "title": "🔴LIVE T1 Doran (Jayce) vs T1 Oner (Wukong)  - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i1.ytimg.com/vi/XaZoMY50_Q4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XaZoMY50_Q4",
+        "publishedAt": "2026-06-27"
+      },
+      {
+        "id": "vid-qVWVnir1WSk",
+        "title": "FULL T1 TEAM Playing Ranked 5v5! - Doran | Oner | Faker | Peyz | Keria -HIGH ELO KR Pros Highlights",
+        "thumbnail": "https://i2.ytimg.com/vi/qVWVnir1WSk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qVWVnir1WSk",
+        "publishedAt": "2026-06-27"
+      },
       {
         "id": "vid-N1OiBcObor8",
         "title": "T1 Peyz (Ezreal) - Spectating T1 in KR SoloQ/티원관전방",
@@ -1116,20 +1130,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/jAdOEzd1GHg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jAdOEzd1GHg",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-pjyU7w94qRQ",
-        "title": "T1 Peyz COOKING with BOT Vladimir - HIGH ELO KR Pros SoloQ Highlights",
-        "thumbnail": "https://i1.ytimg.com/vi/pjyU7w94qRQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pjyU7w94qRQ",
-        "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-5CiKYHmQfkE",
-        "title": "T1 Peyz (Skarner) - Spectating T1 in KR SoloQ/티원관",
-        "thumbnail": "https://i2.ytimg.com/vi/5CiKYHmQfkE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5CiKYHmQfkE",
-        "publishedAt": "2026-06-20"
       }
     ]
   },
@@ -1158,6 +1158,20 @@
       "twitch": "t1"
     },
     "latestVideos": [
+      {
+        "id": "vid-60mkTlBDObQ",
+        "title": "이번에는 사진입니다. 삼성 오디세이 모니터&TV 화보 촬영 비하인드 | T1 x Samsung Odyssey",
+        "thumbnail": "https://i3.ytimg.com/vi/60mkTlBDObQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=60mkTlBDObQ",
+        "publishedAt": "2026-06-27"
+      },
+      {
+        "id": "vid-gU7YP2jOARg",
+        "title": "손해밖에 없는 싸움 (ft. 도란)",
+        "thumbnail": "https://i4.ytimg.com/vi/gU7YP2jOARg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gU7YP2jOARg",
+        "publishedAt": "2026-06-27"
+      },
       {
         "id": "vid-a715QkHE80A",
         "title": "재미 있으셨죠?",
@@ -1213,20 +1227,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/V3hFzn_2VAM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=V3hFzn_2VAM",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-bQo7JhcIpnI",
-        "title": "운성곤 '니가 좋아' MV",
-        "thumbnail": "https://i3.ytimg.com/vi/bQo7JhcIpnI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bQo7JhcIpnI",
-        "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-lkdCmhxTDDE",
-        "title": "[EWC] 운성곤 '니가 좋아' MV",
-        "thumbnail": "https://i1.ytimg.com/vi/lkdCmhxTDDE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lkdCmhxTDDE",
-        "publishedAt": "2026-06-20"
       }
     ]
   },

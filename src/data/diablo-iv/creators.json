@@ -315,8 +315,15 @@
     },
     "latestVideos": [
       {
+        "id": "vid-w6TaR7pQ4Mo",
+        "title": "Updating Builds & Takedown Grind! // Borderlands 4 Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/w6TaR7pQ4Mo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w6TaR7pQ4Mo",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-NHzDD0l67GM",
-        "title": "NEW BORDERLANDS 6 UPDATE IS PEAK 🤣",
+        "title": "NEW BORDERLANDS 4 UPDATE IS PEAK 🤣",
         "thumbnail": "https://i3.ytimg.com/vi/NHzDD0l67GM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NHzDD0l67GM",
         "publishedAt": "2026-06-27"
@@ -326,13 +333,6 @@
         "title": "Best New Weapons & Gear So Far! + New Classmods! // Borderlands 4 Takedown Update",
         "thumbnail": "https://i4.ytimg.com/vi/OvKryMBG7oA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=OvKryMBG7oA",
-        "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-w6TaR7pQ4Mo",
-        "title": "Updating Builds & Takedown Grind! // Borderlands 4 Livestream",
-        "thumbnail": "https://i4.ytimg.com/vi/w6TaR7pQ4Mo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w6TaR7pQ4Mo",
         "publishedAt": "2026-06-26"
       },
       {
@@ -413,6 +413,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-G_NrqkKP_4k",
+        "title": "Diablo 3 - My Clone Carried",
+        "thumbnail": "https://i4.ytimg.com/vi/G_NrqkKP_4k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G_NrqkKP_4k",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-20d3GGHDtUQ",
         "title": "Diablo 4 Season 14 FASTEST LEVELING GUIDE",
         "thumbnail": "https://i3.ytimg.com/vi/20d3GGHDtUQ/hqdefault.jpg",
@@ -421,7 +428,7 @@
       },
       {
         "id": "vid-rU57204URsw",
-        "title": "24h+ Diablo 3 Season 39 push to HCSSF GR150",
+        "title": "24h+ Diablo 3 Season 39 push to HCSSF GR150 & Dwarven Realms New Season (#ad)",
         "thumbnail": "https://i3.ytimg.com/vi/rU57204URsw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rU57204URsw",
         "publishedAt": "2026-06-26"
@@ -474,13 +481,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/tj2H8d-y_ug/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=tj2H8d-y_ug",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-Y21iPgNC5Ug",
-        "title": "PoE 2 - Reviewing Patch 0.5 (Endgame, Crafting, QoL)",
-        "thumbnail": "https://i2.ytimg.com/vi/Y21iPgNC5Ug/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Y21iPgNC5Ug",
-        "publishedAt": "2026-06-22"
       }
     ]
   }

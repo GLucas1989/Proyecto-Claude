@@ -419,6 +419,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-wzH7Hspl3s8",
+        "title": "Relic Crafting Got Me These Insane Results!  Raid: Shadow Legends",
+        "thumbnail": "https://i4.ytimg.com/vi/wzH7Hspl3s8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wzH7Hspl3s8",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-DHZ-OYb_yUU",
         "title": "Welcome Back to Sick Shard PULLS Live!  Raid: Shadow Legends",
         "thumbnail": "https://i1.ytimg.com/vi/DHZ-OYb_yUU/hqdefault.jpg",
@@ -479,13 +486,6 @@
         "title": "Monday Takeovers and Hangouts!",
         "thumbnail": "https://i1.ytimg.com/vi/89TfVj89_qQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=89TfVj89_qQ",
-        "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-qjEpzbfnsTU",
-        "title": "THIS EZIO TEAM SLAPS!  Raid: Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/qjEpzbfnsTU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qjEpzbfnsTU",
         "publishedAt": "2026-06-15"
       }
     ]
