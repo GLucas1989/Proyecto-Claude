@@ -298,6 +298,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-sYn97CpUuNU",
+        "title": "CREATOR SERIES LIVE - Austria 100% Race 71 Laps",
+        "thumbnail": "https://i4.ytimg.com/vi/sYn97CpUuNU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sYn97CpUuNU",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-0jU9ByB1_98",
         "title": "How I won the F1 26 Monaco GP in Creator Series",
         "thumbnail": "https://i1.ytimg.com/vi/0jU9ByB1_98/hqdefault.jpg",
@@ -359,13 +366,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/w_aEnc24S_Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=w_aEnc24S_Y",
         "publishedAt": "2026-06-03"
-      },
-      {
-        "id": "vid-mwfEmd6CcQM",
-        "title": "Another Championship Finale - F71 Hungary",
-        "thumbnail": "https://i2.ytimg.com/vi/mwfEmd6CcQM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mwfEmd6CcQM",
-        "publishedAt": "2026-06-02"
       }
     ]
   },

@@ -214,6 +214,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-QeVxrSHcitI",
+        "title": "Speed y yo tenemos un hermano llamado Messi.",
+        "thumbnail": "https://i2.ytimg.com/vi/QeVxrSHcitI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QeVxrSHcitI",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-uSmItCrEldo",
         "title": "Histórico lo de Cabo Verde. Surrealista.",
         "thumbnail": "https://i2.ytimg.com/vi/uSmItCrEldo/hqdefault.jpg",
@@ -274,13 +281,6 @@
         "title": "¿Quién es el Mejor Spider-Man? con Tom Holland y Zendaya",
         "thumbnail": "https://i2.ytimg.com/vi/yOtMgrNmF0E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yOtMgrNmF0E",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-yKXy1uPvhrQ",
-        "title": "El tiempo pasa muy rápido.",
-        "thumbnail": "https://i2.ytimg.com/vi/yKXy1uPvhrQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yKXy1uPvhrQ",
         "publishedAt": "2026-06-22"
       }
     ]

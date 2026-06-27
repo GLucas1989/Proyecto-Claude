@@ -321,9 +321,16 @@
     "latestVideos": [
       {
         "id": "vid-66uBPPD55uQ",
-        "title": "🔴DOUBLE MYTHIC TODAY🔴MAGIC FATES LATER🔴",
+        "title": "🔴MIGHT AND MAGIC FATES NEW SET🔴(ad)",
         "thumbnail": "https://i3.ytimg.com/vi/66uBPPD55uQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=66uBPPD55uQ",
+        "publishedAt": "2026-06-27"
+      },
+      {
+        "id": "vid-9u38UZkMnc8",
+        "title": "Chat Picks One, Crokeyz Picks One!",
+        "thumbnail": "https://i2.ytimg.com/vi/9u38UZkMnc8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9u38UZkMnc8",
         "publishedAt": "2026-06-27"
       },
       {
@@ -381,13 +388,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/i5al3RmBVZs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=i5al3RmBVZs",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-ZRlN9chBKbs",
-        "title": "STRONGEST TEAM I'VE EVER SEEN",
-        "thumbnail": "https://i3.ytimg.com/vi/ZRlN9chBKbs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZRlN9chBKbs",
-        "publishedAt": "2026-06-22"
       }
     ]
   },
@@ -419,6 +419,13 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-qhMsgTZ1yCo",
+        "title": "Should You Craft Doctor Doom?",
+        "thumbnail": "https://i2.ytimg.com/vi/qhMsgTZ1yCo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qhMsgTZ1yCo",
+        "publishedAt": "2026-06-27"
+      },
       {
         "id": "vid-pcwTsa7Nbs4",
         "title": "Quick Red is a deck... yep, it sure is...",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/p4GYm6XpCqg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=p4GYm6XpCqg",
         "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-YYG3J-OELhg",
-        "title": "They never saw it coming...",
-        "thumbnail": "https://i2.ytimg.com/vi/YYG3J-OELhg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YYG3J-OELhg",
-        "publishedAt": "2026-06-17"
       }
     ]
   }

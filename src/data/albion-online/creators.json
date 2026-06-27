@@ -503,6 +503,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-mnJskVufieM",
+        "title": "CUANTA AURA PERDÍ EN UN MINUTO... 💀 Albion Online",
+        "thumbnail": "https://i2.ytimg.com/vi/mnJskVufieM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mnJskVufieM",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-N7iajvWWMsk",
         "title": "NUEVOS BOSSES, MISIONES Y SKINS ¡GRATIS! 🔥 Albion Online",
         "thumbnail": "https://i3.ytimg.com/vi/N7iajvWWMsk/hqdefault.jpg",
@@ -564,13 +571,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/X3dgWYvvZ5s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=X3dgWYvvZ5s",
         "publishedAt": "2026-06-10"
-      },
-      {
-        "id": "vid-kEmxRCMGnUk",
-        "title": "GUILD WARS 3 ES REAL 😯 ¿LA ÚLTIMA ESPERANZA DEL MMORPG?",
-        "thumbnail": "https://i4.ytimg.com/vi/kEmxRCMGnUk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kEmxRCMGnUk",
-        "publishedAt": "2026-06-09"
       }
     ]
   }
