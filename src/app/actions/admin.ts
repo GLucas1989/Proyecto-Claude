@@ -113,3 +113,51 @@ export async function getWalletTransactions(userId: string): Promise<WalletTrans
     .limit(50);
   return data ?? [];
 }
+
+// ── Creadores de confianza (auto-publicación sin moderación) ──────────────────
+
+export interface CreatorRow {
+  id: string;
+  email: string;
+  display_name: string | null;
+  is_trusted_creator: boolean;
+  role: string;
+}
+
+/** Lista perfiles para gestión de confianza (búsqueda opcional por nombre/email). */
+export async function listCreators(search = ""): Promise<CreatorRow[]> {
+  const { supabase } = await requireAdmin();
+
+  let query = supabase
+    .from("profiles")
+    .select("id, email, display_name, is_trusted_creator, role")
+    .order("is_trusted_creator", { ascending: false })
+    .limit(50);
+
+  if (search.trim()) {
+    query = query.or(`email.ilike.%${search}%,display_name.ilike.%${search}%`);
+  }
+
+  const { data } = await query;
+  return (data ?? []) as CreatorRow[];
+}
+
+/**
+ * Designa o revoca un "creador de confianza".
+ * Si está activo, sus publicaciones se auto-publican sin pasar por moderación.
+ */
+export async function setCreatorTrusted(
+  targetUserId: string,
+  trusted: boolean
+): Promise<{ ok: boolean; error?: string }> {
+  const { supabase } = await requireAdmin();
+
+  const { error } = await supabase
+    .from("profiles")
+    .update({ is_trusted_creator: trusted })
+    .eq("id", targetUserId);
+
+  if (error) return { ok: false, error: error.message };
+  revalidatePath("/dashboard/admin/moderation");
+  return { ok: true };
+}

@@ -2,6 +2,8 @@ import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
 import { createClient } from "@/lib/supabase/server";
 import { approvePublication, rejectPublication } from "@/app/actions/ugc";
+import { listCreators } from "@/app/actions/admin";
+import { TrustedCreatorsManager } from "@/components/admin/TrustedCreatorsManager";
 import {
   ShieldCheck, CheckCircle2, XCircle, Clock, BookOpen, Swords, Trophy, AlertTriangle,
 } from "lucide-react";
@@ -22,6 +24,8 @@ export default async function ModerationPage() {
     .order("updated_at", { ascending: true });
 
   const queue = (pending ?? []) as (UserPublication & { profiles: { display_name: string | null; email: string } | null })[];
+
+  const creators = await listCreators();
 
   const TYPE_ICON: Record<string, React.ReactNode> = {
     GUIDE:     <BookOpen className="h-4 w-4 text-cyan-400" />,
@@ -143,6 +147,11 @@ export default async function ModerationPage() {
           ))}
         </div>
       )}
+
+      {/* Gestión de creadores de confianza (auto-publicación) */}
+      <div className="mt-10">
+        <TrustedCreatorsManager initial={creators} />
+      </div>
     </div>
   );
 }

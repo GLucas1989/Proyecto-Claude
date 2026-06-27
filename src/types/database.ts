@@ -99,6 +99,7 @@ export interface Database {
           role: UserRole;
           is_claimed: boolean;
           is_founding_partner: boolean;
+          is_trusted_creator: boolean;
           created_at: string;
           updated_at: string;
         };
@@ -110,6 +111,7 @@ export interface Database {
           role?: UserRole;
           is_claimed?: boolean;
           is_founding_partner?: boolean;
+          is_trusted_creator?: boolean;
         };
         Update: {
           email?: string;
@@ -118,6 +120,7 @@ export interface Database {
           role?: UserRole;
           is_claimed?: boolean;
           is_founding_partner?: boolean;
+          is_trusted_creator?: boolean;
         };
       };
       creator_profiles: {

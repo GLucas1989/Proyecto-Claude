@@ -138,10 +138,24 @@ export async function submitForReview(params: {
       await saveDraft(params);
     }
 
-    // Cambiar estado a PENDING_REVIEW
+    // ¿Es un creador de confianza? → auto-publicación sin moderación
+    const { data: prof } = await supabase
+      .from("profiles")
+      .select("is_trusted_creator")
+      .eq("id", user.id)
+      .single();
+    const trusted = prof?.is_trusted_creator === true;
+
+    const nextStatus: PublicationStatus = trusted ? "PUBLISHED" : "PENDING_REVIEW";
+    const patch: Record<string, unknown> = {
+      status: nextStatus,
+      updated_at: new Date().toISOString(),
+    };
+    if (trusted) patch.published_at = new Date().toISOString();
+
     const { error } = await supabase
       .from("user_publications")
-      .update({ status: "PENDING_REVIEW", updated_at: new Date().toISOString() })
+      .update(patch)
       .eq("id", pubId)
       .eq("user_id", user.id)
       .eq("status", "DRAFT");
