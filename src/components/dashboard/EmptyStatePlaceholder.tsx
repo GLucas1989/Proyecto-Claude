@@ -62,7 +62,7 @@ export function EmptyStatePlaceholder({
 
       <Link
         href={ctaHref}
-        className={`relative inline-flex items-center gap-2 px-5 sm:px-6 py-2.5 sm:py-3 rounded-xl border font-mono text-sm font-bold transition-all ${a.btn}`}
+        className={`relative inline-flex items-center gap-2 px-5 sm:px-6 py-2.5 sm:py-3 rounded-xl border font-mono text-sm font-bold transition-all duration-200 shadow-[0_0_10px_rgba(0,240,255,0.3)] hover:scale-[1.02] active:scale-95 ${a.btn}`}
       >
         {CtaIcon && <CtaIcon className="h-4 w-4" />}
         {ctaLabel}

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useTransition } from "react";
-import { Search, ShieldCheck, Shield, Loader2, Zap } from "lucide-react";
+import { Search, ShieldCheck, Shield, Loader2, Zap, Check } from "lucide-react";
 import { listCreators, setCreatorTrusted, type CreatorRow } from "@/app/actions/admin";
 
 interface TrustedCreatorsManagerProps {
@@ -17,6 +17,10 @@ export function TrustedCreatorsManager({ initial }: TrustedCreatorsManagerProps)
   const [search, setSearch] = useState("");
   const [pending, startTransition] = useTransition();
   const [busyId, setBusyId] = useState<string | null>(null);
+  const [flashId, setFlashId] = useState<string | null>(null);
+
+  // Acceso rápido: últimos 5 creadores marcados como de confianza
+  const trusted = rows.filter((r) => r.is_trusted_creator).slice(0, 5);
 
   function runSearch() {
     startTransition(async () => {
@@ -32,6 +36,9 @@ export function TrustedCreatorsManager({ initial }: TrustedCreatorsManagerProps)
       const res = await setCreatorTrusted(row.id, next);
       if (res.ok) {
         setRows((prev) => prev.map((r) => (r.id === row.id ? { ...r, is_trusted_creator: next } : r)));
+        // Confirmación visual: flash en la fila durante 1.5s
+        setFlashId(row.id);
+        setTimeout(() => setFlashId((cur) => (cur === row.id ? null : cur)), 1500);
       }
       setBusyId(null);
     });
@@ -72,17 +79,40 @@ export function TrustedCreatorsManager({ initial }: TrustedCreatorsManagerProps)
         </div>
       </div>
 
+      {/* Acceso rápido: creadores de confianza actuales */}
+      {trusted.length > 0 && (
+        <div className="px-4 py-3 border-b border-white/5 bg-green-500/[0.03]">
+          <p className="text-[10px] font-mono text-green-300/60 uppercase tracking-widest mb-2">{"// acceso rápido · de confianza"}</p>
+          <div className="flex flex-wrap gap-1.5">
+            {trusted.map((t) => (
+              <span
+                key={t.id}
+                className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-mono border border-green-500/30 bg-green-500/10 text-green-300"
+              >
+                <ShieldCheck className="h-3 w-3" />
+                {t.display_name ?? t.email}
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
+
       {/* Lista */}
       <ul className="divide-y divide-white/5">
         {rows.length === 0 ? (
           <li className="px-5 py-8 text-center text-xs font-mono text-white/25">{"// sin resultados"}</li>
         ) : (
           rows.map((row) => (
-            <li key={row.id} className="flex items-center gap-3 px-5 py-3">
+            <li key={row.id} className={`flex items-center gap-3 px-5 py-3 transition-colors duration-500 ${flashId === row.id ? "bg-green-500/10" : ""}`}>
               <div className="flex-1 min-w-0">
                 <p className="text-sm text-white/80 truncate">{row.display_name ?? "(sin nombre)"}</p>
                 <p className="text-[11px] font-mono text-white/30 truncate">{row.email}</p>
               </div>
+              {flashId === row.id && (
+                <span className="inline-flex items-center gap-1 text-[10px] font-mono text-green-300">
+                  <Check className="h-3 w-3" /> guardado
+                </span>
+              )}
               {row.role === "ADMIN" && (
                 <span className="text-[9px] font-mono text-cyan-400/70 px-1.5 py-0.5 rounded border border-cyan-500/20">ADMIN</span>
               )}

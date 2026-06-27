@@ -46,10 +46,14 @@ export default async function ModerationPage() {
           <p className="text-[10px] font-mono text-cyan-500/50 uppercase tracking-widest">
             {"// admin › moderación"}
           </p>
-          <h1 className="text-xl font-black text-white">
+          <h1 className="text-xl font-black text-white flex items-center gap-2">
             Cola de Revisión
-            <span className="ml-2 text-sm font-mono font-normal text-white/30">
-              ({queue.length} pendientes)
+            <span className={`inline-flex items-center justify-center min-w-[22px] h-[22px] px-1.5 rounded-full text-xs font-mono font-bold ${
+              queue.length > 0
+                ? "bg-amber-500/15 border border-amber-500/40 text-amber-300 shadow-[0_0_10px_rgba(251,191,36,0.25)]"
+                : "bg-white/5 border border-white/10 text-white/30"
+            }`}>
+              {queue.length}
             </span>
           </h1>
         </div>
