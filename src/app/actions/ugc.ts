@@ -5,6 +5,7 @@ import { redirect } from "next/navigation";
 import type { PublicationType, PublicationStatus, UserPublication, UserReputation, PromotedContent } from "@/types/database";
 import { sendTransactionalEmail } from "@/lib/email/client";
 import { ugcApprovedEmail, ugcRejectedEmail } from "@/lib/email/templates";
+import { autoModerate } from "@/lib/moderation/filters";
 
 /**
  * Envía la notificación transaccional al autor tras una decisión de moderación.
@@ -66,10 +67,12 @@ export async function saveDraft(params: {
   content: string;
   attachments: string[];
   isPremium: boolean;
+  marketplaceDomain?: string;
+  esportsRole?: string;
 }): Promise<{ id: string } | null> {
   try {
     const { supabase, user } = await requireAuth();
-    const { publicationId, gameSlug, title, type, content, attachments, isPremium } = params;
+    const { publicationId, gameSlug, title, type, content, attachments, isPremium, marketplaceDomain, esportsRole } = params;
 
     if (publicationId) {
       await supabase
@@ -80,6 +83,8 @@ export async function saveDraft(params: {
           content_markdown: content,
           attachments_urls: attachments,
           is_premium: isPremium,
+          marketplace_domain: marketplaceDomain || null,
+          esports_role: esportsRole || null,
           updated_at: new Date().toISOString(),
         })
         .eq("id", publicationId)
@@ -99,6 +104,8 @@ export async function saveDraft(params: {
         content_markdown: content,
         attachments_urls: attachments,
         is_premium: isPremium,
+        marketplace_domain: marketplaceDomain || null,
+        esports_role: esportsRole || null,
         status: "DRAFT",
       })
       .select("id")
@@ -123,12 +130,14 @@ export async function submitForReview(params: {
   content: string;
   attachments: string[];
   isPremium: boolean;
-}): Promise<{ id: string } | null> {
+  marketplaceDomain?: string;
+  esportsRole?: string;
+}): Promise<{ id?: string; error?: string } | null> {
   try {
     const { supabase, user } = await requireAuth();
     const { gameSlug, title, type, content, attachments, isPremium } = params;
 
-    // Guardar o crear primero
+    // Guardar o crear primero (preserva el trabajo aunque luego se bloquee)
     let pubId = params.publicationId;
     if (!pubId) {
       const draft = await saveDraft({ ...params });
@@ -136,6 +145,17 @@ export async function submitForReview(params: {
       pubId = draft.id;
     } else {
       await saveDraft(params);
+    }
+
+    // ── Auto-moderación: frena spam/abuso antes de publicar o encolar ────
+    const mod = autoModerate({ title, content, attachments });
+    if (mod.blocked) {
+      await supabase
+        .from("user_publications")
+        .update({ rejected_reason: `Auto-rechazo: ${mod.reason}`, updated_at: new Date().toISOString() })
+        .eq("id", pubId)
+        .eq("user_id", user.id);
+      return { error: mod.reason };
     }
 
     const { data: prof } = await supabase

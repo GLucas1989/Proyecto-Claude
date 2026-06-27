@@ -6,6 +6,7 @@ import { TemplateSelector, type TemplateId } from "./TemplateSelector";
 import { MarkdownEditor } from "./MarkdownEditor";
 import { AttachmentUploader } from "./AttachmentUploader";
 import { VideoLinkInput } from "./VideoLinkInput";
+import { CategorySelector } from "./CategorySelector";
 import { ChevronRight, Save, Send, Lock, Globe, Sparkles } from "lucide-react";
 import type { PublicationType } from "@/types/database";
 
@@ -24,6 +25,8 @@ interface UGCWorkspaceProps {
     content: string;
     attachments: string[];
     isPremium: boolean;
+    marketplaceDomain?: string;
+    esportsRole?: string;
   };
 }
 
@@ -41,6 +44,8 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
   const [content, setContent]         = useState(initialData?.content ?? "");
   const [attachments, setAttachments] = useState<string[]>(initialData?.attachments ?? []);
   const [isPremium, setIsPremium]     = useState(initialData?.isPremium ?? false);
+  const [mktDomain, setMktDomain]     = useState(initialData?.marketplaceDomain ?? "");
+  const [mktRole, setMktRole]         = useState(initialData?.esportsRole ?? "");
   const [saving, setSaving]           = useState(false);
   const [submitting, setSubmitting]   = useState(false);
   const [saved, setSaved]             = useState(false);
@@ -73,7 +78,7 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
     setSaving(true);
     try {
       const { saveDraft } = await import("@/app/actions/ugc");
-      await saveDraft({ publicationId, gameSlug, title, type, content, attachments, isPremium });
+      await saveDraft({ publicationId, gameSlug, title, type, content, attachments, isPremium, marketplaceDomain: mktDomain, esportsRole: mktRole });
       setSaved(true);
       setTimeout(() => setSaved(false), 2500);
     } finally {
@@ -92,9 +97,11 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
     setSubmitting(true);
     try {
       const { submitForReview } = await import("@/app/actions/ugc");
-      const result = await submitForReview({ publicationId, gameSlug, title, type, content, attachments, isPremium });
+      const result = await submitForReview({ publicationId, gameSlug, title, type, content, attachments, isPremium, marketplaceDomain: mktDomain, esportsRole: mktRole });
       if (result?.id) {
         router.push(`/dashboard?submitted=${result.id}`);
+      } else if (result?.error) {
+        setSubmitError(result.error);
       } else if (isPremium) {
         setSubmitError("No se pudo enviar: verificá que tengas la monetización habilitada.");
       }
@@ -211,6 +218,14 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
 
             {/* Markdown editor */}
             <MarkdownEditor value={content} onChange={setContent} />
+
+            {/* Categoría del marketplace */}
+            <CategorySelector
+              domain={mktDomain}
+              role={mktRole}
+              onDomainChange={setMktDomain}
+              onRoleChange={setMktRole}
+            />
 
             {/* Attachment uploader (PDF/PPT/audio) */}
             <AttachmentUploader

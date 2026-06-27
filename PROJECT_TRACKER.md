@@ -97,8 +97,8 @@
 
 ## 🔲 Pendientes — independientes de pagos
 
-- [ ] Taxonomía de marketplace (TCG/cosmaking/etc.) surfaceada en el formulario UGC
-- [ ] Auto-rechazo por filtros (palabras prohibidas / archivos sospechosos) antes de la cola
+- [x] Taxonomía de marketplace (TCG/cosmaking/etc.) surfaceada en el formulario UGC
+- [x] Auto-rechazo por filtros (palabras prohibidas / acortadores / spam) antes de la cola
 - [ ] Watermark anti-piratería activo en vista inline de PDF premium (hoy solo descarga)
 - [ ] Subir contenido real del CEO a la academia (PDFs/PPTs listos)
 
