@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, Fragment } from "react";
 import { Search, X } from "lucide-react";
 import { Game, Creator } from "@/types";
 import { GameShowcase } from "@/components/game/GameShowcase";
@@ -82,8 +82,8 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
         )}
       </div>
 
-      {/* ── Chips ── */}
-      <div className="flex flex-wrap gap-2">
+      {/* ── Chips ── (scroll horizontal en móvil, wrap en desktop) */}
+      <div className="flex flex-nowrap overflow-x-auto whitespace-nowrap hide-scrollbar gap-2 -mx-4 px-4 sm:mx-0 sm:px-0 sm:flex-wrap">
         {/* Idioma */}
         {LANG_CHIPS.map(({ value, label, flag }) => {
           const active = langs.includes(value);
@@ -91,7 +91,7 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
             <button
               key={value}
               onClick={() => toggleLang(value)}
-              className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-all duration-150 ${
+              className={`shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-all duration-150 ${
                 active
                   ? "bg-cyan-500/20 border-cyan-500/60 text-cyan-300"
                   : "bg-white/5 border-white/10 text-white/50 hover:border-white/25 hover:text-white/70"
@@ -104,7 +104,7 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
         })}
 
         {/* Separador visual */}
-        <div className="w-px h-6 bg-white/10 self-center mx-1" />
+        <div className="shrink-0 w-px h-6 bg-white/10 self-center mx-1" />
 
         {/* Tipo de contenido */}
         {TYPE_CHIPS.map(({ value, label, icon }) => {
@@ -113,7 +113,7 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
             <button
               key={value}
               onClick={() => toggleType(value)}
-              className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-all duration-150 ${
+              className={`shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-all duration-150 ${
                 active
                   ? "bg-violet-500/20 border-violet-500/60 text-violet-300"
                   : "bg-white/5 border-white/10 text-white/50 hover:border-white/25 hover:text-white/70"
@@ -130,12 +130,11 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
       {filtered.length > 0 ? (
         <div className="flex flex-col gap-3">
           {filtered.map(({ game, creators }, i) => (
-            <>
-              <GameShowcase key={game.id} game={game} creators={creators} defaultOpen={i === 0 && !hasFilters} />
+            <Fragment key={game.id}>
+              <GameShowcase game={game} creators={creators} defaultOpen={i === 0 && !hasFilters} />
               {/* Sponsored slot after 3rd game, only when no filters active */}
               {i === 2 && !hasFilters && (
                 <NativeAdSlot
-                  key="sponsored"
                   brand="Creators S-HUB"
                   message="Espacio publicitario nativo — Alcanzá a miles de gamers hispanohablantes"
                   tagline="Contenido integrado con la estética de la plataforma"
@@ -144,7 +143,7 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
                   variant="between-games"
                 />
               )}
-            </>
+            </Fragment>
           ))}
         </div>
       ) : (

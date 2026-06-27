@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from "react";
+import { useState, useRef } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { Creator, Game } from "@/types";
@@ -40,18 +40,33 @@ interface GameShowcaseProps {
 export function GameShowcase({ game, creators, defaultOpen = false }: GameShowcaseProps) {
   const [open, setOpen] = useState(defaultOpen);
   const [logoError, setLogoError] = useState(false);
+  const sectionRef = useRef<HTMLElement>(null);
+
+  function toggle() {
+    setOpen((o) => {
+      const next = !o;
+      // Al abrir, centrar el acordeón en pantalla (suave) — mejora UX móvil
+      if (next) {
+        setTimeout(() => {
+          sectionRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+        }, 80);
+      }
+      return next;
+    });
+  }
   const accent = accentColors[game.id] ?? "text-white";
   const gradient = gameGradients[game.id] ?? "from-white/10 via-white/5";
   const emoji = game.emoji ?? "🎮";
 
   return (
     <section
+      ref={sectionRef}
       id={game.slug}
       className="scroll-mt-24 rounded-xl border border-cyan-500/10 bg-cyan-500/[0.02] overflow-hidden transition-colors hover:border-cyan-500/25"
     >
       <button
         type="button"
-        onClick={() => setOpen((o) => !o)}
+        onClick={toggle}
         aria-expanded={open}
         className="w-full text-left hover:bg-cyan-500/[0.03] transition-colors"
       >

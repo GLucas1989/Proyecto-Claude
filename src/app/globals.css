@@ -81,3 +81,12 @@ body::before {
 .cyber-border {
   animation: cyber-border-pulse 2s ease-in-out infinite;
 }
+
+/* Ocultar scrollbar (filtros con scroll horizontal en móvil) */
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
