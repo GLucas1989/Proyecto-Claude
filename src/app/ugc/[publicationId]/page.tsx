@@ -6,6 +6,7 @@ import { MarkdownPreview } from "@/components/ugc/MarkdownPreview";
 import { VoteSection } from "@/components/ugc/VoteSection";
 import { incrementViews } from "@/app/actions/ugc";
 import { VideoEmbed } from "@/components/media/VideoEmbed";
+import { PublicationRating } from "@/components/ugc/PublicationRating";
 import { youTubeUnlistedAsset, parseYouTubeId } from "@/lib/media/types";
 import {
   BookOpen, Swords, Trophy, ChevronRight, Lock,
@@ -283,6 +284,9 @@ export default async function PublicationPage({ params }: PublicationPageProps) 
                 initialUserVote={userVote}
               />
             </section>
+
+            {/* Calificación con estrellas + reseñas */}
+            <PublicationRating publicationId={pub.id} />
           </>
         ) : (
           /* ── Paywall premium ── */

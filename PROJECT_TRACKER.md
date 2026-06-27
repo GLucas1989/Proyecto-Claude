@@ -65,6 +65,9 @@
 - [x] Botón **Seguir** implementado en UI: tarjetas de creador (landing + categoría), hero de juego y página de creador
 - [x] Reproductor de **videos** (YouTube Unlisted) embebido en la página de publicación
 - [x] **URL de overlay OBS** visible y copiable en el dashboard del creador
+- [x] **Niveles de creador** (creator_tier/subscription_status/is_authorized_to_monetize) + backfill
+- [x] **Sistema de calificación real**: tabla `ratings`, RPC `update_publication_rating`, StarRating funcional con reseñas en `/ugc/[id]`
+- [x] Tarjeta **"Activá monetización"** en el dashboard (Pro $5 / Oficial $20 / solicitar autorización)
 
 ---
 

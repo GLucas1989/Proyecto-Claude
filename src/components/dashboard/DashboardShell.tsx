@@ -11,6 +11,7 @@ import { MyPublicationsList } from "@/components/dashboard/MyPublicationsList";
 import { EmptyStatePlaceholder } from "@/components/dashboard/EmptyStatePlaceholder";
 import { StatCard } from "@/components/dashboard/StatCard";
 import { OBSOverlayCard } from "@/components/dashboard/OBSOverlayCard";
+import { RequestMonetizationCard } from "@/components/dashboard/RequestMonetizationCard";
 import type { UserPublication, UserReputation, WalletTransaction } from "@/types/database";
 
 type Mode = "student" | "creator";
@@ -260,6 +261,9 @@ function CreatorView(props: DashboardShellProps) {
           )}
         </div>
       </section>
+
+      {/* Monetización */}
+      <RequestMonetizationCard />
 
       {/* Widget de alertas para OBS */}
       <OBSOverlayCard userId={props.userId} />
