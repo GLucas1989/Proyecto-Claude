@@ -315,17 +315,24 @@
     },
     "latestVideos": [
       {
-        "id": "vid-w6TaR7pQ4Mo",
-        "title": "Updating Builds & Takedown Grind! // Borderlands 4 Livestream",
-        "thumbnail": "https://i4.ytimg.com/vi/w6TaR7pQ4Mo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w6TaR7pQ4Mo",
-        "publishedAt": "2026-06-26"
+        "id": "vid-NHzDD0l67GM",
+        "title": "NEW BORDERLANDS 6 UPDATE IS PEAK 🤣",
+        "thumbnail": "https://i3.ytimg.com/vi/NHzDD0l67GM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NHzDD0l67GM",
+        "publishedAt": "2026-06-27"
       },
       {
         "id": "vid-OvKryMBG7oA",
         "title": "Best New Weapons & Gear So Far! + New Classmods! // Borderlands 4 Takedown Update",
         "thumbnail": "https://i4.ytimg.com/vi/OvKryMBG7oA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=OvKryMBG7oA",
+        "publishedAt": "2026-06-26"
+      },
+      {
+        "id": "vid-w6TaR7pQ4Mo",
+        "title": "Updating Builds & Takedown Grind! // Borderlands 4 Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/w6TaR7pQ4Mo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w6TaR7pQ4Mo",
         "publishedAt": "2026-06-26"
       },
       {
@@ -375,13 +382,6 @@
         "title": "900% INCREASED DMG! Strength / Mana Stacking Totem Gemling is INSANE! // Path of Exile 2 Builds",
         "thumbnail": "https://i2.ytimg.com/vi/1UbifeLuMlc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1UbifeLuMlc",
-        "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-WEacS9ntx8I",
-        "title": "Strength Stacking Totem Gemling! New Build Testing // Path of Exile 2 Livestream",
-        "thumbnail": "https://i4.ytimg.com/vi/WEacS9ntx8I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WEacS9ntx8I",
         "publishedAt": "2026-06-15"
       }
     ]
