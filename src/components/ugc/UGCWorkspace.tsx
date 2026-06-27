@@ -5,8 +5,14 @@ import { useRouter } from "next/navigation";
 import { TemplateSelector, type TemplateId } from "./TemplateSelector";
 import { MarkdownEditor } from "./MarkdownEditor";
 import { AttachmentUploader } from "./AttachmentUploader";
+import { VideoLinkInput } from "./VideoLinkInput";
 import { ChevronRight, Save, Send, Lock, Globe, Sparkles } from "lucide-react";
 import type { PublicationType } from "@/types/database";
+
+/** Distingue enlaces de video (YouTube) de archivos subidos al storage. */
+function isVideoUrl(url: string): boolean {
+  return /youtube\.com|youtu\.be/.test(url);
+}
 
 interface UGCWorkspaceProps {
   gameSlug: string;
@@ -186,8 +192,18 @@ export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }:
             {/* Markdown editor */}
             <MarkdownEditor value={content} onChange={setContent} />
 
-            {/* Attachment uploader */}
-            <AttachmentUploader gameSlug={gameSlug} value={attachments} onChange={setAttachments} />
+            {/* Attachment uploader (PDF/PPT/audio) */}
+            <AttachmentUploader
+              gameSlug={gameSlug}
+              value={attachments.filter((u) => !isVideoUrl(u))}
+              onChange={(files) => setAttachments([...attachments.filter(isVideoUrl), ...files])}
+            />
+
+            {/* Video links (YouTube Unlisted) */}
+            <VideoLinkInput
+              value={attachments.filter(isVideoUrl)}
+              onChange={(videos) => setAttachments([...attachments.filter((u) => !isVideoUrl(u)), ...videos])}
+            />
 
             {/* Premium info */}
             {isPremium && (
