@@ -124,6 +124,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-eFv0fOHyaDw",
+        "title": "Una Shandy, por favor GENERACIÓN MAGIC #11",
+        "thumbnail": "https://i2.ytimg.com/vi/eFv0fOHyaDw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eFv0fOHyaDw",
+        "publishedAt": "2026-06-28"
+      },
+      {
         "id": "vid-W76E46bm9bk",
         "title": "Magic y verano de #RockImperium",
         "thumbnail": "https://i4.ytimg.com/vi/W76E46bm9bk/hqdefault.jpg",
@@ -185,13 +192,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/CX11q3Ml3zU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CX11q3Ml3zU",
         "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-eJy7bm-4PCo",
-        "title": "BUENAS sinergias. Análisis del color NEGRO de Marvel Super Heroes",
-        "thumbnail": "https://i2.ytimg.com/vi/eJy7bm-4PCo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eJy7bm-4PCo",
-        "publishedAt": "2026-06-17"
       }
     ]
   },
@@ -320,8 +320,22 @@
     },
     "latestVideos": [
       {
+        "id": "vid-7Jn05C4bFqw",
+        "title": "🔴MIGHT AND MAGIC FATES STRONGHOLD🔴(AD)",
+        "thumbnail": "https://i4.ytimg.com/vi/7Jn05C4bFqw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7Jn05C4bFqw",
+        "publishedAt": "2026-06-28"
+      },
+      {
+        "id": "vid-4SJcEHwnGTw",
+        "title": "Mind Stone Combo goes CRAZY",
+        "thumbnail": "https://i1.ytimg.com/vi/4SJcEHwnGTw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4SJcEHwnGTw",
+        "publishedAt": "2026-06-28"
+      },
+      {
         "id": "vid-66uBPPD55uQ",
-        "title": "🔴MIGHT AND MAGIC FATES NEW SET🔴(ad)",
+        "title": "🔴RANKED BRAWL+DRAFTS🔴MIGHT AND MAGIC FATES NEW SET🔴(ad)",
         "thumbnail": "https://i3.ytimg.com/vi/66uBPPD55uQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=66uBPPD55uQ",
         "publishedAt": "2026-06-27"
@@ -374,20 +388,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/cpqGj-dG7kQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cpqGj-dG7kQ",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-AlbJLBMzmSU",
-        "title": "🔴MARVEL RELEASE🔴WORLDS BEST UNC GAME UNC GAMER🔴",
-        "thumbnail": "https://i2.ytimg.com/vi/AlbJLBMzmSU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AlbJLBMzmSU",
-        "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-i5al3RmBVZs",
-        "title": "Really Cool Start & Really Nail-Biting End!",
-        "thumbnail": "https://i2.ytimg.com/vi/i5al3RmBVZs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=i5al3RmBVZs",
-        "publishedAt": "2026-06-23"
       }
     ]
   },
@@ -419,6 +419,13 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-V5WbmyzsqxE",
+        "title": "THIS is a Thanos deck😎",
+        "thumbnail": "https://i3.ytimg.com/vi/V5WbmyzsqxE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V5WbmyzsqxE",
+        "publishedAt": "2026-06-28"
+      },
       {
         "id": "vid-qhMsgTZ1yCo",
         "title": "Should You Craft Doctor Doom?",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/bgM6iX_WJcI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=bgM6iX_WJcI",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-p4GYm6XpCqg",
-        "title": "Commander is changing brawl...",
-        "thumbnail": "https://i1.ytimg.com/vi/p4GYm6XpCqg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=p4GYm6XpCqg",
-        "publishedAt": "2026-06-18"
       }
     ]
   }

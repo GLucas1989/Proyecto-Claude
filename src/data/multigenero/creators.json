@@ -119,6 +119,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-sNUA8qe5aoc",
+        "title": "MI MAYOR MIEDO",
+        "thumbnail": "https://i4.ytimg.com/vi/sNUA8qe5aoc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sNUA8qe5aoc",
+        "publishedAt": "2026-06-28"
+      },
+      {
         "id": "vid-X5oHpsXbE98",
         "title": "El mejor jugador de MECCHA CHAMELEON",
         "thumbnail": "https://i1.ytimg.com/vi/X5oHpsXbE98/hqdefault.jpg",
@@ -180,13 +187,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/URCFTAXdkgY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=URCFTAXdkgY",
         "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-PF_Y2QpHLtQ",
-        "title": "La importancia de calentar la nariz 🐽",
-        "thumbnail": "https://i1.ytimg.com/vi/PF_Y2QpHLtQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PF_Y2QpHLtQ",
-        "publishedAt": "2026-06-13"
       }
     ]
   },

@@ -25,8 +25,15 @@
     },
     "latestVideos": [
       {
+        "id": "vid-4JN6EUF5YdQ",
+        "title": "BAR Pro League Season 9 Grand Finals!",
+        "thumbnail": "https://i1.ytimg.com/vi/4JN6EUF5YdQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4JN6EUF5YdQ",
+        "publishedAt": "2026-06-29"
+      },
+      {
         "id": "vid-M7CWUwUYzX8",
-        "title": "BAR Pro League Finals!",
+        "title": "BAR Pro League Season 9 Finals!",
         "thumbnail": "https://i2.ytimg.com/vi/M7CWUwUYzX8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=M7CWUwUYzX8",
         "publishedAt": "2026-06-27"
@@ -86,13 +93,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/XgIskVYpV1U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XgIskVYpV1U",
         "publishedAt": "2026-05-25"
-      },
-      {
-        "id": "vid-V_BvohS545I",
-        "title": "Fight Night - Masters League",
-        "thumbnail": "https://i3.ytimg.com/vi/V_BvohS545I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V_BvohS545I",
-        "publishedAt": "2026-05-22"
       }
     ]
   },
@@ -120,6 +120,20 @@
       "youtube": "https://www.youtube.com/@AllReasonNoLogic"
     },
     "latestVideos": [
+      {
+        "id": "vid-5hRLYqIvy7c",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i2.ytimg.com/vi/5hRLYqIvy7c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5hRLYqIvy7c",
+        "publishedAt": "2026-06-28"
+      },
+      {
+        "id": "vid-4N_jMA_jcKY",
+        "title": "THE HUGEST 105 Player RTS Match on Throne | Beyond All Reason",
+        "thumbnail": "https://i1.ytimg.com/vi/4N_jMA_jcKY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4N_jMA_jcKY",
+        "publishedAt": "2026-06-28"
+      },
       {
         "id": "vid-MGrETZeEuZE",
         "title": "Early Nuke Bomber - The Liche - We're Back",
@@ -175,20 +189,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/ySI96Xjol3c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ySI96Xjol3c",
         "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-XBNRIC29hKk",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/XBNRIC29hKk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XBNRIC29hKk",
-        "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-YFEJginGZms",
-        "title": "Hans Join the THUG WALK | Beyond All Reason | Angel Crossing",
-        "thumbnail": "https://i2.ytimg.com/vi/YFEJginGZms/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YFEJginGZms",
-        "publishedAt": "2026-06-17"
       }
     ]
   },

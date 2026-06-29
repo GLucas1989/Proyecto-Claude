@@ -23,6 +23,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-OqZcDVgPQn8",
+        "title": "Diablo Immortal – Unexpected Cycle Change in Week 5",
+        "thumbnail": "https://i4.ytimg.com/vi/OqZcDVgPQn8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OqZcDVgPQn8",
+        "publishedAt": "2026-06-28"
+      },
+      {
         "id": "vid-T4IsSrQh2Bg",
         "title": "Diablo Immortal – Challenge Of Unequals | Legacy Loadouts VS Inferno 13",
         "thumbnail": "https://i1.ytimg.com/vi/T4IsSrQh2Bg/hqdefault.jpg",
@@ -84,13 +91,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/Wtt6MSau2rc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Wtt6MSau2rc",
         "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-hZX1uIjX9lE",
-        "title": "Diablo Immortal – Sixth Bout Of Realms | Championship: Legendary VS Pigeons",
-        "thumbnail": "https://i1.ytimg.com/vi/hZX1uIjX9lE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hZX1uIjX9lE",
-        "publishedAt": "2026-06-14"
       }
     ]
   },
@@ -213,6 +213,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-0pupknoFi4I",
+        "title": "Astral Dominion's Immortal Reign Descends w/ 1,250,370 Dominance (Full ROE Jun 28) | Diablo Immortal",
+        "thumbnail": "https://i1.ytimg.com/vi/0pupknoFi4I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0pupknoFi4I",
+        "publishedAt": "2026-06-28"
+      },
+      {
         "id": "vid-os64ShJKPmI",
         "title": "Warlock (WAZ x ARI) and Barbarian (Image) Gameplay Matches in ROE | Diablo Immortal",
         "thumbnail": "https://i4.ytimg.com/vi/os64ShJKPmI/hqdefault.jpg",
@@ -274,13 +281,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/1wGYBiNHf3E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1wGYBiNHf3E",
         "publishedAt": "2026-05-16"
-      },
-      {
-        "id": "vid-176KkmsbbgM",
-        "title": "Zz's Brand New Day Immortals Top New Leaderboard with 1546968 Dominance Before Luna Ascends | DI",
-        "thumbnail": "https://i2.ytimg.com/vi/176KkmsbbgM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=176KkmsbbgM",
-        "publishedAt": "2026-05-10"
       }
     ]
   },
@@ -308,6 +308,20 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-3mmG4WkBSL0",
+        "title": "LIVE: WARLOCK DUNGEONATHON! 30 ➜ ??? Dungeons! [Part 2]",
+        "thumbnail": "https://i4.ytimg.com/vi/3mmG4WkBSL0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3mmG4WkBSL0",
+        "publishedAt": "2026-06-28"
+      },
+      {
+        "id": "vid-1sTguKND488",
+        "title": "LIVE: WARLOCK DUNGEONATHON! 20 ➜ ??? Dungeons!",
+        "thumbnail": "https://i2.ytimg.com/vi/1sTguKND488/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1sTguKND488",
+        "publishedAt": "2026-06-28"
+      },
       {
         "id": "vid-LJWVuUN3JbE",
         "title": "LIVE: Warlock PvP DoT Build + Viewer Dungeons!",
@@ -363,20 +377,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/QZmUHCJzta0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=QZmUHCJzta0",
         "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-u8Fk2UMMbSM",
-        "title": "LIVE: WARLOCK LAUNCH! [PART2] Builds, PvP, Dungeons & Q&A",
-        "thumbnail": "https://i2.ytimg.com/vi/u8Fk2UMMbSM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u8Fk2UMMbSM",
-        "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-ahWJ_4dBLZ0",
-        "title": "Warlock PvP Build: Burn, Slow & Dominate! | Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/ahWJ_4dBLZ0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ahWJ_4dBLZ0",
-        "publishedAt": "2026-06-17"
       }
     ]
   }

@@ -122,6 +122,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-nV8hK0FAIgc",
+        "title": "Everything You MISSED in The NEW UPDATE | Albion Online",
+        "thumbnail": "https://i3.ytimg.com/vi/nV8hK0FAIgc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nV8hK0FAIgc",
+        "publishedAt": "2026-06-29"
+      },
+      {
+        "id": "vid-wy1QxAS70J8",
+        "title": "This Dual Swords Build DOMINATES in MISTS | Albion Online",
+        "thumbnail": "https://i4.ytimg.com/vi/wy1QxAS70J8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wy1QxAS70J8",
+        "publishedAt": "2026-06-28"
+      },
+      {
+        "id": "vid-NNwvDu9k6iY",
+        "title": "I Caught Up FAST with Warlock in Diablo Immortal!",
+        "thumbnail": "https://i3.ytimg.com/vi/NNwvDu9k6iY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NNwvDu9k6iY",
+        "publishedAt": "2026-06-27"
+      },
+      {
         "id": "vid-S0k6oqe9RGM",
         "title": "🔴 BIG MIST UPDATE is COMING to Albion Online!",
         "thumbnail": "https://i4.ytimg.com/vi/S0k6oqe9RGM/hqdefault.jpg",
@@ -169,27 +190,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/hwdmHh4J3dw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hwdmHh4J3dw",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-pfSNtl6rnGo",
-        "title": "I called Warlock back in 2024 for Diablo Immortal!",
-        "thumbnail": "https://i1.ytimg.com/vi/pfSNtl6rnGo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pfSNtl6rnGo",
-        "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-ucX7wo_8sIY",
-        "title": "🔴 Open World is BUFFED Right Now! | Albion Online",
-        "thumbnail": "https://i2.ytimg.com/vi/ucX7wo_8sIY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ucX7wo_8sIY",
-        "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-rWmqzIhAiLQ",
-        "title": "I Asked for Warlock… Diablo Immortal Did It!",
-        "thumbnail": "https://i3.ytimg.com/vi/rWmqzIhAiLQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rWmqzIhAiLQ",
-        "publishedAt": "2026-06-24"
       }
     ]
   },
@@ -503,6 +503,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-qerm5ezRD3c",
+        "title": "NUEVOS BOSSES & MISIONES EN ALBION ONLINE 🤯",
+        "thumbnail": "https://i2.ytimg.com/vi/qerm5ezRD3c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qerm5ezRD3c",
+        "publishedAt": "2026-06-28"
+      },
+      {
         "id": "vid-mnJskVufieM",
         "title": "CUANTA AURA PERDÍ EN UN MINUTO... 💀 Albion Online",
         "thumbnail": "https://i2.ytimg.com/vi/mnJskVufieM/hqdefault.jpg",
@@ -564,13 +571,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/728A_yQ5cP0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=728A_yQ5cP0",
         "publishedAt": "2026-06-12"
-      },
-      {
-        "id": "vid-X3dgWYvvZ5s",
-        "title": "SE COMPLICÓ TODO... ¡LA RECONQUISTA de ALBION ONLINE! 🔥 #6",
-        "thumbnail": "https://i1.ytimg.com/vi/X3dgWYvvZ5s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=X3dgWYvvZ5s",
-        "publishedAt": "2026-06-10"
       }
     ]
   }

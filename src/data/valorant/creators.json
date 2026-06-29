@@ -113,6 +113,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-yXF6gah1JBY",
+        "title": "smiley face",
+        "thumbnail": "https://i2.ytimg.com/vi/yXF6gah1JBY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yXF6gah1JBY",
+        "publishedAt": "2026-06-29"
+      },
+      {
         "id": "vid-GZ9y-zuXfU0",
         "title": "So comfy I forget I’m wearing it! 10% off with code TENZ10 (US only) #valorant #tenz #sonyinzone",
         "thumbnail": "https://i4.ytimg.com/vi/GZ9y-zuXfU0/hqdefault.jpg",
@@ -174,13 +181,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/Wv4D1ddoAeo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Wv4D1ddoAeo",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-lSX6BmY01BA",
-        "title": "LEV vs EDG LOWER FINALS - VCT Masters London Watchparty",
-        "thumbnail": "https://i1.ytimg.com/vi/lSX6BmY01BA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lSX6BmY01BA",
-        "publishedAt": "2026-06-20"
       }
     ]
   },
@@ -483,6 +483,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-tBVILaSf_tI",
+        "title": "Bogur got mogged 💀",
+        "thumbnail": "https://i1.ytimg.com/vi/tBVILaSf_tI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tBVILaSf_tI",
+        "publishedAt": "2026-06-28"
+      },
+      {
         "id": "vid-ZOx2CCsQiZI",
         "title": "My Top 5 bebop plays of June",
         "thumbnail": "https://i3.ytimg.com/vi/ZOx2CCsQiZI/hqdefault.jpg",
@@ -544,13 +551,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/qRuKDAiWj0g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qRuKDAiWj0g",
         "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-i-v1HtbAgJY",
-        "title": "Juicy Bebop Dynamo Combo",
-        "thumbnail": "https://i2.ytimg.com/vi/i-v1HtbAgJY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=i-v1HtbAgJY",
-        "publishedAt": "2026-06-14"
       }
     ]
   },
