@@ -8,10 +8,10 @@ import {
 } from "lucide-react";
 import { ReputationCard } from "@/components/dashboard/ReputationCard";
 import { MyPublicationsList } from "@/components/dashboard/MyPublicationsList";
-import { EmptyStatePlaceholder } from "@/components/dashboard/EmptyStatePlaceholder";
 import { StatCard } from "@/components/dashboard/StatCard";
 import { OBSOverlayCard } from "@/components/dashboard/OBSOverlayCard";
 import { RequestMonetizationCard } from "@/components/dashboard/RequestMonetizationCard";
+import { MonetizationPotentialCard } from "@/components/dashboard/MonetizationPotentialCard";
 import type { UserPublication, UserReputation, WalletTransaction } from "@/types/database";
 
 type Mode = "student" | "creator";
@@ -29,6 +29,7 @@ interface DashboardShellProps {
   email: string;
   role: string;
   userId: string;
+  creatorTier: string;
   publications: UserPublication[];
   reputation: UserReputation | null;
   creatorRating: number;
@@ -148,15 +149,7 @@ function StudentView({
       <section>
         <h2 className="text-base font-bold text-white mb-3 sm:mb-4">Suscripciones activas</h2>
         {activeSubs.length === 0 ? (
-          <EmptyStatePlaceholder
-            icon={Compass}
-            title="Todavía no tenés suscripciones"
-            description="Desbloqueá academias premium de tus creadores favoritos y aprendé de los mejores. Tu próximo nivel arranca acá."
-            ctaLabel="Explorar academias"
-            ctaHref="/"
-            ctaIcon={Compass}
-            accent="cyan"
-          />
+          <MonetizationPotentialCard />
         ) : (
           <ul className="space-y-2">
             {activeSubs.map((s) => (
@@ -230,6 +223,17 @@ function CreatorView(props: DashboardShellProps) {
           <Link href="/ugc/new" className="shine-btn mt-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border border-cyan-500/40 bg-gradient-to-r from-cyan-500/20 to-cyan-400/10 text-xs font-mono font-bold text-cyan-200 hover:from-cyan-500/30 hover:to-cyan-400/20 hover:shadow-[0_0_24px_rgba(0,240,255,0.25)] transition-all active:scale-95">
             <PlusCircle className="h-3.5 w-3.5" /> Nueva publicación
           </Link>
+          {/* Shortcut 1-click premium — solo verified/official (auto-aprobado) */}
+          {(props.creatorTier === "official" || props.creatorTier === "verified") && (
+            <Link
+              href="/ugc/new?premium=1"
+              onClick={() => { import("@/lib/analytics").then(({ track }) => track("quick_premium_publish_clicked", { tier: props.creatorTier })); }}
+              className="shine-btn flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border border-pink-500/40 bg-gradient-to-r from-pink-500/20 to-pink-400/10 text-xs font-mono font-bold text-pink-200 hover:from-pink-500/30 hover:shadow-[0_0_24px_rgba(244,63,94,0.25)] transition-all active:scale-95"
+            >
+              <Zap className="h-3.5 w-3.5" /> Premium en 1-click
+              <span className="text-[9px] font-normal text-pink-300/60">· auto-aprobado</span>
+            </Link>
+          )}
         </div>
       </div>
 

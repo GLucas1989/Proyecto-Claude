@@ -64,6 +64,7 @@ export default async function DashboardPage() {
       email={user.email ?? ""}
       role={profile?.role ?? "USER"}
       userId={user.id}
+      creatorTier={profile?.creator_tier ?? "user"}
       publications={publications}
       reputation={reputation}
       creatorRating={creatorRating}

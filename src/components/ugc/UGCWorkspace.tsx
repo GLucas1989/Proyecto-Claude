@@ -19,6 +19,8 @@ interface UGCWorkspaceProps {
   gameSlug: string;
   gameName: string;
   publicationId?: string;
+  /** Preselecciona el toggle Premium (ej: shortcut "Premium en 1-click") */
+  defaultPremium?: boolean;
   initialData?: {
     title: string;
     type: PublicationType;
@@ -36,14 +38,14 @@ const TYPE_LABELS: Record<PublicationType, string> = {
   TIER_LIST: "// Tier List",
 };
 
-export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData }: UGCWorkspaceProps) {
+export function UGCWorkspace({ gameSlug, gameName, publicationId, initialData, defaultPremium }: UGCWorkspaceProps) {
   const router = useRouter();
   const [step, setStep]               = useState<"template" | "editor">(publicationId ? "editor" : "template");
   const [title, setTitle]             = useState(initialData?.title ?? "");
   const [type, setType]               = useState<PublicationType>(initialData?.type ?? "GUIDE");
   const [content, setContent]         = useState(initialData?.content ?? "");
   const [attachments, setAttachments] = useState<string[]>(initialData?.attachments ?? []);
-  const [isPremium, setIsPremium]     = useState(initialData?.isPremium ?? false);
+  const [isPremium, setIsPremium]     = useState(initialData?.isPremium ?? defaultPremium ?? false);
   const [mktDomain, setMktDomain]     = useState(initialData?.marketplaceDomain ?? "");
   const [mktRole, setMktRole]         = useState(initialData?.esportsRole ?? "");
   const [saving, setSaving]           = useState(false);

@@ -160,25 +160,33 @@ export async function submitForReview(params: {
 
     const { data: prof } = await supabase
       .from("profiles")
-      .select("can_monetize")
+      .select("can_monetize, creator_tier")
       .eq("id", user.id)
       .single();
 
     // ── Reglas de publicación ───────────────────────────────────────────
     // GRATUITO    → se publica sin revisión (auto-publish).
-    // MONETIZABLE → requiere habilitar monetización (can_monetize) y SIEMPRE
-    //               pasa por revisión (cola de moderación).
+    // MONETIZABLE → requiere habilitar monetización (can_monetize).
+    //   • Creador verified/official → auto-aprobado (omite la cola, menos fricción).
+    //   • Usuario normal            → pasa por revisión (cola de moderación).
     if (isPremium && prof?.can_monetize !== true) {
       return null; // bloqueado: ver canMonetize() para mostrar el aviso/CTA en la UI
     }
 
-    const autoPublish = !isPremium; // solo el contenido gratuito se auto-publica
+    const trustedTier = prof?.creator_tier === "official" || prof?.creator_tier === "verified";
+    const autoPublish = !isPremium || (isPremium && trustedTier);
     const nextStatus: PublicationStatus = autoPublish ? "PUBLISHED" : "PENDING_REVIEW";
     const patch: Record<string, unknown> = {
       status: nextStatus,
       updated_at: new Date().toISOString(),
     };
     if (autoPublish) patch.published_at = new Date().toISOString();
+
+    // Analítica: publicación premium auto-aprobada (medible)
+    if (isPremium && autoPublish) {
+      const { track } = await import("@/lib/analytics");
+      track("premium_auto_approved", { publicationId: pubId, tier: prof?.creator_tier });
+    }
 
     const { error } = await supabase
       .from("user_publications")

@@ -9,8 +9,10 @@ import { MonetizationRequests } from "@/components/admin/MonetizationRequests";
 import { ClaimRequests } from "@/components/admin/ClaimRequests";
 import {
   ShieldCheck, CheckCircle2, XCircle, Clock, BookOpen, Swords, Trophy, AlertTriangle,
+  Users, BadgeCheck, DollarSign,
 } from "lucide-react";
 import type { UserPublication } from "@/types/database";
+import { track } from "@/lib/analytics";
 
 export default async function ModerationPage() {
   const supabase = await createClient();
@@ -28,6 +30,14 @@ export default async function ModerationPage() {
 
   const queue = (pending ?? []) as (UserPublication & { profiles: { display_name: string | null; email: string } | null })[];
 
+  // ── Resumen de Negocio (Revenue-Driven) — lo primero que ve el admin ──
+  const [{ count: totalUsers }, { count: activeCreators }, { count: monetizablePubs }] = await Promise.all([
+    supabase.from("profiles").select("*", { count: "exact", head: true }),
+    supabase.from("profiles").select("*", { count: "exact", head: true }).eq("is_official_creator", true),
+    supabase.from("user_publications").select("*", { count: "exact", head: true }).eq("is_premium", true),
+  ]);
+  track("admin_business_summary_viewed", { totalUsers, activeCreators, monetizablePubs });
+
   const creators = await listCreators();
   const monetizationReqs = await listMonetizationRequests();
   const claims = await listPendingClaims();
@@ -38,8 +48,36 @@ export default async function ModerationPage() {
     TIER_LIST: <Trophy className="h-4 w-4 text-orange-400" />,
   };
 
+  const BUSINESS = [
+    { icon: Users,      label: "Usuarios totales",        value: totalUsers ?? 0,      accent: "text-cyan-300 border-cyan-500/25 from-cyan-500/[0.08]" },
+    { icon: BadgeCheck, label: "Creadores activos",       value: activeCreators ?? 0,  accent: "text-violet-300 border-violet-500/25 from-violet-500/[0.08]" },
+    { icon: DollarSign, label: "Publicaciones monetizables", value: monetizablePubs ?? 0, accent: "text-pink-300 border-pink-500/25 from-pink-500/[0.08]" },
+  ];
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
+      {/* ── RESUMEN DE NEGOCIO (prioridad: salud del negocio) ── */}
+      <section className="mb-10">
+        <p className="text-[10px] font-mono text-cyan-500/50 uppercase tracking-[0.3em] mb-3">
+          {"// resumen de negocio"}
+        </p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4">
+          {BUSINESS.map(({ icon: Icon, label, value, accent }) => (
+            <div
+              key={label}
+              className={`relative overflow-hidden rounded-2xl border bg-[#0B0F19]/60 backdrop-blur-md p-5 ${accent.split(" ").slice(1).join(" ")}`}
+            >
+              <div className={`pointer-events-none absolute inset-0 bg-gradient-to-br ${accent.split(" ").slice(-1)} to-transparent`} />
+              <div className="relative">
+                <Icon className={`h-5 w-5 mb-2 ${accent.split(" ")[0]}`} />
+                <p className="text-3xl font-black text-white tabular-nums">{value.toLocaleString("es-AR")}</p>
+                <p className="text-[10px] font-mono text-white/35 uppercase tracking-wider mt-0.5">{label}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
       <div className="flex items-center gap-3 mb-8">
         <ShieldCheck className="h-5 w-5 text-cyan-400" />
         <div>
