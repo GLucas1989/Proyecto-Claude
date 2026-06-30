@@ -6,6 +6,7 @@ import Image from "next/image";
 import { Creator, Game } from "@/types";
 import { ArrowRight, Play, ChevronDown } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { Reveal } from "@/components/motion/Reveal";
 
 const accentColors: Record<string, string> = {
   "mtg-arena": "text-amber-400",
@@ -157,10 +158,12 @@ export function GameShowcase({ game, creators, defaultOpen = false }: GameShowca
               ))}
             </div>
 
-            {/* ── TABLET+: grid estático ── */}
+            {/* ── TABLET+: grid estático con entrada escalonada ── */}
             <div className="hidden sm:grid grid-cols-2 lg:grid-cols-3 gap-4">
-              {creators.map((creator) => (
-                <CreatorBlock key={creator.id} creator={creator} gameSlug={game.slug} />
+              {creators.map((creator, ci) => (
+                <Reveal key={creator.id} delay={Math.min(ci, 8) * 50}>
+                  <CreatorBlock creator={creator} gameSlug={game.slug} />
+                </Reveal>
               ))}
             </div>
 

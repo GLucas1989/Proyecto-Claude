@@ -227,7 +227,7 @@ function CreatorView(props: DashboardShellProps) {
         <div className="rounded-xl border border-white/8 bg-white/[0.02] p-5 flex flex-col gap-3">
           <div className="flex items-center gap-2"><Eye className="h-3.5 w-3.5 text-white/30" /><span className="text-xs font-mono text-white/40">Vistas totales</span><span className="ml-auto text-sm font-bold text-white">{totalViews.toLocaleString("es-AR")}</span></div>
           <div className="flex items-center gap-2"><TrendingUp className="h-3.5 w-3.5 text-white/30" /><span className="text-xs font-mono text-white/40">Publicaciones</span><span className="ml-auto text-sm font-bold text-white">{props.publications.length}</span></div>
-          <Link href="/ugc/new" className="mt-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border border-cyan-500/40 bg-gradient-to-r from-cyan-500/20 to-cyan-400/10 text-xs font-mono font-bold text-cyan-200 hover:from-cyan-500/30 hover:to-cyan-400/20 hover:shadow-[0_0_24px_rgba(0,240,255,0.25)] transition-all">
+          <Link href="/ugc/new" className="shine-btn mt-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl border border-cyan-500/40 bg-gradient-to-r from-cyan-500/20 to-cyan-400/10 text-xs font-mono font-bold text-cyan-200 hover:from-cyan-500/30 hover:to-cyan-400/20 hover:shadow-[0_0_24px_rgba(0,240,255,0.25)] transition-all active:scale-95">
             <PlusCircle className="h-3.5 w-3.5" /> Nueva publicación
           </Link>
         </div>
