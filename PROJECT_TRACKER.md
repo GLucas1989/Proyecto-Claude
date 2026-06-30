@@ -6,6 +6,17 @@
 
 ---
 
+## ⚠️ PENDIENTE DE REVISIÓN DEL CEO
+
+- [ ] **Auto-aprobación de contenido premium (verified/official)** — `submitForReview`
+  ahora publica el contenido monetizable de creadores verified/official **sin pasar
+  por la cola de moderación**. Esto contradice la regla previa ("todo lo monetizable
+  se revisa"). **Decisión a tomar:** ¿dejarlo así (menos fricción, menos control),
+  auto-aprobar solo `official` y revisar `verified`, o volver a revisión para ambos?
+  Archivo: `src/app/actions/ugc.ts`.
+
+---
+
 ## 📊 Estado general
 
 | Área | Estado | Notas |
