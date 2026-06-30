@@ -69,6 +69,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-XlxLEE2UMyo",
+        "title": "level 1 moments they never saw coming...",
+        "thumbnail": "https://i1.ytimg.com/vi/XlxLEE2UMyo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XlxLEE2UMyo",
+        "publishedAt": "2026-06-30"
+      },
+      {
         "id": "vid-DFcri67WAZs",
         "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #13",
         "thumbnail": "https://i1.ytimg.com/vi/DFcri67WAZs/hqdefault.jpg",
@@ -130,13 +137,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/R30arBA6dd8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=R30arBA6dd8",
         "publishedAt": "2026-06-11"
-      },
-      {
-        "id": "vid-yHgopljwOa8",
-        "title": "ULTRA SATISFYING MOMENTS #42",
-        "thumbnail": "https://i2.ytimg.com/vi/yHgopljwOa8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yHgopljwOa8",
-        "publishedAt": "2026-06-09"
       }
     ]
   },

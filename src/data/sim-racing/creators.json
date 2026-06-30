@@ -114,8 +114,15 @@
     },
     "latestVideos": [
       {
+        "id": "vid-gyZFdJ93mIE",
+        "title": "Fighting Heat At My Hardest Track in Multiclass - ELMS Fuji 90mins",
+        "thumbnail": "https://i4.ytimg.com/vi/gyZFdJ93mIE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gyZFdJ93mIE",
+        "publishedAt": "2026-06-29"
+      },
+      {
         "id": "vid-V3piVPtvgRc",
-        "title": "Assetto Corsa Rally GREECE Update",
+        "title": "Assetto Corsa Rally GREECE 0.5 Update",
         "thumbnail": "https://i3.ytimg.com/vi/V3piVPtvgRc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=V3piVPtvgRc",
         "publishedAt": "2026-06-29"
@@ -175,13 +182,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/LBkcv8c4kTk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LBkcv8c4kTk",
         "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-YC5JU1yeka4",
-        "title": "I'm Back With Some Action - 2.4 Hours of LE MANS LMU Special Event!",
-        "thumbnail": "https://i2.ytimg.com/vi/YC5JU1yeka4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YC5JU1yeka4",
-        "publishedAt": "2026-06-12"
       }
     ]
   },

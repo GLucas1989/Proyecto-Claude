@@ -121,6 +121,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-S_LLzmbY1Ho",
+        "title": "HLT's are TOO intimidating! | Beyond All Reason | The Halite Maze",
+        "thumbnail": "https://i4.ytimg.com/vi/S_LLzmbY1Ho/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S_LLzmbY1Ho",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-6Wdy0-B_Ogs",
+        "title": "The MOST CLUTCH game | Beyond All Reason",
+        "thumbnail": "https://i3.ytimg.com/vi/6Wdy0-B_Ogs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6Wdy0-B_Ogs",
+        "publishedAt": "2026-06-29"
+      },
+      {
         "id": "vid-5hRLYqIvy7c",
         "title": "KING of the HILL - Beyond All Reason",
         "thumbnail": "https://i2.ytimg.com/vi/5hRLYqIvy7c/hqdefault.jpg",
@@ -136,7 +150,7 @@
       },
       {
         "id": "vid-MGrETZeEuZE",
-        "title": "Early Nuke Bomber - The Liche - We're Back",
+        "title": "Early Nuke Bomber (Eco) - The Liche - We're Back",
         "thumbnail": "https://i2.ytimg.com/vi/MGrETZeEuZE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MGrETZeEuZE",
         "publishedAt": "2026-06-26"
@@ -175,20 +189,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/di3KSIM3ZxE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=di3KSIM3ZxE",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-RgIBzntftk0",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i3.ytimg.com/vi/RgIBzntftk0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RgIBzntftk0",
-        "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-ySI96Xjol3c",
-        "title": "LOL Epic Commando",
-        "thumbnail": "https://i2.ytimg.com/vi/ySI96Xjol3c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ySI96Xjol3c",
-        "publishedAt": "2026-06-18"
       }
     ]
   },

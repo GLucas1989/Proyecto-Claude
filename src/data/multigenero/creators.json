@@ -119,6 +119,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-E7CRMa1TFMk",
+        "title": "GREFG VS EDU AGUIRRE | LA VELADA DEL AÑO 6",
+        "thumbnail": "https://i2.ytimg.com/vi/E7CRMa1TFMk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E7CRMa1TFMk",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-hL_vf2wXVJc",
+        "title": "Me enfrenté a mi mayor miedo",
+        "thumbnail": "https://i1.ytimg.com/vi/hL_vf2wXVJc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hL_vf2wXVJc",
+        "publishedAt": "2026-06-29"
+      },
+      {
         "id": "vid-sNUA8qe5aoc",
         "title": "MI MAYOR MIEDO",
         "thumbnail": "https://i4.ytimg.com/vi/sNUA8qe5aoc/hqdefault.jpg",
@@ -173,20 +187,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/oPh37K00rJg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oPh37K00rJg",
         "publishedAt": "2026-06-16"
-      },
-      {
-        "id": "vid-BlFwXmue8tI",
-        "title": "Mi reacción al combate de Ilia Topuria Vs Justin Gaethje",
-        "thumbnail": "https://i3.ytimg.com/vi/BlFwXmue8tI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BlFwXmue8tI",
-        "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-URCFTAXdkgY",
-        "title": "Entrenando con Marta, Fabiana y Roro para la Velada - TheGrefg",
-        "thumbnail": "https://i2.ytimg.com/vi/URCFTAXdkgY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=URCFTAXdkgY",
-        "publishedAt": "2026-06-14"
       }
     ]
   },
@@ -213,6 +213,27 @@
       "es"
     ],
     "latestVideos": [
+      {
+        "id": "vid-DHyBYqOgY9c",
+        "title": "¿Qué país tiene más victorias en la Velada del Año?",
+        "thumbnail": "https://i1.ytimg.com/vi/DHyBYqOgY9c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DHyBYqOgY9c",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-uOARBZS5JFs",
+        "title": "PARAGUAY HISTÓRICO.",
+        "thumbnail": "https://i2.ytimg.com/vi/uOARBZS5JFs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uOARBZS5JFs",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-rQ9aNKY9H4M",
+        "title": "Así Es el Restaurante Más Caro del Mundo (1.760€)",
+        "thumbnail": "https://i3.ytimg.com/vi/rQ9aNKY9H4M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rQ9aNKY9H4M",
+        "publishedAt": "2026-06-29"
+      },
       {
         "id": "vid-QeVxrSHcitI",
         "title": "Speed y yo tenemos un hermano llamado Messi.",
@@ -261,27 +282,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/NoAC1FGlLxo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NoAC1FGlLxo",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-8rAdVy5Gcg0",
-        "title": "Zendaya, lo siento mucho.",
-        "thumbnail": "https://i1.ytimg.com/vi/8rAdVy5Gcg0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8rAdVy5Gcg0",
-        "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-D1nZEtIiTsY",
-        "title": "Leo Messi es de otro planeta.",
-        "thumbnail": "https://i1.ytimg.com/vi/D1nZEtIiTsY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D1nZEtIiTsY",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-yOtMgrNmF0E",
-        "title": "¿Quién es el Mejor Spider-Man? con Tom Holland y Zendaya",
-        "thumbnail": "https://i2.ytimg.com/vi/yOtMgrNmF0E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yOtMgrNmF0E",
-        "publishedAt": "2026-06-22"
       }
     ]
   },

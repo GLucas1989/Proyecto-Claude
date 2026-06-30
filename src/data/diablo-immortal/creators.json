@@ -119,8 +119,22 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-xbBwNL3oORc",
+        "title": "Necromancer PvE Build - Instant DoT Burst with Grim Scythe | Diablo Immortal",
+        "thumbnail": "https://i1.ytimg.com/vi/xbBwNL3oORc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xbBwNL3oORc",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-9N_QGS62--I",
+        "title": "Necromancer DoT PvP Build is INSANE! | Diablo Immortal",
+        "thumbnail": "https://i2.ytimg.com/vi/9N_QGS62--I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N_QGS62--I",
+        "publishedAt": "2026-06-29"
+      },
+      {
         "id": "vid-RYDHbqorsus",
-        "title": "Warlock DoT PvP Build MELTS Players! | Diablo Immortal",
+        "title": "Warlock DoT PvP Build Guide | Diablo Immortal",
         "thumbnail": "https://i3.ytimg.com/vi/RYDHbqorsus/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RYDHbqorsus",
         "publishedAt": "2026-06-27"
@@ -173,20 +187,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/9IZNfWrtP4Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9IZNfWrtP4Y",
         "publishedAt": "2026-06-03"
-      },
-      {
-        "id": "vid-wfT79-QyFsw",
-        "title": "How to Connect Switch 2 Pro Controller to Diablo Immortal",
-        "thumbnail": "https://i4.ytimg.com/vi/wfT79-QyFsw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wfT79-QyFsw",
-        "publishedAt": "2026-06-01"
-      },
-      {
-        "id": "vid-ZX47xC5c5g4",
-        "title": "Blood Knight Shadow Clone PvP Build | Diablo Immortal",
-        "thumbnail": "https://i3.ytimg.com/vi/ZX47xC5c5g4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZX47xC5c5g4",
-        "publishedAt": "2026-05-30"
       }
     ]
   },
@@ -309,6 +309,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-VpjOUW4Yi-w",
+        "title": "The Only Warlock Auto-Farm Build You Need! | Diablo Immortal",
+        "thumbnail": "https://i3.ytimg.com/vi/VpjOUW4Yi-w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VpjOUW4Yi-w",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid--d6vOMt9Ilk",
+        "title": "LIVE: Warlock Battleground Rank Push! TRs Later!",
+        "thumbnail": "https://i2.ytimg.com/vi/-d6vOMt9Ilk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-d6vOMt9Ilk",
+        "publishedAt": "2026-06-29"
+      },
+      {
         "id": "vid-3mmG4WkBSL0",
         "title": "LIVE: WARLOCK DUNGEONATHON! 30 ➜ ??? Dungeons! [Part 2]",
         "thumbnail": "https://i4.ytimg.com/vi/3mmG4WkBSL0/hqdefault.jpg",
@@ -363,20 +377,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/-1o0FEy5fwE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-1o0FEy5fwE",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-nYNreYXujKA",
-        "title": "Forget Flying Demon! This Warlock Build SHREDS!",
-        "thumbnail": "https://i3.ytimg.com/vi/nYNreYXujKA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nYNreYXujKA",
-        "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-QZmUHCJzta0",
-        "title": "LIVE: Phantom Cosmetic Draw! | 150 Crests + Dungeons",
-        "thumbnail": "https://i2.ytimg.com/vi/QZmUHCJzta0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QZmUHCJzta0",
-        "publishedAt": "2026-06-20"
       }
     ]
   }
