@@ -205,6 +205,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-tcZqbSirCjM",
+        "title": "Bring me back… 🥲",
+        "thumbnail": "https://i1.ytimg.com/vi/tcZqbSirCjM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tcZqbSirCjM",
+        "publishedAt": "2026-06-30"
+      },
+      {
         "id": "vid-2WjiKlwIhm4",
         "title": "Raiding the SANDs of Sophie!",
         "thumbnail": "https://i3.ytimg.com/vi/2WjiKlwIhm4/hqdefault.jpg",
@@ -266,13 +273,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/ZZjLBKmrogM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZZjLBKmrogM",
         "publishedAt": "2026-06-13"
-      },
-      {
-        "id": "vid-LJF2ONMny74",
-        "title": "shroud + sniper = win 🥇",
-        "thumbnail": "https://i1.ytimg.com/vi/LJF2ONMny74/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LJF2ONMny74",
-        "publishedAt": "2026-06-12"
       }
     ]
   },
