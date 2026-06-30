@@ -281,6 +281,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-wlOkyY71ZCc",
+        "title": "I HOSTED THE RETIREMENT HOME TOURNAMENT!",
+        "thumbnail": "https://i4.ytimg.com/vi/wlOkyY71ZCc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wlOkyY71ZCc",
+        "publishedAt": "2026-06-30"
+      },
+      {
         "id": "vid-_kLKkAvR2Z4",
         "title": "Doublelift Kept a Make-A-Wish Kid Waiting...",
         "thumbnail": "https://i4.ytimg.com/vi/_kLKkAvR2Z4/hqdefault.jpg",
@@ -342,13 +349,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/YmSIGCvg3ao/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YmSIGCvg3ao",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-BtzyhX0bMDk",
-        "title": "Lucian is a SLEEPER OP ADC pick this season",
-        "thumbnail": "https://i3.ytimg.com/vi/BtzyhX0bMDk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BtzyhX0bMDk",
-        "publishedAt": "2026-06-26"
       }
     ]
   },
