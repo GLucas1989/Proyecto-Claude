@@ -8,6 +8,19 @@
 
 ## ⚠️ PENDIENTE DE REVISIÓN DEL CEO
 
+- [ ] **Bug crítico en panel de moderación — 3 acciones admin no escribían nada
+  en la base (RLS bloqueaba en silencio)** — auditoría funcional completa
+  detectó que "Marcar confianza", "Aprobar reclamo de perfil" y "Aprobar
+  monetización" **parecían funcionar en la UI pero no modificaban la base de
+  datos** para el usuario afectado (solo el dueño de la fila podía escribirla,
+  y el admin actúa con su propia sesión, no con la del usuario). Ya armé la
+  migración `supabase/migrations/phase16_admin_rls_bypass.sql` que lo
+  corrige (agrega una política RLS de bypass para ADMIN en `profiles`,
+  `creator_profiles` y `claim_requests`, sin sacar ningún acceso existente).
+  **Falta correrla en Supabase para que el fix tome efecto** — hasta entonces,
+  esas 3 acciones del panel admin siguen sin tener efecto real aunque no
+  muestren ningún error.
+
 - [ ] **Auto-aprobación de contenido premium (verified/official)** — `submitForReview`
   ahora publica el contenido monetizable de creadores verified/official **sin pasar
   por la cola de moderación**. Esto contradice la regla previa ("todo lo monetizable
