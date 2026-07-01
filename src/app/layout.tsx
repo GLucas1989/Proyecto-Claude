@@ -3,7 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/layout/Navbar";
 import { AuthProvider } from "@/components/auth/AuthProvider";
-import { SpotifyWidget } from "@/components/spotify/SpotifyWidget";
+import { SpotifyPlayerWidget } from "@/components/spotify/SpotifyPlayerWidget";
 import { Analytics } from "@vercel/analytics/next";
 
 const geistSans = Geist({
@@ -40,7 +40,7 @@ export default function RootLayout({
             CreatorsHub © {new Date().getFullYear()} &mdash; Directorio de creadores gaming
           </footer>
         </AuthProvider>
-        <SpotifyWidget />
+        <SpotifyPlayerWidget />
         <Analytics />
       </body>
     </html>
