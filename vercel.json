@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/recompute-reputation",
+      "schedule": "17 3 * * *"
+    },
+    {
+      "path": "/api/cron/sync-news",
+      "schedule": "0 */3 * * *"
+    }
+  ]
+}
