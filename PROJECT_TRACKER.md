@@ -15,6 +15,14 @@
   auto-aprobar solo `official` y revisar `verified`, o volver a revisión para ambos?
   Archivo: `src/app/actions/ugc.ts`.
 
+- [ ] **Configurar Vercel Cron para el ranking de creadores** — falta:
+  1. Agregar env var `CRON_SECRET` (elegir un string secreto)
+  2. Vercel → Settings → Cron Jobs → path `/api/cron/recompute-reputation`,
+     schedule sugerido `17 3 * * *` (diario 3:17 AM)
+  3. Alternativa: pedirle a Claude que genere `vercel.json` con el cron ya
+     configurado (más simple, evita configurarlo a mano en el dashboard)
+  Archivo: `src/app/api/cron/recompute-reputation/route.ts`.
+
 ---
 
 ## 📊 Estado general
