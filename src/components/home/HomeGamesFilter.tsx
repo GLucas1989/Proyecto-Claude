@@ -1,10 +1,11 @@
 "use client";
 
-import { useState, useMemo, useEffect, Fragment } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { Search, X } from "lucide-react";
 import { Game, Creator } from "@/types";
-import { GameShowcase } from "@/components/game/GameShowcase";
+import { HomeGameTile } from "@/components/home/HomeGameTile";
 import { NativeAdSlot } from "@/components/ads/NativeAdSlot";
+import { GAME_CATEGORIES } from "@/lib/gameCategories";
 import { Reveal } from "@/components/motion/Reveal";
 
 interface GameWithCreators {
@@ -16,188 +17,161 @@ interface HomeGamesFilterProps {
   items: GameWithCreators[];
 }
 
-const LANG_CHIPS = [
-  { value: "es", label: "ES", flag: "🇪🇸" },
-  { value: "en", label: "EN", flag: "🇺🇸" },
-] as const;
+/** Cuántos juegos se muestran por categoría antes de "+N juegos más". */
+const GAMES_PER_CATEGORY_VISIBLE = 3;
 
-const TYPE_CHIPS = [
-  { value: "competitive", label: "Competitivo", icon: "⚔️" },
-  { value: "casual",      label: "Casual",      icon: "🎮" },
-  { value: "educational", label: "Educativo",   icon: "📚" },
-  { value: "draft",       label: "Draft",       icon: "🃏" },
-] as const;
+// Persiste la búsqueda entre navegaciones (el componente se remonta al
+// volver a la Home) — se hidrata después del primer render para no romper el SSR.
+const STORAGE_KEY = "creatorshub:home-filter-v2";
 
-type Lang = (typeof LANG_CHIPS)[number]["value"];
-type ContentChip = (typeof TYPE_CHIPS)[number]["value"];
-
-// Persiste el filtro entre navegaciones (el componente se remonta al volver
-// a la Home) — se hidrata después del primer render para no romper el SSR.
-const STORAGE_KEY = "creatorshub:home-filter-v1";
-
-interface StoredFilter {
-  search: string;
-  langs: Lang[];
-  types: ContentChip[];
-}
-
-function loadStoredFilter(): StoredFilter | null {
-  if (typeof window === "undefined") return null;
+function loadStoredSearch(): string {
+  if (typeof window === "undefined") return "";
   try {
-    const raw = window.localStorage.getItem(STORAGE_KEY);
-    return raw ? (JSON.parse(raw) as StoredFilter) : null;
+    return window.localStorage.getItem(STORAGE_KEY) ?? "";
   } catch {
-    return null;
+    return "";
   }
 }
 
+/**
+ * Explorá por juego — grid agrupado por categoría (reemplaza el patrón de
+ * acordeones GameShowcase que saturaba la Home). Cada tarjeta linkea
+ * directo a la página del juego; los creadores destacados viven ahí.
+ */
 export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
-  const [search, setSearch]       = useState("");
-  const [langs, setLangs]         = useState<Lang[]>([]);
-  const [types, setTypes]         = useState<ContentChip[]>([]);
-  const [hydrated, setHydrated]   = useState(false);
+  const [search, setSearch] = useState("");
+  const [expandedCats, setExpandedCats] = useState<Record<string, boolean>>({});
+  const [hydrated, setHydrated] = useState(false);
 
-  // Restaurar filtro guardado al montar (una sola vez).
   useEffect(() => {
-    const stored = loadStoredFilter();
-    if (stored) {
-      setSearch(stored.search ?? "");
-      setLangs(stored.langs ?? []);
-      setTypes(stored.types ?? []);
-    }
+    setSearch(loadStoredSearch());
     setHydrated(true);
   }, []);
 
-  // Guardar cada cambio, pero solo después de hidratar (evita pisar lo
-  // guardado con el estado inicial vacío antes de leerlo).
   useEffect(() => {
     if (!hydrated) return;
     try {
-      window.localStorage.setItem(STORAGE_KEY, JSON.stringify({ search, langs, types }));
+      window.localStorage.setItem(STORAGE_KEY, search);
     } catch {
-      // localStorage no disponible (modo privado, cuota llena, etc.) — no bloquea el filtro en memoria.
+      // localStorage no disponible — no bloquea el filtro en memoria.
     }
-  }, [search, langs, types, hydrated]);
+  }, [search, hydrated]);
 
-  const hasFilters = search.trim() !== "" || langs.length > 0 || types.length > 0;
+  const searchActive = search.trim() !== "";
+  const term = search.trim().toLowerCase();
 
-  function toggleLang(v: Lang) {
-    setLangs((prev) => prev.includes(v) ? prev.filter((l) => l !== v) : [...prev, v]);
-  }
-  function toggleType(v: ContentChip) {
-    setTypes((prev) => prev.includes(v) ? prev.filter((t) => t !== v) : [...prev, v]);
-  }
-  function clearAll() {
-    setSearch(""); setLangs([]); setTypes([]);
+  function toggleCategory(catId: string) {
+    setExpandedCats((prev) => ({ ...prev, [catId]: !prev[catId] }));
   }
 
-  const filtered = useMemo(() => {
-    return items.filter(({ game, creators }) => {
-      if (search.trim() && !game.name.toLowerCase().includes(search.trim().toLowerCase())) return false;
-      if (langs.length > 0 && !langs.some((l) => creators.some((c) => c.languages.includes(l)))) return false;
-      if (types.length > 0 && !types.some((t) => creators.some((c) => c.contentType.includes(t as never)))) return false;
-      return true;
-    });
-  }, [items, search, langs, types]);
+  // Modo búsqueda: grid plano de resultados, sin agrupar por categoría.
+  const flatResults = useMemo(() => {
+    if (!searchActive) return [];
+    return items.filter(({ game }) => game.name.toLowerCase().includes(term));
+  }, [items, searchActive, term]);
+
+  // Modo default: agrupado por categoría, N visibles + "mostrar más".
+  // Incluye un bucket "Otros" de seguridad para juegos sin categoría
+  // reconocida (no deben desaparecer en silencio del grid).
+  const groups = useMemo(() => {
+    if (searchActive) return [];
+    const known = new Set(GAME_CATEGORIES.map((c) => c.id));
+    const allCats = [...GAME_CATEGORIES, ...(items.some(({ game }) => !known.has(game.category ?? "")) ? [{ id: "otros", label: "Otros" }] : [])];
+
+    return allCats.map((cat) => {
+      const gamesInCat = items.filter(({ game }) =>
+        cat.id === "otros" ? !known.has(game.category ?? "") : game.category === cat.id
+      );
+      const expanded = !!expandedCats[cat.id];
+      const visible = expanded ? gamesInCat : gamesInCat.slice(0, GAMES_PER_CATEGORY_VISIBLE);
+      const hiddenCount = gamesInCat.length - GAMES_PER_CATEGORY_VISIBLE;
+      return {
+        ...cat,
+        games: gamesInCat,
+        visible,
+        hasMore: gamesInCat.length > GAMES_PER_CATEGORY_VISIBLE,
+        expanded,
+        hiddenCount,
+      };
+    }).filter((g) => g.games.length > 0);
+  }, [items, searchActive, expandedCats]);
 
   return (
     <div className="space-y-6">
       {/* ── Buscador ── */}
-      <div className="flex flex-col sm:flex-row gap-3 items-start sm:items-center">
-        <div className="relative flex-1 w-full max-w-md">
+      <div className="flex justify-center">
+        <div className="relative w-full max-w-sm">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-white/30 pointer-events-none" />
           <input
             type="text"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Buscar juego..."
-            className="w-full pl-9 pr-4 py-2.5 rounded-lg bg-white/5 border border-white/10 text-white text-sm placeholder:text-white/25 font-mono focus:outline-none focus:border-cyan-500/50 focus:bg-white/8 focus:ring-1 focus:ring-cyan-500/20 transition-all"
+            className="w-full pl-9 pr-9 py-2.5 rounded-lg bg-white/5 border border-white/10 text-white text-sm placeholder:text-white/25 font-mono focus:outline-none focus:border-cyan-500/50 focus:bg-white/8 focus:ring-1 focus:ring-cyan-500/20 transition-all"
           />
+          {searchActive && (
+            <button
+              onClick={() => setSearch("")}
+              className="absolute right-3 top-1/2 -translate-y-1/2 text-white/30 hover:text-white/60 transition-colors"
+              aria-label="Limpiar búsqueda"
+            >
+              <X className="h-4 w-4" />
+            </button>
+          )}
         </div>
-
-        {hasFilters && (
-          <button
-            onClick={clearAll}
-            className="inline-flex items-center gap-1.5 text-xs text-white/40 hover:text-white/70 transition-colors font-mono shrink-0"
-          >
-            <X className="h-3.5 w-3.5" />
-            Limpiar filtros
-          </button>
-        )}
       </div>
 
-      {/* ── Chips ── (scroll horizontal en móvil, wrap en desktop) */}
-      <div className="flex flex-nowrap overflow-x-auto whitespace-nowrap hide-scrollbar gap-2 -mx-4 px-4 sm:mx-0 sm:px-0 sm:flex-wrap">
-        {/* Idioma */}
-        {LANG_CHIPS.map(({ value, label, flag }) => {
-          const active = langs.includes(value);
-          return (
-            <button
-              key={value}
-              onClick={() => toggleLang(value)}
-              className={`shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-all duration-150 ${
-                active
-                  ? "bg-cyan-500/20 border-cyan-500/60 text-cyan-300"
-                  : "bg-white/5 border-white/10 text-white/50 hover:border-white/25 hover:text-white/70"
-              }`}
-            >
-              <span>{flag}</span>
-              {label}
-            </button>
-          );
-        })}
-
-        {/* Separador visual */}
-        <div className="shrink-0 w-px h-6 bg-white/10 self-center mx-1" />
-
-        {/* Tipo de contenido */}
-        {TYPE_CHIPS.map(({ value, label, icon }) => {
-          const active = types.includes(value);
-          return (
-            <button
-              key={value}
-              onClick={() => toggleType(value)}
-              className={`shrink-0 inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-semibold border transition-all duration-150 ${
-                active
-                  ? "bg-violet-500/20 border-violet-500/60 text-violet-300"
-                  : "bg-white/5 border-white/10 text-white/50 hover:border-white/25 hover:text-white/70"
-              }`}
-            >
-              <span>{icon}</span>
-              {label}
-            </button>
-          );
-        })}
-      </div>
-
-      {/* ── Resultados ── */}
-      {filtered.length > 0 ? (
-        <div className="flex flex-col gap-3">
-          {filtered.map(({ game, creators }, i) => (
-            <Fragment key={game.id}>
-              <Reveal delay={Math.min(i, 6) * 60}>
-                <GameShowcase game={game} creators={creators} defaultOpen={i === 0 && !hasFilters} />
-              </Reveal>
-              {/* Sponsored slot after 3rd game, only when no filters active */}
-              {i === 2 && !hasFilters && (
-                <NativeAdSlot
-                  brand="Creators S-HUB"
-                  message="Espacio publicitario nativo — Alcanzá a miles de gamers hispanohablantes"
-                  tagline="Contenido integrado con la estética de la plataforma"
-                  link="mailto:hola@creatorsshub.com?subject=Publicidad nativa en Creators S-HUB"
-                  ctaLabel="Contactar"
-                  variant="between-games"
-                />
-              )}
-            </Fragment>
-          ))}
-        </div>
+      {/* ── Modo búsqueda: grid plano ── */}
+      {searchActive ? (
+        flatResults.length > 0 ? (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {flatResults.map(({ game, creators }) => (
+              <HomeGameTile key={game.id} game={game} creatorsCount={creators.length} />
+            ))}
+          </div>
+        ) : (
+          <div className="flex flex-col items-center justify-center py-16 text-center">
+            <p className="text-white/30 font-mono text-sm">&gt;_ sin resultados para esa búsqueda</p>
+          </div>
+        )
       ) : (
-        <div className="flex flex-col items-center justify-center py-16 text-center">
-          <p className="text-white/30 font-mono text-sm">&gt;_ sin resultados para esa búsqueda</p>
-          <button onClick={clearAll} className="mt-4 text-xs text-cyan-500/60 hover:text-cyan-400 transition-colors font-mono underline underline-offset-4">
-            Limpiar filtros
-          </button>
+        /* ── Modo default: agrupado por categoría ── */
+        <div className="space-y-8">
+          {groups.map((group, i) => (
+            <Reveal key={group.id} delay={Math.min(i, 6) * 60}>
+              <div>
+                <div className="flex items-baseline justify-between mb-3">
+                  <p className="text-[10px] font-mono uppercase tracking-widest text-white/40">{group.label}</p>
+                  <p className="text-[10px] font-mono text-white/20">
+                    {group.games.length} {group.games.length === 1 ? "juego" : "juegos"}
+                  </p>
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+                  {group.visible.map(({ game, creators }) => (
+                    <HomeGameTile key={game.id} game={game} creatorsCount={creators.length} />
+                  ))}
+                </div>
+                {group.hasMore && (
+                  <button
+                    onClick={() => toggleCategory(group.id)}
+                    className="mt-3 w-full py-2.5 rounded-lg border border-dashed border-white/10 text-white/40 hover:text-white/70 hover:border-white/20 text-xs font-mono transition-colors"
+                  >
+                    {group.expanded ? "Mostrar menos ⌃" : `+${group.hiddenCount} juego${group.hiddenCount === 1 ? "" : "s"} más ⌄`}
+                  </button>
+                )}
+              </div>
+            </Reveal>
+          ))}
+
+          {/* Franja publicitaria — una sola vez, después del grid completo */}
+          <NativeAdSlot
+            brand="Creators S-HUB"
+            message="Espacio publicitario nativo — Alcanzá a miles de gamers hispanohablantes"
+            tagline="Contenido integrado con la estética de la plataforma"
+            link="mailto:hola@creatorsshub.com?subject=Publicidad nativa en Creators S-HUB"
+            ctaLabel="Contactar"
+            variant="between-games"
+          />
         </div>
       )}
     </div>

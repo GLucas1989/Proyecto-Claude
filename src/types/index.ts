@@ -55,6 +55,8 @@ export interface Game {
   emoji?: string;
   logoUrl?: string | null;
   filters?: string[];
+  /** Categoría de agrupación en la Home (ver src/lib/gameCategories.ts) */
+  category?: string;
 }
 
 export interface CreatorFilters {

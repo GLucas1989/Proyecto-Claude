@@ -1,11 +1,12 @@
 import { Fragment } from "react";
+import Link from "next/link";
 import { getGames, getCreators } from "@/lib/data";
 import { getUserFollows } from "@/lib/follows";
 import { GameCard } from "@/components/game/GameCard";
 import { HomeFeedTabs } from "@/components/home/HomeFeedTabs";
 import { MobileClaimCTA } from "@/components/home/MobileClaimCTA";
 import { NewsletterSignup } from "@/components/NewsletterSignup";
-import { Zap, Users, Gamepad2, Globe } from "lucide-react";
+import { Zap, Users, Gamepad2, Globe, Tv, Package, GraduationCap, ArrowRight } from "lucide-react";
 
 export default async function HomePage() {
   const games = getGames();
@@ -18,6 +19,12 @@ export default async function HomePage() {
 
   // ── Feed personalizado: pestaña "Siguiendo" cruzando user_follows real ──
   const follows = await getUserFollows();
+
+  // ── Creadores destacados: solo los marcados isFeatured=true (dato real,
+  // curado a mano) — si no hay ninguno todavía, la franja no se muestra.
+  const featuredCreators = activeWithCreators
+    .flatMap(({ game, creators }) => creators.filter((c) => c.isFeatured).map((c) => ({ creator: c, game })))
+    .slice(0, 8);
 
   const stats = [
     { label: "Creadores", value: totalCreators, icon: Users },
@@ -33,19 +40,11 @@ export default async function HomePage() {
         {/* Cyber grid */}
         <div className="absolute inset-0 bg-[linear-gradient(to_right,#22d3ee06_1px,transparent_1px),linear-gradient(to_bottom,#22d3ee06_1px,transparent_1px)] bg-[size:3.5rem_3.5rem]" />
 
-        {/* Neon radial glows */}
+        {/* Neon radial glow — único, suavizado (se sacaron los otros 2 + corner brackets) */}
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_80%_55%_at_50%_-5%,#22d3ee14,transparent)]" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_50%_40%_at_85%_65%,#a855f710,transparent)]" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_40%_30%_at_15%_70%,#3b82f610,transparent)]" />
 
         {/* Bottom fade */}
         <div className="absolute bottom-0 left-0 right-0 h-48 bg-gradient-to-t from-background to-transparent" />
-
-        {/* Corner brackets — cyberpunk decoration */}
-        <div className="absolute top-10 left-6 sm:left-12 w-14 h-14 border-l-2 border-t-2 border-cyan-500/30 cyber-border" />
-        <div className="absolute top-10 right-6 sm:right-12 w-14 h-14 border-r-2 border-t-2 border-cyan-500/30 cyber-border" />
-        <div className="absolute bottom-20 left-6 sm:left-12 w-14 h-14 border-l-2 border-b-2 border-violet-500/30 cyber-border" />
-        <div className="absolute bottom-20 right-6 sm:right-12 w-14 h-14 border-r-2 border-b-2 border-violet-500/30 cyber-border" />
 
         {/* Horizontal accent lines */}
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-cyan-500/30 to-transparent" />
@@ -96,13 +95,35 @@ export default async function HomePage() {
         </div>
       </section>
 
+      {/* ── QUÉ ENCONTRÁS ACÁ ── */}
+      <section className="px-4 pb-10">
+        <div className="max-w-6xl mx-auto">
+          <p className="text-center text-[10px] font-mono text-cyan-500/50 uppercase tracking-[0.3em] mb-4">
+            {"// qué encontrás acá"}
+          </p>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+            {[
+              { icon: Tv, title: "Directorio", desc: "Creadores ES/EN organizados por juego, sin perderte en YouTube." },
+              { icon: Package, title: "The Vault", desc: "Guías, tier lists y builds en PDF, PPT, audio o video — subidas por creadores y por vos." },
+              { icon: GraduationCap, title: "La Academia", desc: "Bundle mensual con contenido curado de todos los juegos, desde $5/mes." },
+            ].map(({ icon: Icon, title, desc }) => (
+              <div key={title} className="p-5 rounded-2xl border border-white/8 bg-white/[0.02]">
+                <Icon className="h-5 w-5 text-cyan-400/70 mb-2.5" />
+                <h3 className="text-sm font-bold text-white mb-1">{title}</h3>
+                <p className="text-xs text-white/45 leading-relaxed">{desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* ── GAMES SECTION ── */}
       <section className="px-4 pb-24">
         <div className="max-w-6xl mx-auto">
           <div className="mb-6 flex items-center gap-3">
             <div className="h-px flex-1 bg-gradient-to-r from-transparent to-cyan-500/20" />
             <div className="text-center">
-              <p className="text-[10px] font-mono text-cyan-500/50 uppercase tracking-[0.3em] mb-0.5">{'// creadores por juego'}</p>
+              <p className="text-[10px] font-mono text-cyan-500/50 uppercase tracking-[0.3em] mb-0.5">{'// explorá por juego'}</p>
               <p className="text-white/30 text-xs font-mono">
                 {activeGames.length} juegos activos &nbsp;·&nbsp; {comingSoonGames.length} próximamente
               </p>
@@ -126,6 +147,48 @@ export default async function HomePage() {
               </div>
             </div>
           )}
+
+          {/* Creadores destacados — solo si hay alguno marcado isFeatured=true */}
+          {featuredCreators.length > 0 && (
+            <div className="mt-20">
+              <p className="text-[10px] font-mono text-violet-400/50 uppercase tracking-[0.3em] mb-5">
+                {"// creadores destacados esta semana"}
+              </p>
+              <div className="flex gap-3 overflow-x-auto pb-1 hide-scrollbar">
+                {featuredCreators.map(({ creator, game }) => (
+                  <Link
+                    key={creator.id}
+                    href={`/${game.slug}/${creator.id}`}
+                    className="shrink-0 w-[150px] p-3.5 rounded-xl border border-white/8 bg-white/[0.02] hover:border-violet-500/30 transition-colors text-center"
+                  >
+                    <div className="w-11 h-11 rounded-full mx-auto mb-2 bg-gradient-to-br from-cyan-400 to-violet-500 flex items-center justify-center text-[#02131a] font-black text-xs">
+                      {creator.name.slice(0, 2).toUpperCase()}
+                    </div>
+                    <p className="text-xs font-semibold text-white truncate">{creator.name}</p>
+                    <p className="text-[10px] font-mono text-white/35 truncate mt-0.5">{game.name}</p>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      </section>
+
+      {/* ── CREATOR CTA ── */}
+      <section className="px-4 pb-8">
+        <div className="max-w-6xl mx-auto">
+          <div className="p-7 rounded-2xl border border-violet-500/25 bg-violet-500/[0.05] text-center">
+            <h3 className="text-lg font-black text-white mb-2">¿Sos creador de contenido gamer?</h3>
+            <p className="text-sm text-white/50 max-w-md mx-auto mb-5">
+              Reclamá tu perfil, subí guías a The Vault y ganá el 60% de cada venta.
+            </p>
+            <Link
+              href="/auth/login"
+              className="shine-btn inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-violet-500 text-white font-bold text-sm hover:bg-violet-400 transition-colors"
+            >
+              Sumate como creador <ArrowRight className="h-4 w-4" />
+            </Link>
+          </div>
         </div>
       </section>
       {/* ── NEWSLETTER ── */}

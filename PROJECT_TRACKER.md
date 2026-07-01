@@ -8,6 +8,30 @@
 
 ## ⚠️ PENDIENTE DE REVISIÓN DEL CEO
 
+- [ ] **Rediseño de Home implementado** (a partir del handoff de diseño
+  `design_handoff_home_redesign`) — grid de juegos agrupado por categoría
+  (3 visibles + "mostrar más"), franja "Qué encontrás acá"
+  (Directorio/The Vault/Academia), CTA de creadores, hero suavizado (un
+  solo glow, sin corner brackets), y franja de creadores destacados.
+  Decisiones tomadas (con tu confirmación): categorías tal cual las
+  propuso el diseño, buscador en grid plano (sin agrupar), se sacaron los
+  chips de idioma/tipo de contenido de la Home.
+  **Para revisar:**
+  1. Las 6 categorías (MOBA, Acción & RPG, Cartas & Estrategia, MMO &
+     Sandbox, Shooter & Racing, Variedad) son un criterio editorial mío,
+     no dato de negocio — están en `src/lib/gameCategories.ts` si querés
+     ajustarlas.
+  2. **La franja "Creadores destacados" no se muestra todavía** — depende
+     del flag `isFeatured: true` en `creators.json`, y hoy ningún creador
+     lo tiene. Marcá manualmente a los que quieras destacar (campo ya
+     existe en el tipo `Creator`) y va a aparecer solo.
+  3. El componente viejo de acordeones (`GameShowcase.tsx`) ya no se usa
+     en la Home — sigue vivo en la página de cada juego, donde sí tiene
+     sentido.
+  Archivos: `src/app/page.tsx`, `src/components/home/HomeGamesFilter.tsx`,
+  `src/components/home/HomeGameTile.tsx`, `src/lib/gameCategories.ts`,
+  `src/data/games.json` (campo `category` nuevo en cada juego).
+
 - [ ] **5 juegos nuevos agregados como "Próximamente"** — World of Warcraft,
   Clash Royale, Minecraft, Path of Exile 2 y Ragnarok X: Next Generation
   (Global). Arquitectura completa: entrada en `games.json`
