@@ -67,7 +67,7 @@ export function MonetizationPotentialCard() {
 
         {/* CTA protagonista con pulse */}
         <Link
-          href="/"
+          href="/academies"
           onClick={() => track("explore_academies_clicked", { source: "monetization_potential" })}
           className="shine-btn animate-pulse inline-flex w-full sm:w-auto items-center justify-center gap-2 px-6 py-3 rounded-xl border border-cyan-400/50 bg-gradient-to-r from-cyan-500/25 to-cyan-400/15 text-cyan-100 font-mono text-sm font-bold shadow-[0_0_18px_rgba(0,240,255,0.3)] hover:scale-[1.02] active:scale-95 transition-transform"
         >
