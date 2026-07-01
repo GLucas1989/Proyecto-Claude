@@ -84,6 +84,7 @@ export type ContentType = "pdf" | "ppt" | "video" | "post" | "vod";
 export type PlatformContentType = "pdf" | "ppt" | "audio" | "video";
 export type GameSubscriptionStatus = "active" | "canceled" | "past_due" | "trialing";
 export type ContentAssetStatus = "processing" | "ready" | "errored";
+export type NewsCategoryDb = "main_events" | "regional_grinding" | "patch_notes";
 export type AdPlacement =
   | "home_between_games"
   | "game_page_top"
@@ -459,6 +460,33 @@ export interface Database {
           status?: ContentAssetStatus;
           thumbnail_url?: string | null;
           duration_seconds?: number | null;
+        };
+      };
+      game_news: {
+        Row: {
+          id: string;
+          game_slug: string;
+          category: NewsCategoryDb;
+          title: string;
+          summary: string | null;
+          url: string | null;
+          published_at: string;
+          created_at: string;
+        };
+        Insert: {
+          game_slug: string;
+          category: NewsCategoryDb;
+          title: string;
+          summary?: string | null;
+          url?: string | null;
+          published_at?: string;
+        };
+        Update: {
+          category?: NewsCategoryDb;
+          title?: string;
+          summary?: string | null;
+          url?: string | null;
+          published_at?: string;
         };
       };
     };

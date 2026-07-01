@@ -8,6 +8,20 @@
 
 ## ⚠️ PENDIENTE DE REVISIÓN DEL CEO
 
+- [ ] **Feed de noticias por juego (game_news) — falta ingesta de contenido** —
+  se implementó toda la infraestructura: tabla `game_news` (migración
+  `supabase/migrations/phase17_game_news.sql`), `NewsSection.tsx` (sección
+  con filtros "Ver todos/Torneos/Parches" y tags de color por categoría:
+  Main Events cian, Regional Grinding violeta, Patch Notes ámbar) y
+  `LiveHubWidget.tsx` (últimas 3, en la vista de cada juego). **Lo que NO
+  se hizo:** no se especificó ninguna fuente para traer noticias reales
+  automáticamente (RSS, API de un juego, Twitter/X, etc.), así que hoy la
+  tabla está vacía y las noticias se cargan a mano (INSERT por SQL). Si
+  querés automatizarlo de verdad, decime de dónde debería sacar el
+  contenido cada juego y armo un cron/ingesta.
+  Archivos: `src/lib/news.ts`, `src/lib/newsTypes.ts`,
+  `src/components/news/NewsSection.tsx`, `src/components/news/LiveHubWidget.tsx`.
+
 - [ ] **Bug crítico en panel de moderación — 3 acciones admin no escribían nada
   en la base (RLS bloqueaba en silencio)** — auditoría funcional completa
   detectó que "Marcar confianza", "Aprobar reclamo de perfil" y "Aprobar

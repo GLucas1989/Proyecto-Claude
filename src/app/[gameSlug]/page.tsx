@@ -11,6 +11,9 @@ import { LearningCenter } from "@/components/game/learning-center/LearningCenter
 import { GamePublicationsFeed } from "@/components/ugc/GamePublicationsFeed";
 import { Leaderboard } from "@/components/ranking/Leaderboard";
 import { getPublicationsForGame, getPromotedForGame } from "@/app/actions/ugc";
+import { getGameNews } from "@/lib/news";
+import { LiveHubWidget } from "@/components/news/LiveHubWidget";
+import { NewsSection } from "@/components/news/NewsSection";
 import type { UserPublication, PromotedContent } from "@/types/database";
 
 interface GamePageProps {
@@ -45,10 +48,11 @@ export default async function GamePage({ params }: GamePageProps) {
 
   if (!game || !game.active) notFound();
 
-  const [creators, publications, promoted] = await Promise.all([
+  const [creators, publications, promoted, news] = await Promise.all([
     getCreators(gameSlug),
     getPublicationsForGame(gameSlug),
     getPromotedForGame(gameSlug),
+    getGameNews(gameSlug),
   ]);
 
   const languages    = [...new Set(creators.flatMap((c) => c.languages))];
@@ -84,11 +88,21 @@ export default async function GamePage({ params }: GamePageProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-24 relative z-10 pb-16">
           <CreatorGrid creators={creators} gameSlug={gameSlug} availableFilters={game.filters} />
 
+          {/* Live Hub — últimas 3 noticias del juego */}
+          <div className="mt-10">
+            <LiveHubWidget news={news} />
+          </div>
+
           {/* Ranking de creadores del juego */}
           <div className="mt-10">
             <Suspense fallback={null}>
               <Leaderboard gameSlug={gameSlug} />
             </Suspense>
+          </div>
+
+          {/* Noticias completas, con filtros por categoría */}
+          <div className="mt-10">
+            <NewsSection news={news} />
           </div>
 
           <Suspense fallback={null}>
