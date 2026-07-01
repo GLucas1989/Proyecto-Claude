@@ -30,7 +30,8 @@
   por webhook (`/api/webhooks/didit`, firma `X-Signature-V2` HMAC verificada
   con canonicalización JSON + chequeo de frescura de `X-Timestamp`) y actualiza
   `profiles.is_verified` automáticamente. **Pendiente para activarlo:**
-  1. Correr la migración `supabase/migrations/phase13_didit_kyc.sql`.
+  1. Correr las migraciones `supabase/migrations/phase13_didit_kyc.sql` y
+     `supabase/migrations/phase14_didit_webhook_idempotency.sql`.
   2. Cargar en Vercel: `DIDIT_API_KEY`, `DIDIT_WEBHOOK_SECRET`
      (y `SUPABASE_SERVICE_ROLE_KEY`, ver ítem de abajo).
   3. Registrar en el panel de Didit el webhook URL: `/api/webhooks/didit`.
