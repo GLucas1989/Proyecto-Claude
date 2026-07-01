@@ -15,6 +15,21 @@
   auto-aprobar solo `official` y revisar `verified`, o volver a revisión para ambos?
   Archivo: `src/app/actions/ugc.ts`.
 
+- [ ] **Gaming Mode (Spotify) — pendiente de activación/revisión** — el widget
+  flotante ya está implementado y en el código (`SpotifyPlayerWidget.tsx`,
+  `useSpotifyPlayer.ts`, auth vía next-auth en `src/lib/spotify/auth.ts`),
+  montado sin flag de apagado en `layout.tsx` (visible a todos los usuarios
+  desde el deploy). Para que funcione de verdad falta:
+  1. Cargar en Vercel: `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, `AUTH_SECRET`
+     (generado con `openssl rand -base64 32`).
+  2. Registrar en developer.spotify.com/dashboard el redirect URI:
+     `https://creatorsshub.gg/api/auth/callback/spotify`.
+  3. Requiere cuenta Spotify **Premium** para reproducir — limitación del Web
+     Playback SDK de Spotify, no del código. Cuentas free ven un mensaje de
+     error, no rompen la app.
+  Hasta que se carguen esas env vars, el botón "Conectar Spotify" falla de
+  forma controlada (no rompe el layout) pero queda visible para todos.
+
 - [ ] **Configurar Vercel Cron para el ranking de creadores** — falta:
   1. Agregar env var `CRON_SECRET` (elegir un string secreto)
   2. Vercel → Settings → Cron Jobs → path `/api/cron/recompute-reputation`,
