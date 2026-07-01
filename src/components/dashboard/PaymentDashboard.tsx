@@ -28,8 +28,11 @@ export function PaymentDashboard() {
     setMsg(null);
     startTransition(async () => {
       const res = await startKycVerification();
-      setMsg({ text: res.ok ? "Solicitud de verificación enviada. Te avisaremos por email." : (res.error ?? "Error"), ok: res.ok });
-      if (res.ok) refresh();
+      if (res.ok && res.url) {
+        window.location.href = res.url; // redirige al flujo hospedado de Didit
+        return;
+      }
+      setMsg({ text: res.error ?? "No se pudo iniciar la verificación.", ok: false });
     });
   }
 

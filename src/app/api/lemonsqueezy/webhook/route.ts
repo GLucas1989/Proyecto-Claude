@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { createHmac, timingSafeEqual } from "crypto";
-import { createClient } from "@/lib/supabase/server";
+import { createServiceClient } from "@/lib/supabase/service";
 import { setupLemonSqueezy, LS_WEBHOOK_SECRET } from "@/lib/lemonsqueezy/client";
 import { computeUGCSplit, computeUGCSplit6040 } from "@/lib/stripe/splits";
 
@@ -39,7 +39,11 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Malformed payload" }, { status: 400 });
   }
 
-  const supabase = await createClient();
+  // Webhook sin sesión de usuario: auth.uid() = null bajo RLS. Se necesita
+  // service role para poder escribir en profiles/wallets/subscriptions
+  // (bug real detectado: con el cliente anon estas escrituras eran bloqueadas
+  // silenciosamente por las políticas "using (auth.uid() = id)").
+  const supabase = createServiceClient();
   const { event_name, custom_data = {} } = event.meta;
   const attrs = event.data.attributes;
 

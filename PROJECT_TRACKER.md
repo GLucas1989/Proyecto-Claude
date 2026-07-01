@@ -23,15 +23,28 @@
      configurado (más simple, evita configurarlo a mano en el dashboard)
   Archivo: `src/app/api/cron/recompute-reputation/route.ts`.
 
-- [ ] **KYC real** — hoy `startKycVerification` es un placeholder (solo marca
-  `kyc_requested_at`, sin proveedor externo). Falta integrar un servicio real
-  (Stripe Identity, Persona, Sumsub) que dispare `is_verified = true` tras la
-  verificación. Mientras tanto, **el admin debe marcar `is_verified` manualmente**
-  en Supabase para cada creador que se verifique:
-  ```sql
-  update public.profiles set is_verified = true where email = '...';
-  ```
-  Archivo: `src/app/actions/payments.ts`.
+- [x] **KYC real (Didit.me)** — `startKycVerification` ahora crea una sesión real
+  en Didit (workflow "Free KYC") y redirige al usuario al flujo hospedado.
+  El resultado llega por webhook (`/api/webhooks/didit`, firma HMAC verificada)
+  y actualiza `profiles.is_verified` automáticamente. **Pendiente para activarlo:**
+  1. Correr la migración `supabase/migrations/phase13_didit_kyc.sql`.
+  2. Cargar en Vercel: `DIDIT_API_KEY`, `DIDIT_WORKFLOW_ID`, `DIDIT_WEBHOOK_SECRET`
+     (y `SUPABASE_SERVICE_ROLE_KEY`, ver ítem de abajo).
+  3. Registrar en el panel de Didit el webhook URL: `/api/webhooks/didit`.
+  4. La versión de la API de Didit (`v2` vs `v3`) quedó configurable vía
+     `DIDIT_API_VERSION` por si la creación de sesión devuelve 404 con el default.
+  Archivos: `src/lib/didit.ts`, `src/app/api/webhooks/didit/route.ts`, `src/app/actions/payments.ts`.
+
+- [x] **Bug de RLS en webhooks (crítico, detectado y corregido)** — los webhooks
+  de Lemon Squeezy y Didit escriben en `profiles`/`user_subscriptions` usando
+  ahora un cliente **service role** (`src/lib/supabase/service.ts`). Antes usaban
+  el cliente anon (con sesión de cookies), que bajo RLS tiene `auth.uid() = null`
+  en un webhook — las políticas `profiles: own row` y
+  `user_subscriptions: no client write` bloqueaban esas escrituras **en silencio**.
+  Esto significa que el All-Access Pass y las actualizaciones de `can_monetize`/
+  `is_official_creator` vía webhook probablemente nunca funcionaron hasta ahora.
+  **Acción requerida:** confirmar que `SUPABASE_SERVICE_ROLE_KEY` esté cargada
+  en Vercel (Project Settings > API > service_role — nunca commitear este valor).
 - [ ] **Panel admin de retiros** — no se construyó una UI para que el admin vea
   y procese `withdrawal_requests` (marcar como `paid`/`rejected`). Hoy solo se
   puede gestionar por SQL directo. Evaluar si conviene agregarla al panel de

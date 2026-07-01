@@ -32,13 +32,11 @@ export async function getPaymentStatus(): Promise<PaymentStatus | null> {
 }
 
 /**
- * Inicia el flujo de verificación de identidad (placeholder de KYC).
- * En producción esto dispararía un proveedor externo (Stripe Identity,
- * Persona, Sumsub, etc.) y esperaría su webhook de confirmación. Por ahora
- * deja registrada la intención vía una solicitud de monetización pendiente
- * para que el equipo la revise manualmente.
+ * Inicia el flujo de verificación de identidad (KYC) vía Didit.me.
+ * Crea una sesión de verificación y devuelve la URL a la que redirigir al
+ * usuario. El resultado (aprobado/rechazado) llega después por webhook.
  */
-export async function startKycVerification(): Promise<{ ok: boolean; error?: string }> {
+export async function startKycVerification(): Promise<{ ok: boolean; url?: string; error?: string }> {
   try {
     const supabase = await createClient();
     const { data: { user } } = await supabase.auth.getUser();
@@ -48,14 +46,24 @@ export async function startKycVerification(): Promise<{ ok: boolean; error?: str
       .from("profiles").select("is_verified").eq("id", user.id).single();
     if (profile?.is_verified) return { ok: false, error: "Ya estás verificado." };
 
+    const { createVerificationSession } = await import("@/lib/didit");
+    const callbackUrl = `${process.env.NEXT_PUBLIC_SITE_URL}/api/webhooks/didit`;
+    const session = await createVerificationSession(user.id, callbackUrl);
+
+    if ("error" in session) return { ok: false, error: session.error };
+
     const { error } = await supabase
       .from("profiles")
-      .update({ kyc_requested_at: new Date().toISOString() })
+      .update({
+        kyc_requested_at: new Date().toISOString(),
+        kyc_session_id: session.sessionId,
+        kyc_status: "pending",
+      })
       .eq("id", user.id);
-    if (error) return { ok: false, error: "No se pudo iniciar la verificación." };
+    if (error) return { ok: false, error: "No se pudo registrar la solicitud de verificación." };
 
     revalidatePath("/dashboard");
-    return { ok: true };
+    return { ok: true, url: session.verificationUrl };
   } catch {
     return { ok: false, error: "Error interno." };
   }

@@ -111,6 +111,8 @@ export interface Database {
           is_verified: boolean;
           monetization_enabled: boolean;
           kyc_requested_at: string | null;
+          kyc_session_id: string | null;
+          kyc_status: string | null;
           created_at: string;
           updated_at: string;
         };
@@ -132,6 +134,8 @@ export interface Database {
           is_verified?: boolean;
           monetization_enabled?: boolean;
           kyc_requested_at?: string | null;
+          kyc_session_id?: string | null;
+          kyc_status?: string | null;
         };
         Update: {
           email?: string;
@@ -147,6 +151,8 @@ export interface Database {
           is_verified?: boolean;
           monetization_enabled?: boolean;
           kyc_requested_at?: string | null;
+          kyc_session_id?: string | null;
+          kyc_status?: string | null;
           creator_tier?: "user" | "verified" | "official";
           subscription_status?: "free" | "pro_5" | "official_20";
           is_authorized_to_monetize?: boolean;
