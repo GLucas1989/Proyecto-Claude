@@ -8,6 +8,36 @@
 
 ## ⚠️ PENDIENTE DE REVISIÓN DEL CEO
 
+- [ ] **5 juegos nuevos agregados como "Próximamente"** — World of Warcraft,
+  Clash Royale, Minecraft, Path of Exile 2 y Ragnarok X: Next Generation
+  (Global). Arquitectura completa: entrada en `games.json`
+  (`active: false, comingSoon: true`), carpeta `src/data/<slug>/creators.json`
+  con streamers reales investigados vía búsqueda web, banner SVG propio
+  (estilo cyber, igual línea que los juegos existentes), colores/gradientes
+  por juego en `gameTheme.ts`, `GameCard.tsx` y `GameShowcase.tsx`, y feed de
+  noticias RSS donde encontré fuente oficial confiable.
+  **Cosas para revisar antes de activarlos (`active: true`):**
+  1. **Los `channelId` son placeholders** (`UC_PENDING_RESOLVE`) — hay que
+     correr `YOUTUBE_API_KEY=xxx npm run fetch-videos` **desde una máquina
+     con acceso real a internet** (este entorno de sesión no puede llegar a
+     googleapis.com) para resolver los `@handle` a channelId reales, avatar
+     real y últimos videos.
+  2. **Cantidad de streamers desigual por juego** — pude confirmar 6
+     creadores reales para World of Warcraft, Clash Royale y Minecraft, pero
+     solo 2 para Path of Exile 2 y 1 (el canal oficial) para Ragnarok X —
+     este último es un juego más nuevo/regional con muy poca cobertura de
+     YouTube encontrable. Si conocés creadores específicos de estos dos
+     últimos, decime y los agrego.
+  3. **No encontré creadores hispanohablantes confirmados** para estos 5
+     juegos en la investigación — la mayoría del contenido reconocido está
+     en inglés. Si tenés candidatos ES en mente, los sumo.
+  4. **Feeds RSS sin verificar en vivo** (misma limitación que el resto del
+     feed de noticias): agregué World of Warcraft (Blizzard), Minecraft y
+     Path of Exile 2. Clash Royale (Supercell) y Ragnarok X no tienen RSS
+     oficial conocido — quedan sin noticias automáticas.
+  5. Cuando estés conforme con los datos, activarlos es cambiar
+     `active: true` en `games.json` para cada uno (una línea por juego).
+
 - [ ] **Feed de noticias por juego (game_news) — ingesta automática RSS lista,
   falta activar** — se armó un cron propio en Next.js/Vercel (decisión: sin
   n8n, para no depender de infraestructura externa) que lee los RSS

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "chief-pat",
+    "name": "Chief Pat",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@ChiefPat",
+    "avatar": "https://i.pravatar.cc/300?u=chief-pat",
+    "bioShort": "Fundador de Tribe Gaming y uno de los creadores más veteranos de Clash Royale, con millones de vistas acumuladas.",
+    "bioLong": "Patrick 'Chief Pat' Carney es uno de los creadores de contenido más longevos y reconocidos de Clash Royale, con su canal activo desde 2012. Fundó Tribe Gaming, una organización de esports móvil exitosa, y su contenido cubre desde análisis de mazos hasta entretenimiento y batallas en vivo.",
+    "contentType": ["competitive", "casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@ChiefPat" },
+    "latestVideos": []
+  },
+  {
+    "id": "molt",
+    "name": "MOLT",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@MOLT",
+    "avatar": "https://i.pravatar.cc/300?u=molt",
+    "bioShort": "Contenido enfocado casi al 100% en Clash Royale desde 2013 — mazos, meta y batallas de alto nivel.",
+    "bioLong": "MOLT es uno de los creadores más consistentes de la comunidad de Clash Royale, con la gran mayoría de su catálogo dedicado exclusivamente al juego desde hace más de una década. Cubre el meta de mazos, cambios de balance y gameplay competitivo.",
+    "contentType": ["competitive"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@MOLT" },
+    "latestVideos": []
+  },
+  {
+    "id": "clash-with-ash",
+    "name": "Clash With Ash",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@ClashWithAsh",
+    "avatar": "https://i.pravatar.cc/300?u=clash-with-ash",
+    "bioShort": "Análisis de cartas, construcción de mazos y replays comentados de batallas de alto nivel.",
+    "bioLong": "Clash With Ash (CWA) se especializa en análisis profundo de cartas y estrategias de construcción de mazos, con contenido educativo orientado a jugadores que buscan subir de rango. Sus videos de replays comentados son un recurso habitual de la comunidad.",
+    "contentType": ["educational", "competitive"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@ClashWithAsh" },
+    "latestVideos": []
+  },
+  {
+    "id": "orange-juice-gaming",
+    "name": "Orange Juice Gaming",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@OrangeJuiceGaming",
+    "avatar": "https://i.pravatar.cc/300?u=orange-juice-gaming",
+    "bioShort": "Uno de los canales más reconocidos del nicho, con contenido de alta calidad desde 2015.",
+    "bioLong": "James Chau, tras Orange Juice Gaming, construyó uno de los canales más respetados de Clash Royale desde su lanzamiento en 2015, con contenido pulido que abarca actualizaciones del juego, estrategia y entretenimiento.",
+    "contentType": ["casual", "educational"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@OrangeJuiceGaming" },
+    "latestVideos": []
+  },
+  {
+    "id": "surgical-goblin",
+    "name": "Surgical Goblin",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@SurgicalGoblin",
+    "avatar": "https://i.pravatar.cc/300?u=surgical-goblin",
+    "bioShort": "Creador de nivel competitivo, referencia en el tier superior de la escena de Clash Royale.",
+    "bioLong": "Surgical Goblin es reconocido dentro de la comunidad como uno de los creadores de más alto nivel competitivo, con contenido centrado en el meta de torneos y estrategias de alto rango.",
+    "contentType": ["competitive"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@SurgicalGoblin" },
+    "latestVideos": []
+  },
+  {
+    "id": "inshane-gaming",
+    "name": "InShane Gaming",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@InShaneGaming",
+    "avatar": "https://i.pravatar.cc/300?u=inshane-gaming",
+    "bioShort": "Construcción de mazos, replays de batallas y análisis de cartas para todos los niveles.",
+    "bioLong": "InShane Gaming ofrece un catálogo amplio de contenido de Clash Royale: construcción de mazos, replays de batallas comentados y análisis de cartas, pensado tanto para jugadores nuevos como experimentados.",
+    "contentType": ["casual", "educational"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@InShaneGaming" },
+    "latestVideos": []
+  }
+]

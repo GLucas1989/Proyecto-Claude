@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#160b2e"/>
+      <stop offset="50%" stop-color="#0b0718"/>
+      <stop offset="100%" stop-color="#05030c"/>
+    </linearGradient>
+    <linearGradient id="royalGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#4c1d95" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#4c1d95" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="215" rx="420" ry="210" fill="url(#glow)"/>
+
+  <rect x="50" y="150" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="284" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="300" y="146" width="320" height="3" fill="#a78bfa" opacity="0.9"/>
+
+  <text x="460" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="bold" letter-spacing="4" fill="url(#royalGrad)" text-anchor="middle">CLASH</text>
+  <text x="460" y="272" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="bold" letter-spacing="10" fill="#a78bfa" text-anchor="middle" opacity="0.95">ROYALE</text>
+
+  <rect x="300" y="282" width="320" height="3" fill="#a78bfa" opacity="0.9"/>
+  <text x="460" y="318" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#a78bfa" text-anchor="middle" opacity="0.4">TO THE ARENA</text>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#4c1d95" stroke-width="1.5" stroke-opacity="0.3"/>
+</svg>

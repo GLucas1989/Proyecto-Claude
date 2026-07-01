@@ -50,6 +50,31 @@ const gameThemes: Record<string, { gradient: string; border: string; glow: strin
     border: "border-red-700/30 hover:border-red-600/60",
     glow: "group-hover:shadow-red-900/30",
   },
+  "world-of-warcraft": {
+    gradient: "from-yellow-950/60 via-amber-950/40 to-zinc-950/60",
+    border: "border-yellow-700/30 hover:border-yellow-500/60",
+    glow: "group-hover:shadow-yellow-900/30",
+  },
+  "clash-royale": {
+    gradient: "from-indigo-950/60 via-violet-950/40 to-zinc-950/60",
+    border: "border-indigo-600/30 hover:border-indigo-500/60",
+    glow: "group-hover:shadow-indigo-900/30",
+  },
+  "minecraft": {
+    gradient: "from-green-950/60 via-emerald-950/40 to-zinc-950/60",
+    border: "border-green-600/30 hover:border-green-500/60",
+    glow: "group-hover:shadow-green-900/30",
+  },
+  "path-of-exile-2": {
+    gradient: "from-rose-950/70 via-red-950/50 to-zinc-950/60",
+    border: "border-rose-700/30 hover:border-rose-600/60",
+    glow: "group-hover:shadow-rose-900/30",
+  },
+  "ragnarok-x-next-generation": {
+    gradient: "from-cyan-950/60 via-sky-950/40 to-zinc-950/60",
+    border: "border-cyan-600/30 hover:border-cyan-500/60",
+    glow: "group-hover:shadow-cyan-900/30",
+  },
 };
 
 const accentColors: Record<string, string> = {
@@ -62,6 +87,11 @@ const accentColors: Record<string, string> = {
   "diablo-immortal": "text-red-400",
   "league-of-legends": "text-sky-400",
   "diablo-iv": "text-orange-400",
+  "world-of-warcraft": "text-yellow-300",
+  "clash-royale": "text-indigo-400",
+  "minecraft": "text-green-400",
+  "path-of-exile-2": "text-rose-400",
+  "ragnarok-x-next-generation": "text-cyan-300",
 };
 
 interface GameCardProps {

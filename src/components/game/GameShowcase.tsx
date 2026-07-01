@@ -18,6 +18,11 @@ const accentColors: Record<string, string> = {
   "diablo-immortal": "text-red-400",
   "league-of-legends": "text-sky-400",
   "diablo-iv": "text-orange-400",
+  "world-of-warcraft": "text-yellow-300",
+  "clash-royale": "text-indigo-400",
+  "minecraft": "text-green-400",
+  "path-of-exile-2": "text-rose-400",
+  "ragnarok-x-next-generation": "text-cyan-300",
 };
 
 const gameGradients: Record<string, string> = {
@@ -30,6 +35,11 @@ const gameGradients: Record<string, string> = {
   "diablo-immortal": "from-red-950/50 via-red-950/70",
   "league-of-legends": "from-sky-900/40 via-sky-950/60",
   "diablo-iv": "from-orange-950/50 via-orange-950/70",
+  "world-of-warcraft": "from-yellow-900/40 via-yellow-950/60",
+  "clash-royale": "from-indigo-900/40 via-indigo-950/60",
+  "minecraft": "from-green-900/40 via-green-950/60",
+  "path-of-exile-2": "from-rose-950/50 via-rose-950/70",
+  "ragnarok-x-next-generation": "from-cyan-900/40 via-cyan-950/60",
 };
 
 interface GameShowcaseProps {

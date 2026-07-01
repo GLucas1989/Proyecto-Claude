@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dream",
+    "name": "Dream",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@Dream",
+    "avatar": "https://i.pravatar.cc/300?u=dream",
+    "bioShort": "Uno de los canales de Minecraft más grandes del mundo — speedruns, manhunts y desafíos únicos.",
+    "bioLong": "Dream es uno de los creadores de Minecraft más vistos a nivel global, conocido por popularizar el formato 'Manhunt' (donde varios jugadores intentan cazarlo mientras completa el juego) y por sus speedruns de alto nivel. Su contenido combina desafíos creativos con una producción muy pulida.",
+    "contentType": ["competitive", "casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@Dream" },
+    "latestVideos": []
+  },
+  {
+    "id": "dantdm",
+    "name": "DanTDM",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@DanTDM",
+    "avatar": "https://i.pravatar.cc/300?u=dantdm",
+    "bioShort": "Uno de los pioneros del contenido de Minecraft en YouTube, activo desde 2012.",
+    "bioLong": "DanTDM es uno de los creadores más veteranos y reconocidos del espacio de Minecraft en YouTube, con contenido que combina mods, aventuras narrativas y gameplay familiar desde hace más de una década.",
+    "contentType": ["casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@DanTDM" },
+    "latestVideos": []
+  },
+  {
+    "id": "aphmau",
+    "name": "Aphmau",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@Aphmau",
+    "avatar": "https://i.pravatar.cc/300?u=aphmau",
+    "bioShort": "Series narrativas con mods de rol — uno de los canales de Minecraft más grandes en formato historia.",
+    "bioLong": "Aphmau construyó su canal alrededor de series narrativas de Minecraft con mods de rol, creando historias episódicas con un elenco recurrente de personajes. Es una de las creadoras más grandes del nicho de Minecraft narrativo.",
+    "contentType": ["casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@Aphmau" },
+    "latestVideos": []
+  },
+  {
+    "id": "mumbo-jumbo",
+    "name": "Mumbo Jumbo",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@MumboJumbo",
+    "avatar": "https://i.pravatar.cc/300?u=mumbo-jumbo",
+    "bioShort": "Referencia mundial en redstone y construcciones técnicas dentro de Minecraft supervivencia.",
+    "bioLong": "Mumbo Jumbo es ampliamente considerado uno de los mayores expertos en redstone de la comunidad de Minecraft, con tutoriales y proyectos de construcción técnica que van desde granjas automáticas hasta mecanismos complejos, principalmente en el contexto del servidor Hermitcraft.",
+    "contentType": ["educational", "casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@MumboJumbo" },
+    "latestVideos": []
+  },
+  {
+    "id": "grian",
+    "name": "Grian",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@Grian",
+    "avatar": "https://i.pravatar.cc/300?u=grian",
+    "bioShort": "Construcciones creativas y contenido de Hermitcraft de referencia en la comunidad.",
+    "bioLong": "Grian es reconocido por sus construcciones creativas y su participación destacada en el servidor Hermitcraft, uno de los proyectos colaborativos de Minecraft más seguidos por la comunidad global.",
+    "contentType": ["casual", "educational"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@Grian" },
+    "latestVideos": []
+  },
+  {
+    "id": "georgenotfound",
+    "name": "GeorgeNotFound",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@GeorgeNotFound",
+    "avatar": "https://i.pravatar.cc/300?u=georgenotfound",
+    "bioShort": "Parte del grupo de creadores que popularizó el formato Manhunt de Minecraft.",
+    "bioLong": "GeorgeNotFound es uno de los creadores que ayudó a popularizar el formato Manhunt junto a Dream, con un crecimiento acelerado en la comunidad de Minecraft en los últimos años.",
+    "contentType": ["casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@GeorgeNotFound" },
+    "latestVideos": []
+  }
+]

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1f0a"/>
+      <stop offset="50%" stop-color="#061206"/>
+      <stop offset="100%" stop-color="#020602"/>
+    </linearGradient>
+    <linearGradient id="grassGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7bd63c"/>
+      <stop offset="50%" stop-color="#3f9b1f"/>
+      <stop offset="100%" stop-color="#1e5a0d"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3f9b1f" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7bd63c"/>
+      <stop offset="100%" stop-color="#3f9b1f" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#1e5a0d" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#1e5a0d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="215" rx="420" ry="210" fill="url(#glow)"/>
+
+  <!-- Bloque pixelado decorativo -->
+  <g opacity="0.15">
+    <rect x="70" y="70" width="24" height="24" fill="#7bd63c"/>
+    <rect x="826" y="70" width="24" height="24" fill="#7bd63c"/>
+    <rect x="70" y="336" width="24" height="24" fill="#7bd63c"/>
+    <rect x="826" y="336" width="24" height="24" fill="#7bd63c"/>
+  </g>
+
+  <rect x="50" y="150" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="284" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="330" y="146" width="260" height="3" fill="#7bd63c" opacity="0.9"/>
+
+  <text x="460" y="245" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="bold" letter-spacing="2" fill="url(#grassGrad)" text-anchor="middle">MINECRAFT</text>
+
+  <rect x="330" y="282" width="260" height="3" fill="#7bd63c" opacity="0.9"/>
+  <text x="460" y="318" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#7bd63c" text-anchor="middle" opacity="0.4">BUILD. SURVIVE. CREATE.</text>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#1e5a0d" stroke-width="1.5" stroke-opacity="0.3"/>
+</svg>

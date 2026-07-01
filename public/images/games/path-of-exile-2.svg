@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" width="920" height="430">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0006"/>
+      <stop offset="50%" stop-color="#0c0004"/>
+      <stop offset="100%" stop-color="#040001"/>
+    </linearGradient>
+    <linearGradient id="roseGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fb7185"/>
+      <stop offset="50%" stop-color="#9f1239"/>
+      <stop offset="100%" stop-color="#450a1e"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9f1239" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fb7185"/>
+      <stop offset="100%" stop-color="#9f1239" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="42%">
+      <stop offset="0%" stop-color="#450a1e" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#450a1e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="920" height="430" fill="url(#bg)"/>
+  <ellipse cx="460" cy="215" rx="420" ry="210" fill="url(#glow)"/>
+
+  <g transform="translate(460,195)" opacity="0.08">
+    <path d="M-90,80 L-90,-20 Q-90,-90 0,-90 Q90,-90 90,-20 L90,80" fill="none" stroke="#fb7185" stroke-width="4"/>
+    <line x1="-95" y1="80" x2="95" y2="80" stroke="#fb7185" stroke-width="3"/>
+  </g>
+
+  <rect x="50" y="148" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="50" y="292" width="820" height="1" fill="url(#lineGrad)" opacity="0.8"/>
+  <rect x="270" y="144" width="380" height="3" fill="#fb7185" opacity="0.9"/>
+
+  <text x="460" y="213" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" letter-spacing="4" fill="url(#roseGrad)" text-anchor="middle">PATH OF EXILE</text>
+  <text x="460" y="266" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="bold" letter-spacing="20" fill="#fb7185" text-anchor="middle" opacity="0.95">II</text>
+
+  <rect x="270" y="290" width="380" height="3" fill="#fb7185" opacity="0.9"/>
+  <text x="460" y="312" font-family="Georgia, serif" font-size="12" letter-spacing="5" fill="#fb7185" text-anchor="middle" opacity="0.35">EMBRACE THE DARKNESS</text>
+
+  <rect x="2" y="2" width="916" height="426" fill="none" stroke="#450a1e" stroke-width="1.5" stroke-opacity="0.3"/>
+</svg>

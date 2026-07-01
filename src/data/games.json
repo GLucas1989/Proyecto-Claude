@@ -187,5 +187,82 @@
       "contentType",
       "language"
     ]
+  },
+  {
+    "id": "world-of-warcraft",
+    "name": "World of Warcraft",
+    "slug": "world-of-warcraft",
+    "description": "El MMORPG que definió el género. Raids, PvP, lore profundo y dos décadas de Azeroth.",
+    "coverImage": "/images/games/world-of-warcraft.jpg",
+    "active": false,
+    "comingSoon": true,
+    "emoji": "🐉",
+    "logoUrl": "/images/games/world-of-warcraft.svg",
+    "filters": [
+      "contentType",
+      "class",
+      "language"
+    ]
+  },
+  {
+    "id": "clash-royale",
+    "name": "Clash Royale",
+    "slug": "clash-royale",
+    "description": "Estrategia en tiempo real de Supercell. Mazos, torres y duelos 1v1 en partidas de 3 minutos.",
+    "coverImage": "/images/games/clash-royale.jpg",
+    "active": false,
+    "comingSoon": true,
+    "emoji": "👑",
+    "logoUrl": "/images/games/clash-royale.svg",
+    "filters": [
+      "contentType",
+      "language"
+    ]
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "slug": "minecraft",
+    "description": "El sandbox más grande del mundo. Supervivencia, construcción, mods y creatividad sin límites.",
+    "coverImage": "/images/games/minecraft.jpg",
+    "active": false,
+    "comingSoon": true,
+    "emoji": "⛏️",
+    "logoUrl": "/images/games/minecraft.svg",
+    "filters": [
+      "contentType",
+      "language"
+    ]
+  },
+  {
+    "id": "path-of-exile-2",
+    "name": "Path of Exile 2",
+    "slug": "path-of-exile-2",
+    "description": "ARPG de builds infinitas y árbol de pasivas masivo. Ligas, endgame brutal y teorycrafting sin fin.",
+    "coverImage": "/images/games/path-of-exile-2.jpg",
+    "active": false,
+    "comingSoon": true,
+    "emoji": "☠️",
+    "logoUrl": "/images/games/path-of-exile-2.svg",
+    "filters": [
+      "contentType",
+      "class",
+      "language"
+    ]
+  },
+  {
+    "id": "ragnarok-x-next-generation",
+    "name": "Ragnarok X: Next Generation",
+    "slug": "ragnarok-x-next-generation",
+    "description": "El clásico MMORPG de Gravity reimaginado para móvil. Gremios, jefes de mundo y nostalgia renovada.",
+    "coverImage": "/images/games/ragnarok-x-next-generation.jpg",
+    "active": false,
+    "comingSoon": true,
+    "emoji": "🗡️",
+    "logoUrl": "/images/games/ragnarok-x-next-generation.svg",
+    "filters": [
+      "contentType",
+      "language"
+    ]
   }
 ]

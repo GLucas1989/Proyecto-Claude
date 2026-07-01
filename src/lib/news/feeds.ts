@@ -19,6 +19,11 @@ export const GAME_FEEDS: GameFeedSource[] = [
   { gameSlug: "raid-shadow-legends", url: "https://plarium.com/en/blog/raid-shadow-legends/feed" },
   { gameSlug: "mtg-arena", url: "https://magic.wizards.com/en/news/rss" },
   { gameSlug: "valorant", url: "https://playvalorant.com/en-us/news/feed" },
+  { gameSlug: "world-of-warcraft", url: "https://news.blizzard.com/en-us/world-of-warcraft/feed" },
+  { gameSlug: "minecraft", url: "https://www.minecraft.net/en-us/articles.rss" },
+  { gameSlug: "path-of-exile-2", url: "https://www.pathofexile.com/news/rss" },
+  // Sin feed oficial confiable: clash-royale (Supercell no publica RSS público)
+  // y ragnarok-x-next-generation (juego más nuevo/regional, sin RSS conocido).
 ];
 
 /** Palabras que indican "Patch Notes" en el título — el resto cae en "Main Events". */

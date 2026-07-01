@@ -1,0 +1,80 @@
+[
+  {
+    "id": "asmongold",
+    "name": "Asmongold",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@Asmongold",
+    "avatar": "https://i.pravatar.cc/300?u=asmongold",
+    "bioShort": "Uno de los streamers de WoW más grandes del mundo — reacciones, análisis de parches y raids en vivo.",
+    "bioLong": "Asmongold es uno de los creadores de contenido de World of Warcraft más influyentes y con mayor audiencia a nivel mundial. Su contenido combina reacciones a noticias de la industria, gameplay de raids y mazmorras, y comentario sobre la escena de MMORPGs en general. Es una referencia constante en discusiones sobre el estado del juego en cada expansión.",
+    "contentType": ["competitive", "casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@Asmongold", "twitch": "asmongold" },
+    "latestVideos": []
+  },
+  {
+    "id": "bellular-gaming",
+    "name": "BellularGaming",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@BellularGaming",
+    "avatar": "https://i.pravatar.cc/300?u=bellular-gaming",
+    "bioShort": "Análisis profundos de parches, expansiones y el estado general de Azeroth, con subida regular.",
+    "bioLong": "BellularGaming se especializa en análisis detallados de cada parche y expansión de World of Warcraft, cubriendo cambios de clases, sistemas nuevos y el pulso general de la comunidad. Su formato de videos extensos y bien documentados lo convirtió en una fuente confiable para jugadores que quieren entender el rumbo del juego.",
+    "contentType": ["educational", "casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@BellularGaming" },
+    "latestVideos": []
+  },
+  {
+    "id": "preach-gaming",
+    "name": "Preach Gaming",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@PreachGaming",
+    "avatar": "https://i.pravatar.cc/300?u=preach-gaming",
+    "bioShort": "Ex-jugador de raid mítico de alto nivel. Guías de raid, teorycrafting y comentario de la escena PvE.",
+    "bioLong": "Preach es un veterano de la escena de raiding mítico de World of Warcraft, reconocido por sus guías detalladas de encuentros, análisis de balance de clases y su perspectiva desde adentro de la escena competitiva PvE. Combina experiencia de jugador de alto nivel con contenido accesible para toda la comunidad.",
+    "contentType": ["competitive", "educational"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@PreachGaming" },
+    "latestVideos": []
+  },
+  {
+    "id": "nobbel87",
+    "name": "Nobbel87",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@Nobbel87",
+    "avatar": "https://i.pravatar.cc/300?u=nobbel87",
+    "bioShort": "La referencia del lore de Warcraft. Narrativa, historia y teorías sobre el universo de Azeroth.",
+    "bioLong": "Nobbel87 es ampliamente reconocido como una de las voces más importantes del lore de Warcraft, con videos narrativos que recopilan y explican la historia del universo, personajes y eventos clave de cada expansión. Su estilo de storytelling detallado lo convirtió en el punto de entrada para muchos jugadores que quieren entender la narrativa completa del juego.",
+    "contentType": ["lore", "educational"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@Nobbel87" },
+    "latestVideos": []
+  },
+  {
+    "id": "madseasonshow",
+    "name": "MadSeasonShow",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@MadSeasonShow",
+    "avatar": "https://i.pravatar.cc/300?u=madseasonshow",
+    "bioShort": "Guías de farming de oro y contenido actualizado en cada parche nuevo.",
+    "bioLong": "MadSeasonShow se enfoca en guías prácticas de farming de oro, profesiones y contenido nuevo apenas sale cada parche, manteniendo sus guías constantemente actualizadas a medida que cambia el meta. Es un recurso habitual para jugadores que buscan optimizar su tiempo de juego.",
+    "contentType": ["educational", "casual"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@MadSeasonShow" },
+    "latestVideos": []
+  },
+  {
+    "id": "bajheera",
+    "name": "Bajheera",
+    "channelId": "UC_PENDING_RESOLVE",
+    "channelUrl": "https://www.youtube.com/@Bajheera",
+    "avatar": "https://i.pravatar.cc/300?u=bajheera",
+    "bioShort": "Contenido de PvP y Warrior de alto nivel, con años de trayectoria en la escena competitiva.",
+    "bioLong": "Bajheera es un creador veterano especializado en PvP de World of Warcraft, particularmente reconocido por su dominio de la clase Warrior a lo largo de múltiples expansiones. Su contenido incluye duelos, arena y comentario sobre el balance PvP.",
+    "contentType": ["competitive"],
+    "languages": ["en"],
+    "socials": { "youtube": "https://www.youtube.com/@Bajheera" },
+    "latestVideos": []
+  }
+]
