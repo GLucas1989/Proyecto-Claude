@@ -114,6 +114,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-7frFKETTBW8",
+        "title": "Superb Bumpy Multiclass Racing - ELMS Sebring 90mins",
+        "thumbnail": "https://i4.ytimg.com/vi/7frFKETTBW8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7frFKETTBW8",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-gyZFdJ93mIE",
         "title": "Fighting Heat At My Hardest Track in Multiclass - ELMS Fuji 90mins",
         "thumbnail": "https://i4.ytimg.com/vi/gyZFdJ93mIE/hqdefault.jpg",
@@ -175,13 +182,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/JOV4QKJeizc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JOV4QKJeizc",
         "publishedAt": "2026-06-16"
-      },
-      {
-        "id": "vid-LBkcv8c4kTk",
-        "title": "Rain fight for P1!🤩",
-        "thumbnail": "https://i1.ytimg.com/vi/LBkcv8c4kTk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LBkcv8c4kTk",
-        "publishedAt": "2026-06-15"
       }
     ]
   },

@@ -217,6 +217,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-ack2ID97yh8",
+        "title": "DAY 1 ENDGAME IN SEASON 14! Rapid Fire Leveling Build - Diablo 4 Lord of Hatred Death Awakening",
+        "thumbnail": "https://i2.ytimg.com/vi/ack2ID97yh8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ack2ID97yh8",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-TKR9Tu5xbrE",
         "title": "FASTEST LEVELING BUILD FOR SEASON 14 - Fire Charged Bolts Sorcerer - Diablo 4 LoH Death Awakening",
         "thumbnail": "https://i1.ytimg.com/vi/TKR9Tu5xbrE/hqdefault.jpg",
@@ -278,13 +285,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/CzjaXrcw7IQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CzjaXrcw7IQ",
         "publishedAt": "2026-05-28"
-      },
-      {
-        "id": "vid-eWFBmRdPZuw",
-        "title": "THE FASTEST BUILD IN DIABLO 4! Charged Bolts Sorcerer Endgame Build Guide Update - Lord of Hatred",
-        "thumbnail": "https://i2.ytimg.com/vi/eWFBmRdPZuw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eWFBmRdPZuw",
-        "publishedAt": "2026-05-17"
       }
     ]
   },
@@ -413,6 +413,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-V5JW5ya_YAs",
+        "title": "Diablo 4 - We Take Those",
+        "thumbnail": "https://i3.ytimg.com/vi/V5JW5ya_YAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V5JW5ya_YAs",
+        "publishedAt": "2026-07-01"
+      },
+      {
+        "id": "vid-Baus_Loy0Gc",
+        "title": "Diablo 4 - HCSSF T12 Mephisto ~19h In",
+        "thumbnail": "https://i3.ytimg.com/vi/Baus_Loy0Gc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Baus_Loy0Gc",
+        "publishedAt": "2026-07-01"
+      },
+      {
+        "id": "vid-2MsMfFWNG_I",
+        "title": "Diablo 4 - Warlock Season 14 Guide & Biggest Changes",
+        "thumbnail": "https://i3.ytimg.com/vi/2MsMfFWNG_I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2MsMfFWNG_I",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-t7127vC8i6c",
         "title": "Diablo 4 - INSANE Day 1 Amulet",
         "thumbnail": "https://i1.ytimg.com/vi/t7127vC8i6c/hqdefault.jpg",
@@ -460,27 +481,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/YRZ3GnX2En4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YRZ3GnX2En4",
         "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid--3wAUu4lLa4",
-        "title": "Diablo 4 - Maxroll Season 14 Outlook & Prep Podcast",
-        "thumbnail": "https://i2.ytimg.com/vi/-3wAUu4lLa4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-3wAUu4lLa4",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-uq_Cg6fItUI",
-        "title": "Diablo 4 Season 14 Builds/Prep & Tier List",
-        "thumbnail": "https://i2.ytimg.com/vi/uq_Cg6fItUI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uq_Cg6fItUI",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-3ANfklSa8E4",
-        "title": "Diablo 4 - The Maxroll Season 14 Builds Tier List",
-        "thumbnail": "https://i4.ytimg.com/vi/3ANfklSa8E4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3ANfklSa8E4",
-        "publishedAt": "2026-06-29"
       }
     ]
   }

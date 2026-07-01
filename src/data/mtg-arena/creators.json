@@ -26,6 +26,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-6zBhTzIGDQI",
+        "title": "Blue's demise has been greatly exaggerated.",
+        "thumbnail": "https://i3.ytimg.com/vi/6zBhTzIGDQI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6zBhTzIGDQI",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-efVhJut7VHo",
         "title": "Lifegain is eating good in Standard.",
         "thumbnail": "https://i2.ytimg.com/vi/efVhJut7VHo/hqdefault.jpg",
@@ -87,13 +94,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/JYQKEiA8RG4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JYQKEiA8RG4",
         "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-M6EOeASAibM",
-        "title": "The bird that never dies.",
-        "thumbnail": "https://i2.ytimg.com/vi/M6EOeASAibM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=M6EOeASAibM",
-        "publishedAt": "2026-06-17"
       }
     ]
   },
@@ -320,6 +320,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Ub7LVev4HHI",
+        "title": "Maximizing Grindstone Combos",
+        "thumbnail": "https://i2.ytimg.com/vi/Ub7LVev4HHI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ub7LVev4HHI",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-YOzgcK5V-Qw",
         "title": "Slam Blood Moon and Laugh",
         "thumbnail": "https://i2.ytimg.com/vi/YOzgcK5V-Qw/hqdefault.jpg",
@@ -381,13 +388,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/l-Y10SLiN6o/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=l-Y10SLiN6o",
         "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-wGXQ_SolzZI",
-        "title": "Hei Bai Is the REAL Superhero!",
-        "thumbnail": "https://i4.ytimg.com/vi/wGXQ_SolzZI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wGXQ_SolzZI",
-        "publishedAt": "2026-06-26"
       }
     ]
   },
@@ -419,6 +419,13 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-WbaabdVtefI",
+        "title": "Going For Mythic With Fresh Standard's Best Deck",
+        "thumbnail": "https://i4.ytimg.com/vi/WbaabdVtefI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WbaabdVtefI",
+        "publishedAt": "2026-07-01"
+      },
       {
         "id": "vid-Nv-3nLaA3GI",
         "title": "Vision Control is Standard's last hope",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/kn7hXT3Ffho/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=kn7hXT3Ffho",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-fcY1JWcXbzM",
-        "title": "CGB Recommends: Dimir Splash",
-        "thumbnail": "https://i3.ytimg.com/vi/fcY1JWcXbzM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcY1JWcXbzM",
-        "publishedAt": "2026-06-21"
       }
     ]
   }

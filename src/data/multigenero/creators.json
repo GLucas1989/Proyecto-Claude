@@ -214,6 +214,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-Jq04fhiANt4",
+        "title": "Los Artistas de La Velada del Año VI.",
+        "thumbnail": "https://i3.ytimg.com/vi/Jq04fhiANt4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Jq04fhiANt4",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-VzRPOWWspPE",
         "title": "¿México puede ser campeón del mundo?",
         "thumbnail": "https://i3.ytimg.com/vi/VzRPOWWspPE/hqdefault.jpg",
@@ -275,13 +282,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/Vzj1Gw6oEa0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Vzj1Gw6oEa0",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-YVYKLtBT_q8",
-        "title": "Se viene invasión alienígena. Hoy es el día.",
-        "thumbnail": "https://i2.ytimg.com/vi/YVYKLtBT_q8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YVYKLtBT_q8",
-        "publishedAt": "2026-06-24"
       }
     ]
   },

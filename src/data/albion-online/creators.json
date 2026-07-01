@@ -503,6 +503,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-7470a83aurs",
+        "title": "LAS NIEBLAS REVIVIERON en ALBION ONLINE 🥵🔥",
+        "thumbnail": "https://i4.ytimg.com/vi/7470a83aurs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7470a83aurs",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-DPeHS2xMVQ4",
         "title": "¿CONFIRMAN NUEVO WORLD BOSS EN ALBION ONLINE? 😧",
         "thumbnail": "https://i1.ytimg.com/vi/DPeHS2xMVQ4/hqdefault.jpg",
@@ -564,13 +571,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/LSXbgse4LYg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LSXbgse4LYg",
         "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-79AVXlI0_6U",
-        "title": "MIS PRIMEROS 20 MILLONES 🤑 ¡LA RECONQUISTA de ALBION ONLINE! 🔥 #8",
-        "thumbnail": "https://i4.ytimg.com/vi/79AVXlI0_6U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=79AVXlI0_6U",
-        "publishedAt": "2026-06-17"
       }
     ]
   }

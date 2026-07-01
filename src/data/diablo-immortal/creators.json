@@ -119,6 +119,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-dVXmiNrYx9k",
+        "title": "500 Strong! Thank You for Supporting Death Knight Parinon",
+        "thumbnail": "https://i1.ytimg.com/vi/dVXmiNrYx9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dVXmiNrYx9k",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-xbBwNL3oORc",
         "title": "Necromancer PvE Build - Instant DoT Burst with Grim Scythe | Diablo Immortal",
         "thumbnail": "https://i1.ytimg.com/vi/xbBwNL3oORc/hqdefault.jpg",
@@ -180,13 +187,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/RFRWF5bovEo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RFRWF5bovEo",
         "publishedAt": "2026-06-04"
-      },
-      {
-        "id": "vid-9IZNfWrtP4Y",
-        "title": "BK Abomination 2 Battlegrounds | Diablo Immortal | PvP Gameplay",
-        "thumbnail": "https://i2.ytimg.com/vi/9IZNfWrtP4Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9IZNfWrtP4Y",
-        "publishedAt": "2026-06-03"
       }
     ]
   },
