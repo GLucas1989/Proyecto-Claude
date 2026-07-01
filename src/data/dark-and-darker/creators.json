@@ -414,6 +414,41 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-8nm3bqG8ERI",
+        "title": "he has a barrel!",
+        "thumbnail": "https://i1.ytimg.com/vi/8nm3bqG8ERI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8nm3bqG8ERI",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-c7BRqQOSEJQ",
+        "title": "humanized",
+        "thumbnail": "https://i4.ytimg.com/vi/c7BRqQOSEJQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c7BRqQOSEJQ",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-b8bmdg5wZ_s",
+        "title": "Flexin'",
+        "thumbnail": "https://i3.ytimg.com/vi/b8bmdg5wZ_s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b8bmdg5wZ_s",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-lWNUVWYClOo",
+        "title": "surgical |",
+        "thumbnail": "https://i1.ytimg.com/vi/lWNUVWYClOo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lWNUVWYClOo",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-YKYA0Hddsvs",
+        "title": "trippy drippy",
+        "thumbnail": "https://i2.ytimg.com/vi/YKYA0Hddsvs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YKYA0Hddsvs",
+        "publishedAt": "2026-06-30"
+      },
+      {
         "id": "vid-zg7GJ3U8tQc",
         "title": "SAND: RAIDERS OF SOHPIE | BUILD GUIDE | SMALL CREW",
         "thumbnail": "https://i3.ytimg.com/vi/zg7GJ3U8tQc/hqdefault.jpg",
@@ -447,41 +482,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/z3VLuBWoQpI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=z3VLuBWoQpI",
         "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-bxU3Zf2utXo",
-        "title": "icebolt parry",
-        "thumbnail": "https://i3.ytimg.com/vi/bxU3Zf2utXo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bxU3Zf2utXo",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-GKBtjvTYZTA",
-        "title": "this guy knows how to use a staff",
-        "thumbnail": "https://i4.ytimg.com/vi/GKBtjvTYZTA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GKBtjvTYZTA",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-CR0qPPu9aD0",
-        "title": "silence that",
-        "thumbnail": "https://i4.ytimg.com/vi/CR0qPPu9aD0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CR0qPPu9aD0",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-n9NgiG9rdOE",
-        "title": "crystal sword dancing",
-        "thumbnail": "https://i3.ytimg.com/vi/n9NgiG9rdOE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=n9NgiG9rdOE",
-        "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-nqBiG8o-wtw",
-        "title": "another day at the office",
-        "thumbnail": "https://i3.ytimg.com/vi/nqBiG8o-wtw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nqBiG8o-wtw",
-        "publishedAt": "2026-06-09"
       }
     ]
   }

@@ -21,6 +21,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-GKiEsirSPo8",
+        "title": "Destroyed by his own ego",
+        "thumbnail": "https://i4.ytimg.com/vi/GKiEsirSPo8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GKiEsirSPo8",
+        "publishedAt": "2026-06-30"
+      },
+      {
         "id": "vid-i5ELhvpuPgs",
         "title": "My Return To Competitive Sim Racing Was Chaos",
         "thumbnail": "https://i2.ytimg.com/vi/i5ELhvpuPgs/hqdefault.jpg",
@@ -82,13 +89,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/IMUpyPliLXk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=IMUpyPliLXk",
         "publishedAt": "2026-05-31"
-      },
-      {
-        "id": "vid-YWG_CBTMToE",
-        "title": "Making Silly Time Attack Cars In Forza Horizon 6! (Full sim setup)",
-        "thumbnail": "https://i2.ytimg.com/vi/YWG_CBTMToE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YWG_CBTMToE",
-        "publishedAt": "2026-05-29"
       }
     ]
   },

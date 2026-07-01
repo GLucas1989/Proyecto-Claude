@@ -663,6 +663,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-NB-qzr_oPYg",
+        "title": "TLAW vs T1 | MSI 2026 | Play In Day 4",
+        "thumbnail": "https://i3.ytimg.com/vi/NB-qzr_oPYg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NB-qzr_oPYg",
+        "publishedAt": "2026-06-30"
+      },
+      {
+        "id": "vid-rBleoEU7kOk",
+        "title": "Choose Your FIGHTER 😈",
+        "thumbnail": "https://i3.ytimg.com/vi/rBleoEU7kOk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rBleoEU7kOk",
+        "publishedAt": "2026-06-30"
+      },
+      {
         "id": "vid-pVkSWRF62nc",
         "title": "How well does Peyz know... Peyz? 🤔",
         "thumbnail": "https://i1.ytimg.com/vi/pVkSWRF62nc/hqdefault.jpg",
@@ -678,7 +692,7 @@
       },
       {
         "id": "vid-flYUPksMNgA",
-        "title": "Is the EU versus NA rivarly FINALLY settled?! 👀",
+        "title": "Is the EU versus NA rivalry FINALLY settled?! 👀",
         "thumbnail": "https://i3.ytimg.com/vi/flYUPksMNgA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=flYUPksMNgA",
         "publishedAt": "2026-06-30"
@@ -716,20 +730,6 @@
         "title": "TLAW vs KC | MSI 2026 | Stage | Game 02 | Team Liquid Alienware vs Karmine Corp",
         "thumbnail": "https://i3.ytimg.com/vi/jec_1qD6gcY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jec_1qD6gcY",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-gkSa2-qhsvM",
-        "title": "Josedeodo is LEGENDARY 🗿",
-        "thumbnail": "https://i4.ytimg.com/vi/gkSa2-qhsvM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gkSa2-qhsvM",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-SpxN8HQ6GIY",
-        "title": "TLAW vs KC | MSI 2026 | Stage | Game 01 | Team Liquid Alienware vs Karmine Corp",
-        "thumbnail": "https://i4.ytimg.com/vi/SpxN8HQ6GIY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SpxN8HQ6GIY",
         "publishedAt": "2026-06-30"
       }
     ]

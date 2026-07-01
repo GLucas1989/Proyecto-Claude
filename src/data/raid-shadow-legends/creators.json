@@ -223,6 +223,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-ERmrd88VlWI",
+        "title": "\"WE FINALLY DID IT!\" - Giveaway Winners! - Raid Shadow Legends (Challenge END)",
+        "thumbnail": "https://i2.ytimg.com/vi/ERmrd88VlWI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ERmrd88VlWI",
+        "publishedAt": "2026-06-30"
+      },
+      {
         "id": "vid-vgNYxfdc4BQ",
         "title": "DO THIS ASAP for Max CVC Points (HUGE PUSH) - Raid Shadow Legends",
         "thumbnail": "https://i3.ytimg.com/vi/vgNYxfdc4BQ/hqdefault.jpg",
@@ -284,13 +291,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/sUgyvgjgimw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sUgyvgjgimw",
         "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-8KrAJI_BUW8",
-        "title": "NEW FREE LOGIN LEGENDARY Revealed and I'm... Not Sure What to Feel - Raid Shadow Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/8KrAJI_BUW8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8KrAJI_BUW8",
-        "publishedAt": "2026-06-25"
       }
     ]
   },

@@ -413,6 +413,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-X0JSta3Rc8Y",
+        "title": "Diablo 4 - INSANE XP FARM, ALL HELLWYRM SPAWNS FOUND",
+        "thumbnail": "https://i1.ytimg.com/vi/X0JSta3Rc8Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=X0JSta3Rc8Y",
+        "publishedAt": "2026-06-30"
+      },
+      {
         "id": "vid-wYH-ywHt_HQ",
         "title": "Diablo 4 - HOW TO REACH T12 IN 1 DAY",
         "thumbnail": "https://i4.ytimg.com/vi/wYH-ywHt_HQ/hqdefault.jpg",
@@ -473,13 +480,6 @@
         "title": "Diablo 4 Season 14 Builds/Prep/Rankings, later trying out RagnarokX (#ad)",
         "thumbnail": "https://i2.ytimg.com/vi/-fCwH-_t8C8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-fCwH-_t8C8",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-w7iAx_cOp64",
-        "title": "Diablo 4 - IMPORTANT INFO: Damage, Scaling & Endgame",
-        "thumbnail": "https://i4.ytimg.com/vi/w7iAx_cOp64/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w7iAx_cOp64",
         "publishedAt": "2026-06-29"
       }
     ]
