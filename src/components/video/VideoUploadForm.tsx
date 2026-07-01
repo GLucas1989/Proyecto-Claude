@@ -3,8 +3,8 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { UploadCloud, X, Lock, Unlock, Loader2, CheckCircle2, AlertCircle, Film } from "lucide-react";
 import { createVideoUploadUrl, getVideoAssetStatus } from "@/app/actions/video";
+import { REQUIRED_PROMO_HASHTAG as PROMO_HASHTAG } from "@/lib/validation/hashtags";
 
-const PROMO_HASHTAG = "#CreatorsSHUB";
 const POLL_MS = 4000;
 
 type Step = "idle" | "uploading" | "processing" | "ready" | "error";
@@ -95,7 +95,7 @@ export function VideoUploadForm({ gameSlug }: VideoUploadFormProps) {
       title,
       description,
       gameSlug,
-      tags: extraTags,
+      tags: [PROMO_HASHTAG, ...extraTags],
       isExclusive,
     });
 

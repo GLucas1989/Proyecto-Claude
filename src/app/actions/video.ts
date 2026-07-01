@@ -3,8 +3,7 @@
 import { createClient } from "@/lib/supabase/server";
 import { redirect } from "next/navigation";
 import { getMuxClient, isMuxConfigured } from "@/lib/mux/client";
-
-const PROMO_HASHTAG = "#CreatorsSHUB";
+import { validateHashtags } from "@/lib/validation/hashtags";
 
 async function requireAuth() {
   const supabase = await createClient();
@@ -13,15 +12,13 @@ async function requireAuth() {
   return { supabase, user };
 }
 
-/** Normaliza hashtags: siempre con "#", sin duplicados, con #CreatorsSHUB primero e inamovible. */
-function normalizeTags(rawTags: string[]): string[] {
+/** Normaliza formato ("#tag", sin duplicados) — NO agrega nada por su cuenta. */
+function cleanTags(rawTags: string[]): string[] {
   const cleaned = rawTags
     .map((t) => t.trim())
     .filter(Boolean)
-    .map((t) => (t.startsWith("#") ? t : `#${t}`))
-    .filter((t) => t.toLowerCase() !== PROMO_HASHTAG.toLowerCase());
-
-  return [PROMO_HASHTAG, ...Array.from(new Set(cleaned))];
+    .map((t) => (t.startsWith("#") ? t : `#${t}`));
+  return Array.from(new Set(cleaned));
 }
 
 export interface CreateVideoUploadResult {
@@ -50,9 +47,14 @@ export async function createVideoUploadUrl(params: {
     return { ok: false, error: "El título es obligatorio." };
   }
 
+  const tags = cleanTags(params.tags);
+  const hashtagCheck = validateHashtags(tags);
+  if (!hashtagCheck.ok) {
+    return { ok: false, error: hashtagCheck.error };
+  }
+
   try {
     const { supabase, user } = await requireAuth();
-    const tags = normalizeTags(params.tags);
 
     const mux = getMuxClient();
     const upload = await mux.video.uploads.create({
