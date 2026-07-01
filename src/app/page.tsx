@@ -1,8 +1,8 @@
 import { Fragment } from "react";
 import { getGames, getCreators } from "@/lib/data";
-import { getUserFollows, hasAnyFollow } from "@/lib/follows";
+import { getUserFollows } from "@/lib/follows";
 import { GameCard } from "@/components/game/GameCard";
-import { HomeGamesFilter } from "@/components/home/HomeGamesFilter";
+import { HomeFeedTabs } from "@/components/home/HomeFeedTabs";
 import { MobileClaimCTA } from "@/components/home/MobileClaimCTA";
 import { NewsletterSignup } from "@/components/NewsletterSignup";
 import { Zap, Users, Gamepad2, Globe } from "lucide-react";
@@ -16,20 +16,8 @@ export default async function HomePage() {
   );
   const totalCreators = activeWithCreators.reduce((a, { creators }) => a + creators.length, 0);
 
-  // ── Feed personalizado: prioriza juegos/creadores seguidos ──
+  // ── Feed personalizado: pestaña "Siguiendo" cruzando user_follows real ──
   const follows = await getUserFollows();
-  const personalized = hasAnyFollow(follows);
-
-  const followedItems = personalized
-    ? activeWithCreators.filter(
-        ({ game, creators }) =>
-          follows.games.has(game.slug) ||
-          creators.some((c) => follows.authors.has(c.id))
-      )
-    : [];
-  const restItems = personalized
-    ? activeWithCreators.filter((it) => !followedItems.includes(it))
-    : activeWithCreators;
 
   const stats = [
     { label: "Creadores", value: totalCreators, icon: Users },
@@ -122,21 +110,11 @@ export default async function HomePage() {
             <div className="h-px flex-1 bg-gradient-to-l from-transparent to-cyan-500/20" />
           </div>
 
-          {/* Banda priorizada: lo que el usuario sigue */}
-          {personalized && followedItems.length > 0 && (
-            <div className="mb-12">
-              <div className="mb-5 flex items-center gap-3">
-                <Zap className="h-4 w-4 text-cyan-400" />
-                <p className="text-[10px] font-mono text-cyan-400/70 uppercase tracking-[0.3em]">
-                  {"// siguiendo · priorizado para vos"}
-                </p>
-                <div className="h-px flex-1 bg-gradient-to-r from-cyan-500/25 to-transparent" />
-              </div>
-              <HomeGamesFilter items={followedItems} />
-            </div>
-          )}
-
-          <HomeGamesFilter items={restItems} />
+          <HomeFeedTabs
+            items={activeWithCreators}
+            followedGameSlugs={[...follows.games]}
+            followedAuthorIds={[...follows.authors]}
+          />
 
           {comingSoonGames.length > 0 && (
             <div className="mt-20">
