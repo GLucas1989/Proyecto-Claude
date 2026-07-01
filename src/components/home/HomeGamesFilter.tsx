@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo, Fragment } from "react";
+import { useState, useMemo, useEffect, Fragment } from "react";
 import { Search, X } from "lucide-react";
 import { Game, Creator } from "@/types";
 import { GameShowcase } from "@/components/game/GameShowcase";
@@ -31,10 +31,53 @@ const TYPE_CHIPS = [
 type Lang = (typeof LANG_CHIPS)[number]["value"];
 type ContentChip = (typeof TYPE_CHIPS)[number]["value"];
 
+// Persiste el filtro entre navegaciones (el componente se remonta al volver
+// a la Home) — se hidrata después del primer render para no romper el SSR.
+const STORAGE_KEY = "creatorshub:home-filter-v1";
+
+interface StoredFilter {
+  search: string;
+  langs: Lang[];
+  types: ContentChip[];
+}
+
+function loadStoredFilter(): StoredFilter | null {
+  if (typeof window === "undefined") return null;
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    return raw ? (JSON.parse(raw) as StoredFilter) : null;
+  } catch {
+    return null;
+  }
+}
+
 export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
   const [search, setSearch]       = useState("");
   const [langs, setLangs]         = useState<Lang[]>([]);
   const [types, setTypes]         = useState<ContentChip[]>([]);
+  const [hydrated, setHydrated]   = useState(false);
+
+  // Restaurar filtro guardado al montar (una sola vez).
+  useEffect(() => {
+    const stored = loadStoredFilter();
+    if (stored) {
+      setSearch(stored.search ?? "");
+      setLangs(stored.langs ?? []);
+      setTypes(stored.types ?? []);
+    }
+    setHydrated(true);
+  }, []);
+
+  // Guardar cada cambio, pero solo después de hidratar (evita pisar lo
+  // guardado con el estado inicial vacío antes de leerlo).
+  useEffect(() => {
+    if (!hydrated) return;
+    try {
+      window.localStorage.setItem(STORAGE_KEY, JSON.stringify({ search, langs, types }));
+    } catch {
+      // localStorage no disponible (modo privado, cuota llena, etc.) — no bloquea el filtro en memoria.
+    }
+  }, [search, langs, types, hydrated]);
 
   const hasFilters = search.trim() !== "" || langs.length > 0 || types.length > 0;
 
