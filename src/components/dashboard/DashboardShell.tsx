@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import {
   GraduationCap, Wrench, Wallet, Coins, Receipt, PlusCircle,
-  ShieldCheck, Clock, Zap, TrendingUp, Eye, Download, Compass, ShieldAlert,
+  ShieldCheck, Clock, Zap, TrendingUp, Eye, Download, Compass, ShieldAlert, Lock,
 } from "lucide-react";
 import { ReputationCard } from "@/components/dashboard/ReputationCard";
 import { MyPublicationsList } from "@/components/dashboard/MyPublicationsList";
@@ -83,27 +83,36 @@ export function DashboardShell(props: DashboardShellProps) {
         </div>
 
         {/* Toggle Alumno / Creador */}
-        <div className="inline-flex items-center rounded-xl border border-white/10 bg-white/[0.03] p-1 self-start sm:self-auto">
-          <button
-            onClick={() => setMode("student")}
-            className={`flex items-center gap-1.5 px-4 py-2 rounded-lg text-xs font-mono font-semibold transition-all ${
-              mode === "student"
-                ? "bg-cyan-500/15 text-cyan-300 shadow-[0_0_12px_rgba(0,240,255,0.15)]"
-                : "text-white/40 hover:text-white/70"
-            }`}
-          >
-            <GraduationCap className="h-3.5 w-3.5" /> Modo Alumno
-          </button>
-          <button
-            onClick={() => setMode("creator")}
-            className={`flex items-center gap-1.5 px-4 py-2 rounded-lg text-xs font-mono font-semibold transition-all ${
-              mode === "creator"
-                ? "bg-pink-500/15 text-pink-300 shadow-[0_0_12px_rgba(244,63,94,0.15)]"
-                : "text-white/40 hover:text-white/70"
-            }`}
-          >
-            <Wrench className="h-3.5 w-3.5" /> Modo Creador
-          </button>
+        <div className="flex flex-col items-start sm:items-end gap-1.5 self-start sm:self-auto">
+          <div className="inline-flex items-center rounded-xl border border-white/10 bg-white/[0.03] p-1">
+            <button
+              onClick={() => setMode("student")}
+              className={`flex items-center gap-1.5 px-4 py-2 rounded-lg text-xs font-mono font-semibold transition-all ${
+                mode === "student"
+                  ? "bg-cyan-500/15 text-cyan-300 shadow-[0_0_12px_rgba(0,240,255,0.15)]"
+                  : "text-white/40 hover:text-white/70"
+              }`}
+            >
+              <GraduationCap className="h-3.5 w-3.5" /> Modo Alumno
+            </button>
+            <button
+              onClick={() => setMode("creator")}
+              className={`flex items-center gap-1.5 px-4 py-2 rounded-lg text-xs font-mono font-semibold transition-all ${
+                mode === "creator"
+                  ? "bg-pink-500/15 text-pink-300 shadow-[0_0_12px_rgba(244,63,94,0.15)]"
+                  : "text-white/40 hover:text-white/70"
+              }`}
+            >
+              <Wrench className="h-3.5 w-3.5" /> Modo Creador
+            </button>
+          </div>
+          {/* Etiqueta de vista actual */}
+          <p className="text-[10px] font-mono text-white/30 uppercase tracking-widest px-1">
+            {"// vista actual: "}
+            <span className={mode === "student" ? "text-cyan-400/70" : "text-pink-400/70"}>
+              {mode === "student" ? "Alumno" : "Creador"}
+            </span>
+          </p>
         </div>
       </div>
 
@@ -148,7 +157,15 @@ function StudentView({
 
       {/* Suscripciones activas */}
       <section>
-        <h2 className="text-base font-bold text-white mb-3 sm:mb-4">Suscripciones activas</h2>
+        <div className="flex items-center justify-between gap-3 mb-3 sm:mb-4">
+          <h2 className="text-base font-bold text-white">Suscripciones activas</h2>
+          <Link
+            href="/vault"
+            className="shine-btn flex items-center gap-1.5 px-4 py-2 rounded-xl border border-cyan-500/40 bg-gradient-to-r from-cyan-500/20 to-cyan-400/10 text-xs font-mono font-bold text-cyan-200 hover:from-cyan-500/30 hover:to-cyan-400/20 hover:shadow-[0_0_18px_rgba(0,240,255,0.25)] transition-all active:scale-95"
+          >
+            <Lock className="h-3.5 w-3.5" /> Acceder a The Vault
+          </Link>
+        </div>
         {activeSubs.length === 0 ? (
           <MonetizationPotentialCard />
         ) : (

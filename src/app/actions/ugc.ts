@@ -473,6 +473,22 @@ export async function getPublicationsForGame(gameSlug: string): Promise<UserPubl
   }
 }
 
+/** Catálogo global (The Vault): guías publicadas de todos los juegos. */
+export async function getAllPublishedPublications(): Promise<UserPublication[]> {
+  try {
+    const supabase = await createClient();
+    const { data } = await supabase
+      .from("user_publications")
+      .select("*")
+      .eq("status", "PUBLISHED")
+      .order("published_at", { ascending: false })
+      .limit(60);
+    return (data ?? []) as UserPublication[];
+  } catch {
+    return [];
+  }
+}
+
 export async function getPromotedForGame(gameSlug: string): Promise<PromotedContent[]> {
   try {
     const supabase = await createClient();
