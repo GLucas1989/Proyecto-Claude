@@ -23,6 +23,20 @@
      configurado (más simple, evita configurarlo a mano en el dashboard)
   Archivo: `src/app/api/cron/recompute-reputation/route.ts`.
 
+- [ ] **KYC real** — hoy `startKycVerification` es un placeholder (solo marca
+  `kyc_requested_at`, sin proveedor externo). Falta integrar un servicio real
+  (Stripe Identity, Persona, Sumsub) que dispare `is_verified = true` tras la
+  verificación. Mientras tanto, **el admin debe marcar `is_verified` manualmente**
+  en Supabase para cada creador que se verifique:
+  ```sql
+  update public.profiles set is_verified = true where email = '...';
+  ```
+  Archivo: `src/app/actions/payments.ts`.
+- [ ] **Panel admin de retiros** — no se construyó una UI para que el admin vea
+  y procese `withdrawal_requests` (marcar como `paid`/`rejected`). Hoy solo se
+  puede gestionar por SQL directo. Evaluar si conviene agregarla al panel de
+  moderación existente.
+
 ---
 
 ## 📊 Estado general

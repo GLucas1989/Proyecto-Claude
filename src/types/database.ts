@@ -108,6 +108,9 @@ export interface Database {
           creator_tier: "user" | "verified" | "official";
           subscription_status: "free" | "pro_5" | "official_20";
           is_authorized_to_monetize: boolean;
+          is_verified: boolean;
+          monetization_enabled: boolean;
+          kyc_requested_at: string | null;
           created_at: string;
           updated_at: string;
         };
@@ -126,6 +129,9 @@ export interface Database {
           creator_tier?: "user" | "verified" | "official";
           subscription_status?: "free" | "pro_5" | "official_20";
           is_authorized_to_monetize?: boolean;
+          is_verified?: boolean;
+          monetization_enabled?: boolean;
+          kyc_requested_at?: string | null;
         };
         Update: {
           email?: string;
@@ -138,6 +144,9 @@ export interface Database {
           can_monetize?: boolean;
           monetization_source?: string | null;
           is_official_creator?: boolean;
+          is_verified?: boolean;
+          monetization_enabled?: boolean;
+          kyc_requested_at?: string | null;
           creator_tier?: "user" | "verified" | "official";
           subscription_status?: "free" | "pro_5" | "official_20";
           is_authorized_to_monetize?: boolean;

@@ -11,6 +11,7 @@ import { MyPublicationsList } from "@/components/dashboard/MyPublicationsList";
 import { StatCard } from "@/components/dashboard/StatCard";
 import { OBSOverlayCard } from "@/components/dashboard/OBSOverlayCard";
 import { RequestMonetizationCard } from "@/components/dashboard/RequestMonetizationCard";
+import { PaymentDashboard } from "@/components/dashboard/PaymentDashboard";
 import { MonetizationPotentialCard } from "@/components/dashboard/MonetizationPotentialCard";
 import type { UserPublication, UserReputation, WalletTransaction } from "@/types/database";
 
@@ -270,6 +271,9 @@ function CreatorView(props: DashboardShellProps) {
 
       {/* Monetización */}
       <RequestMonetizationCard />
+
+      {/* Pagos: KYC + saldo + retiro */}
+      <PaymentDashboard />
 
       {/* Widget de alertas para OBS */}
       <OBSOverlayCard userId={props.userId} />

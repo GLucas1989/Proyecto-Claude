@@ -28,21 +28,22 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Invalid signature" }, { status: 401 });
   }
 
-  const event = JSON.parse(rawBody) as {
-    meta: {
-      event_name: string;
-      custom_data?: Record<string, string>;
-    };
-    data: {
-      id: string;
-      attributes: Record<string, unknown>;
-    };
+  let event: {
+    meta: { event_name: string; custom_data?: Record<string, string> };
+    data: { id: string; attributes: Record<string, unknown> };
   };
+  try {
+    event = JSON.parse(rawBody);
+  } catch {
+    // Payload malformado: 400 evita que LS lo reintente indefinidamente como si fuera error transitorio
+    return NextResponse.json({ error: "Malformed payload" }, { status: 400 });
+  }
 
   const supabase = await createClient();
   const { event_name, custom_data = {} } = event.meta;
   const attrs = event.data.attributes;
 
+  try {
   switch (event_name) {
 
     // ── Game subscription activated / renewed ─────────────────────────────
@@ -158,12 +159,15 @@ export async function POST(request: Request) {
             .eq("publication_id", publicationId)
             .eq("payment_status", "PENDING");
 
-          await supabase.rpc("credit_author_wallet", {
+          const { data: creditedPromo } = await supabase.rpc("credit_author_wallet", {
             p_user_id:      authorId,
             p_amount_cents: authorAmountCents,
             p_description:  `UGC promotion purchase — publication ${publicationId}`,
             p_stripe_ref:   `ls_${event.data.id}`,
           });
+          if (creditedPromo === false) {
+            console.warn(`[ls-webhook] duplicate event ignored (idempotent): ${event.data.id}`);
+          }
           break;
         }
 
@@ -176,12 +180,16 @@ export async function POST(request: Request) {
           // PWYW: el total real abonado en checkout es la fuente de verdad
           const { authorAmountCents } = computeUGCSplit6040(totalCents);
 
-          await supabase.rpc("credit_author_wallet", {
+          const { data: creditedPurchase } = await supabase.rpc("credit_author_wallet", {
             p_user_id:      authorId,
             p_amount_cents: authorAmountCents,
             p_description:  `UGC guide purchase (60/40 PWYW) — publication ${publicationId}`,
             p_stripe_ref:   `ls_${event.data.id}`,
           });
+          if (creditedPurchase === false) {
+            console.warn(`[ls-webhook] duplicate event ignored (idempotent): ${event.data.id}`);
+            break; // no duplicar tampoco el registro de payment_events
+          }
 
           await supabase.from("payment_events").insert({
             stripe_event_id:      `ls_${event.data.id}`,
@@ -231,6 +239,13 @@ export async function POST(request: Request) {
       }
       break;
     }
+  }
+  } catch (err) {
+    // Error inesperado procesando el evento: logueamos y devolvemos 500 para
+    // que Lemon Squeezy reintente (at-least-once) — la idempotencia de
+    // credit_author_wallet asegura que un reintento posterior no duplique nada.
+    console.error(`[ls-webhook] error processing ${event_name}:`, err);
+    return NextResponse.json({ error: "Internal error" }, { status: 500 });
   }
 
   return NextResponse.json({ received: true });
