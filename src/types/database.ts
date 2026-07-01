@@ -83,6 +83,7 @@ export type SubscriptionStatus = "active" | "canceled" | "past_due" | "trialing"
 export type ContentType = "pdf" | "ppt" | "video" | "post" | "vod";
 export type PlatformContentType = "pdf" | "ppt" | "audio" | "video";
 export type GameSubscriptionStatus = "active" | "canceled" | "past_due" | "trialing";
+export type ContentAssetStatus = "processing" | "ready" | "errored";
 export type AdPlacement =
   | "home_between_games"
   | "game_page_top"
@@ -422,6 +423,42 @@ export interface Database {
           is_global_pass?: boolean;
           status?: UserSubStatus;
           expires_at?: string | null;
+        };
+      };
+      content_assets: {
+        Row: {
+          id: string;
+          user_id: string;
+          game_slug: string | null;
+          title: string;
+          description: string | null;
+          mux_upload_id: string | null;
+          video_id: string | null;
+          playback_id: string | null;
+          is_exclusive: boolean;
+          tags: string[];
+          status: ContentAssetStatus;
+          thumbnail_url: string | null;
+          duration_seconds: number | null;
+          created_at: string;
+          updated_at: string;
+        };
+        Insert: {
+          user_id: string;
+          game_slug?: string | null;
+          title: string;
+          description?: string | null;
+          mux_upload_id?: string | null;
+          is_exclusive?: boolean;
+          tags?: string[];
+          status?: ContentAssetStatus;
+        };
+        Update: {
+          video_id?: string | null;
+          playback_id?: string | null;
+          status?: ContentAssetStatus;
+          thumbnail_url?: string | null;
+          duration_seconds?: number | null;
         };
       };
     };

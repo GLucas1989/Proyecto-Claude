@@ -15,6 +15,21 @@
   auto-aprobar solo `official` y revisar `verified`, o volver a revisión para ambos?
   Archivo: `src/app/actions/ugc.ts`.
 
+- [ ] **Video privado/exclusivo (Mux) — pendiente de activación** — nueva tabla
+  `content_assets`, formulario `VideoUploadForm.tsx` (carga directa a Mux,
+  hashtags con `#CreatorsSHUB` fijo, toggle "Contenido Exclusivo") y player
+  `ExclusiveVideoPlayer.tsx` (paywall real: sin sesión no se puede ni pedir
+  el token firmado de reproducción). Para activarlo falta:
+  1. Correr la migración `supabase/migrations/phase15_content_assets.sql`.
+  2. Cargar en Vercel: `MUX_TOKEN_ID`, `MUX_TOKEN_SECRET`, `MUX_WEBHOOK_SECRET`.
+  3. Para que el contenido "exclusivo" (no solo el público) pueda reproducirse,
+     además: `MUX_SIGNING_KEY_ID`, `MUX_SIGNING_KEY_PRIVATE` (Signing Keys en
+     el dashboard de Mux — sin esto, subir como exclusivo funciona pero el
+     player no puede pedir el token y muestra error).
+  4. Registrar en dashboard.mux.com el webhook: `https://creatorsshub.gg/api/webhooks/mux`.
+  Archivos: `src/lib/mux/client.ts`, `src/app/actions/video.ts`,
+  `src/app/api/webhooks/mux/route.ts`, `src/app/api/mux/playback-token/route.ts`.
+
 - [ ] **Gaming Mode (Spotify) — pendiente de activación/revisión** — el widget
   flotante ya está implementado y en el código (`SpotifyPlayerWidget.tsx`,
   `useSpotifyPlayer.ts`, auth vía next-auth en `src/lib/spotify/auth.ts`),
