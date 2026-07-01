@@ -2,28 +2,19 @@ import "server-only";
 import { createHmac, timingSafeEqual } from "crypto";
 
 /**
- * Cliente de Didit.me (KYC) — Free KYC workflow.
- *
- * Fuente del contrato de API (docs.didit.me bloquea scraping directo, se
- * reconstruyó desde la documentación indexada y el repo oficial de demo
- * github.com/didit-protocol/didit-full-demo):
- *   - POST {base}/{version}/session/  con header x-api-key
+ * Cliente de Didit.me (KYC) — confirmado contra la doc oficial (v3):
+ *   - POST https://verification.didit.me/v3/session/  con header x-api-key
  *   - Body: { workflow_id, vendor_data, callback }
- *   - Respuesta: { session_id, url } (nombre del campo de URL puede variar
- *     según versión de API — se lee de forma defensiva)
- *
- * ⚠️ La documentación pública mostró tanto "/v2/session/" (docs oficiales)
- * como "/v3/session/" (README del repo de demo oficial). Se deja la versión
- * configurable vía DIDIT_API_VERSION para no romper si el proveedor difiere
- * de lo documentado — probar y ajustar la env var si la creación de sesión
- * devuelve 404.
+ *   - Respuesta: { session_id, session_token, url, status, workflow_id, vendor_data }
+ *   - workflow_id NO es secreto ni env var — es config por sesión.
  */
 
-const DIDIT_API_BASE = process.env.DIDIT_API_BASE ?? "https://verification.didit.me";
-const DIDIT_API_VERSION = process.env.DIDIT_API_VERSION ?? "v2";
+const DIDIT_API_BASE = "https://verification.didit.me";
 const DIDIT_API_KEY = process.env.DIDIT_API_KEY ?? "";
-const DIDIT_WORKFLOW_ID = process.env.DIDIT_WORKFLOW_ID ?? ""; // Free KYC workflow
 const DIDIT_WEBHOOK_SECRET = process.env.DIDIT_WEBHOOK_SECRET ?? "";
+
+// Workflow "Free KYC" — id de configuración, no secreto (confirmado en consola).
+const DIDIT_WORKFLOW_ID = "934590b3-3496-4e60-b31d-e359bfd6dbdd";
 
 export interface DiditSession {
   sessionId: string;
@@ -38,12 +29,12 @@ export async function createVerificationSession(
   vendorData: string,
   callbackUrl: string
 ): Promise<DiditSession | { error: string }> {
-  if (!DIDIT_API_KEY || !DIDIT_WORKFLOW_ID) {
-    return { error: "Didit no está configurado (faltan DIDIT_API_KEY / DIDIT_WORKFLOW_ID)." };
+  if (!DIDIT_API_KEY) {
+    return { error: "Didit no está configurado (falta DIDIT_API_KEY)." };
   }
 
   try {
-    const res = await fetch(`${DIDIT_API_BASE}/${DIDIT_API_VERSION}/session/`, {
+    const res = await fetch(`${DIDIT_API_BASE}/v3/session/`, {
       method: "POST",
       headers: {
         "x-api-key": DIDIT_API_KEY,
@@ -61,53 +52,80 @@ export async function createVerificationSession(
       return { error: `Didit respondió ${res.status}: ${body.slice(0, 200)}` };
     }
 
-    const json = await res.json() as Record<string, unknown>;
-    const sessionId = (json.session_id ?? json.id) as string | undefined;
-    // El nombre del campo de URL varía entre versiones de la API observadas
-    // en la documentación (url / verification_url / session_url).
-    const verificationUrl = (json.url ?? json.verification_url ?? json.session_url) as string | undefined;
-
-    if (!sessionId || !verificationUrl) {
-      return { error: "Respuesta de Didit sin session_id/url — revisar DIDIT_API_VERSION." };
+    const json = await res.json() as { session_id?: string; url?: string };
+    if (!json.session_id || !json.url) {
+      return { error: "Respuesta de Didit sin session_id/url." };
     }
 
-    return { sessionId, verificationUrl };
+    return { sessionId: json.session_id, verificationUrl: json.url };
   } catch (err) {
     return { error: err instanceof Error ? err.message : "Error de red contactando a Didit." };
   }
 }
 
+// Whole-number floats (1.0 -> 1) recursivamente, igual que la canonicalización del servidor de Didit.
+function shortenFloats(v: unknown): unknown {
+  if (Array.isArray(v)) return v.map(shortenFloats);
+  if (v && typeof v === "object") {
+    return Object.fromEntries(
+      Object.entries(v as Record<string, unknown>).map(([k, x]) => [k, shortenFloats(x)])
+    );
+  }
+  if (typeof v === "number" && !Number.isInteger(v) && v % 1 === 0) return Math.trunc(v);
+  return v;
+}
+
+// Orden lexicográfico recursivo de claves (se preserva el orden de arrays).
+function sortKeys(v: unknown): unknown {
+  if (Array.isArray(v)) return v.map(sortKeys);
+  if (v && typeof v === "object") {
+    return Object.keys(v as object)
+      .sort()
+      .reduce<Record<string, unknown>>((acc, k) => {
+        acc[k] = sortKeys((v as Record<string, unknown>)[k]);
+        return acc;
+      }, {});
+  }
+  return v;
+}
+
 /**
- * Verifica la firma del webhook de Didit.
- * Método "Simple Signature" (el recomendado por Didit): HMAC-SHA256 sobre
- * `${session_id}|${status}|${created_at}` — inmune a reserialización de JSON
- * por middlewares, a diferencia de firmar el body crudo.
+ * Verifica la firma X-Signature-V2 del webhook de Didit: HMAC-SHA256 sobre el
+ * JSON canonicalizado (shortenFloats -> sortKeys -> JSON.stringify), más
+ * chequeo de frescura de X-Timestamp (máx 300s) para evitar replay.
  */
 export function verifyDiditWebhookSignature(params: {
   signature: string | null;
-  sessionId: string;
-  status: string;
-  createdAt: string | number;
+  timestamp: string | null;
+  rawBody: string;
 }): boolean {
-  const { signature, sessionId, status, createdAt } = params;
+  const { signature, timestamp, rawBody } = params;
   if (!signature || !DIDIT_WEBHOOK_SECRET) return false;
 
-  const payload = `${sessionId}|${status}|${createdAt}`;
-  const expected = createHmac("sha256", DIDIT_WEBHOOK_SECRET).update(payload).digest("hex");
+  const ts = Number(timestamp);
+  if (!ts || Math.abs(Date.now() / 1000 - ts) > 300) return false;
+
+  let canonical: string;
+  try {
+    canonical = JSON.stringify(sortKeys(shortenFloats(JSON.parse(rawBody))));
+  } catch {
+    return false;
+  }
+
+  const expected = createHmac("sha256", DIDIT_WEBHOOK_SECRET).update(canonical, "utf8").digest("hex");
 
   try {
-    return timingSafeEqual(Buffer.from(expected), Buffer.from(signature));
+    return signature.length === expected.length && timingSafeEqual(Buffer.from(expected), Buffer.from(signature));
   } catch {
-    return false; // longitudes distintas u otro error → firma inválida
+    return false;
   }
 }
 
-/** Estados que Didit reporta como aprobación exitosa (verificado defensivamente). */
+/** Estados de Didit v3 (literales exactos, case-sensitive). */
 export function isDiditApproved(status: string): boolean {
-  return ["approved", "Approved", "passed", "success", "completed"].includes(status);
+  return status === "Approved";
 }
 
-/** Estados que representan rechazo definitivo. */
 export function isDiditDeclined(status: string): boolean {
-  return ["declined", "Declined", "rejected", "failed"].includes(status);
+  return status === "Declined";
 }

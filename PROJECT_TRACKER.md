@@ -24,15 +24,16 @@
   Archivo: `src/app/api/cron/recompute-reputation/route.ts`.
 
 - [x] **KYC real (Didit.me)** — `startKycVerification` ahora crea una sesión real
-  en Didit (workflow "Free KYC") y redirige al usuario al flujo hospedado.
-  El resultado llega por webhook (`/api/webhooks/didit`, firma HMAC verificada)
-  y actualiza `profiles.is_verified` automáticamente. **Pendiente para activarlo:**
+  en Didit (`POST /v3/session/`, workflow "Free KYC" con id
+  `934590b3-3496-4e60-b31d-e359bfd6dbdd`, hardcodeado en `src/lib/didit.ts` porque
+  no es secreto) y redirige al usuario al flujo hospedado. El resultado llega
+  por webhook (`/api/webhooks/didit`, firma `X-Signature-V2` HMAC verificada
+  con canonicalización JSON + chequeo de frescura de `X-Timestamp`) y actualiza
+  `profiles.is_verified` automáticamente. **Pendiente para activarlo:**
   1. Correr la migración `supabase/migrations/phase13_didit_kyc.sql`.
-  2. Cargar en Vercel: `DIDIT_API_KEY`, `DIDIT_WORKFLOW_ID`, `DIDIT_WEBHOOK_SECRET`
+  2. Cargar en Vercel: `DIDIT_API_KEY`, `DIDIT_WEBHOOK_SECRET`
      (y `SUPABASE_SERVICE_ROLE_KEY`, ver ítem de abajo).
   3. Registrar en el panel de Didit el webhook URL: `/api/webhooks/didit`.
-  4. La versión de la API de Didit (`v2` vs `v3`) quedó configurable vía
-     `DIDIT_API_VERSION` por si la creación de sesión devuelve 404 con el default.
   Archivos: `src/lib/didit.ts`, `src/app/api/webhooks/didit/route.ts`, `src/app/actions/payments.ts`.
 
 - [x] **Bug de RLS en webhooks (crítico, detectado y corregido)** — los webhooks

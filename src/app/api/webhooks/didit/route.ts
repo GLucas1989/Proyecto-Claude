@@ -8,7 +8,7 @@ export const dynamic = "force-dynamic";
 interface DiditWebhookPayload {
   session_id: string;
   status: string;
-  created_at: string | number;
+  event_id?: string;
   vendor_data?: string; // nuestro profiles.id
   decision?: unknown;
 }
@@ -21,8 +21,17 @@ interface DiditWebhookPayload {
  */
 export async function POST(request: Request) {
   const rawBody = await request.text();
-  const signatureHeader =
-    request.headers.get("x-signature-simple") ?? request.headers.get("x-signature");
+  const signatureHeader = request.headers.get("x-signature-v2");
+  const timestampHeader = request.headers.get("x-timestamp");
+
+  const validSignature = verifyDiditWebhookSignature({
+    signature: signatureHeader,
+    timestamp: timestampHeader,
+    rawBody,
+  });
+  if (!validSignature) {
+    return NextResponse.json({ error: "Invalid signature" }, { status: 401 });
+  }
 
   let payload: DiditWebhookPayload;
   try {
@@ -31,19 +40,9 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Malformed payload" }, { status: 400 });
   }
 
-  const { session_id: sessionId, status, created_at: createdAt, vendor_data: vendorData } = payload;
+  const { session_id: sessionId, status, vendor_data: vendorData } = payload;
   if (!sessionId || !status) {
     return NextResponse.json({ error: "Missing session_id/status" }, { status: 400 });
-  }
-
-  const validSignature = verifyDiditWebhookSignature({
-    signature: signatureHeader,
-    sessionId,
-    status,
-    createdAt,
-  });
-  if (!validSignature) {
-    return NextResponse.json({ error: "Invalid signature" }, { status: 401 });
   }
 
   try {
