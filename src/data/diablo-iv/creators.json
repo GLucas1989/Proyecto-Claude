@@ -315,17 +315,17 @@
     },
     "latestVideos": [
       {
-        "id": "vid-kIASpmnzF2A",
-        "title": "UPDATED Best Harlowe Build?! (Mayhem 20 Made Easy!) // Infini-Crit Harlowe Borderlands 4 Build",
-        "thumbnail": "https://i4.ytimg.com/vi/kIASpmnzF2A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kIASpmnzF2A",
-        "publishedAt": "2026-06-30"
-      },
-      {
         "id": "vid-ndn8WYhr3co",
         "title": "D4 NEW SEASON LAUNCH! Shred Druid Blasting // Diablo 4 Livestream",
         "thumbnail": "https://i3.ytimg.com/vi/ndn8WYhr3co/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ndn8WYhr3co",
+        "publishedAt": "2026-07-01"
+      },
+      {
+        "id": "vid-kIASpmnzF2A",
+        "title": "UPDATED Best Harlowe Build?! (Mayhem 20 Made Easy!) // Infini-Crit Harlowe Borderlands 4 Build",
+        "thumbnail": "https://i4.ytimg.com/vi/kIASpmnzF2A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kIASpmnzF2A",
         "publishedAt": "2026-06-30"
       },
       {
@@ -413,6 +413,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-t7127vC8i6c",
+        "title": "Diablo 4 - INSANE Day 1 Amulet",
+        "thumbnail": "https://i1.ytimg.com/vi/t7127vC8i6c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t7127vC8i6c",
+        "publishedAt": "2026-07-01"
+      },
+      {
+        "id": "vid-U9M1wKoBHog",
+        "title": "Diablo 4 - BEST WAR PLANS TREES FOR ENDGAME",
+        "thumbnail": "https://i2.ytimg.com/vi/U9M1wKoBHog/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U9M1wKoBHog",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-X0JSta3Rc8Y",
         "title": "Diablo 4 - INSANE XP FARM, ALL HELLWYRM SPAWNS FOUND",
         "thumbnail": "https://i1.ytimg.com/vi/X0JSta3Rc8Y/hqdefault.jpg",
@@ -466,20 +480,6 @@
         "title": "Diablo 4 - The Maxroll Season 14 Builds Tier List",
         "thumbnail": "https://i4.ytimg.com/vi/3ANfklSa8E4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3ANfklSa8E4",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-2ayDcQ4k6ZU",
-        "title": "Diablo 4 - SEASON 14 MEPHISTO RACE EVENT WITH PRIZES",
-        "thumbnail": "https://i3.ytimg.com/vi/2ayDcQ4k6ZU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2ayDcQ4k6ZU",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid--fCwH-_t8C8",
-        "title": "Diablo 4 Season 14 Builds/Prep/Rankings, later trying out RagnarokX (#ad)",
-        "thumbnail": "https://i2.ytimg.com/vi/-fCwH-_t8C8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-fCwH-_t8C8",
         "publishedAt": "2026-06-29"
       }
     ]

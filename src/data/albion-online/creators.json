@@ -122,11 +122,18 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-mmSf6tPXXEA",
+        "title": "This BUFFED Frost Staff Build is BROKEN in Albion Online",
+        "thumbnail": "https://i2.ytimg.com/vi/mmSf6tPXXEA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mmSf6tPXXEA",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-ypuk3AsoczM",
         "title": "🔴 MISTS GOOD NOW? | Albion Online",
         "thumbnail": "https://i2.ytimg.com/vi/ypuk3AsoczM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ypuk3AsoczM",
-        "publishedAt": "2026-06-30"
+        "publishedAt": "2026-07-01"
       },
       {
         "id": "vid-P0t3PUYdMuE",
@@ -183,13 +190,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/3BMMoCtbz8k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3BMMoCtbz8k",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-Kq_uh2IlAgs",
-        "title": "Free 5 Star Gem with Warlock in Diablo Immortal",
-        "thumbnail": "https://i4.ytimg.com/vi/Kq_uh2IlAgs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Kq_uh2IlAgs",
-        "publishedAt": "2026-06-26"
       }
     ]
   },

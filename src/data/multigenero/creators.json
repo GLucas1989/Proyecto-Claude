@@ -214,6 +214,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-VzRPOWWspPE",
+        "title": "¿México puede ser campeón del mundo?",
+        "thumbnail": "https://i3.ytimg.com/vi/VzRPOWWspPE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VzRPOWWspPE",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-DHyBYqOgY9c",
         "title": "¿Qué país tiene más victorias en la Velada del Año?",
         "thumbnail": "https://i1.ytimg.com/vi/DHyBYqOgY9c/hqdefault.jpg",
@@ -275,13 +282,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/YVYKLtBT_q8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YVYKLtBT_q8",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-NoAC1FGlLxo",
-        "title": "Cristiano Ronaldo ha hecho historia.",
-        "thumbnail": "https://i3.ytimg.com/vi/NoAC1FGlLxo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NoAC1FGlLxo",
-        "publishedAt": "2026-06-23"
       }
     ]
   },

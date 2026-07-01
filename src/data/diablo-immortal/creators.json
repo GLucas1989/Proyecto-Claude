@@ -309,6 +309,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-cR63y1_N6y0",
+        "title": "Don't Fall For This Scam in Diablo Immortal!",
+        "thumbnail": "https://i4.ytimg.com/vi/cR63y1_N6y0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cR63y1_N6y0",
+        "publishedAt": "2026-07-01"
+      },
+      {
+        "id": "vid-fCxMaaInH5Y",
+        "title": "This DoT Warlock Build MELTS Everything!",
+        "thumbnail": "https://i3.ytimg.com/vi/fCxMaaInH5Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fCxMaaInH5Y",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-VpjOUW4Yi-w",
         "title": "The Only Warlock Auto-Farm Build You Need! | Diablo Immortal",
         "thumbnail": "https://i3.ytimg.com/vi/VpjOUW4Yi-w/hqdefault.jpg",
@@ -363,20 +377,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/zDZSN_nV_48/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zDZSN_nV_48",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-n9OrH3Mto_o",
-        "title": "LIVE: Warlock PvP Build Testing, TRs + Viewer Dungeons!",
-        "thumbnail": "https://i3.ytimg.com/vi/n9OrH3Mto_o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=n9OrH3Mto_o",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid--1o0FEy5fwE",
-        "title": "LIVE: Warlock PvP Build Testing, Verge + Viewer Dungeons!",
-        "thumbnail": "https://i2.ytimg.com/vi/-1o0FEy5fwE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-1o0FEy5fwE",
-        "publishedAt": "2026-06-21"
       }
     ]
   }

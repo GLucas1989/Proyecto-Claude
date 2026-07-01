@@ -113,6 +113,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-0QMdoMFvKhg",
+        "title": "I COULDN'T STOP CRYING...😭😭 | Wuthering Waves x Cyberpunk",
+        "thumbnail": "https://i1.ytimg.com/vi/0QMdoMFvKhg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0QMdoMFvKhg",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-e3od0PFBQ0M",
         "title": "veto is the new chamber after patch #Valorant #tenz",
         "thumbnail": "https://i2.ytimg.com/vi/e3od0PFBQ0M/hqdefault.jpg",
@@ -174,13 +181,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/NWanHANz3Cc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NWanHANz3Cc",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-5bXMo7nTDDw",
-        "title": "WHO'S TAKING IT HOME?! | TenZ Reacts To LEV vs PRX | VCT Masters London Grand Final)",
-        "thumbnail": "https://i2.ytimg.com/vi/5bXMo7nTDDw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5bXMo7nTDDw",
-        "publishedAt": "2026-06-21"
       }
     ]
   },
@@ -205,17 +205,17 @@
     },
     "latestVideos": [
       {
-        "id": "vid-tcZqbSirCjM",
-        "title": "Bring me back… 🥲",
-        "thumbnail": "https://i1.ytimg.com/vi/tcZqbSirCjM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tcZqbSirCjM",
-        "publishedAt": "2026-06-30"
-      },
-      {
         "id": "vid-2WjiKlwIhm4",
         "title": "Raiding the SANDs of Sophie!",
         "thumbnail": "https://i3.ytimg.com/vi/2WjiKlwIhm4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2WjiKlwIhm4",
+        "publishedAt": "2026-07-01"
+      },
+      {
+        "id": "vid-tcZqbSirCjM",
+        "title": "Bring me back… 🥲",
+        "thumbnail": "https://i1.ytimg.com/vi/tcZqbSirCjM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tcZqbSirCjM",
         "publishedAt": "2026-06-30"
       },
       {

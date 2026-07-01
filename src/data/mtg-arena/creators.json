@@ -124,6 +124,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-7tZlwwlWxik",
+        "title": "Todos los mazos del canal",
+        "thumbnail": "https://i4.ytimg.com/vi/7tZlwwlWxik/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7tZlwwlWxik",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-sBeX9UYgzDI",
         "title": "El NUEVO mejor mazo del formato. Selesnya Stompy",
         "thumbnail": "https://i4.ytimg.com/vi/sBeX9UYgzDI/hqdefault.jpg",
@@ -185,13 +192,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/R5GXh1rod-s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=R5GXh1rod-s",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-ZI262ctNxgk",
-        "title": "¡¡SHANDALAR!! Generación Magic #9",
-        "thumbnail": "https://i3.ytimg.com/vi/ZI262ctNxgk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZI262ctNxgk",
-        "publishedAt": "2026-06-20"
       }
     ]
   },

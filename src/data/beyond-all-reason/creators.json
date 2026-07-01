@@ -121,6 +121,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-21bKm3hIkuc",
+        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i3.ytimg.com/vi/21bKm3hIkuc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=21bKm3hIkuc",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-S_LLzmbY1Ho",
         "title": "HLT's are TOO intimidating! | Beyond All Reason | The Halite Maze",
         "thumbnail": "https://i4.ytimg.com/vi/S_LLzmbY1Ho/hqdefault.jpg",
@@ -182,13 +189,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/hKes_hmVIbs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hKes_hmVIbs",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-di3KSIM3ZxE",
-        "title": "The Kings Do Everything Right... Almost! | King Of The Hill | Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/di3KSIM3ZxE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=di3KSIM3ZxE",
-        "publishedAt": "2026-06-21"
       }
     ]
   },
