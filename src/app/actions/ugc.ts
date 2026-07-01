@@ -318,6 +318,16 @@ export async function votePublication(
       vote_type: voteType,
     });
 
+    // Recalcular la reputación del creador (autor) tras el nuevo voto
+    if (!error) {
+      const { data: pub } = await supabase
+        .from("user_publications").select("user_id").eq("id", publicationId).single();
+      if (pub?.user_id) {
+        const { recomputeReputationForUser } = await import("@/services/rankingService");
+        await recomputeReputationForUser(pub.user_id);
+      }
+    }
+
     return { ok: !error, newVote: error ? undefined : voteType };
   } catch {
     return { ok: false };

@@ -9,6 +9,7 @@ import { GamePageHero } from "@/components/game/GamePageHero";
 import { getGameGridGradient } from "@/lib/gameTheme";
 import { LearningCenter } from "@/components/game/learning-center/LearningCenter";
 import { GamePublicationsFeed } from "@/components/ugc/GamePublicationsFeed";
+import { Leaderboard } from "@/components/ranking/Leaderboard";
 import { getPublicationsForGame, getPromotedForGame } from "@/app/actions/ugc";
 import type { UserPublication, PromotedContent } from "@/types/database";
 
@@ -82,6 +83,14 @@ export default async function GamePage({ params }: GamePageProps) {
       <div style={{ background: gridGradient }} className="min-h-screen">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-24 relative z-10 pb-16">
           <CreatorGrid creators={creators} gameSlug={gameSlug} availableFilters={game.filters} />
+
+          {/* Ranking de creadores del juego */}
+          <div className="mt-10">
+            <Suspense fallback={null}>
+              <Leaderboard gameSlug={gameSlug} />
+            </Suspense>
+          </div>
+
           <Suspense fallback={null}>
             <LearningCenter gameSlug={gameSlug} gameName={game.name} />
           </Suspense>

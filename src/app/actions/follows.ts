@@ -36,6 +36,12 @@ export async function toggleFollow(
       .insert({ user_id: user.id, target_id: targetId, type });
     if (error) return { error: "No se pudo guardar el seguimiento." };
 
+    // Recalcular la reputación del creador seguido
+    if (type === "author") {
+      const { recomputeReputationForSlug } = await import("@/services/rankingService");
+      await recomputeReputationForSlug(targetId);
+    }
+
     revalidatePath("/");
     return { following: true };
   } catch {
