@@ -2,7 +2,7 @@
 
 > Documento maestro de seguimiento. Copiá/importá este archivo en Notion
 > (Notion soporta Markdown nativo: headings, checkboxes y tablas se convierten solos).
-> Última actualización: 2026-06-27
+> Última actualización: 2026-07-02
 
 ---
 
