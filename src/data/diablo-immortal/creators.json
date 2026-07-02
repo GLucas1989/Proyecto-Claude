@@ -309,6 +309,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-AtXuyO1uPf4",
+        "title": "LIVE: Warlock still good? | Mirrored Jewels Tomorrow?",
+        "thumbnail": "https://i2.ytimg.com/vi/AtXuyO1uPf4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AtXuyO1uPf4",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-cR63y1_N6y0",
         "title": "Don't Fall For This Scam in Diablo Immortal!",
         "thumbnail": "https://i4.ytimg.com/vi/cR63y1_N6y0/hqdefault.jpg",
@@ -370,13 +377,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/rTgfKyFz2lU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rTgfKyFz2lU",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-zDZSN_nV_48",
-        "title": "The Most Annoying Warlock PvP Build Yet! | Diablo Immortal",
-        "thumbnail": "https://i3.ytimg.com/vi/zDZSN_nV_48/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zDZSN_nV_48",
-        "publishedAt": "2026-06-23"
       }
     ]
   }
