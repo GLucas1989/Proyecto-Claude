@@ -216,6 +216,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-gD0U2qCYmII",
+        "title": "When the Druid Calls you Boring  #darkanddarkerbard #darkanddarker",
+        "thumbnail": "https://i4.ytimg.com/vi/gD0U2qCYmII/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gD0U2qCYmII",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-wDZEXFjuRHA",
         "title": "What Did They Do to Bard? (Completely Changed)",
         "thumbnail": "https://i4.ytimg.com/vi/wDZEXFjuRHA/hqdefault.jpg",
@@ -277,13 +284,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/-Z61GeNzuJ0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-Z61GeNzuJ0",
         "publishedAt": "2026-04-29"
-      },
-      {
-        "id": "vid-AcHVNUeLyOY",
-        "title": "SEASON 9 Dark and Darker Trailer WIPE Reaction",
-        "thumbnail": "https://i2.ytimg.com/vi/AcHVNUeLyOY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AcHVNUeLyOY",
-        "publishedAt": "2026-04-25"
       }
     ]
   },

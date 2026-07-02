@@ -390,6 +390,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-iZIhfOm5jKs",
+        "title": "me volví un PRO en ESCONDERME",
+        "thumbnail": "https://i2.ytimg.com/vi/iZIhfOm5jKs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iZIhfOm5jKs",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-pGyGNHEOcCA",
         "title": "El mejor escondite es a SIMPLE VISTA",
         "thumbnail": "https://i1.ytimg.com/vi/pGyGNHEOcCA/hqdefault.jpg",
@@ -451,13 +458,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/RgCuYRSHC-0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RgCuYRSHC-0",
         "publishedAt": "2026-04-29"
-      },
-      {
-        "id": "vid-R5d8rsfhclY",
-        "title": "Me paso MINECRAFT de DIFERENTES MANERAS",
-        "thumbnail": "https://i3.ytimg.com/vi/R5d8rsfhclY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R5d8rsfhclY",
-        "publishedAt": "2026-04-23"
       }
     ]
   },

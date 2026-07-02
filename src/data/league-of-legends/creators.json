@@ -124,6 +124,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-PNC7s_-U794",
+        "title": "Morgana but I execute your entire team with one ability (POOLS OF DEATH)",
+        "thumbnail": "https://i1.ytimg.com/vi/PNC7s_-U794/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PNC7s_-U794",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-CsmH_n-Xc7k",
         "title": "THIS MORDEKAISER BUILD DELETES YOU WITH ONE BUTTON! (DODGE Q OR DIE)",
         "thumbnail": "https://i4.ytimg.com/vi/CsmH_n-Xc7k/hqdefault.jpg",
@@ -185,13 +192,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/VOdeSQdXO54/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VOdeSQdXO54",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-2x2bepE2PSg",
-        "title": "THIS 200% HEALING ZAC MID BUILD IS HILARIOUSLY BROKEN (INFINITE HEAL GLITCH)",
-        "thumbnail": "https://i3.ytimg.com/vi/2x2bepE2PSg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2x2bepE2PSg",
-        "publishedAt": "2026-06-21"
       }
     ]
   },
@@ -281,6 +281,27 @@
     },
     "latestVideos": [
       {
+        "id": "vid-3secnV4RqNw",
+        "title": "Day 1 Korea & He’s Already Smurfing",
+        "thumbnail": "https://i4.ytimg.com/vi/3secnV4RqNw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3secnV4RqNw",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-ferwEaIHH9k",
+        "title": "🔥SO CLOSE TO CHALLENGER🔥PHREAK WILL YOU LET ME WIN PLEASE IM BEGGING🔥",
+        "thumbnail": "https://i3.ytimg.com/vi/ferwEaIHH9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ferwEaIHH9k",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-MW_WGlNeM4Y",
+        "title": "THE RETIREMENT HOME TOURNAMENT FINALE!",
+        "thumbnail": "https://i2.ytimg.com/vi/MW_WGlNeM4Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MW_WGlNeM4Y",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-p-wbSUnG76Q",
         "title": "The Stream Sniping Rioter Incident...",
         "thumbnail": "https://i1.ytimg.com/vi/p-wbSUnG76Q/hqdefault.jpg",
@@ -327,27 +348,6 @@
         "title": "MY VAYNE IS JUST TOO GOOD IN SOLO QUEUE",
         "thumbnail": "https://i3.ytimg.com/vi/nyKCVqYY16g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nyKCVqYY16g",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-esKwyI016H8",
-        "title": "When I Had to Bench My Own CEO",
-        "thumbnail": "https://i2.ytimg.com/vi/esKwyI016H8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=esKwyI016H8",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-LWvqmVx-ykQ",
-        "title": "✅THE RETIREMENT HOME TOURNAMENT✅POWERED BY ALIENWARE✅",
-        "thumbnail": "https://i1.ytimg.com/vi/LWvqmVx-ykQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LWvqmVx-ykQ",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-_G9ab3AFtLI",
-        "title": "I Flamed My Future Boss 🥀",
-        "thumbnail": "https://i4.ytimg.com/vi/_G9ab3AFtLI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_G9ab3AFtLI",
         "publishedAt": "2026-06-28"
       }
     ]
@@ -663,6 +663,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-OF2fxpdjZOE",
+        "title": "Game-Changing Moments from Play-Ins | MSI 2026",
+        "thumbnail": "https://i4.ytimg.com/vi/OF2fxpdjZOE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OF2fxpdjZOE",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-YXWVrnAxR2w",
+        "title": "Peyz doing Peyz things 🥱",
+        "thumbnail": "https://i2.ytimg.com/vi/YXWVrnAxR2w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YXWVrnAxR2w",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-7f_9bVuOGzE",
+        "title": "Emotional rollercoaster 🎢",
+        "thumbnail": "https://i4.ytimg.com/vi/7f_9bVuOGzE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7f_9bVuOGzE",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-tJIl3jIrEzo",
+        "title": "👏 FIRST PENTAKILL OF #MSI2026! 👏",
+        "thumbnail": "https://i1.ytimg.com/vi/tJIl3jIrEzo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tJIl3jIrEzo",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-s6Z9N92pd1c",
         "title": "CoreJJ stepped up big this MSI 🤝",
         "thumbnail": "https://i4.ytimg.com/vi/s6Z9N92pd1c/hqdefault.jpg",
@@ -702,34 +730,6 @@
         "title": "T1 vs TLAW | MSI 2026 | Play-Ins | Game 03 | T1 vs Team Liquid Alienware",
         "thumbnail": "https://i2.ytimg.com/vi/YoJxctwg2Yc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YoJxctwg2Yc",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-P7JiJfJMUWg",
-        "title": "Morgan does not hesitate to 1v2 T1 🤠",
-        "thumbnail": "https://i1.ytimg.com/vi/P7JiJfJMUWg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P7JiJfJMUWg",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-abw9GNTlZtY",
-        "title": "T1 vs TLAW | MSI 2026 | Play-Ins | Game 02 | T1 vs Team Liquid Alienware",
-        "thumbnail": "https://i2.ytimg.com/vi/abw9GNTlZtY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=abw9GNTlZtY",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-KdaKsiunWZA",
-        "title": "No man can escape the fate of Doran 🗿",
-        "thumbnail": "https://i4.ytimg.com/vi/KdaKsiunWZA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KdaKsiunWZA",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-ZQXU6Dud6Lk",
-        "title": "CoreJJ finds an INSANE ANGLE 🤯",
-        "thumbnail": "https://i3.ytimg.com/vi/ZQXU6Dud6Lk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZQXU6Dud6Lk",
         "publishedAt": "2026-07-01"
       }
     ]
@@ -1062,6 +1062,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-4jTkFSldy1Y",
+        "title": "🔴LIVE T1 Faker (Galio) & T1 Doran (Rumble) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i1.ytimg.com/vi/4jTkFSldy1Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4jTkFSldy1Y",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-2kwVWlzcJao",
+        "title": "T1 Keria Blitzcrank DOES NOT MISS! - HIGH ELO KR Pros SoloQ Highlights",
+        "thumbnail": "https://i3.ytimg.com/vi/2kwVWlzcJao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2kwVWlzcJao",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-n3Fqbpqj-k4",
         "title": "A PENTA FOR REAL! | T1 vs TLAW MSI 2026 Highlights with Voice Comms Translated",
         "thumbnail": "https://i3.ytimg.com/vi/n3Fqbpqj-k4/hqdefault.jpg",
@@ -1116,20 +1130,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/XaZoMY50_Q4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XaZoMY50_Q4",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-qVWVnir1WSk",
-        "title": "FULL T1 TEAM Playing Ranked 5v5! - Doran | Oner | Faker | Peyz | Keria -HIGH ELO KR Pros Highlights",
-        "thumbnail": "https://i2.ytimg.com/vi/qVWVnir1WSk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qVWVnir1WSk",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-N1OiBcObor8",
-        "title": "T1 Peyz (Ezreal) - Spectating T1 in KR SoloQ/티원관전방",
-        "thumbnail": "https://i3.ytimg.com/vi/N1OiBcObor8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N1OiBcObor8",
-        "publishedAt": "2026-06-26"
       }
     ]
   },
@@ -1158,6 +1158,13 @@
       "twitch": "t1"
     },
     "latestVideos": [
+      {
+        "id": "vid-zvqI34sb3sA",
+        "title": "T1 Home Ground - See you at KSPO DOME!",
+        "thumbnail": "https://i3.ytimg.com/vi/zvqI34sb3sA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zvqI34sb3sA",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-XveopbXgSMU",
         "title": "T1mitless Interview - 07.01.2026",
@@ -1220,13 +1227,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/ei6-YHtCYKs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ei6-YHtCYKs",
         "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-_rpUaQ-e1ls",
-        "title": "전투의 함성 [T1scord 2026 vs BFX]",
-        "thumbnail": "https://i4.ytimg.com/vi/_rpUaQ-e1ls/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_rpUaQ-e1ls",
-        "publishedAt": "2026-06-25"
       }
     ]
   },
@@ -1253,6 +1253,13 @@
       "twitter": "faker"
     },
     "latestVideos": [
+      {
+        "id": "vid-qF4P9Zoas3s",
+        "title": "금단의 기술",
+        "thumbnail": "https://i2.ytimg.com/vi/qF4P9Zoas3s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qF4P9Zoas3s",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-lh5jQrUAYag",
         "title": "재밌는 누누 발견",
@@ -1315,13 +1322,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/Ia5dP5DTR-8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Ia5dP5DTR-8",
         "publishedAt": "2026-04-05"
-      },
-      {
-        "id": "vid-adhfGPYJFtk",
-        "title": "증바람",
-        "thumbnail": "https://i2.ytimg.com/vi/adhfGPYJFtk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=adhfGPYJFtk",
-        "publishedAt": "2026-03-28"
       }
     ]
   }

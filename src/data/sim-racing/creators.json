@@ -420,6 +420,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-usg4gSDXds4",
+        "title": "SIMDT 7\" Sim Racing Dashboard Display [UNBOXING]",
+        "thumbnail": "https://i2.ytimg.com/vi/usg4gSDXds4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=usg4gSDXds4",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-IwsYihPayB8",
         "title": "PXN VD10 in Assetto Corsa Competizione!",
         "thumbnail": "https://i2.ytimg.com/vi/IwsYihPayB8/hqdefault.jpg",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/zRW0kTLXuio/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zRW0kTLXuio",
         "publishedAt": "2026-06-11"
-      },
-      {
-        "id": "vid-KGRwgDvc6eo",
-        "title": "Jaditek CSL Inverted Pedals Mod in Action!",
-        "thumbnail": "https://i4.ytimg.com/vi/KGRwgDvc6eo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KGRwgDvc6eo",
-        "publishedAt": "2026-06-08"
       }
     ]
   }

@@ -223,6 +223,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-xt8mLWLE8Qs",
+        "title": "DO NOT CLAIM VALLARYN! (Yet) - Beware This TRAP in Raid Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/xt8mLWLE8Qs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xt8mLWLE8Qs",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-r06iwC8HCr0",
+        "title": "I JUST PULLED 200 SHARDS for Sydax... Here's What Happened - Raid Shadow Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/r06iwC8HCr0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r06iwC8HCr0",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-ZQrT-O2STlA",
         "title": "EVERYONE MUST FARM THIS in Corrupted Coalition Event! (Plarium, Wtf??) - Raid Shadow Legends",
         "thumbnail": "https://i3.ytimg.com/vi/ZQrT-O2STlA/hqdefault.jpg",
@@ -277,20 +291,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/BtgRDXPSVzE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BtgRDXPSVzE",
         "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-3nfNHmz6jnY",
-        "title": "YOU GUYS CALLED ME OUT... Now I'm All In! - Raid Shadow Legends (Challenge Day 4)",
-        "thumbnail": "https://i4.ytimg.com/vi/3nfNHmz6jnY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3nfNHmz6jnY",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-cPAPKMijZ-c",
-        "title": "OPENING ALL MY VOID SHARDS for the Path - \"IT'S GOLD!\" - Raid Shadow Legends",
-        "thumbnail": "https://i4.ytimg.com/vi/cPAPKMijZ-c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cPAPKMijZ-c",
-        "publishedAt": "2026-06-27"
       }
     ]
   },
@@ -419,6 +419,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-hI_IGQ9LI2k",
+        "title": "Free Stuff, Updates, and Giveaways!!  Raid: Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/hI_IGQ9LI2k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hI_IGQ9LI2k",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-F7fbsdhWofs",
         "title": "RSL Helper Updates: Everything You Need to Know",
         "thumbnail": "https://i3.ytimg.com/vi/F7fbsdhWofs/hqdefault.jpg",
@@ -480,13 +487,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/kocgKIxzOjo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=kocgKIxzOjo",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-F_Uh-5_0kZ4",
-        "title": "RAID Sent Me a Secret Package! What's Inside!?",
-        "thumbnail": "https://i3.ytimg.com/vi/F_Uh-5_0kZ4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F_Uh-5_0kZ4",
-        "publishedAt": "2026-06-19"
       }
     ]
   }

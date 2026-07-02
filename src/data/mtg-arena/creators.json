@@ -124,6 +124,27 @@
     },
     "latestVideos": [
       {
+        "id": "vid-wm_9mpGl4Q4",
+        "title": "Penitium III, la época dorada del gaming #doom #quake #starcraft #gaming #retro",
+        "thumbnail": "https://i4.ytimg.com/vi/wm_9mpGl4Q4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wm_9mpGl4Q4",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-8f9gWxzq8y4",
+        "title": "Jeskai Lessons",
+        "thumbnail": "https://i1.ytimg.com/vi/8f9gWxzq8y4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8f9gWxzq8y4",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-zJ6BoFHb4HU",
+        "title": "Le han dado DEMASIADO. Jeskai Lessons",
+        "thumbnail": "https://i3.ytimg.com/vi/zJ6BoFHb4HU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zJ6BoFHb4HU",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-7tZlwwlWxik",
         "title": "Todos los mazos del canal",
         "thumbnail": "https://i4.ytimg.com/vi/7tZlwwlWxik/hqdefault.jpg",
@@ -171,27 +192,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/7kew996_BHc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7kew996_BHc",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid--jpgSUN_jHU",
-        "title": "Se acabó el REFRITO. Análisis del cartas INCOLORAS (artefactos y tierras) de Marvel Super Heroes",
-        "thumbnail": "https://i2.ytimg.com/vi/-jpgSUN_jHU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-jpgSUN_jHU",
-        "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-XCEF5mbnnEU",
-        "title": "Thanos y MUCHO MÁS. Análisis del color cartas MULTICOLOR de Marvel Super Heroes",
-        "thumbnail": "https://i1.ytimg.com/vi/XCEF5mbnnEU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XCEF5mbnnEU",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-R5GXh1rod-s",
-        "title": "MAGIC DUELS. Generación Magic #10",
-        "thumbnail": "https://i3.ytimg.com/vi/R5GXh1rod-s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R5GXh1rod-s",
-        "publishedAt": "2026-06-21"
       }
     ]
   },
@@ -320,6 +320,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-jouATHq5QMU",
+        "title": "🔴THE WORLDS PREMIER GAMER🔴",
+        "thumbnail": "https://i3.ytimg.com/vi/jouATHq5QMU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jouATHq5QMU",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-Ub7LVev4HHI",
         "title": "Maximizing Grindstone Combos",
         "thumbnail": "https://i2.ytimg.com/vi/Ub7LVev4HHI/hqdefault.jpg",
@@ -381,13 +388,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/9u38UZkMnc8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9u38UZkMnc8",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-l-Y10SLiN6o",
-        "title": "🔴DOUBLE MYTHIC?🔴",
-        "thumbnail": "https://i1.ytimg.com/vi/l-Y10SLiN6o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=l-Y10SLiN6o",
-        "publishedAt": "2026-06-26"
       }
     ]
   },

@@ -121,11 +121,25 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Uy6aBO7eCdU",
+        "title": "The State of Diablo 4 Season 14",
+        "thumbnail": "https://i2.ytimg.com/vi/Uy6aBO7eCdU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Uy6aBO7eCdU",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-QJNMCpUA9o8",
+        "title": "Diablo 4 Season 14 Day 2",
+        "thumbnail": "https://i2.ytimg.com/vi/QJNMCpUA9o8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QJNMCpUA9o8",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-VWBAgMR3wp4",
         "title": "Diablo 4 Season 14 Launch",
         "thumbnail": "https://i3.ytimg.com/vi/VWBAgMR3wp4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VWBAgMR3wp4",
-        "publishedAt": "2026-06-30"
+        "publishedAt": "2026-07-01"
       },
       {
         "id": "vid-c9v32y5srJo",
@@ -175,20 +189,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/FtctXIO6V6A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FtctXIO6V6A",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-M8tNydEogpw",
-        "title": "Path of Exile 2 Spell Totem Endgame",
-        "thumbnail": "https://i2.ytimg.com/vi/M8tNydEogpw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=M8tNydEogpw",
-        "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-KVTcWupri4E",
-        "title": "WOW Raid with Mythic Talent @dmdiablo4 @GhazzyTV",
-        "thumbnail": "https://i4.ytimg.com/vi/KVTcWupri4E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KVTcWupri4E",
-        "publishedAt": "2026-06-24"
       }
     ]
   },
@@ -315,6 +315,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-g2k4tQ8bLSc",
+        "title": "NEW Ricochet Witch Vex (Mayhem 20 Made Easy!) // Borderlands 4 Vex Build Guide",
+        "thumbnail": "https://i4.ytimg.com/vi/g2k4tQ8bLSc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=g2k4tQ8bLSc",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-ndn8WYhr3co",
         "title": "D4 NEW SEASON LAUNCH! Shred Druid Blasting // Diablo 4 Livestream",
         "thumbnail": "https://i3.ytimg.com/vi/ndn8WYhr3co/hqdefault.jpg",
@@ -376,13 +383,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/G57niJiYCz4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=G57niJiYCz4",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-w6TaR7pQ4Mo",
-        "title": "Updating Builds & Takedown Grind! // Borderlands 4 Livestream",
-        "thumbnail": "https://i4.ytimg.com/vi/w6TaR7pQ4Mo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w6TaR7pQ4Mo",
-        "publishedAt": "2026-06-27"
       }
     ]
   },
@@ -412,6 +412,20 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-HtmhgK-IuHs",
+        "title": "Diablo 4 - Season 14 UNDOCUMENTED CHANGES",
+        "thumbnail": "https://i1.ytimg.com/vi/HtmhgK-IuHs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HtmhgK-IuHs",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-XHve0ghGsPk",
+        "title": "Diablo 4 Season 14 HCSSF Rogue P270+",
+        "thumbnail": "https://i1.ytimg.com/vi/XHve0ghGsPk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XHve0ghGsPk",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-V5JW5ya_YAs",
         "title": "Diablo 4 - We Take Those",
@@ -462,24 +476,10 @@
         "publishedAt": "2026-06-30"
       },
       {
-        "id": "vid-aYfMdtlxktc",
-        "title": "Diablo 4 Season 14 LAUNCH 30h+ HCSSF Blast",
-        "thumbnail": "https://i2.ytimg.com/vi/aYfMdtlxktc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aYfMdtlxktc",
-        "publishedAt": "2026-06-30"
-      },
-      {
         "id": "vid-xHS7I-c_Bng",
         "title": "Diablo 4 - MY ROGUE STARTER BUILD TO ZOOM TO ENDGAME",
         "thumbnail": "https://i1.ytimg.com/vi/xHS7I-c_Bng/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xHS7I-c_Bng",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-YRZ3GnX2En4",
-        "title": "Diablo 4 - How to get Horadric Gems in Season 14!",
-        "thumbnail": "https://i2.ytimg.com/vi/YRZ3GnX2En4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YRZ3GnX2En4",
         "publishedAt": "2026-06-30"
       }
     ]
