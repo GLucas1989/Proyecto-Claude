@@ -205,6 +205,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-6bjumKilRwA",
+        "title": "Driving Ferrari's Legendary Circuit",
+        "thumbnail": "https://i3.ytimg.com/vi/6bjumKilRwA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6bjumKilRwA",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-KOnCQWWBx3M",
         "title": "$300,000 Formula 1 Gearbox",
         "thumbnail": "https://i4.ytimg.com/vi/KOnCQWWBx3M/hqdefault.jpg",
@@ -266,13 +273,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/9dEO2NDgZfA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9dEO2NDgZfA",
         "publishedAt": "2026-02-03"
-      },
-      {
-        "id": "vid-hLzto55W3RU",
-        "title": "F1’s New Loophole Is More Complex Than You Think",
-        "thumbnail": "https://i1.ytimg.com/vi/hLzto55W3RU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hLzto55W3RU",
-        "publishedAt": "2026-01-31"
       }
     ]
   },
