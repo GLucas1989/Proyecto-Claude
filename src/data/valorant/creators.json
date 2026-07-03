@@ -113,6 +113,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Db6ydGVpi3k",
+        "title": "what a bait #tenz #wutheringwaves",
+        "thumbnail": "https://i1.ytimg.com/vi/Db6ydGVpi3k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Db6ydGVpi3k",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-0QMdoMFvKhg",
         "title": "I COULDN'T STOP CRYING...😭😭 | Wuthering Waves x Cyberpunk",
         "thumbnail": "https://i1.ytimg.com/vi/0QMdoMFvKhg/hqdefault.jpg",
@@ -174,13 +181,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/BPbtSn_Jvms/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BPbtSn_Jvms",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-NWanHANz3Cc",
-        "title": "TenZ & Oxy MAKES THE PERFECT DUO !!!",
-        "thumbnail": "https://i3.ytimg.com/vi/NWanHANz3Cc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NWanHANz3Cc",
-        "publishedAt": "2026-06-22"
       }
     ]
   },
@@ -483,6 +483,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-56YE64Ov1Tk",
+        "title": "I ran into XQC in Deadlock",
+        "thumbnail": "https://i2.ytimg.com/vi/56YE64Ov1Tk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=56YE64Ov1Tk",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-dwlCAJor3a8",
         "title": "When you forget bogur’s Strange TP",
         "thumbnail": "https://i1.ytimg.com/vi/dwlCAJor3a8/hqdefault.jpg",
@@ -544,13 +551,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/MLMbHmN9BR0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MLMbHmN9BR0",
         "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-CxFvni2utKI",
-        "title": "Not even close...",
-        "thumbnail": "https://i4.ytimg.com/vi/CxFvni2utKI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CxFvni2utKI",
-        "publishedAt": "2026-06-16"
       }
     ]
   },

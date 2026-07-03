@@ -503,6 +503,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-_l7eLqwXD20",
+        "title": "ME HE VUELTO A EQUIVOCAR DE BARRIO en ALBION ONLINE 💀",
+        "thumbnail": "https://i4.ytimg.com/vi/_l7eLqwXD20/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_l7eLqwXD20",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-7470a83aurs",
         "title": "LAS NIEBLAS REVIVIERON en ALBION ONLINE 🥵🔥",
         "thumbnail": "https://i4.ytimg.com/vi/7470a83aurs/hqdefault.jpg",
@@ -564,13 +571,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/qSdYKioWVV4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qSdYKioWVV4",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-LSXbgse4LYg",
-        "title": "EL QUE PERDONA MURIÓ EN LA CRUZ... 😈🔥 Albion Online",
-        "thumbnail": "https://i1.ytimg.com/vi/LSXbgse4LYg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LSXbgse4LYg",
-        "publishedAt": "2026-06-18"
       }
     ]
   }

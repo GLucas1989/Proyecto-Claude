@@ -26,8 +26,15 @@
     },
     "latestVideos": [
       {
+        "id": "vid-lhH5bJ6toH8",
+        "title": "Iron Man only needs one turn in Standard.",
+        "thumbnail": "https://i1.ytimg.com/vi/lhH5bJ6toH8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lhH5bJ6toH8",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-6zBhTzIGDQI",
-        "title": "Blue's demise has been greatly exaggerated.",
+        "title": "Blue is banned in brawl, yet merfolk are thriving.",
         "thumbnail": "https://i3.ytimg.com/vi/6zBhTzIGDQI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6zBhTzIGDQI",
         "publishedAt": "2026-07-01"
@@ -87,13 +94,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/QcOro6t6rrE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=QcOro6t6rrE",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-JYQKEiA8RG4",
-        "title": "I made the most evil Standard deck.",
-        "thumbnail": "https://i3.ytimg.com/vi/JYQKEiA8RG4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JYQKEiA8RG4",
-        "publishedAt": "2026-06-18"
       }
     ]
   },
@@ -124,8 +124,22 @@
     },
     "latestVideos": [
       {
+        "id": "vid-nIyLA0WCpX0",
+        "title": "Azorius Flyers",
+        "thumbnail": "https://i3.ytimg.com/vi/nIyLA0WCpX0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nIyLA0WCpX0",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-vXfXu_ppDOo",
+        "title": "¡Como a mí me GUSTA! Azorius Flyers",
+        "thumbnail": "https://i3.ytimg.com/vi/vXfXu_ppDOo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vXfXu_ppDOo",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-wm_9mpGl4Q4",
-        "title": "Penitium III, la época dorada del gaming #doom #quake #starcraft #gaming #retro",
+        "title": "Pentium III, la época dorada del gaming #doom #quake #starcraft #gaming #retro",
         "thumbnail": "https://i4.ytimg.com/vi/wm_9mpGl4Q4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wm_9mpGl4Q4",
         "publishedAt": "2026-07-02"
@@ -178,20 +192,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/W76E46bm9bk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=W76E46bm9bk",
         "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-JRoiFpyxT78",
-        "title": "Los MEJORES MAZOS 100% winrate del acceso anticipado de Magic Marvel Super Heroes",
-        "thumbnail": "https://i3.ytimg.com/vi/JRoiFpyxT78/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JRoiFpyxT78",
-        "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-7kew996_BHc",
-        "title": "TOP 10 mejores cartas de Marvel Super Heroes",
-        "thumbnail": "https://i4.ytimg.com/vi/7kew996_BHc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7kew996_BHc",
-        "publishedAt": "2026-06-24"
       }
     ]
   },
@@ -221,6 +221,13 @@
       "twitter": "TolarianCollege"
     },
     "latestVideos": [
+      {
+        "id": "vid-QXgWdO08iNk",
+        "title": "Four Color Cards: Why Magic: The Gathering Struggles",
+        "thumbnail": "https://i2.ytimg.com/vi/QXgWdO08iNk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QXgWdO08iNk",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-RLyr_bnB5B4",
         "title": "Should You Really Be Eating Cheetos While Playing Magic: The Gathering??",
@@ -283,13 +290,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/ztTsd_n2ZwU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ztTsd_n2ZwU",
         "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-eBRs8D-Gpxo",
-        "title": "Do Not Buy Marvel Super Heroes! Just Buy These 7 Cards For Commander Instead | Magic: The Gathering",
-        "thumbnail": "https://i2.ytimg.com/vi/eBRs8D-Gpxo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eBRs8D-Gpxo",
-        "publishedAt": "2026-06-12"
       }
     ]
   },
@@ -324,6 +324,13 @@
         "title": "🔴THE WORLDS PREMIER GAMER🔴",
         "thumbnail": "https://i3.ytimg.com/vi/jouATHq5QMU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jouATHq5QMU",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-51Gr0U688gE",
+        "title": "Pointing Out The Elphant In The Room",
+        "thumbnail": "https://i2.ytimg.com/vi/51Gr0U688gE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=51Gr0U688gE",
         "publishedAt": "2026-07-02"
       },
       {
@@ -381,13 +388,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/66uBPPD55uQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=66uBPPD55uQ",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-9u38UZkMnc8",
-        "title": "Chat Picks One, Crokeyz Picks One!",
-        "thumbnail": "https://i2.ytimg.com/vi/9u38UZkMnc8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9u38UZkMnc8",
-        "publishedAt": "2026-06-27"
       }
     ]
   },
@@ -419,6 +419,13 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-LeunUwEKnFA",
+        "title": "Deleting the Brawl Ladder",
+        "thumbnail": "https://i1.ytimg.com/vi/LeunUwEKnFA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LeunUwEKnFA",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-WbaabdVtefI",
         "title": "Going For Mythic With Fresh Standard's Best Deck",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/RDZd8aSNUBM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RDZd8aSNUBM",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-kn7hXT3Ffho",
-        "title": "Thank god we have a playable lessons deck in Standard...",
-        "thumbnail": "https://i4.ytimg.com/vi/kn7hXT3Ffho/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kn7hXT3Ffho",
-        "publishedAt": "2026-06-22"
       }
     ]
   }

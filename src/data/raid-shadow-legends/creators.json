@@ -125,6 +125,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-YLnZesnCSdY",
+        "title": "We Knew Mavara Was Good. Not THIS Good",
+        "thumbnail": "https://i2.ytimg.com/vi/YLnZesnCSdY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YLnZesnCSdY",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-vTHlacnRQ_w",
         "title": "Plarium Just CANCELED This Unpopular Update",
         "thumbnail": "https://i3.ytimg.com/vi/vTHlacnRQ_w/hqdefault.jpg",
@@ -147,7 +154,7 @@
       },
       {
         "id": "vid-Aq_LrZGc8NE",
-        "title": "The Truth About Haggibah BEFORE You Fuse",
+        "title": "Haggibah FULL PLAYTEST - Watch BEFORE Fusing",
         "thumbnail": "https://i2.ytimg.com/vi/Aq_LrZGc8NE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Aq_LrZGc8NE",
         "publishedAt": "2026-06-29"
@@ -186,13 +193,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/mZTTj2r8vDo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mZTTj2r8vDo",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-HfSVnWRtC5g",
-        "title": "BRAND NEW PROMO CODE TODAY - CLAIM FAST",
-        "thumbnail": "https://i1.ytimg.com/vi/HfSVnWRtC5g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HfSVnWRtC5g",
-        "publishedAt": "2026-06-25"
       }
     ]
   },
@@ -222,6 +222,13 @@
       "twitter": "EPYRE_Cob"
     },
     "latestVideos": [
+      {
+        "id": "vid-Atv4a5Rc19w",
+        "title": "HUGE F2P UPGRADES! - \"This Champ Changes EVERYTHING!\" - Raid Shadow Legends (CVC)",
+        "thumbnail": "https://i2.ytimg.com/vi/Atv4a5Rc19w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Atv4a5Rc19w",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-xt8mLWLE8Qs",
         "title": "DO NOT CLAIM VALLARYN! (Yet) - Beware This TRAP in Raid Shadow Legends",
@@ -283,13 +290,6 @@
         "title": "I PULLED EVERY SHARD ON MY F2P ACCOUNT for Folan's Soul - Raid Shadow Legends",
         "thumbnail": "https://i4.ytimg.com/vi/G9j5WKtQi7U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=G9j5WKtQi7U",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-BtgRDXPSVzE",
-        "title": "F2P GEAR UPGRADES IN A NUTSHELL #raidshadowlegends",
-        "thumbnail": "https://i3.ytimg.com/vi/BtgRDXPSVzE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BtgRDXPSVzE",
         "publishedAt": "2026-06-28"
       }
     ]

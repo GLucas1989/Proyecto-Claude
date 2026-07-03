@@ -119,6 +119,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-ki4Xr-Vc3tg",
+        "title": "MI NUEVA CASA",
+        "thumbnail": "https://i4.ytimg.com/vi/ki4Xr-Vc3tg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ki4Xr-Vc3tg",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-jy6J4K4H4AE",
         "title": "Ha llegado el día. 🏡",
         "thumbnail": "https://i3.ytimg.com/vi/jy6J4K4H4AE/hqdefault.jpg",
@@ -180,13 +187,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/PLQm-9hizmI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PLQm-9hizmI",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-nZBFkrG0xC8",
-        "title": "Quién lo hace mejor?",
-        "thumbnail": "https://i3.ytimg.com/vi/nZBFkrG0xC8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nZBFkrG0xC8",
-        "publishedAt": "2026-06-17"
       }
     ]
   },
@@ -213,6 +213,13 @@
       "es"
     ],
     "latestVideos": [
+      {
+        "id": "vid-LFxcTmTyRQo",
+        "title": "Los nuevos comentaristas de La Velada del Año VI.",
+        "thumbnail": "https://i1.ytimg.com/vi/LFxcTmTyRQo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LFxcTmTyRQo",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-S6Pd3cMb5Z4",
         "title": "ASÍ ES LA RUTINA EXTREMA DE ILLOJUAN PARA LA VELADA",
@@ -275,13 +282,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/cDrO10rFp08/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cDrO10rFp08",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-YLpuvPdMRyE",
-        "title": "El milagro de Ecuador.",
-        "thumbnail": "https://i2.ytimg.com/vi/YLpuvPdMRyE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YLpuvPdMRyE",
-        "publishedAt": "2026-06-25"
       }
     ]
   },
