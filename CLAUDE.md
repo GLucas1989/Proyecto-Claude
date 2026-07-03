@@ -63,3 +63,20 @@ Two feeds refresh `src/data/**` and `game_news` respectively, both outside norma
 ### Deploy
 
 Production is Vercel, connected to GitHub (`GLucas1989/Proyecto-Claude`), production branch `main`. Development happens on a `claude/*` branch and is merged to `main` only on explicit request to ship to production — do not push directly to `main` otherwise. `vercel.json` defines the two cron schedules; there is no `.vercel/project.json` in the repo, so the Vercel CLI can't deploy from this sandbox — deploys go through git push or a Vercel Deploy Hook.
+
+## Installed skills — when to reach for them
+
+`.claude/skills/` has project-local skills (from `alirezarezvani/claude-skills`, security-audited before install with `skill-security-auditor` — reuse it on any future third-party skill before installing). They activate on relevant requests, but proactively invoke them yourself in these situations:
+
+- **Any new/changed Supabase table or RLS policy** → `database-schema-designer` first (schema/ERD/RLS design), then `migration-architect` for the actual `phaseN_*.sql` file (it also generates the rollback — none of the existing phase files have one, so add it going forward).
+- **Adding or touching `.env.example` / any secret-bearing integration** → `env-secrets-manager` to check for drift/leaks before committing.
+- **Touching `.github/workflows/*` or diagnosing a broken deploy** → `ci-cd-pipeline-builder`. Note its scope: it only generates/audits CI files (lint/test/build in GitHub Actions or GitLab CI). It has no reach into Vercel's own project-level Git integration — a stuck/broken Vercel↔GitHub build link (this has happened before) is not fixable through any repo file; that requires reconnecting or recreating the Vercel project in its dashboard.
+- **Before merging any nontrivial PR/diff** → `pr-review-expert` (blast radius, security, missing env vars) and, if API routes changed, `api-design-reviewer` + `api-test-suite-builder` (no test runner exists yet in this repo — this is the closest thing to route test coverage).
+- **After a production incident** (e.g. the Vercel deploy pipeline going stale like it did once) → `runbook-generator` to turn the resolution into a reusable runbook instead of re-diagnosing from scratch next time.
+- **Dependency bumps / `package.json` changes** → `dependency-auditor`.
+- **Writing PROJECT_TRACKER.md release notes or a CHANGELOG** → `changelog-generator` (conventional-commit aware; this repo's commit history is already conventional-commit-ish).
+- **Performance complaints on the Home grid, SSG creator pages, or bundle size** → `performance-profiler`.
+- **Reviewing the health of the codebase overall / large refactor planning** → `tech-debt-tracker` and `codebase-onboarding` (the latter is also useful for generating onboarding docs given how much of this repo's history is AI-assisted and undocumented outside `PROJECT_TRACKER.md`).
+- **SLOs/alerts/dashboards once traffic is real** → `observability-designer`.
+- **Home/landing page or any new marketing page** → `landing-page-generator` (Next.js/TSX + Tailwind output, matches the existing stack) and, for content discoverability (this is a content directory site), `aeo` for SEO + LLM-citation optimization.
+- **Wallet/payout/subscription metrics** (Lemon Squeezy monetization, `wallet_transactions`, `withdrawal_requests`) → `saas-metrics-coach` for MRR/churn/quick-ratio analysis.
