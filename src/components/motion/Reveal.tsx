@@ -24,7 +24,7 @@ export function Reveal({ children, delay = 0, className = "" }: RevealProps) {
 
     // Respeta reduced-motion: muestra sin animar
     if (window.matchMedia?.("(prefers-reduced-motion: reduce)").matches) {
-      setShown(true);
+      queueMicrotask(() => setShown(true));
       return;
     }
 

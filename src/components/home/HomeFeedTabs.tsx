@@ -49,15 +49,17 @@ export function HomeFeedTabs({ items, followedGameSlugs, followedAuthorIds }: Ho
 
   // Restaurar la última pestaña elegida (si sigue teniendo sentido con los follows actuales).
   useEffect(() => {
-    try {
-      const stored = window.localStorage.getItem(STORAGE_KEY) as Tab | null;
-      if (stored === "following" || stored === "all") {
-        setTab(stored === "following" && !hasAnyFollow ? "all" : stored);
+    queueMicrotask(() => {
+      try {
+        const stored = window.localStorage.getItem(STORAGE_KEY) as Tab | null;
+        if (stored === "following" || stored === "all") {
+          setTab(stored === "following" && !hasAnyFollow ? "all" : stored);
+        }
+      } catch {
+        // localStorage no disponible — se queda con el default calculado arriba.
       }
-    } catch {
-      // localStorage no disponible — se queda con el default calculado arriba.
-    }
-    setHydrated(true);
+      setHydrated(true);
+    });
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 

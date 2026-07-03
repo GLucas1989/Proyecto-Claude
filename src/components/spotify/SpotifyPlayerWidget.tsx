@@ -46,7 +46,7 @@ function SpotifyPlayerWidgetInner() {
   const [localPosition, setLocalPosition] = useState(0);
   useEffect(() => {
     if (!state) return;
-    setLocalPosition(state.position);
+    queueMicrotask(() => setLocalPosition(state.position));
     if (state.paused) return;
 
     const start = Date.now();
