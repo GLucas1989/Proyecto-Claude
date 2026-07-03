@@ -21,8 +21,15 @@
     },
     "latestVideos": [
       {
+        "id": "vid-AgMiPM82jWs",
+        "title": "It's like nothing has changed...",
+        "thumbnail": "https://i2.ytimg.com/vi/AgMiPM82jWs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AgMiPM82jWs",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-t6R-HXfzhng",
-        "title": "THE BEST DUO IN VALORANT IS BACK!",
+        "title": "THE TARIK AND TENZ DUO IS BACK",
         "thumbnail": "https://i1.ytimg.com/vi/t6R-HXfzhng/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=t6R-HXfzhng",
         "publishedAt": "2026-06-25"
@@ -82,13 +89,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/Xb2h7z1F1ec/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Xb2h7z1F1ec",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-aI2YdI9Vpms",
-        "title": "This is what happens when PRX plays against EDG... (Tarik Reacts to VCT Masters London)",
-        "thumbnail": "https://i2.ytimg.com/vi/aI2YdI9Vpms/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aI2YdI9Vpms",
-        "publishedAt": "2026-06-19"
       }
     ]
   },
@@ -112,6 +112,13 @@
       "twitter": "TenZOfficial"
     },
     "latestVideos": [
+      {
+        "id": "vid-Db6ydGVpi3k",
+        "title": "what a bait #tenz #wutheringwaves",
+        "thumbnail": "https://i1.ytimg.com/vi/Db6ydGVpi3k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Db6ydGVpi3k",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-0QMdoMFvKhg",
         "title": "I COULDN'T STOP CRYING...😭😭 | Wuthering Waves x Cyberpunk",
@@ -174,13 +181,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/BPbtSn_Jvms/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BPbtSn_Jvms",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-NWanHANz3Cc",
-        "title": "TenZ & Oxy MAKES THE PERFECT DUO !!!",
-        "thumbnail": "https://i3.ytimg.com/vi/NWanHANz3Cc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NWanHANz3Cc",
-        "publishedAt": "2026-06-22"
       }
     ]
   },
@@ -390,6 +390,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-iZIhfOm5jKs",
+        "title": "me volví un PRO en ESCONDERME",
+        "thumbnail": "https://i2.ytimg.com/vi/iZIhfOm5jKs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iZIhfOm5jKs",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-pGyGNHEOcCA",
         "title": "El mejor escondite es a SIMPLE VISTA",
         "thumbnail": "https://i1.ytimg.com/vi/pGyGNHEOcCA/hqdefault.jpg",
@@ -451,13 +458,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/RgCuYRSHC-0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RgCuYRSHC-0",
         "publishedAt": "2026-04-29"
-      },
-      {
-        "id": "vid-R5d8rsfhclY",
-        "title": "Me paso MINECRAFT de DIFERENTES MANERAS",
-        "thumbnail": "https://i3.ytimg.com/vi/R5d8rsfhclY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R5d8rsfhclY",
-        "publishedAt": "2026-04-23"
       }
     ]
   },
@@ -482,6 +482,13 @@
       "twitter": "AverageJonas"
     },
     "latestVideos": [
+      {
+        "id": "vid-56YE64Ov1Tk",
+        "title": "I ran into XQC in Deadlock",
+        "thumbnail": "https://i2.ytimg.com/vi/56YE64Ov1Tk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=56YE64Ov1Tk",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-dwlCAJor3a8",
         "title": "When you forget bogur’s Strange TP",
@@ -544,13 +551,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/MLMbHmN9BR0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MLMbHmN9BR0",
         "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-CxFvni2utKI",
-        "title": "Not even close...",
-        "thumbnail": "https://i4.ytimg.com/vi/CxFvni2utKI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CxFvni2utKI",
-        "publishedAt": "2026-06-16"
       }
     ]
   },

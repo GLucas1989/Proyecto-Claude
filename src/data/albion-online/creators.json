@@ -122,6 +122,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-405rBWN8yXE",
+        "title": "This CRAZY Solo Healer Build KILLS Everyone in MISTS | Albion Online",
+        "thumbnail": "https://i1.ytimg.com/vi/405rBWN8yXE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=405rBWN8yXE",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-bXCAbwFhIyk",
+        "title": "🔴 PRINTING SILVER in MISTS! | Albion Online",
+        "thumbnail": "https://i3.ytimg.com/vi/bXCAbwFhIyk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bXCAbwFhIyk",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-mmSf6tPXXEA",
         "title": "This BUFFED Frost Staff Build is BROKEN in Albion Online",
         "thumbnail": "https://i2.ytimg.com/vi/mmSf6tPXXEA/hqdefault.jpg",
@@ -175,20 +189,6 @@
         "title": "🔴 BIG MIST UPDATE is COMING to Albion Online!",
         "thumbnail": "https://i4.ytimg.com/vi/S0k6oqe9RGM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=S0k6oqe9RGM",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-Eq5_kUqr9rI",
-        "title": "My Favorite Warlock Build in Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/Eq5_kUqr9rI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Eq5_kUqr9rI",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-3BMMoCtbz8k",
-        "title": "Should You Return to Diablo Immortal for WARLOCK?",
-        "thumbnail": "https://i4.ytimg.com/vi/3BMMoCtbz8k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3BMMoCtbz8k",
         "publishedAt": "2026-06-27"
       }
     ]
@@ -503,6 +503,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-_l7eLqwXD20",
+        "title": "ME HE VUELTO A EQUIVOCAR DE BARRIO en ALBION ONLINE 💀",
+        "thumbnail": "https://i4.ytimg.com/vi/_l7eLqwXD20/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_l7eLqwXD20",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-7470a83aurs",
         "title": "LAS NIEBLAS REVIVIERON en ALBION ONLINE 🥵🔥",
         "thumbnail": "https://i4.ytimg.com/vi/7470a83aurs/hqdefault.jpg",
@@ -564,13 +571,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/qSdYKioWVV4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qSdYKioWVV4",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-LSXbgse4LYg",
-        "title": "EL QUE PERDONA MURIÓ EN LA CRUZ... 😈🔥 Albion Online",
-        "thumbnail": "https://i1.ytimg.com/vi/LSXbgse4LYg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LSXbgse4LYg",
-        "publishedAt": "2026-06-18"
       }
     ]
   }

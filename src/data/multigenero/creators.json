@@ -119,6 +119,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-ki4Xr-Vc3tg",
+        "title": "MI NUEVA CASA",
+        "thumbnail": "https://i4.ytimg.com/vi/ki4Xr-Vc3tg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ki4Xr-Vc3tg",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-jy6J4K4H4AE",
+        "title": "Ha llegado el día. 🏡",
+        "thumbnail": "https://i3.ytimg.com/vi/jy6J4K4H4AE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jy6J4K4H4AE",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-E7CRMa1TFMk",
         "title": "GREFG VS EDU AGUIRRE | LA VELADA DEL AÑO 6",
         "thumbnail": "https://i2.ytimg.com/vi/E7CRMa1TFMk/hqdefault.jpg",
@@ -173,20 +187,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/PLQm-9hizmI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PLQm-9hizmI",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-nZBFkrG0xC8",
-        "title": "Quién lo hace mejor?",
-        "thumbnail": "https://i3.ytimg.com/vi/nZBFkrG0xC8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nZBFkrG0xC8",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-oPh37K00rJg",
-        "title": "¿Quién pega más fuerte?",
-        "thumbnail": "https://i4.ytimg.com/vi/oPh37K00rJg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oPh37K00rJg",
-        "publishedAt": "2026-06-16"
       }
     ]
   },
@@ -213,6 +213,27 @@
       "es"
     ],
     "latestVideos": [
+      {
+        "id": "vid-USr-R_mmZww",
+        "title": "Sorteo de Entradas VIP de La Velada del Año VI.",
+        "thumbnail": "https://i2.ytimg.com/vi/USr-R_mmZww/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=USr-R_mmZww",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-LFxcTmTyRQo",
+        "title": "Los nuevos comentaristas de La Velada del Año VI.",
+        "thumbnail": "https://i1.ytimg.com/vi/LFxcTmTyRQo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LFxcTmTyRQo",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-S6Pd3cMb5Z4",
+        "title": "ASÍ ES LA RUTINA EXTREMA DE ILLOJUAN PARA LA VELADA",
+        "thumbnail": "https://i4.ytimg.com/vi/S6Pd3cMb5Z4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S6Pd3cMb5Z4",
+        "publishedAt": "2026-07-01"
+      },
       {
         "id": "vid-Jq04fhiANt4",
         "title": "Los Artistas de La Velada del Año VI.",
@@ -261,27 +282,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/uSmItCrEldo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=uSmItCrEldo",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-cDrO10rFp08",
-        "title": "Mal partido de España. Gran partido de Uruguay (si esto fuera UFC).",
-        "thumbnail": "https://i4.ytimg.com/vi/cDrO10rFp08/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cDrO10rFp08",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-YLpuvPdMRyE",
-        "title": "El milagro de Ecuador.",
-        "thumbnail": "https://i2.ytimg.com/vi/YLpuvPdMRyE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YLpuvPdMRyE",
-        "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-Vzj1Gw6oEa0",
-        "title": "¿Qué Hay Detrás Del Ascensor?",
-        "thumbnail": "https://i3.ytimg.com/vi/Vzj1Gw6oEa0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Vzj1Gw6oEa0",
-        "publishedAt": "2026-06-25"
       }
     ]
   },

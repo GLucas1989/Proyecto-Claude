@@ -24,6 +24,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-_lrl890Q3B0",
+        "title": "The GOLDEN RULE That Makes Winning Games EASY!",
+        "thumbnail": "https://i4.ytimg.com/vi/_lrl890Q3B0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_lrl890Q3B0",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-2dv3ayn4eIw",
         "title": "3 BEST CHAMPIONS To ONE TRICK For Every Role - Season 16",
         "thumbnail": "https://i3.ytimg.com/vi/2dv3ayn4eIw/hqdefault.jpg",
@@ -85,13 +92,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/JjC15EzbziE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JjC15EzbziE",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-UGjobieojco",
-        "title": "ALL NEW CHANGES for PATCH 26.13 - League of Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/UGjobieojco/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UGjobieojco",
-        "publishedAt": "2026-06-18"
       }
     ]
   },
@@ -123,6 +123,20 @@
       "twitter": "TCZwag"
     },
     "latestVideos": [
+      {
+        "id": "vid-ee-jLHI_JAc",
+        "title": "THRESH BUT MY HOOK ONE SHOTS YOU BECAUSE I HAVE 1250 AP! (DODGE MY Q OR DIE)",
+        "thumbnail": "https://i2.ytimg.com/vi/ee-jLHI_JAc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ee-jLHI_JAc",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-PNC7s_-U794",
+        "title": "Morgana but I execute your entire team with one ability (POOLS OF DEATH)",
+        "thumbnail": "https://i1.ytimg.com/vi/PNC7s_-U794/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PNC7s_-U794",
+        "publishedAt": "2026-07-01"
+      },
       {
         "id": "vid-CsmH_n-Xc7k",
         "title": "THIS MORDEKAISER BUILD DELETES YOU WITH ONE BUTTON! (DODGE Q OR DIE)",
@@ -178,20 +192,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/ZHYQ5IjO-Rc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZHYQ5IjO-Rc",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-VOdeSQdXO54",
-        "title": "Caitlyn but I trade my Sniper Rifle for a MACHINE GUN and melt your whole team",
-        "thumbnail": "https://i3.ytimg.com/vi/VOdeSQdXO54/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VOdeSQdXO54",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-2x2bepE2PSg",
-        "title": "THIS 200% HEALING ZAC MID BUILD IS HILARIOUSLY BROKEN (INFINITE HEAL GLITCH)",
-        "thumbnail": "https://i3.ytimg.com/vi/2x2bepE2PSg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2x2bepE2PSg",
-        "publishedAt": "2026-06-21"
       }
     ]
   },
@@ -281,6 +281,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-nVJ3u5mSO-8",
+        "title": "✅DROPS ENABLED✅G2 vs TES MSI COSTREAM✅LIVE FROM T1 HEADQUARTERS✅",
+        "thumbnail": "https://i3.ytimg.com/vi/nVJ3u5mSO-8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nVJ3u5mSO-8",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-D3dSGKvceZk",
+        "title": "Caps PENTAKILL vs TES",
+        "thumbnail": "https://i1.ytimg.com/vi/D3dSGKvceZk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D3dSGKvceZk",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-PL3YkyAc5dA",
+        "title": "HLE Kanavi and Delight Show Perfect Synergy",
+        "thumbnail": "https://i1.ytimg.com/vi/PL3YkyAc5dA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PL3YkyAc5dA",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-dwfMxNmSlTA",
+        "title": "🔥SO CLOSE TO CHALLENGER🔥PHREAK WILL YOU LET ME WIN PLEASE IM BEGGING🔥",
+        "thumbnail": "https://i1.ytimg.com/vi/dwfMxNmSlTA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dwfMxNmSlTA",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-3secnV4RqNw",
+        "title": "Day 1 Korea & He’s Already Smurfing",
+        "thumbnail": "https://i4.ytimg.com/vi/3secnV4RqNw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3secnV4RqNw",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-ferwEaIHH9k",
+        "title": "🔥SO CLOSE TO CHALLENGER🔥PHREAK WILL YOU LET ME WIN PLEASE IM BEGGING🔥",
+        "thumbnail": "https://i3.ytimg.com/vi/ferwEaIHH9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ferwEaIHH9k",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-MW_WGlNeM4Y",
+        "title": "THE RETIREMENT HOME TOURNAMENT FINALE!",
+        "thumbnail": "https://i2.ytimg.com/vi/MW_WGlNeM4Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MW_WGlNeM4Y",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-p-wbSUnG76Q",
         "title": "The Stream Sniping Rioter Incident...",
         "thumbnail": "https://i1.ytimg.com/vi/p-wbSUnG76Q/hqdefault.jpg",
@@ -300,55 +349,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/_kLKkAvR2Z4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_kLKkAvR2Z4",
         "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-kIfrsxcUP4U",
-        "title": "Voyboy Gets a GAME 5 PENTA KILL IN HIS RETURN",
-        "thumbnail": "https://i4.ytimg.com/vi/kIfrsxcUP4U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kIfrsxcUP4U",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-gk8GvFTP8YY",
-        "title": "✅THE RETIREMENT HOME TOURNAMENT FINAL DAY✅POWERED BY ALIENWARE !doublelift !alienware✅",
-        "thumbnail": "https://i4.ytimg.com/vi/gk8GvFTP8YY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gk8GvFTP8YY",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-7xCgbXrw4hk",
-        "title": "Crazy Froggen Anivia Egg TP Tech 🤯",
-        "thumbnail": "https://i4.ytimg.com/vi/7xCgbXrw4hk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7xCgbXrw4hk",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-nyKCVqYY16g",
-        "title": "MY VAYNE IS JUST TOO GOOD IN SOLO QUEUE",
-        "thumbnail": "https://i3.ytimg.com/vi/nyKCVqYY16g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nyKCVqYY16g",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-esKwyI016H8",
-        "title": "When I Had to Bench My Own CEO",
-        "thumbnail": "https://i2.ytimg.com/vi/esKwyI016H8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=esKwyI016H8",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-LWvqmVx-ykQ",
-        "title": "✅THE RETIREMENT HOME TOURNAMENT✅POWERED BY ALIENWARE✅",
-        "thumbnail": "https://i1.ytimg.com/vi/LWvqmVx-ykQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LWvqmVx-ykQ",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-_G9ab3AFtLI",
-        "title": "I Flamed My Future Boss 🥀",
-        "thumbnail": "https://i4.ytimg.com/vi/_G9ab3AFtLI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_G9ab3AFtLI",
-        "publishedAt": "2026-06-28"
       }
     ]
   },
@@ -569,6 +569,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-ZEIoLmaPUtg",
+        "title": "since when do minions have flash 🤔@purplepixie_lol",
+        "thumbnail": "https://i3.ytimg.com/vi/ZEIoLmaPUtg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZEIoLmaPUtg",
+        "publishedAt": "2026-07-02"
+      },
+      {
         "id": "vid-BrJPaJ4vlSQ",
         "title": "alistar was just trying to be helpful 😭 @tronnixkem",
         "thumbnail": "https://i3.ytimg.com/vi/BrJPaJ4vlSQ/hqdefault.jpg",
@@ -630,13 +637,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/Jj3Jjsf-ETQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Jj3Jjsf-ETQ",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-5QL6cJdwOLg",
-        "title": "Faker & Keria: Behind the T1 Worlds 2025 Skins",
-        "thumbnail": "https://i2.ytimg.com/vi/5QL6cJdwOLg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5QL6cJdwOLg",
-        "publishedAt": "2026-06-24"
       }
     ]
   },
@@ -663,74 +663,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-s6Z9N92pd1c",
-        "title": "CoreJJ stepped up big this MSI 🤝",
-        "thumbnail": "https://i4.ytimg.com/vi/s6Z9N92pd1c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s6Z9N92pd1c",
-        "publishedAt": "2026-07-01"
+        "id": "vid-U5d2LGHqsUY",
+        "title": "Bracket Stage Day 1 Highlights | MSI 2026",
+        "thumbnail": "https://i2.ytimg.com/vi/U5d2LGHqsUY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U5d2LGHqsUY",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-g0uHOKeyO9I",
-        "title": "ABSOLUTE NAIL-BITER! 😬",
-        "thumbnail": "https://i4.ytimg.com/vi/g0uHOKeyO9I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g0uHOKeyO9I",
-        "publishedAt": "2026-07-01"
+        "id": "vid-3a9Ii5bw7fs",
+        "title": "History is being written before our eyes 👏👏👏",
+        "thumbnail": "https://i4.ytimg.com/vi/3a9Ii5bw7fs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3a9Ii5bw7fs",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-fZ56KYQLAO0",
-        "title": "PEYZ PENTA PRINCE",
-        "thumbnail": "https://i3.ytimg.com/vi/fZ56KYQLAO0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fZ56KYQLAO0",
-        "publishedAt": "2026-07-01"
+        "id": "vid-oQObAq15yXY",
+        "title": "VERTICAL | G2 vs TES | MSI 2026 |  Bracket Stage Day 1 #shorts",
+        "thumbnail": "https://i4.ytimg.com/vi/oQObAq15yXY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oQObAq15yXY",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-bCvBm-12vhQ",
-        "title": "VERTICAL | TLAW vs T1 | MSI 2026 | Play In Day 4 #shorts",
-        "thumbnail": "https://i3.ytimg.com/vi/bCvBm-12vhQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bCvBm-12vhQ",
-        "publishedAt": "2026-07-01"
+        "id": "vid-_USAoRuPdl4",
+        "title": "G2 vs TES | MSI 2026 | Bracket Stage Day 1",
+        "thumbnail": "https://i4.ytimg.com/vi/_USAoRuPdl4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_USAoRuPdl4",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-NB-qzr_oPYg",
-        "title": "TLAW vs T1 | MSI 2026 | Play In Day 4",
-        "thumbnail": "https://i3.ytimg.com/vi/NB-qzr_oPYg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NB-qzr_oPYg",
-        "publishedAt": "2026-07-01"
+        "id": "vid-r3bnJWyMd0w",
+        "title": "Guma knows his enemies 😏",
+        "thumbnail": "https://i3.ytimg.com/vi/r3bnJWyMd0w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r3bnJWyMd0w",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-YoJxctwg2Yc",
-        "title": "T1 vs TLAW | MSI 2026 | Play-Ins | Game 03 | T1 vs Team Liquid Alienware",
-        "thumbnail": "https://i2.ytimg.com/vi/YoJxctwg2Yc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YoJxctwg2Yc",
-        "publishedAt": "2026-07-01"
+        "id": "vid-HioMWFbRxlQ",
+        "title": "UNO REVERSE 🔄",
+        "thumbnail": "https://i1.ytimg.com/vi/HioMWFbRxlQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HioMWFbRxlQ",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-P7JiJfJMUWg",
-        "title": "Morgan does not hesitate to 1v2 T1 🤠",
-        "thumbnail": "https://i1.ytimg.com/vi/P7JiJfJMUWg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P7JiJfJMUWg",
-        "publishedAt": "2026-07-01"
+        "id": "vid-BbbAIS2Bd2g",
+        "title": "Creme finds the PERFECT angle 🔥",
+        "thumbnail": "https://i3.ytimg.com/vi/BbbAIS2Bd2g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BbbAIS2Bd2g",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-abw9GNTlZtY",
-        "title": "T1 vs TLAW | MSI 2026 | Play-Ins | Game 02 | T1 vs Team Liquid Alienware",
-        "thumbnail": "https://i2.ytimg.com/vi/abw9GNTlZtY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=abw9GNTlZtY",
-        "publishedAt": "2026-07-01"
+        "id": "vid-NKz863OtmDE",
+        "title": "TES vs G2 | MSI 2026 | Stage | Game 05 | Top Esports vs G2 Esports",
+        "thumbnail": "https://i3.ytimg.com/vi/NKz863OtmDE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NKz863OtmDE",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-KdaKsiunWZA",
-        "title": "No man can escape the fate of Doran 🗿",
-        "thumbnail": "https://i4.ytimg.com/vi/KdaKsiunWZA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KdaKsiunWZA",
-        "publishedAt": "2026-07-01"
+        "id": "vid-LcoTXZNsSkI",
+        "title": "IT'S GETTING HOT IN HERE 🔥🔥🔥",
+        "thumbnail": "https://i1.ytimg.com/vi/LcoTXZNsSkI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LcoTXZNsSkI",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-ZQXU6Dud6Lk",
-        "title": "CoreJJ finds an INSANE ANGLE 🤯",
-        "thumbnail": "https://i3.ytimg.com/vi/ZQXU6Dud6Lk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZQXU6Dud6Lk",
-        "publishedAt": "2026-07-01"
+        "id": "vid-hHa3l_6xlXg",
+        "title": "TES vs G2 | MSI 2026 | Bracket | Game 04 | Top Esports vs G2 Esports",
+        "thumbnail": "https://i1.ytimg.com/vi/hHa3l_6xlXg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hHa3l_6xlXg",
+        "publishedAt": "2026-07-03"
       }
     ]
   },
@@ -851,6 +851,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-zhovBD-OvSc",
+        "title": "PENTA FOR CAPS 👏 #lec #leagueoflegends #msi2026 #lolesports",
+        "thumbnail": "https://i3.ytimg.com/vi/zhovBD-OvSc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zhovBD-OvSc",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-W4YfBKIT4GQ",
         "title": "A supreme display of talent from Yike 💪 #leagueoflegends #lolchampion #msi2026",
         "thumbnail": "https://i4.ytimg.com/vi/W4YfBKIT4GQ/hqdefault.jpg",
@@ -912,13 +919,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/GOyGncxW7mY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GOyGncxW7mY",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-eFmlFucSUvw",
-        "title": "Not even close 😎 | LEC Plays Arena",
-        "thumbnail": "https://i2.ytimg.com/vi/eFmlFucSUvw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eFmlFucSUvw",
-        "publishedAt": "2026-06-18"
       }
     ]
   },
@@ -945,74 +945,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-oV6hC_yuCn8",
-        "title": "우리 원딜 펜타킹",
-        "thumbnail": "https://i4.ytimg.com/vi/oV6hC_yuCn8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oV6hC_yuCn8",
-        "publishedAt": "2026-07-01"
+        "id": "vid-O8cj8dBPpeE",
+        "title": "G2 vs TES | 브래킷 승자조 1라운드 매치 하이라이트 | MSI 2026",
+        "thumbnail": "https://i4.ytimg.com/vi/O8cj8dBPpeE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O8cj8dBPpeE",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-wHX9OyiaQl0",
-        "title": "브래킷 스테이지 1라운드 조 추첨식 | MSI 2026",
-        "thumbnail": "https://i4.ytimg.com/vi/wHX9OyiaQl0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wHX9OyiaQl0",
-        "publishedAt": "2026-07-01"
+        "id": "vid-stdZ2G4fZX8",
+        "title": "HLE vs TSW - G2 vs TES | 브래킷 스테이지 승자조 1라운드 | MSI 2026",
+        "thumbnail": "https://i4.ytimg.com/vi/stdZ2G4fZX8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=stdZ2G4fZX8",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-AjZwyu-u8lI",
-        "title": "T1 Doran 인터뷰 | T1 vs TLAW | MSI 2026",
-        "thumbnail": "https://i2.ytimg.com/vi/AjZwyu-u8lI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AjZwyu-u8lI",
-        "publishedAt": "2026-07-01"
+        "id": "vid-UOcfK_cncmU",
+        "title": "HLE Zeka 인터뷰 | HLE vs TSW | MSI 2026",
+        "thumbnail": "https://i2.ytimg.com/vi/UOcfK_cncmU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UOcfK_cncmU",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-tOMllmi8StI",
-        "title": "T1 vs TLAW | 플레이-인 4라운드 매치 하이라이트 | MSI 2026",
-        "thumbnail": "https://i1.ytimg.com/vi/tOMllmi8StI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tOMllmi8StI",
-        "publishedAt": "2026-07-01"
+        "id": "vid-4Zuxyv0Ea0w",
+        "title": "HLE vs TSW | 브래킷 승자조 1라운드 매치 하이라이트 | MSI 2026",
+        "thumbnail": "https://i1.ytimg.com/vi/4Zuxyv0Ea0w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4Zuxyv0Ea0w",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-yCjRvqdBfBw",
-        "title": "\"찾았다 금쪽이\" | T1 vs TLAW 게임 3 하이라이트 | MSI 2026",
-        "thumbnail": "https://i2.ytimg.com/vi/yCjRvqdBfBw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yCjRvqdBfBw",
-        "publishedAt": "2026-07-01"
+        "id": "vid-uF4CGRTLYB0",
+        "title": "삼대빵 쇼핑 드가자~ | HLE vs TSW 게임 3 하이라이트 | MSI 2026",
+        "thumbnail": "https://i2.ytimg.com/vi/uF4CGRTLYB0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uF4CGRTLYB0",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-mcK-QU_51GE",
-        "title": "효과는 굉장했다",
-        "thumbnail": "https://i2.ytimg.com/vi/mcK-QU_51GE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mcK-QU_51GE",
-        "publishedAt": "2026-07-01"
+        "id": "vid-T_z8lvPGGeQ",
+        "title": "제도박사",
+        "thumbnail": "https://i1.ytimg.com/vi/T_z8lvPGGeQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T_z8lvPGGeQ",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-otAPiHjEjyw",
-        "title": "T1 vs TLAW | 플레이-인 스테이지 4라운드 | MSI 2026",
-        "thumbnail": "https://i4.ytimg.com/vi/otAPiHjEjyw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=otAPiHjEjyw",
-        "publishedAt": "2026-07-01"
+        "id": "vid-BBXenFkWuRM",
+        "title": "야생곰 사냥 완료",
+        "thumbnail": "https://i3.ytimg.com/vi/BBXenFkWuRM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BBXenFkWuRM",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-8pAFHw5h6y8",
-        "title": "절찬리 공연중! | T1 vs TLAW 게임 2 하이라이트 | MSI 2026",
-        "thumbnail": "https://i1.ytimg.com/vi/8pAFHw5h6y8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8pAFHw5h6y8",
-        "publishedAt": "2026-07-01"
+        "id": "vid-8Fsc_NfUahA",
+        "title": "야생의 곰비를 상대하는 법 | HLE vs TSW 게임 2 하이라이트 | MSI 2026",
+        "thumbnail": "https://i1.ytimg.com/vi/8Fsc_NfUahA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8Fsc_NfUahA",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-bolZJYHAwmo",
-        "title": "저는 님을 발견하러 온 사람입니다",
-        "thumbnail": "https://i3.ytimg.com/vi/bolZJYHAwmo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bolZJYHAwmo",
-        "publishedAt": "2026-07-01"
+        "id": "vid-5NCCQBV3iis",
+        "title": "아 진짜 환중하겠네",
+        "thumbnail": "https://i2.ytimg.com/vi/5NCCQBV3iis/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5NCCQBV3iis",
+        "publishedAt": "2026-07-03"
       },
       {
-        "id": "vid-j0XKMxDueik",
-        "title": "형이야",
-        "thumbnail": "https://i3.ytimg.com/vi/j0XKMxDueik/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=j0XKMxDueik",
-        "publishedAt": "2026-07-01"
+        "id": "vid-IPZKS78Jswg",
+        "title": "대전 빵렐리아",
+        "thumbnail": "https://i2.ytimg.com/vi/IPZKS78Jswg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IPZKS78Jswg",
+        "publishedAt": "2026-07-03"
       }
     ]
   },
@@ -1061,6 +1061,20 @@
       "youtube": "https://www.youtube.com/@todayonthekoreanserver"
     },
     "latestVideos": [
+      {
+        "id": "vid-4jTkFSldy1Y",
+        "title": "T1 Oner (Bel'veth) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i1.ytimg.com/vi/4jTkFSldy1Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4jTkFSldy1Y",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-2kwVWlzcJao",
+        "title": "T1 Keria Blitzcrank DOES NOT MISS! - HIGH ELO KR Pros SoloQ Highlights",
+        "thumbnail": "https://i3.ytimg.com/vi/2kwVWlzcJao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2kwVWlzcJao",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-n3Fqbpqj-k4",
         "title": "A PENTA FOR REAL! | T1 vs TLAW MSI 2026 Highlights with Voice Comms Translated",
@@ -1116,20 +1130,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/XaZoMY50_Q4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XaZoMY50_Q4",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-qVWVnir1WSk",
-        "title": "FULL T1 TEAM Playing Ranked 5v5! - Doran | Oner | Faker | Peyz | Keria -HIGH ELO KR Pros Highlights",
-        "thumbnail": "https://i2.ytimg.com/vi/qVWVnir1WSk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qVWVnir1WSk",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-N1OiBcObor8",
-        "title": "T1 Peyz (Ezreal) - Spectating T1 in KR SoloQ/티원관전방",
-        "thumbnail": "https://i3.ytimg.com/vi/N1OiBcObor8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N1OiBcObor8",
-        "publishedAt": "2026-06-26"
       }
     ]
   },
@@ -1158,6 +1158,41 @@
       "twitch": "t1"
     },
     "latestVideos": [
+      {
+        "id": "vid-jAQtOm8YtmA",
+        "title": "역전극 [T1scord 2026 vs GEN]",
+        "thumbnail": "https://i3.ytimg.com/vi/jAQtOm8YtmA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jAQtOm8YtmA",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-zvy4o-yUO2M",
+        "title": "[SKT X T1] T1 『암행천문: 별을 헤다』 팝업",
+        "thumbnail": "https://i3.ytimg.com/vi/zvy4o-yUO2M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zvy4o-yUO2M",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-6BVC9EhD6eM",
+        "title": "페이즈의 깨진 언약 진 스킨 리뷰!",
+        "thumbnail": "https://i3.ytimg.com/vi/6BVC9EhD6eM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6BVC9EhD6eM",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-vsqF8AQb2Ig",
+        "title": "선수들 도란 포킹 반응 [T1scord vs TLAW]",
+        "thumbnail": "https://i3.ytimg.com/vi/vsqF8AQb2Ig/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vsqF8AQb2Ig",
+        "publishedAt": "2026-07-02"
+      },
+      {
+        "id": "vid-zvqI34sb3sA",
+        "title": "T1 Home Ground - See you at KSPO DOME!",
+        "thumbnail": "https://i3.ytimg.com/vi/zvqI34sb3sA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zvqI34sb3sA",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-XveopbXgSMU",
         "title": "T1mitless Interview - 07.01.2026",
@@ -1192,41 +1227,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/BBO0nG6ZmI8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BBO0nG6ZmI8",
         "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-60mkTlBDObQ",
-        "title": "이번에는 사진입니다. 삼성 오디세이 모니터&TV 화보 촬영 비하인드 | T1 x Samsung Odyssey",
-        "thumbnail": "https://i3.ytimg.com/vi/60mkTlBDObQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=60mkTlBDObQ",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-gU7YP2jOARg",
-        "title": "손해밖에 없는 싸움 (ft. 도란)",
-        "thumbnail": "https://i4.ytimg.com/vi/gU7YP2jOARg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gU7YP2jOARg",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-a715QkHE80A",
-        "title": "재미 있으셨죠?",
-        "thumbnail": "https://i2.ytimg.com/vi/a715QkHE80A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a715QkHE80A",
-        "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-ei6-YHtCYKs",
-        "title": "베스트 드라이버 (ft. 오너)",
-        "thumbnail": "https://i2.ytimg.com/vi/ei6-YHtCYKs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ei6-YHtCYKs",
-        "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-_rpUaQ-e1ls",
-        "title": "전투의 함성 [T1scord 2026 vs BFX]",
-        "thumbnail": "https://i4.ytimg.com/vi/_rpUaQ-e1ls/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_rpUaQ-e1ls",
-        "publishedAt": "2026-06-25"
       }
     ]
   },
@@ -1253,6 +1253,13 @@
       "twitter": "faker"
     },
     "latestVideos": [
+      {
+        "id": "vid-qF4P9Zoas3s",
+        "title": "금단의 기술",
+        "thumbnail": "https://i2.ytimg.com/vi/qF4P9Zoas3s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qF4P9Zoas3s",
+        "publishedAt": "2026-07-02"
+      },
       {
         "id": "vid-lh5jQrUAYag",
         "title": "재밌는 누누 발견",
@@ -1315,13 +1322,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/Ia5dP5DTR-8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Ia5dP5DTR-8",
         "publishedAt": "2026-04-05"
-      },
-      {
-        "id": "vid-adhfGPYJFtk",
-        "title": "증바람",
-        "thumbnail": "https://i2.ytimg.com/vi/adhfGPYJFtk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=adhfGPYJFtk",
-        "publishedAt": "2026-03-28"
       }
     ]
   }
