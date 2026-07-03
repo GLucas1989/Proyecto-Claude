@@ -413,6 +413,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-rdkMP_8uSkA",
+        "title": "Diablo 4 - Most Ethical Build in Season 14",
+        "thumbnail": "https://i3.ytimg.com/vi/rdkMP_8uSkA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rdkMP_8uSkA",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-2ooDRydOx74",
         "title": "Diablo 4 - INSANE Ruby Fragments",
         "thumbnail": "https://i3.ytimg.com/vi/2ooDRydOx74/hqdefault.jpg",
@@ -473,13 +480,6 @@
         "title": "Diablo 4 - INSANE Day 1 Amulet",
         "thumbnail": "https://i1.ytimg.com/vi/t7127vC8i6c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=t7127vC8i6c",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-U9M1wKoBHog",
-        "title": "Diablo 4 - BEST WAR PLANS TREES FOR ENDGAME",
-        "thumbnail": "https://i2.ytimg.com/vi/U9M1wKoBHog/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=U9M1wKoBHog",
         "publishedAt": "2026-07-01"
       }
     ]

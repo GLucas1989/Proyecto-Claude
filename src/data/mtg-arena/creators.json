@@ -26,6 +26,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid--3QGg7AoAZY",
+        "title": "Storming off with Storm.",
+        "thumbnail": "https://i2.ytimg.com/vi/-3QGg7AoAZY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-3QGg7AoAZY",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-lhH5bJ6toH8",
         "title": "Iron Man only needs one turn in Standard.",
         "thumbnail": "https://i1.ytimg.com/vi/lhH5bJ6toH8/hqdefault.jpg",
@@ -87,13 +94,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/f8WX5s3zK2g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=f8WX5s3zK2g",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-QcOro6t6rrE",
-        "title": "Abducting my opponents in Standard.",
-        "thumbnail": "https://i2.ytimg.com/vi/QcOro6t6rrE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QcOro6t6rrE",
-        "publishedAt": "2026-06-19"
       }
     ]
   },
@@ -327,6 +327,13 @@
         "publishedAt": "2026-07-03"
       },
       {
+        "id": "vid-MhSbMN_1PjM",
+        "title": "Infinite Ragavans? Yes Please!",
+        "thumbnail": "https://i2.ytimg.com/vi/MhSbMN_1PjM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MhSbMN_1PjM",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-jouATHq5QMU",
         "title": "🔴THE WORLDS PREMIER GAMER🔴",
         "thumbnail": "https://i3.ytimg.com/vi/jouATHq5QMU/hqdefault.jpg",
@@ -381,13 +388,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/7Jn05C4bFqw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7Jn05C4bFqw",
         "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-4SJcEHwnGTw",
-        "title": "Mind Stone Combo goes CRAZY",
-        "thumbnail": "https://i1.ytimg.com/vi/4SJcEHwnGTw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4SJcEHwnGTw",
-        "publishedAt": "2026-06-28"
       }
     ]
   },
@@ -419,6 +419,13 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-kBOjCCE9tAo",
+        "title": "This She-Hulk Deck is Busted",
+        "thumbnail": "https://i4.ytimg.com/vi/kBOjCCE9tAo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kBOjCCE9tAo",
+        "publishedAt": "2026-07-03"
+      },
       {
         "id": "vid-LeunUwEKnFA",
         "title": "Deleting the Brawl Ladder",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/ExT5zF1tXWw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ExT5zF1tXWw",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-RDZd8aSNUBM",
-        "title": "This must be a mistake!  TOXIC Marvel Super Heroes gameplay",
-        "thumbnail": "https://i3.ytimg.com/vi/RDZd8aSNUBM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RDZd8aSNUBM",
-        "publishedAt": "2026-06-23"
       }
     ]
   }

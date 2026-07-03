@@ -205,6 +205,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-DdWGX9kXtoQ",
+        "title": "Finding Sophie in SAND!",
+        "thumbnail": "https://i1.ytimg.com/vi/DdWGX9kXtoQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DdWGX9kXtoQ",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-2WjiKlwIhm4",
         "title": "Raiding the SANDs of Sophie!",
         "thumbnail": "https://i3.ytimg.com/vi/2WjiKlwIhm4/hqdefault.jpg",
@@ -266,13 +273,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/iMc2mt_JXNM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iMc2mt_JXNM",
         "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-ZZjLBKmrogM",
-        "title": "Got second place but I still farmed 👨‍🌾🌾",
-        "thumbnail": "https://i3.ytimg.com/vi/ZZjLBKmrogM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZZjLBKmrogM",
-        "publishedAt": "2026-06-13"
       }
     ]
   },
