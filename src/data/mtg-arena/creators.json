@@ -320,6 +320,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-xZXm3KCZFAY",
+        "title": "🔴PIONEER METAGAME CHALLENGE🔴DEADLOCK🔴",
+        "thumbnail": "https://i1.ytimg.com/vi/xZXm3KCZFAY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xZXm3KCZFAY",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-ewOEdpxWLC8",
         "title": "🔴UNC LEARNS BAZAAR🔴",
         "thumbnail": "https://i2.ytimg.com/vi/ewOEdpxWLC8/hqdefault.jpg",
@@ -381,13 +388,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/ht35ZBS6tGQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ht35ZBS6tGQ",
         "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-7Jn05C4bFqw",
-        "title": "🔴MIGHT AND MAGIC FATES STRONGHOLD🔴(AD)",
-        "thumbnail": "https://i4.ytimg.com/vi/7Jn05C4bFqw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7Jn05C4bFqw",
-        "publishedAt": "2026-06-28"
       }
     ]
   },
