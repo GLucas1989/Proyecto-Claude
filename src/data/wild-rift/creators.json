@@ -262,6 +262,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-CZ-Ckgtnf6Q",
+        "title": "Resumen de Yunara | Jugabilidad - League of Legends: Wild Rift",
+        "thumbnail": "https://i4.ytimg.com/vi/CZ-Ckgtnf6Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CZ-Ckgtnf6Q",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-1Jd_FK_bIpI",
         "title": "/Dev: análisis a fondo | Avance de la versión",
         "thumbnail": "https://i2.ytimg.com/vi/1Jd_FK_bIpI/hqdefault.jpg",
@@ -323,13 +330,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/ybylM1xihdE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ybylM1xihdE",
         "publishedAt": "2026-04-30"
-      },
-      {
-        "id": "vid-BYj-A_btUW8",
-        "title": "Neón Temerario ft. Porsche  | Tráiler de aspecto - League of Legends: Wild Rift",
-        "thumbnail": "https://i3.ytimg.com/vi/BYj-A_btUW8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BYj-A_btUW8",
-        "publishedAt": "2026-04-29"
       }
     ]
   },
