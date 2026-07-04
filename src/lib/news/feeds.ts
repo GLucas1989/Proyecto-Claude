@@ -9,17 +9,22 @@ export interface GameFeedSource {
 }
 
 export const GAME_FEEDS: GameFeedSource[] = [
-  { gameSlug: "league-of-legends", url: "https://www.riotgames.com/en/news/feed" },
-  { gameSlug: "wild-rift", url: "https://wildrift.leagueoflegends.com/es-es/news/rss.xml" },
-  { gameSlug: "diablo-iv", url: "https://news.blizzard.com/en-us/diablo4/feed" },
-  { gameSlug: "diablo-immortal", url: "https://news.blizzard.com/en-us/diablo-immortal/feed" },
+  // League of Legends, Wild Rift y Valorant: Riot no publica RSS oficial.
+  // Se usa antosik-lol-rss (github.com/Antosik/lol-rss) — generador de
+  // terceros, no afiliado a Riot, hospedado en el AWS S3 personal de su
+  // autor. Verificado responde 200 al día de hoy; si algún día desaparece,
+  // estos 3 feeds simplemente empiezan a fallar como cualquier otro roto.
+  { gameSlug: "league-of-legends", url: "https://antosik-lol-rss.s3.eu-central-1.amazonaws.com/v4/lol/euw/news.es-ES.xml" },
+  { gameSlug: "wild-rift", url: "https://antosik-lol-rss.s3.eu-central-1.amazonaws.com/v4/wildrift/es-ES/news.xml" },
+  { gameSlug: "valorant", url: "https://antosik-lol-rss.s3.eu-central-1.amazonaws.com/v4/valorant/es-ES/news.xml" },
+  { gameSlug: "diablo-iv", url: "https://news.blizzard.com/en-us/feed/diablo-4" },
+  { gameSlug: "diablo-immortal", url: "https://news.blizzard.com/en-us/feed/diablo-immortal" },
   { gameSlug: "beyond-all-reason", url: "https://www.beyondallreason.info/news/rss.xml" },
   { gameSlug: "dark-and-darker", url: "https://darkanddarker.com/news/rss.xml" },
   { gameSlug: "albion-online", url: "https://albiononline.com/en/news/rss" },
   { gameSlug: "raid-shadow-legends", url: "https://plarium.com/en/blog/raid-shadow-legends/feed" },
   { gameSlug: "mtg-arena", url: "https://magic.wizards.com/en/news/rss" },
-  { gameSlug: "valorant", url: "https://playvalorant.com/en-us/news/feed" },
-  { gameSlug: "world-of-warcraft", url: "https://news.blizzard.com/en-us/world-of-warcraft/feed" },
+  { gameSlug: "world-of-warcraft", url: "https://news.blizzard.com/en-us/feed/world-of-warcraft" },
   { gameSlug: "minecraft", url: "https://www.minecraft.net/en-us/articles.rss" },
   { gameSlug: "path-of-exile-2", url: "https://www.pathofexile.com/news/rss" },
   // Sin feed oficial confiable: clash-royale (Supercell no publica RSS público)
