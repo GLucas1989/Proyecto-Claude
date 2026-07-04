@@ -63,7 +63,7 @@ export function GamePageHero({ game, creatorsCount, languagesCount, contentTypes
         <div className="mb-6">
           <div className="flex items-center gap-3 mb-2 flex-wrap">
             {game.emoji && <span className="text-3xl">{game.emoji}</span>}
-            <h1 className="text-4xl font-black text-white tracking-tight drop-shadow-lg">{game.name}</h1>
+            <h1 className="font-display text-4xl font-bold text-white tracking-tight drop-shadow-lg">{game.name}</h1>
             <FollowButton targetId={game.slug} type="game" label="Seguir juego" />
           </div>
           <p className="text-white/50 text-sm max-w-2xl mb-6 drop-shadow">{game.description}</p>

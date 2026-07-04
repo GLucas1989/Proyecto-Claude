@@ -58,7 +58,7 @@ export default async function HomePage() {
           </div>
 
           {/* Main title */}
-          <h1 className="font-black leading-none tracking-tighter mb-3 sm:mb-4 select-none">
+          <h1 className="font-display font-bold leading-none tracking-tight mb-3 sm:mb-4 select-none">
             <span className="block text-4xl sm:text-7xl lg:text-[8rem] text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 via-cyan-400 to-blue-400 cyber-glow">
               CREATORS
             </span>
@@ -109,7 +109,7 @@ export default async function HomePage() {
             ].map(({ icon: Icon, title, desc }) => (
               <div key={title} className="p-5 rounded-2xl border border-white/8 bg-white/[0.02]">
                 <Icon className="h-5 w-5 text-cyan-400/70 mb-2.5" />
-                <h3 className="text-sm font-bold text-white mb-1">{title}</h3>
+                <h3 className="font-display text-sm font-semibold text-white mb-1">{title}</h3>
                 <p className="text-xs text-white/45 leading-relaxed">{desc}</p>
               </div>
             ))}
