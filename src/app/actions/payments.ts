@@ -46,8 +46,11 @@ export async function startKycVerification(): Promise<{ ok: boolean; url?: strin
       .from("profiles").select("is_verified").eq("id", user.id).single();
     if (profile?.is_verified) return { ok: false, error: "Ya estás verificado." };
 
+    // "callback" es a dónde Didit redirige al usuario en el navegador al
+    // terminar el flujo — NO es el webhook (eso se configura aparte, en el
+    // dashboard de Didit, y ya apunta a /api/webhooks/didit).
     const { createVerificationSession } = await import("@/lib/didit");
-    const callbackUrl = `${process.env.NEXT_PUBLIC_SITE_URL}/api/webhooks/didit`;
+    const callbackUrl = `${process.env.NEXT_PUBLIC_SITE_URL}/dashboard`;
     const session = await createVerificationSession(user.id, callbackUrl);
 
     if ("error" in session) return { ok: false, error: session.error };
@@ -60,12 +63,12 @@ export async function startKycVerification(): Promise<{ ok: boolean; url?: strin
         kyc_status: "pending",
       })
       .eq("id", user.id);
-    if (error) return { ok: false, error: `DEBUG update profiles: ${error.message}` };
+    if (error) return { ok: false, error: "No se pudo registrar la solicitud de verificación." };
 
     revalidatePath("/dashboard");
     return { ok: true, url: session.verificationUrl };
-  } catch (err) {
-    return { ok: false, error: `DEBUG catch: ${err instanceof Error ? err.message : String(err)}` };
+  } catch {
+    return { ok: false, error: "Error interno." };
   }
 }
 
