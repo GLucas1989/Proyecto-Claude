@@ -3,9 +3,14 @@ import Parser from "rss-parser";
 import { createServiceClient } from "@/lib/supabase/service";
 import { GAME_FEEDS, guessCategory } from "./feeds";
 
+// User-Agent de navegador real: albiononline.com (entre otros) bloquea con 403
+// cualquier UA que se identifique como bot, aunque respete robots.txt.
 const parser = new Parser({
   timeout: 10_000,
-  headers: { "User-Agent": "CreatorsSHUB-NewsBot/1.0 (+https://creatorsshub.gg)" },
+  headers: {
+    "User-Agent":
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+  },
 });
 
 export interface FeedSyncResult {
