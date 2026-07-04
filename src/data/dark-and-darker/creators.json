@@ -315,11 +315,18 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-9oABVI7N8Vk",
+        "title": "Why play as Hugo in HUNGER? #playHUNGER",
+        "thumbnail": "https://i2.ytimg.com/vi/9oABVI7N8Vk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9oABVI7N8Vk",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-byuQti407sQ",
         "title": "Playing melee LIVE – HUNGER tech test 03",
         "thumbnail": "https://i3.ytimg.com/vi/byuQti407sQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=byuQti407sQ",
-        "publishedAt": "2026-07-03"
+        "publishedAt": "2026-07-04"
       },
       {
         "id": "vid-fE9ipOEtxJg",
@@ -375,13 +382,6 @@
         "title": "GREY KNIGHT vs BLUE KNIGHT #mistfallhunter #gaming #slowmotion #cinematic",
         "thumbnail": "https://i3.ytimg.com/vi/ZLEm6J23Vuw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZLEm6J23Vuw",
-        "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-WR8WAwFr3SU",
-        "title": "Withered Knight fights at night LIVE – Mistfall Hunter",
-        "thumbnail": "https://i4.ytimg.com/vi/WR8WAwFr3SU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WR8WAwFr3SU",
         "publishedAt": "2026-06-18"
       }
     ]
