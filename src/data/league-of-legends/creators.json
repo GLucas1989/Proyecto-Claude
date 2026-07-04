@@ -663,6 +663,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-VI9igkwFNI0",
+        "title": "LYON vs FUR | MSI 2026 |  Bracket Stage Day 2",
+        "thumbnail": "https://i3.ytimg.com/vi/VI9igkwFNI0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VI9igkwFNI0",
+        "publishedAt": "2026-07-01"
+      },
+      {
+        "id": "vid-HBqFTfz8Jn4",
+        "title": "VERTICAL | LYON vs FUR | MSI 2026 |  Bracket Stage Day 2 #shorts",
+        "thumbnail": "https://i1.ytimg.com/vi/HBqFTfz8Jn4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HBqFTfz8Jn4",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-b6LpMXoHBEA",
         "title": "Can FURIA Beat LYON? BLG vs. T1 Returns",
         "thumbnail": "https://i3.ytimg.com/vi/b6LpMXoHBEA/hqdefault.jpg",
@@ -716,20 +730,6 @@
         "title": "Guma knows his enemies 😏",
         "thumbnail": "https://i3.ytimg.com/vi/r3bnJWyMd0w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=r3bnJWyMd0w",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-HioMWFbRxlQ",
-        "title": "UNO REVERSE 🔄",
-        "thumbnail": "https://i1.ytimg.com/vi/HioMWFbRxlQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HioMWFbRxlQ",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-BbbAIS2Bd2g",
-        "title": "Creme finds the PERFECT angle 🔥",
-        "thumbnail": "https://i3.ytimg.com/vi/BbbAIS2Bd2g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BbbAIS2Bd2g",
         "publishedAt": "2026-07-03"
       }
     ]
@@ -945,6 +945,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-5t9tTPs3-nM",
+        "title": "FUR vs LYON - T1 vs BLG | 브래킷 스테이지 승자조 1라운드 | MSI 2026",
+        "thumbnail": "https://i2.ytimg.com/vi/5t9tTPs3-nM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5t9tTPs3-nM",
+        "publishedAt": "2026-07-01"
+      },
+      {
         "id": "vid-O8cj8dBPpeE",
         "title": "G2 vs TES | 브래킷 승자조 1라운드 매치 하이라이트 | MSI 2026",
         "thumbnail": "https://i4.ytimg.com/vi/O8cj8dBPpeE/hqdefault.jpg",
@@ -1005,13 +1012,6 @@
         "title": "아 진짜 환중하겠네",
         "thumbnail": "https://i2.ytimg.com/vi/5NCCQBV3iis/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5NCCQBV3iis",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-IPZKS78Jswg",
-        "title": "대전 빵렐리아",
-        "thumbnail": "https://i2.ytimg.com/vi/IPZKS78Jswg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IPZKS78Jswg",
         "publishedAt": "2026-07-03"
       }
     ]
