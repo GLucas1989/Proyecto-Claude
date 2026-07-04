@@ -124,6 +124,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-AN57c50uPio",
+        "title": "Izzet Elementals",
+        "thumbnail": "https://i2.ytimg.com/vi/AN57c50uPio/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AN57c50uPio",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-0laCY2NszfM",
+        "title": "NADIE lo puede parar. Izzet elementals",
+        "thumbnail": "https://i1.ytimg.com/vi/0laCY2NszfM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0laCY2NszfM",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-XXJZj3hqsAs",
         "title": "Calentando motores para #rockimperium",
         "thumbnail": "https://i1.ytimg.com/vi/XXJZj3hqsAs/hqdefault.jpg",
@@ -178,20 +192,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/sBeX9UYgzDI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sBeX9UYgzDI",
         "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-Bzdb0u208b0",
-        "title": "Mi mazo FAVORITO llega a Standard. Selesnya Company",
-        "thumbnail": "https://i3.ytimg.com/vi/Bzdb0u208b0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Bzdb0u208b0",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-eFv0fOHyaDw",
-        "title": "Una Shandy, por favor GENERACIÓN MAGIC #11",
-        "thumbnail": "https://i2.ytimg.com/vi/eFv0fOHyaDw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eFv0fOHyaDw",
-        "publishedAt": "2026-06-28"
       }
     ]
   },

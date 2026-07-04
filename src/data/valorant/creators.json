@@ -483,6 +483,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-quI8vs_jUnQ",
+        "title": "Not even close (5hp)",
+        "thumbnail": "https://i2.ytimg.com/vi/quI8vs_jUnQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=quI8vs_jUnQ",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-56YE64Ov1Tk",
         "title": "I ran into XQC in Deadlock",
         "thumbnail": "https://i2.ytimg.com/vi/56YE64Ov1Tk/hqdefault.jpg",
@@ -544,13 +551,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/5wnOlSrPYDM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5wnOlSrPYDM",
         "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-MLMbHmN9BR0",
-        "title": "Juicy bomb",
-        "thumbnail": "https://i2.ytimg.com/vi/MLMbHmN9BR0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MLMbHmN9BR0",
-        "publishedAt": "2026-06-17"
       }
     ]
   },

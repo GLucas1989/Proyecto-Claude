@@ -121,6 +121,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-nlPbICryCNg",
+        "title": "Path of Exile 2 Back to Arc Totems",
+        "thumbnail": "https://i3.ytimg.com/vi/nlPbICryCNg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nlPbICryCNg",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-VaYyJkBIJJk",
         "title": "Path of Exile 2 Back to Arc Totems",
         "thumbnail": "https://i3.ytimg.com/vi/VaYyJkBIJJk/hqdefault.jpg",
@@ -182,13 +189,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/MKcLbfoTAUE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MKcLbfoTAUE",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid--tPL5dRT7cs",
-        "title": "Path of Exile 2 Spell Totem Endgame",
-        "thumbnail": "https://i2.ytimg.com/vi/-tPL5dRT7cs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-tPL5dRT7cs",
-        "publishedAt": "2026-06-25"
       }
     ]
   },
@@ -413,6 +413,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-FvG-aYT1JY8",
+        "title": "Diablo 4 - How I reached HCSSF Paragon 300 in 3 Days",
+        "thumbnail": "https://i3.ytimg.com/vi/FvG-aYT1JY8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FvG-aYT1JY8",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-wnS7VGTldwY",
+        "title": "Diablo 4 - P300 HCSSF in 3 Days",
+        "thumbnail": "https://i4.ytimg.com/vi/wnS7VGTldwY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wnS7VGTldwY",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-rdkMP_8uSkA",
         "title": "Diablo 4 - Most Ethical Build in Season 14",
         "thumbnail": "https://i3.ytimg.com/vi/rdkMP_8uSkA/hqdefault.jpg",
@@ -424,13 +438,6 @@
         "title": "Diablo 4 - INSANE Ruby Fragments",
         "thumbnail": "https://i3.ytimg.com/vi/2ooDRydOx74/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2ooDRydOx74",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-0T5mxql9yJg",
-        "title": "Diablo 4 Season 14 HCSSF P300 TODAY!",
-        "thumbnail": "https://i1.ytimg.com/vi/0T5mxql9yJg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0T5mxql9yJg",
         "publishedAt": "2026-07-03"
       },
       {
@@ -473,13 +480,6 @@
         "title": "Diablo 4 - Warlock Season 14 Guide & Biggest Changes",
         "thumbnail": "https://i3.ytimg.com/vi/2MsMfFWNG_I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2MsMfFWNG_I",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-t7127vC8i6c",
-        "title": "Diablo 4 - INSANE Day 1 Amulet",
-        "thumbnail": "https://i1.ytimg.com/vi/t7127vC8i6c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t7127vC8i6c",
         "publishedAt": "2026-07-01"
       }
     ]

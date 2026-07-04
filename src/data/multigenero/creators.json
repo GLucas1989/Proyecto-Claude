@@ -119,6 +119,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-Dl2zubFGbqY",
+        "title": "Sigo?",
+        "thumbnail": "https://i1.ytimg.com/vi/Dl2zubFGbqY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Dl2zubFGbqY",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-ki4Xr-Vc3tg",
         "title": "MI NUEVA CASA",
         "thumbnail": "https://i4.ytimg.com/vi/ki4Xr-Vc3tg/hqdefault.jpg",
@@ -176,17 +183,10 @@
       },
       {
         "id": "vid-jwvBtEinOvE",
-        "title": "Xokas…? 🤨",
+        "title": "Qué haces Xokas?",
         "thumbnail": "https://i3.ytimg.com/vi/jwvBtEinOvE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jwvBtEinOvE",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-PLQm-9hizmI",
-        "title": "EL MEJOR CHEF DEL MUNDO COCINA PARA XOKAS Y GREFG",
-        "thumbnail": "https://i1.ytimg.com/vi/PLQm-9hizmI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PLQm-9hizmI",
-        "publishedAt": "2026-06-22"
       }
     ]
   },
