@@ -21,8 +21,15 @@
     },
     "latestVideos": [
       {
+        "id": "vid-AgMiPM82jWs",
+        "title": "It's like nothing has changed...",
+        "thumbnail": "https://i2.ytimg.com/vi/AgMiPM82jWs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AgMiPM82jWs",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-t6R-HXfzhng",
-        "title": "THE BEST DUO IN VALORANT IS BACK!",
+        "title": "THE TARIK AND TENZ DUO IS BACK",
         "thumbnail": "https://i1.ytimg.com/vi/t6R-HXfzhng/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=t6R-HXfzhng",
         "publishedAt": "2026-06-25"
@@ -81,13 +88,6 @@
         "title": "live translating edg's comms",
         "thumbnail": "https://i1.ytimg.com/vi/Xb2h7z1F1ec/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Xb2h7z1F1ec",
-        "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-aI2YdI9Vpms",
-        "title": "This is what happens when PRX plays against EDG... (Tarik Reacts to VCT Masters London)",
-        "thumbnail": "https://i2.ytimg.com/vi/aI2YdI9Vpms/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aI2YdI9Vpms",
         "publishedAt": "2026-06-19"
       }
     ]
@@ -205,6 +205,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-DdWGX9kXtoQ",
+        "title": "Finding Sophie in SAND!",
+        "thumbnail": "https://i1.ytimg.com/vi/DdWGX9kXtoQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DdWGX9kXtoQ",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-2WjiKlwIhm4",
         "title": "Raiding the SANDs of Sophie!",
         "thumbnail": "https://i3.ytimg.com/vi/2WjiKlwIhm4/hqdefault.jpg",
@@ -266,13 +273,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/iMc2mt_JXNM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iMc2mt_JXNM",
         "publishedAt": "2026-06-14"
-      },
-      {
-        "id": "vid-ZZjLBKmrogM",
-        "title": "Got second place but I still farmed 👨‍🌾🌾",
-        "thumbnail": "https://i3.ytimg.com/vi/ZZjLBKmrogM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZZjLBKmrogM",
-        "publishedAt": "2026-06-13"
       }
     ]
   },
@@ -483,6 +483,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-quI8vs_jUnQ",
+        "title": "Not even close (5hp)",
+        "thumbnail": "https://i2.ytimg.com/vi/quI8vs_jUnQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=quI8vs_jUnQ",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-56YE64Ov1Tk",
         "title": "I ran into XQC in Deadlock",
         "thumbnail": "https://i2.ytimg.com/vi/56YE64Ov1Tk/hqdefault.jpg",
@@ -544,13 +551,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/5wnOlSrPYDM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5wnOlSrPYDM",
         "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-MLMbHmN9BR0",
-        "title": "Juicy bomb",
-        "thumbnail": "https://i2.ytimg.com/vi/MLMbHmN9BR0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MLMbHmN9BR0",
-        "publishedAt": "2026-06-17"
       }
     ]
   },

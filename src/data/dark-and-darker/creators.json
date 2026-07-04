@@ -315,6 +315,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-byuQti407sQ",
+        "title": "Playing melee LIVE – HUNGER tech test 03",
+        "thumbnail": "https://i3.ytimg.com/vi/byuQti407sQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=byuQti407sQ",
+        "publishedAt": "2026-07-03"
+      },
+      {
+        "id": "vid-fE9ipOEtxJg",
+        "title": "HUNGER is finally (almost) here #playHUNGER",
+        "thumbnail": "https://i3.ytimg.com/vi/fE9ipOEtxJg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fE9ipOEtxJg",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-C2Xob8ytGGs",
         "title": "Never miss another headshot in Half Sword #gaming",
         "thumbnail": "https://i4.ytimg.com/vi/C2Xob8ytGGs/hqdefault.jpg",
@@ -369,20 +383,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/WR8WAwFr3SU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WR8WAwFr3SU",
         "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-X2x1U_Ixhtw",
-        "title": "Melee TIPS for new players – Mistfall Hunter",
-        "thumbnail": "https://i1.ytimg.com/vi/X2x1U_Ixhtw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=X2x1U_Ixhtw",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-10ybGQWCOOk",
-        "title": "Elite Berserker vs Common Gear -- Executive Content",
-        "thumbnail": "https://i2.ytimg.com/vi/10ybGQWCOOk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=10ybGQWCOOk",
-        "publishedAt": "2026-06-16"
       }
     ]
   },

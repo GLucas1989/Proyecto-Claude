@@ -309,6 +309,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-C6JzBjDhjb8",
+        "title": "LIVE: NEW LOGO! Warlock PvP + PVE | MIRRORED JEWELS!!",
+        "thumbnail": "https://i4.ytimg.com/vi/C6JzBjDhjb8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C6JzBjDhjb8",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-AtXuyO1uPf4",
         "title": "LIVE: Warlock still good? | Mirrored Jewels Tomorrow?",
         "thumbnail": "https://i2.ytimg.com/vi/AtXuyO1uPf4/hqdefault.jpg",
@@ -370,13 +377,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/43KdYxMsX7s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=43KdYxMsX7s",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-rTgfKyFz2lU",
-        "title": "LIVE: Warlock Lockdown PvP + Viewer Dungeons!",
-        "thumbnail": "https://i3.ytimg.com/vi/rTgfKyFz2lU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rTgfKyFz2lU",
-        "publishedAt": "2026-06-24"
       }
     ]
   }

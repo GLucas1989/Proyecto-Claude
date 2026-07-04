@@ -122,6 +122,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-405rBWN8yXE",
+        "title": "This Solo Holy Build KILLS Everyone in MISTS | Albion Online",
+        "thumbnail": "https://i1.ytimg.com/vi/405rBWN8yXE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=405rBWN8yXE",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-bXCAbwFhIyk",
         "title": "🔴 PRINTING SILVER in MISTS! | Albion Online",
         "thumbnail": "https://i3.ytimg.com/vi/bXCAbwFhIyk/hqdefault.jpg",
@@ -182,13 +189,6 @@
         "title": "🔴 BIG MIST UPDATE is COMING to Albion Online!",
         "thumbnail": "https://i4.ytimg.com/vi/S0k6oqe9RGM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=S0k6oqe9RGM",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-Eq5_kUqr9rI",
-        "title": "My Favorite Warlock Build in Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/Eq5_kUqr9rI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Eq5_kUqr9rI",
         "publishedAt": "2026-06-27"
       }
     ]
@@ -503,6 +503,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-F0jrPR8d17g",
+        "title": "TODO sobre las NIEBLAS Y BRECILIEN en ALBION ONLINE 🧑‍🏫 GUIA COMPLETA",
+        "thumbnail": "https://i3.ytimg.com/vi/F0jrPR8d17g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F0jrPR8d17g",
+        "publishedAt": "2026-07-03"
+      },
+      {
         "id": "vid-_l7eLqwXD20",
         "title": "ME HE VUELTO A EQUIVOCAR DE BARRIO en ALBION ONLINE 💀",
         "thumbnail": "https://i4.ytimg.com/vi/_l7eLqwXD20/hqdefault.jpg",
@@ -564,13 +571,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/A1gh9Lz63AA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=A1gh9Lz63AA",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-qSdYKioWVV4",
-        "title": "DUNE AWAKENING: EL SURVIVAL PERFECTO ¿O JUEGO DE TERROR? 🤨",
-        "thumbnail": "https://i2.ytimg.com/vi/qSdYKioWVV4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qSdYKioWVV4",
-        "publishedAt": "2026-06-19"
       }
     ]
   }
