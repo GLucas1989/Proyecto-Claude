@@ -60,12 +60,12 @@ export async function startKycVerification(): Promise<{ ok: boolean; url?: strin
         kyc_status: "pending",
       })
       .eq("id", user.id);
-    if (error) return { ok: false, error: "No se pudo registrar la solicitud de verificación." };
+    if (error) return { ok: false, error: `DEBUG update profiles: ${error.message}` };
 
     revalidatePath("/dashboard");
     return { ok: true, url: session.verificationUrl };
-  } catch {
-    return { ok: false, error: "Error interno." };
+  } catch (err) {
+    return { ok: false, error: `DEBUG catch: ${err instanceof Error ? err.message : String(err)}` };
   }
 }
 
