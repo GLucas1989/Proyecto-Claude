@@ -5,13 +5,31 @@ import { GAME_FEEDS, guessCategory } from "./feeds";
 
 // User-Agent de navegador real: albiononline.com (entre otros) bloquea con 403
 // cualquier UA que se identifique como bot, aunque respete robots.txt.
-const parser = new Parser({
-  timeout: 10_000,
-  headers: {
-    "User-Agent":
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-  },
-});
+const FEED_HEADERS = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+};
+const parser = new Parser({ timeout: 10_000, headers: FEED_HEADERS });
+
+// Algunos feeds (news.blizzard.com, minecraft.net) traen "&" sueltos sin
+// escapar dentro de URLs/texto — XML válido exige "&amp;". El parser aborta
+// todo el feed por eso; lo saneamos antes de parsear en vez de perderlo entero.
+function escapeStrayAmpersands(xml: string): string {
+  return xml.replace(/&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[0-9a-fA-F]+);)/g, "&amp;");
+}
+
+async function fetchAndParseFeed(url: string) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 10_000);
+  try {
+    const res = await fetch(url, { headers: FEED_HEADERS, signal: controller.signal });
+    if (!res.ok) throw new Error(`Status code ${res.status}`);
+    const raw = await res.text();
+    return await parser.parseString(escapeStrayAmpersands(raw));
+  } finally {
+    clearTimeout(timeout);
+  }
+}
 
 export interface FeedSyncResult {
   gameSlug: string;
@@ -37,7 +55,7 @@ export async function syncAllGameFeeds(): Promise<FeedSyncResult[]> {
 
   for (const feed of GAME_FEEDS) {
     try {
-      const parsed = await parser.parseURL(feed.url);
+      const parsed = await fetchAndParseFeed(feed.url);
       const items = (parsed.items ?? []).slice(0, 15);
 
       let inserted = 0;
