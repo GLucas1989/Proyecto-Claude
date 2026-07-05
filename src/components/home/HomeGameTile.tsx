@@ -28,7 +28,7 @@ export function HomeGameTile({ game, creatorsCount }: HomeGameTileProps) {
           )}
         </div>
         <div className="min-w-0">
-          <h3 className="text-sm font-bold text-white truncate">{game.name}</h3>
+          <h3 className="font-display text-sm font-semibold text-white truncate">{game.name}</h3>
           <p className="text-[10px] font-mono text-white/35">{creatorsCount} creadores</p>
         </div>
       </div>

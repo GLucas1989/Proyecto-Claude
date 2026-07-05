@@ -136,7 +136,7 @@ export function GameCard({ game }: GameCardProps) {
       <div className="flex flex-col flex-1 p-6">
         {/* Info */}
         <div className="flex-1">
-          <h3 className="text-xl font-black text-white mb-2 tracking-tight">{game.name}</h3>
+          <h3 className="font-display text-xl font-semibold text-white mb-2 tracking-tight">{game.name}</h3>
           <p className="text-sm text-white/50 leading-relaxed">{game.description}</p>
         </div>
 

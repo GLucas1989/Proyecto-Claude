@@ -8,6 +8,20 @@
 
 ## ⚠️ PENDIENTE DE REVISIÓN DEL CEO
 
+- [ ] **Vulnerabilidad moderada de `postcss` (vía `next`, `next-auth`,
+  `@vercel/analytics`) — sin fix disponible, riesgo aceptado por ahora.**
+  `npm audit` reporta 4 hallazgos "moderate" que en realidad son el mismo:
+  XSS al serializar CSS con `</style>` sin escapar (GHSA-qx2v-qp2m-jg93) en
+  una copia interna de `postcss@8.4.31` que Next.js empaqueta dentro de sí
+  mismo (no el `postcss@8.5.15` de nuestro `package.json` vía Tailwind v4,
+  que ya está seguro). Verificado que ni `next@16.2.10` (última patch
+  estable a la fecha) actualizó esa dependencia interna todavía — no hay
+  fix upstream disponible. `npm audit fix --force` "solucionaría" esto
+  downgradeando `next` a `9.3.3` (2019, pre-App-Router) — inaceptable, no
+  se aplicó. Riesgo real bajo: no procesamos CSS de usuarios vía PostCSS
+  en ningún path de la app. Revisar de nuevo cuando Next.js publique un
+  patch que actualice su `postcss` interno.
+
 - [ ] **Rediseño de Home implementado** (a partir del handoff de diseño
   `design_handoff_home_redesign`) — grid de juegos agrupado por categoría
   (3 visibles + "mostrar más"), franja "Qué encontrás acá"

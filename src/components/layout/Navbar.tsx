@@ -25,7 +25,7 @@ export function Navbar() {
             <div className="p-1.5 rounded-lg border border-cyan-500/30 bg-cyan-500/10 group-hover:bg-cyan-500/20 group-hover:border-cyan-500/50 transition-all">
               <Zap className="h-4 w-4 text-cyan-400" />
             </div>
-            <span className="font-black text-lg tracking-tight">
+            <span className="font-display font-bold text-lg tracking-tight">
               <span className="text-white">CREATORS </span>
               <span className="text-cyan-400">S-HUB</span>
             </span>

@@ -20,7 +20,8 @@ export function PaymentDashboard() {
   const [showWithdraw, setShowWithdraw] = useState(false);
 
   async function refresh() {
-    setStatus(await getPaymentStatus());
+    const next = await getPaymentStatus();
+    queueMicrotask(() => setStatus(next));
   }
   useEffect(() => { refresh(); }, []);
 

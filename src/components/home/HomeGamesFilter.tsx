@@ -44,8 +44,10 @@ export function HomeGamesFilter({ items }: HomeGamesFilterProps) {
   const [hydrated, setHydrated] = useState(false);
 
   useEffect(() => {
-    setSearch(loadStoredSearch());
-    setHydrated(true);
+    queueMicrotask(() => {
+      setSearch(loadStoredSearch());
+      setHydrated(true);
+    });
   }, []);
 
   useEffect(() => {
