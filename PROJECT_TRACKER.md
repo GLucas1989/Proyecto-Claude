@@ -76,33 +76,32 @@
   5. Cuando estés conforme con los datos, activarlos es cambiar
      `active: true` en `games.json` para cada uno (una línea por juego).
 
-- [ ] **Feed de noticias por juego (game_news) — ingesta automática RSS lista,
-  falta activar** — se armó un cron propio en Next.js/Vercel (decisión: sin
-  n8n, para no depender de infraestructura externa) que lee los RSS
-  oficiales de cada juego cada 3hs y los guarda en `game_news`
-  (`src/lib/news/ingest.ts` + `src/app/api/cron/sync-news/route.ts`,
-  configurado en `vercel.json`). Fuentes cargadas (confirmadas por el CEO):
-  League of Legends, Wild Rift, Diablo IV, Diablo Immortal, Beyond All
-  Reason, Dark and Darker, Albion Online, Raid: Shadow Legends, MTG Arena,
-  Valorant. Multigenero y Sim Racing no tienen feed dedicado — quedan sin
-  noticias automáticas.
-  **⚠️ No pude verificar en vivo que las URLs de los RSS sean correctas**
-  (el entorno de esta sesión bloquea salidas HTTP a dominios externos,
-  incluso a feeds de prueba conocidos) — puede que alguna cambie de URL o
-  bloquee bots. La respuesta del cron (`/api/cron/sync-news`) devuelve el
-  detalle éxito/error por feed — revisarla tras el primer deploy/corrida
-  para confirmar cuáles funcionan.
-  **Pendiente para activarlo:**
-  1. Correr `supabase/migrations/phase17_game_news.sql` y
-     `supabase/migrations/phase18_game_news_url_unique.sql`.
-  2. Cargar `CRON_SECRET` en Vercel (mismo secreto que usa el cron de
-     ranking de creadores).
-  3. El cron ya queda configurado solo con `vercel.json` (no hace falta
-     tocar nada a mano en el dashboard de Vercel).
-  La clasificación por categoría (Main Events / Patch Notes) es automática
-  por palabras clave en el título ("patch", "update", etc.) — "Regional
-  Grinding" no tiene forma de detectarse sola desde estos feeds, así que
-  esa categoría queda para carga manual si se necesita.
+- [x] **Feed de noticias por juego (game_news) — ACTIVO, con cobertura parcial
+  (estado final verificado en producción, 2026-07-05)** — migraciones
+  phase17/18 corridas, cron corriendo en Netlify Scheduled Functions cada
+  3hs, tabla `game_news` recibiendo datos y UI (NewsSection/LiveHubWidget)
+  mostrándolos en la página de cada juego.
+  **Cobertura final tras agotar todas las vías técnicas** (fix de URLs,
+  User-Agent de navegador, saneo de XML roto, parser tolerante por regex y
+  autodiscovery de `<link rel=alternate>` — todo verificado contra
+  producción):
+  - ✅ **Con noticias automáticas**: Beyond All Reason, Path of Exile 2.
+  - ❌ **Sin feed público (confirmado)**: Diablo IV, Diablo Immortal,
+    World of Warcraft y Minecraft (sus URLs "de feed" devuelven páginas
+    HTML sin ningún feed declarado — abandonaron RSS), Dark and Darker
+    (ídem), MTG Arena y Raid: Shadow Legends (404), Albion Online
+    (Cloudflare bloquea cualquier fetch de servidor con 403).
+  - ❌ **League of Legends / Wild Rift / Valorant**: Riot no publica RSS;
+    el generador de terceros probado (antosik-lol-rss) está abandonado
+    (contenido congelado en mayo 2024) — se retiró para no mostrar
+    noticias viejas como actuales. Las ~45 filas que alcanzó a insertar
+    se borraron de `game_news`.
+  **Opciones futuras si se quiere más cobertura** (decisión de negocio,
+  no técnica): (a) instancia propia de RSSHub (self-hosted, genera feeds
+  scrapeando esas páginas — infraestructura extra a mantener), (b) carga
+  manual/editorial de noticias clave vía panel admin, (c) aceptar la
+  cobertura parcial. La clasificación Main Events/Patch Notes sigue
+  siendo automática por keywords del título.
 
 - [ ] **Bug crítico en panel de moderación — 3 acciones admin no escribían nada
   en la base (RLS bloqueaba en silencio)** — auditoría funcional completa
