@@ -78,10 +78,15 @@ async function fetchAndParseFeed(url: string): Promise<{ items: FeedItem[] }> {
       return await parser.parseString(escapeStrayAmpersands(raw));
     } catch (strictErr) {
       // XML inválido para el parser estricto → intento tolerante. Si tampoco
-      // encuentra items, se propaga el error original (más informativo).
+      // encuentra items, se propaga el error original enriquecido con
+      // diagnóstico (content-type + arranque del body) para distinguir
+      // "feed XML roto" de "la URL devuelve una página HTML, no un feed".
       const lenient = lenientParse(raw);
       if (lenient.items.length > 0) return lenient;
-      throw strictErr;
+      const msg = strictErr instanceof Error ? strictErr.message : String(strictErr);
+      const contentType = res.headers.get("content-type") ?? "?";
+      const head = raw.slice(0, 120).replace(/\s+/g, " ");
+      throw new Error(`${msg} [content-type: ${contentType}; body: ${head}]`);
     }
   } finally {
     clearTimeout(timeout);
