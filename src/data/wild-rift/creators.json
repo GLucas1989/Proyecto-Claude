@@ -262,6 +262,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-DQOeF5UY_JY",
+        "title": "¿Cuántos intentos necesitas para convertirte en un Kinkou de verdad?",
+        "thumbnail": "https://i1.ytimg.com/vi/DQOeF5UY_JY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DQOeF5UY_JY",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-CZ-Ckgtnf6Q",
         "title": "Resumen de Yunara | Jugabilidad - League of Legends: Wild Rift",
         "thumbnail": "https://i4.ytimg.com/vi/CZ-Ckgtnf6Q/hqdefault.jpg",
@@ -323,13 +330,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/sl4lxr7rdUQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sl4lxr7rdUQ",
         "publishedAt": "2026-05-02"
-      },
-      {
-        "id": "vid-ybylM1xihdE",
-        "title": "Sé la carrera | Wild Rift x Porsche",
-        "thumbnail": "https://i2.ytimg.com/vi/ybylM1xihdE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ybylM1xihdE",
-        "publishedAt": "2026-04-30"
       }
     ]
   },
