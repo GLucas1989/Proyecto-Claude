@@ -315,6 +315,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-kBzsHxi5XEI",
+        "title": "HUNGER got me fighting blind.. #playHUNGER",
+        "thumbnail": "https://i4.ytimg.com/vi/kBzsHxi5XEI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kBzsHxi5XEI",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-9oABVI7N8Vk",
         "title": "Why play as Hugo in HUNGER? #playHUNGER",
         "thumbnail": "https://i2.ytimg.com/vi/9oABVI7N8Vk/hqdefault.jpg",
@@ -375,13 +382,6 @@
         "title": "Withered Knight ZERO to HERO (with mimic tech) – Mistfall Hunter",
         "thumbnail": "https://i3.ytimg.com/vi/6OlYfRvA-J4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6OlYfRvA-J4",
-        "publishedAt": "2026-06-18"
-      },
-      {
-        "id": "vid-ZLEm6J23Vuw",
-        "title": "GREY KNIGHT vs BLUE KNIGHT #mistfallhunter #gaming #slowmotion #cinematic",
-        "thumbnail": "https://i3.ytimg.com/vi/ZLEm6J23Vuw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZLEm6J23Vuw",
         "publishedAt": "2026-06-18"
       }
     ]

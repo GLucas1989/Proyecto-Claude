@@ -118,7 +118,21 @@
         "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC!",
         "thumbnail": "https://i1.ytimg.com/vi/T2AUGbuxH-w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=T2AUGbuxH-w",
-        "publishedAt": "2026-07-03"
+        "publishedAt": "2026-07-04"
+      },
+      {
+        "id": "vid-3-vsEHyYies",
+        "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC - Part 2",
+        "thumbnail": "https://i4.ytimg.com/vi/3-vsEHyYies/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3-vsEHyYies",
+        "publishedAt": "2026-07-04"
+      },
+      {
+        "id": "vid-tzELLoPKoW8",
+        "title": "Le Mans Ultimate Coming with DAYTONA and LAGUNA SECA and more!",
+        "thumbnail": "https://i1.ytimg.com/vi/tzELLoPKoW8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tzELLoPKoW8",
+        "publishedAt": "2026-07-04"
       },
       {
         "id": "vid-nI1zaI_DjkY",
@@ -168,20 +182,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/1ttu0u0l4G8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1ttu0u0l4G8",
         "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-K_Bw0WTVXqo",
-        "title": "They race me so hard😅Driver didnt see me!",
-        "thumbnail": "https://i4.ytimg.com/vi/K_Bw0WTVXqo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=K_Bw0WTVXqo",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-giLfS8pygrA",
-        "title": "Melting Hot 4 Hours of Qatar - ELMS World Tour Endurance Championship with Maciej!",
-        "thumbnail": "https://i4.ytimg.com/vi/giLfS8pygrA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=giLfS8pygrA",
-        "publishedAt": "2026-06-20"
       }
     ]
   },
@@ -420,6 +420,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Q2J1LXZx8j0",
+        "title": "GX100 Dual-mode Sim Racing Shifter",
+        "thumbnail": "https://i2.ytimg.com/vi/Q2J1LXZx8j0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q2J1LXZx8j0",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-usg4gSDXds4",
         "title": "SIMDT 7\" Sim Racing Dashboard Display [UNBOXING]",
         "thumbnail": "https://i2.ytimg.com/vi/usg4gSDXds4/hqdefault.jpg",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/O8PzJ6WeylQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=O8PzJ6WeylQ",
         "publishedAt": "2026-06-13"
-      },
-      {
-        "id": "vid-zRW0kTLXuio",
-        "title": "SIMAGIC Alpha EVO Ultra Hands-On Review | Next Level FFB!",
-        "thumbnail": "https://i3.ytimg.com/vi/zRW0kTLXuio/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zRW0kTLXuio",
-        "publishedAt": "2026-06-11"
       }
     ]
   }

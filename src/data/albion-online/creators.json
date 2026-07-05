@@ -122,8 +122,15 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-R4NnM_9tMmo",
+        "title": "My 6 BEST SOLO MISTS BUILDS in Albion Online",
+        "thumbnail": "https://i3.ytimg.com/vi/R4NnM_9tMmo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R4NnM_9tMmo",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-405rBWN8yXE",
-        "title": "This CRAZY Solo Healer Build KILLS Everyone in MISTS | Albion Online",
+        "title": "This Solo Holy Build KILLS Everyone in MISTS | Albion Online",
         "thumbnail": "https://i1.ytimg.com/vi/405rBWN8yXE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=405rBWN8yXE",
         "publishedAt": "2026-07-03"
@@ -182,13 +189,6 @@
         "title": "I Caught Up FAST with Warlock in Diablo Immortal!",
         "thumbnail": "https://i3.ytimg.com/vi/NNwvDu9k6iY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NNwvDu9k6iY",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-S0k6oqe9RGM",
-        "title": "🔴 BIG MIST UPDATE is COMING to Albion Online!",
-        "thumbnail": "https://i4.ytimg.com/vi/S0k6oqe9RGM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S0k6oqe9RGM",
         "publishedAt": "2026-06-27"
       }
     ]
