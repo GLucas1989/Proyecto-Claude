@@ -113,6 +113,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-hz6UkPNNCIc",
+        "title": "THIS IS THE EASIEST WAY TO RADIANT... | TenZ",
+        "thumbnail": "https://i1.ytimg.com/vi/hz6UkPNNCIc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hz6UkPNNCIc",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-Db6ydGVpi3k",
         "title": "what a bait #tenz #wutheringwaves",
         "thumbnail": "https://i1.ytimg.com/vi/Db6ydGVpi3k/hqdefault.jpg",
@@ -174,13 +181,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/N8RH-ZihVZc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=N8RH-ZihVZc",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-BPbtSn_Jvms",
-        "title": "grand final was insane #Valorant #tenz #vct",
-        "thumbnail": "https://i3.ytimg.com/vi/BPbtSn_Jvms/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BPbtSn_Jvms",
-        "publishedAt": "2026-06-23"
       }
     ]
   },
@@ -483,6 +483,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-g6NOndd1ipA",
+        "title": "Nothing beats a Big Black Hole",
+        "thumbnail": "https://i4.ytimg.com/vi/g6NOndd1ipA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=g6NOndd1ipA",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-quI8vs_jUnQ",
         "title": "Not even close (5hp)",
         "thumbnail": "https://i2.ytimg.com/vi/quI8vs_jUnQ/hqdefault.jpg",
@@ -544,13 +551,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/jSxApyTklEI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jSxApyTklEI",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-5wnOlSrPYDM",
-        "title": "Evil Jonas awakened",
-        "thumbnail": "https://i2.ytimg.com/vi/5wnOlSrPYDM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5wnOlSrPYDM",
-        "publishedAt": "2026-06-18"
       }
     ]
   },

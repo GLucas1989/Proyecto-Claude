@@ -124,6 +124,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Te__8OxB8Ps",
+        "title": "Boros Weapons",
+        "thumbnail": "https://i1.ytimg.com/vi/Te__8OxB8Ps/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Te__8OxB8Ps",
+        "publishedAt": "2026-07-04"
+      },
+      {
+        "id": "vid-OABJAxlP6U8",
+        "title": "Belleza en estado PURO. Boros Weapons",
+        "thumbnail": "https://i4.ytimg.com/vi/OABJAxlP6U8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OABJAxlP6U8",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-AN57c50uPio",
         "title": "Izzet Elementals",
         "thumbnail": "https://i2.ytimg.com/vi/AN57c50uPio/hqdefault.jpg",
@@ -178,20 +192,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/zJ6BoFHb4HU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zJ6BoFHb4HU",
         "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-7tZlwwlWxik",
-        "title": "Todos los mazos del canal",
-        "thumbnail": "https://i4.ytimg.com/vi/7tZlwwlWxik/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7tZlwwlWxik",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-sBeX9UYgzDI",
-        "title": "El NUEVO mejor mazo del formato. Selesnya Stompy",
-        "thumbnail": "https://i4.ytimg.com/vi/sBeX9UYgzDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sBeX9UYgzDI",
-        "publishedAt": "2026-06-30"
       }
     ]
   },
@@ -320,8 +320,15 @@
     },
     "latestVideos": [
       {
+        "id": "vid-6SNCoCTq7GA",
+        "title": "THE RUDEST Strip Mine Deck",
+        "thumbnail": "https://i3.ytimg.com/vi/6SNCoCTq7GA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6SNCoCTq7GA",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-xZXm3KCZFAY",
-        "title": "🔴PIONEER METAGAME CHALLENGE🔴DEADLOCK🔴",
+        "title": "🔴DEADLOCK🔴PIONEER METAGAME CHALLENGE🔴",
         "thumbnail": "https://i1.ytimg.com/vi/xZXm3KCZFAY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xZXm3KCZFAY",
         "publishedAt": "2026-07-04"
@@ -381,13 +388,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/u7tc1TsEO68/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=u7tc1TsEO68",
         "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-ht35ZBS6tGQ",
-        "title": "MonoB Baron Is the Best Mono Color Commander!",
-        "thumbnail": "https://i1.ytimg.com/vi/ht35ZBS6tGQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ht35ZBS6tGQ",
-        "publishedAt": "2026-06-29"
       }
     ]
   },
@@ -419,6 +419,13 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-u3cc6hDFYjs",
+        "title": "It's time for She-Hulk in Competitive Brawl",
+        "thumbnail": "https://i2.ytimg.com/vi/u3cc6hDFYjs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u3cc6hDFYjs",
+        "publishedAt": "2026-07-04"
+      },
       {
         "id": "vid-kBOjCCE9tAo",
         "title": "This She-Hulk Deck is Busted",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/2GYd6Nydg6U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2GYd6Nydg6U",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-ExT5zF1tXWw",
-        "title": "Playing every card banned in Brawl",
-        "thumbnail": "https://i2.ytimg.com/vi/ExT5zF1tXWw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ExT5zF1tXWw",
-        "publishedAt": "2026-06-24"
       }
     ]
   }

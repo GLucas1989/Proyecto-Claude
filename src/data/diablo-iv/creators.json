@@ -24,6 +24,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-aEtj56ctcMI",
+        "title": "Diablo 4 Season 14 Is Fun, But Something Feels Wrong",
+        "thumbnail": "https://i2.ytimg.com/vi/aEtj56ctcMI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aEtj56ctcMI",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-9TnVN775ov4",
         "title": "This Fantasy Survival RPG Is Finally Ready - Enshrouded",
         "thumbnail": "https://i2.ytimg.com/vi/9TnVN775ov4/hqdefault.jpg",
@@ -85,13 +92,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/sv_Uj70jg1c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sv_Uj70jg1c",
         "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-AhDjtFOkOFY",
-        "title": "Titan Quest 2 Wild Lands Update Gameplay",
-        "thumbnail": "https://i2.ytimg.com/vi/AhDjtFOkOFY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AhDjtFOkOFY",
-        "publishedAt": "2026-06-19"
       }
     ]
   },
@@ -121,11 +121,18 @@
     },
     "latestVideos": [
       {
+        "id": "vid-KJCY5EoSigc",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i4.ytimg.com/vi/KJCY5EoSigc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KJCY5EoSigc",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-nlPbICryCNg",
         "title": "Path of Exile 2 Back to Arc Totems",
         "thumbnail": "https://i3.ytimg.com/vi/nlPbICryCNg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nlPbICryCNg",
-        "publishedAt": "2026-07-03"
+        "publishedAt": "2026-07-04"
       },
       {
         "id": "vid-VaYyJkBIJJk",
@@ -182,13 +189,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/rbdqwvs3lbE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rbdqwvs3lbE",
         "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-MKcLbfoTAUE",
-        "title": "Path of Exile 2 Expedition Farming Strat",
-        "thumbnail": "https://i2.ytimg.com/vi/MKcLbfoTAUE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MKcLbfoTAUE",
-        "publishedAt": "2026-06-27"
       }
     ]
   },
@@ -315,6 +315,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-9PSNukh2-1U",
+        "title": "INSANE VEX BUILD IN BORDERLANDS",
+        "thumbnail": "https://i2.ytimg.com/vi/9PSNukh2-1U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9PSNukh2-1U",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-na9FDo0iH3E",
         "title": "I BROKE BORDERLANDS 4 AGAIN..",
         "thumbnail": "https://i3.ytimg.com/vi/na9FDo0iH3E/hqdefault.jpg",
@@ -376,13 +383,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/cHu5wI_XHyU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cHu5wI_XHyU",
         "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-pVwVJoB7BjY",
-        "title": "Updating Rafa Builds & Takedown Grind! // Borderlands 4 Livestream",
-        "thumbnail": "https://i1.ytimg.com/vi/pVwVJoB7BjY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pVwVJoB7BjY",
-        "publishedAt": "2026-06-29"
       }
     ]
   },
@@ -412,6 +412,41 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-SSAmgDUKX9Y",
+        "title": "Diablo 4 Season 14 HCSSF Paragon 300 Rogue Blasting!",
+        "thumbnail": "https://i4.ytimg.com/vi/SSAmgDUKX9Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SSAmgDUKX9Y",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-D0lucXvYbA4",
+        "title": "Diablo 4 - How to farm Mythics, Gems, Gold & more",
+        "thumbnail": "https://i1.ytimg.com/vi/D0lucXvYbA4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D0lucXvYbA4",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-2Mx93ZhesIM",
+        "title": "Diablo 4 - What Have I Done?",
+        "thumbnail": "https://i3.ytimg.com/vi/2Mx93ZhesIM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2Mx93ZhesIM",
+        "publishedAt": "2026-07-04"
+      },
+      {
+        "id": "vid-ra1dkWIUc1M",
+        "title": "Diablo 4 - GIGA FAST: Death Trap Rogue Full Guide",
+        "thumbnail": "https://i3.ytimg.com/vi/ra1dkWIUc1M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ra1dkWIUc1M",
+        "publishedAt": "2026-07-04"
+      },
+      {
+        "id": "vid-uPFoqCBaROQ",
+        "title": "Diablo 4 - This Is Great… (Not)",
+        "thumbnail": "https://i2.ytimg.com/vi/uPFoqCBaROQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uPFoqCBaROQ",
+        "publishedAt": "2026-07-04"
+      },
       {
         "id": "vid-FvG-aYT1JY8",
         "title": "Diablo 4 - How I reached HCSSF Paragon 300 in 3 Days",
@@ -446,41 +481,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/9NptWdcetRI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9NptWdcetRI",
         "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-ENGmZQ8IGA8",
-        "title": "Diablo 4 - Mythic EXP Reward BTW",
-        "thumbnail": "https://i2.ytimg.com/vi/ENGmZQ8IGA8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ENGmZQ8IGA8",
-        "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-HtmhgK-IuHs",
-        "title": "Diablo 4 - Season 14 UNDOCUMENTED CHANGES",
-        "thumbnail": "https://i1.ytimg.com/vi/HtmhgK-IuHs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HtmhgK-IuHs",
-        "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-V5JW5ya_YAs",
-        "title": "Diablo 4 - We Take Those",
-        "thumbnail": "https://i3.ytimg.com/vi/V5JW5ya_YAs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V5JW5ya_YAs",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-Baus_Loy0Gc",
-        "title": "Diablo 4 - HCSSF T12 Mephisto ~19h In",
-        "thumbnail": "https://i3.ytimg.com/vi/Baus_Loy0Gc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Baus_Loy0Gc",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-2MsMfFWNG_I",
-        "title": "Diablo 4 - Warlock Season 14 Guide & Biggest Changes",
-        "thumbnail": "https://i3.ytimg.com/vi/2MsMfFWNG_I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2MsMfFWNG_I",
-        "publishedAt": "2026-07-01"
       }
     ]
   }

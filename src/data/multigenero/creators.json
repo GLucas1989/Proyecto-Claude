@@ -214,6 +214,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-Rz3PTDDnqQ4",
+        "title": "Objetivo: levantar 100kg en press banca. Publi",
+        "thumbnail": "https://i3.ytimg.com/vi/Rz3PTDDnqQ4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rz3PTDDnqQ4",
+        "publishedAt": "2026-07-04"
+      },
+      {
         "id": "vid-USr-R_mmZww",
         "title": "Sorteo de Entradas VIP de La Velada del Año VI.",
         "thumbnail": "https://i2.ytimg.com/vi/USr-R_mmZww/hqdefault.jpg",
@@ -274,13 +281,6 @@
         "title": "Speed y yo tenemos un hermano llamado Messi.",
         "thumbnail": "https://i2.ytimg.com/vi/QeVxrSHcitI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=QeVxrSHcitI",
-        "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-uSmItCrEldo",
-        "title": "Histórico lo de Cabo Verde. Surrealista.",
-        "thumbnail": "https://i2.ytimg.com/vi/uSmItCrEldo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uSmItCrEldo",
         "publishedAt": "2026-06-27"
       }
     ]
