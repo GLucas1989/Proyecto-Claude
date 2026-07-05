@@ -25,6 +25,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-N2KsX8vPXAk",
+        "title": "KOTH BY ARNL",
+        "thumbnail": "https://i3.ytimg.com/vi/N2KsX8vPXAk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N2KsX8vPXAk",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-4JN6EUF5YdQ",
         "title": "BAR Pro League Season 9 Grand Finals!",
         "thumbnail": "https://i1.ytimg.com/vi/4JN6EUF5YdQ/hqdefault.jpg",
@@ -86,13 +93,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/hacglHplZ2g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hacglHplZ2g",
         "publishedAt": "2026-05-25"
-      },
-      {
-        "id": "vid-XgIskVYpV1U",
-        "title": "Nation Wars - FINALS",
-        "thumbnail": "https://i1.ytimg.com/vi/XgIskVYpV1U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XgIskVYpV1U",
-        "publishedAt": "2026-05-25"
       }
     ]
   },
@@ -121,11 +121,25 @@
     },
     "latestVideos": [
       {
+        "id": "vid-zrA7KkZvP5w",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i3.ytimg.com/vi/zrA7KkZvP5w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zrA7KkZvP5w",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-u8MOM7WI_7k",
+        "title": "10 Minute Aggression Success vs Failure! Double Feature! | Beyond All Reason | King Of The Hill",
+        "thumbnail": "https://i2.ytimg.com/vi/u8MOM7WI_7k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u8MOM7WI_7k",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-21bKm3hIkuc",
         "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
         "thumbnail": "https://i3.ytimg.com/vi/21bKm3hIkuc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=21bKm3hIkuc",
-        "publishedAt": "2026-07-01"
+        "publishedAt": "2026-07-02"
       },
       {
         "id": "vid-4Dz6F3-14FI",
@@ -175,20 +189,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/lYiAfy21Yr4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lYiAfy21Yr4",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-e17iDylyu3o",
-        "title": "My ENTIRE Discord teamed up against me | Beyond All Reason",
-        "thumbnail": "https://i2.ytimg.com/vi/e17iDylyu3o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e17iDylyu3o",
-        "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-pk2dkMidpFo",
-        "title": "Whistlers are still in | Beyond All Reason | Nuclear Winter Bar",
-        "thumbnail": "https://i1.ytimg.com/vi/pk2dkMidpFo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pk2dkMidpFo",
-        "publishedAt": "2026-06-23"
       }
     ]
   },

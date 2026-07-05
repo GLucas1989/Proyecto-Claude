@@ -320,6 +320,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-w_c0vmQM3OU",
+        "title": "🔴GEOGUESSR🔴BAZAAR🔴DEADLOCK🔴QUALIFIER PLAYIN🔴PIONEER CHALLENGE🔴",
+        "thumbnail": "https://i4.ytimg.com/vi/w_c0vmQM3OU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w_c0vmQM3OU",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-6SNCoCTq7GA",
         "title": "THE RUDEST Strip Mine Deck",
         "thumbnail": "https://i3.ytimg.com/vi/6SNCoCTq7GA/hqdefault.jpg",
@@ -381,13 +388,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/pDBqDGgeQbY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pDBqDGgeQbY",
         "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-u7tc1TsEO68",
-        "title": "SPAMMING Hawkeye Arrows!",
-        "thumbnail": "https://i2.ytimg.com/vi/u7tc1TsEO68/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u7tc1TsEO68",
-        "publishedAt": "2026-06-29"
       }
     ]
   },

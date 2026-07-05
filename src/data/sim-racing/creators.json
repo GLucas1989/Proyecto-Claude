@@ -114,17 +114,24 @@
     },
     "latestVideos": [
       {
+        "id": "vid-45iDpYq4APw",
+        "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC - WHAT IS THIS FINISH!!!",
+        "thumbnail": "https://i1.ytimg.com/vi/45iDpYq4APw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=45iDpYq4APw",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-3-vsEHyYies",
+        "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC - NIGHT Stints",
+        "thumbnail": "https://i4.ytimg.com/vi/3-vsEHyYies/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3-vsEHyYies",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-T2AUGbuxH-w",
         "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC!",
         "thumbnail": "https://i1.ytimg.com/vi/T2AUGbuxH-w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=T2AUGbuxH-w",
-        "publishedAt": "2026-07-04"
-      },
-      {
-        "id": "vid-3-vsEHyYies",
-        "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC - Part 2",
-        "thumbnail": "https://i4.ytimg.com/vi/3-vsEHyYies/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3-vsEHyYies",
         "publishedAt": "2026-07-04"
       },
       {
@@ -175,13 +182,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/vMbIEvtYPis/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vMbIEvtYPis",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-1ttu0u0l4G8",
-        "title": "Multiclass Action And Mixed Conditions IMOLA ELMS 90mins!",
-        "thumbnail": "https://i2.ytimg.com/vi/1ttu0u0l4G8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1ttu0u0l4G8",
-        "publishedAt": "2026-06-22"
       }
     ]
   },

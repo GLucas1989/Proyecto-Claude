@@ -122,6 +122,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-mn7lGBF3om0",
+        "title": "BIG BUFFS & BIG NERFS ARE COMING! | Albion Online",
+        "thumbnail": "https://i2.ytimg.com/vi/mn7lGBF3om0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mn7lGBF3om0",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-R4NnM_9tMmo",
         "title": "My 6 BEST SOLO MISTS BUILDS in Albion Online",
         "thumbnail": "https://i3.ytimg.com/vi/R4NnM_9tMmo/hqdefault.jpg",
@@ -183,13 +190,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/wy1QxAS70J8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wy1QxAS70J8",
         "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-NNwvDu9k6iY",
-        "title": "I Caught Up FAST with Warlock in Diablo Immortal!",
-        "thumbnail": "https://i3.ytimg.com/vi/NNwvDu9k6iY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NNwvDu9k6iY",
-        "publishedAt": "2026-06-27"
       }
     ]
   },

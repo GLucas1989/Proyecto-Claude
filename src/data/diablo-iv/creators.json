@@ -413,6 +413,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-oeSmSvKsazQ",
+        "title": "Diablo 4 Season 14 HCSSF Paragon 300 Rogue Blasting!",
+        "thumbnail": "https://i4.ytimg.com/vi/oeSmSvKsazQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oeSmSvKsazQ",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-SSAmgDUKX9Y",
         "title": "Diablo 4 Season 14 HCSSF Paragon 300 Rogue Blasting!",
         "thumbnail": "https://i4.ytimg.com/vi/SSAmgDUKX9Y/hqdefault.jpg",
@@ -474,13 +481,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/2ooDRydOx74/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2ooDRydOx74",
         "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-9NptWdcetRI",
-        "title": "Diablo 4 - ARROWS EVERYWHERE: PenShot Rogue Guide",
-        "thumbnail": "https://i2.ytimg.com/vi/9NptWdcetRI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9NptWdcetRI",
-        "publishedAt": "2026-07-02"
       }
     ]
   }
