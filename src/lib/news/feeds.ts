@@ -9,14 +9,12 @@ export interface GameFeedSource {
 }
 
 export const GAME_FEEDS: GameFeedSource[] = [
-  // League of Legends, Wild Rift y Valorant: Riot no publica RSS oficial.
-  // Se usa antosik-lol-rss (github.com/Antosik/lol-rss) — generador de
-  // terceros, no afiliado a Riot, hospedado en el AWS S3 personal de su
-  // autor. Verificado responde 200 al día de hoy; si algún día desaparece,
-  // estos 3 feeds simplemente empiezan a fallar como cualquier otro roto.
-  { gameSlug: "league-of-legends", url: "https://antosik-lol-rss.s3.eu-central-1.amazonaws.com/v4/lol/euw/news.es-ES.xml" },
-  { gameSlug: "wild-rift", url: "https://antosik-lol-rss.s3.eu-central-1.amazonaws.com/v4/wildrift/es-ES/news.xml" },
-  { gameSlug: "valorant", url: "https://antosik-lol-rss.s3.eu-central-1.amazonaws.com/v4/valorant/es-ES/news.xml" },
+  // League of Legends, Wild Rift, Valorant: sin feed. Riot no publica RSS
+  // oficial, y el generador de terceros que se probó (antosik-lol-rss,
+  // github.com/Antosik/lol-rss) resultó estar abandonado — su bucket S3
+  // sigue respondiendo 200 pero con contenido congelado desde mayo 2024
+  // (verificado). Se retiró de acá para no mostrar noticias viejas como si
+  // fueran actuales. Si aparece un feed real, agregarlo de nuevo.
   { gameSlug: "diablo-iv", url: "https://news.blizzard.com/en-us/feed/diablo-4" },
   { gameSlug: "diablo-immortal", url: "https://news.blizzard.com/en-us/feed/diablo-immortal" },
   { gameSlug: "beyond-all-reason", url: "https://www.beyondallreason.info/news/rss.xml" },
