@@ -67,29 +67,59 @@ function lenientParse(raw: string): { items: FeedItem[] } {
   return { items };
 }
 
-async function fetchAndParseFeed(url: string): Promise<{ items: FeedItem[] }> {
+async function fetchRaw(url: string): Promise<{ raw: string; contentType: string }> {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 10_000);
   try {
     const res = await fetch(url, { headers: FEED_HEADERS, signal: controller.signal });
     if (!res.ok) throw new Error(`Status code ${res.status}`);
-    const raw = await res.text();
-    try {
-      return await parser.parseString(escapeStrayAmpersands(raw));
-    } catch (strictErr) {
-      // XML inválido para el parser estricto → intento tolerante. Si tampoco
-      // encuentra items, se propaga el error original enriquecido con
-      // diagnóstico (content-type + arranque del body) para distinguir
-      // "feed XML roto" de "la URL devuelve una página HTML, no un feed".
-      const lenient = lenientParse(raw);
-      if (lenient.items.length > 0) return lenient;
-      const msg = strictErr instanceof Error ? strictErr.message : String(strictErr);
-      const contentType = res.headers.get("content-type") ?? "?";
-      const head = raw.slice(0, 120).replace(/\s+/g, " ");
-      throw new Error(`${msg} [content-type: ${contentType}; body: ${head}]`);
-    }
+    return { raw: await res.text(), contentType: res.headers.get("content-type") ?? "" };
   } finally {
     clearTimeout(timeout);
+  }
+}
+
+/**
+ * Autodiscovery de RSS: varias URLs configuradas resultaron ser páginas HTML
+ * de noticias (Blizzard, Minecraft, Dark and Darker), no feeds. El estándar
+ * es que la página declare su feed real en <link rel="alternate"
+ * type="application/rss+xml|atom+xml" href="...">. Se sigue ese link una vez.
+ */
+function discoverFeedUrl(html: string, baseUrl: string): string | undefined {
+  const m = html.match(
+    /<link[^>]+type=["']application\/(?:rss|atom)\+xml["'][^>]*>/i
+  );
+  const href = m?.[0].match(/href=["']([^"']+)["']/i)?.[1];
+  if (!href) return undefined;
+  try {
+    return new URL(href, baseUrl).toString();
+  } catch {
+    return undefined;
+  }
+}
+
+async function fetchAndParseFeed(url: string): Promise<{ items: FeedItem[] }> {
+  let { raw, contentType } = await fetchRaw(url);
+
+  // La URL devuelve una página HTML → buscar el feed declarado y saltar a él.
+  if (contentType.includes("text/html") || /^\s*<!doctype html/i.test(raw)) {
+    const feedUrl = discoverFeedUrl(raw, url);
+    if (!feedUrl) {
+      throw new Error("La URL devuelve una página HTML sin feed RSS/Atom declarado.");
+    }
+    ({ raw, contentType } = await fetchRaw(feedUrl));
+  }
+
+  try {
+    return await parser.parseString(escapeStrayAmpersands(raw));
+  } catch (strictErr) {
+    // XML inválido para el parser estricto → intento tolerante. Si tampoco
+    // encuentra items, se propaga el error enriquecido con diagnóstico.
+    const lenient = lenientParse(raw);
+    if (lenient.items.length > 0) return lenient;
+    const msg = strictErr instanceof Error ? strictErr.message : String(strictErr);
+    const head = raw.slice(0, 120).replace(/\s+/g, " ");
+    throw new Error(`${msg} [content-type: ${contentType}; body: ${head}]`);
   }
 }
 
