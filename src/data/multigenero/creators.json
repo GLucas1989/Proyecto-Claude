@@ -214,6 +214,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-PkLDutsfP0U",
+        "title": "Haaland es dios. Brasil eliminada del Mundial.",
+        "thumbnail": "https://i1.ytimg.com/vi/PkLDutsfP0U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PkLDutsfP0U",
+        "publishedAt": "2026-07-06"
+      },
+      {
         "id": "vid-xGdWGPCEais",
         "title": "Me pondré la foto que me digáis #FIFAWorldcup #WEARE26 @cocacolaeurope @fifaworldcup",
         "thumbnail": "https://i1.ytimg.com/vi/xGdWGPCEais/hqdefault.jpg",
@@ -275,13 +282,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/uOARBZS5JFs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=uOARBZS5JFs",
         "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-rQ9aNKY9H4M",
-        "title": "Así Es el Restaurante Más Caro del Mundo (1.760€)",
-        "thumbnail": "https://i3.ytimg.com/vi/rQ9aNKY9H4M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rQ9aNKY9H4M",
-        "publishedAt": "2026-06-29"
       }
     ]
   },
