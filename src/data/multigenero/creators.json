@@ -119,6 +119,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-TFgaYH-sh6o",
+        "title": "El gimnasio de mis sueños ❤️💪🏻",
+        "thumbnail": "https://i1.ytimg.com/vi/TFgaYH-sh6o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TFgaYH-sh6o",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-Dl2zubFGbqY",
         "title": "Sigo?",
         "thumbnail": "https://i1.ytimg.com/vi/Dl2zubFGbqY/hqdefault.jpg",
@@ -180,13 +187,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/20nuSTwrD4Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=20nuSTwrD4Y",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-jwvBtEinOvE",
-        "title": "Qué haces Xokas?",
-        "thumbnail": "https://i3.ytimg.com/vi/jwvBtEinOvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jwvBtEinOvE",
-        "publishedAt": "2026-06-24"
       }
     ]
   },
@@ -213,6 +213,13 @@
       "es"
     ],
     "latestVideos": [
+      {
+        "id": "vid-xGdWGPCEais",
+        "title": "Me pondré la foto que me digáis #FIFAWorldcup #WEARE26 @cocacolaeurope @fifaworldcup",
+        "thumbnail": "https://i1.ytimg.com/vi/xGdWGPCEais/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xGdWGPCEais",
+        "publishedAt": "2026-07-05"
+      },
       {
         "id": "vid-Rz3PTDDnqQ4",
         "title": "Objetivo: levantar 100kg en press banca. Publi",
@@ -275,13 +282,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/rQ9aNKY9H4M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rQ9aNKY9H4M",
         "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-QeVxrSHcitI",
-        "title": "Speed y yo tenemos un hermano llamado Messi.",
-        "thumbnail": "https://i2.ytimg.com/vi/QeVxrSHcitI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QeVxrSHcitI",
-        "publishedAt": "2026-06-27"
       }
     ]
   },

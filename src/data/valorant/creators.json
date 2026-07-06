@@ -205,6 +205,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-IfOYrNjlEMk",
+        "title": "First Look at HUNGER",
+        "thumbnail": "https://i2.ytimg.com/vi/IfOYrNjlEMk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IfOYrNjlEMk",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-DdWGX9kXtoQ",
         "title": "Finding Sophie in SAND!",
         "thumbnail": "https://i1.ytimg.com/vi/DdWGX9kXtoQ/hqdefault.jpg",
@@ -266,13 +273,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/rAcOtMmdZ7Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rAcOtMmdZ7Y",
         "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-iMc2mt_JXNM",
-        "title": "IS THIS THE NEXT BIG SHOOTER ?!",
-        "thumbnail": "https://i2.ytimg.com/vi/iMc2mt_JXNM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iMc2mt_JXNM",
-        "publishedAt": "2026-06-14"
       }
     ]
   },
@@ -483,6 +483,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-waj9fmevaWE",
+        "title": "Spirit Drifter Overpowered?",
+        "thumbnail": "https://i4.ytimg.com/vi/waj9fmevaWE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=waj9fmevaWE",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-g6NOndd1ipA",
         "title": "Nothing beats a Big Black Hole",
         "thumbnail": "https://i4.ytimg.com/vi/g6NOndd1ipA/hqdefault.jpg",
@@ -544,13 +551,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/G0WZfCGicgY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=G0WZfCGicgY",
         "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-jSxApyTklEI",
-        "title": "INSANE wombo combo urn fight",
-        "thumbnail": "https://i3.ytimg.com/vi/jSxApyTklEI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jSxApyTklEI",
-        "publishedAt": "2026-06-19"
       }
     ]
   },
