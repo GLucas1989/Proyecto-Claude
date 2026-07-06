@@ -124,6 +124,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-AWfLKE3Lfz8",
+        "title": "Selesnya Landfall",
+        "thumbnail": "https://i2.ytimg.com/vi/AWfLKE3Lfz8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AWfLKE3Lfz8",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-6QHH0_SyQYg",
+        "title": "Con más landfall que NUNCA. Selesnya Landfall",
+        "thumbnail": "https://i3.ytimg.com/vi/6QHH0_SyQYg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6QHH0_SyQYg",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-Te__8OxB8Ps",
         "title": "Boros Weapons",
         "thumbnail": "https://i1.ytimg.com/vi/Te__8OxB8Ps/hqdefault.jpg",
@@ -178,20 +192,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/wm_9mpGl4Q4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wm_9mpGl4Q4",
         "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-8f9gWxzq8y4",
-        "title": "Jeskai Lessons",
-        "thumbnail": "https://i1.ytimg.com/vi/8f9gWxzq8y4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8f9gWxzq8y4",
-        "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-zJ6BoFHb4HU",
-        "title": "Le han dado DEMASIADO. Jeskai Lessons",
-        "thumbnail": "https://i3.ytimg.com/vi/zJ6BoFHb4HU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zJ6BoFHb4HU",
-        "publishedAt": "2026-07-01"
       }
     ]
   },
@@ -320,6 +320,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-w_c0vmQM3OU",
+        "title": "🔴GEOGUESSR🔴BAZAAR🔴DEADLOCK🔴QUALIFIER PLAYIN🔴PIONEER CHALLENGE🔴",
+        "thumbnail": "https://i4.ytimg.com/vi/w_c0vmQM3OU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w_c0vmQM3OU",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-A6MtXhAop7M",
+        "title": "Proving the Haters Wrong!",
+        "thumbnail": "https://i2.ytimg.com/vi/A6MtXhAop7M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A6MtXhAop7M",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-6SNCoCTq7GA",
         "title": "THE RUDEST Strip Mine Deck",
         "thumbnail": "https://i3.ytimg.com/vi/6SNCoCTq7GA/hqdefault.jpg",
@@ -374,20 +388,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/YOzgcK5V-Qw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YOzgcK5V-Qw",
         "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-pDBqDGgeQbY",
-        "title": "Going 9-1 with the Most BROKEN Brawl Commander",
-        "thumbnail": "https://i1.ytimg.com/vi/pDBqDGgeQbY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pDBqDGgeQbY",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-u7tc1TsEO68",
-        "title": "SPAMMING Hawkeye Arrows!",
-        "thumbnail": "https://i2.ytimg.com/vi/u7tc1TsEO68/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u7tc1TsEO68",
-        "publishedAt": "2026-06-29"
       }
     ]
   },
@@ -419,6 +419,13 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-Ye-XY-JzgoI",
+        "title": "I am doing this and I don't care what anyone thinks",
+        "thumbnail": "https://i2.ytimg.com/vi/Ye-XY-JzgoI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ye-XY-JzgoI",
+        "publishedAt": "2026-07-05"
+      },
       {
         "id": "vid-u3cc6hDFYjs",
         "title": "It's time for She-Hulk in Competitive Brawl",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/pcwTsa7Nbs4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pcwTsa7Nbs4",
         "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-2GYd6Nydg6U",
-        "title": "That time I went undefeated with UW Teferi Control | Remastered",
-        "thumbnail": "https://i3.ytimg.com/vi/2GYd6Nydg6U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2GYd6Nydg6U",
-        "publishedAt": "2026-06-25"
       }
     ]
   }

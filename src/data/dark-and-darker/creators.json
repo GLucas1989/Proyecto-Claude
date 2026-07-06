@@ -315,6 +315,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-3D6kvcnVWBM",
+        "title": "pricker vs club melee #playHUNGER #slowmotion #cinematic",
+        "thumbnail": "https://i4.ytimg.com/vi/3D6kvcnVWBM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3D6kvcnVWBM",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-2xPukU0mQPk",
+        "title": "Pricker only melee in HUNGER",
+        "thumbnail": "https://i3.ytimg.com/vi/2xPukU0mQPk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2xPukU0mQPk",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-XTL6iPSJv0A",
+        "title": "HUNGER tech test LIVE, melee or bust!!",
+        "thumbnail": "https://i1.ytimg.com/vi/XTL6iPSJv0A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XTL6iPSJv0A",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-kBzsHxi5XEI",
         "title": "HUNGER got me fighting blind.. #playHUNGER",
         "thumbnail": "https://i4.ytimg.com/vi/kBzsHxi5XEI/hqdefault.jpg",
@@ -362,27 +383,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/Sbfwi56bup0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Sbfwi56bup0",
         "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-oRXImGfJDQc",
-        "title": "Hot melee combat – Mistfall Hunter",
-        "thumbnail": "https://i4.ytimg.com/vi/oRXImGfJDQc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oRXImGfJDQc",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-hi8rQ5X1OHE",
-        "title": "An important combat lesson (for all classes) – Mistfall Hunter",
-        "thumbnail": "https://i1.ytimg.com/vi/hi8rQ5X1OHE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hi8rQ5X1OHE",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-6OlYfRvA-J4",
-        "title": "Withered Knight ZERO to HERO (with mimic tech) – Mistfall Hunter",
-        "thumbnail": "https://i3.ytimg.com/vi/6OlYfRvA-J4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6OlYfRvA-J4",
-        "publishedAt": "2026-06-18"
       }
     ]
   },

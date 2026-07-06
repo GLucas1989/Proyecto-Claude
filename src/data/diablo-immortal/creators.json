@@ -23,6 +23,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-SsrRc7Ibds0",
+        "title": "Diablo Immortal – Warlock PVE & PVP Builds",
+        "thumbnail": "https://i4.ytimg.com/vi/SsrRc7Ibds0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SsrRc7Ibds0",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-OqZcDVgPQn8",
         "title": "Diablo Immortal – Unexpected Cycle Change in Week 5",
         "thumbnail": "https://i4.ytimg.com/vi/OqZcDVgPQn8/hqdefault.jpg",
@@ -83,13 +90,6 @@
         "title": "Diablo Immortal – NEW Warlock Class | ALL Essences Revealed!",
         "thumbnail": "https://i3.ytimg.com/vi/20z0prM8_9k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=20z0prM8_9k",
-        "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-Wtt6MSau2rc",
-        "title": "Diablo Immortal – Beacon Of Hope Phantom Market",
-        "thumbnail": "https://i4.ytimg.com/vi/Wtt6MSau2rc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Wtt6MSau2rc",
         "publishedAt": "2026-06-15"
       }
     ]
@@ -213,6 +213,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-AakYfJC_yqg",
+        "title": "In Aries's Room in Eclipse VS Phantom Troupe in Our First Vigil (No Build) | Diablo Immortal",
+        "thumbnail": "https://i2.ytimg.com/vi/AakYfJC_yqg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AakYfJC_yqg",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-0pupknoFi4I",
         "title": "Astral Dominion's Immortal Reign Descends w/ 1,250,370 Dominance (Full ROE Jun 28) | Diablo Immortal",
         "thumbnail": "https://i1.ytimg.com/vi/0pupknoFi4I/hqdefault.jpg",
@@ -274,13 +281,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/UZPkQJdt-b4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UZPkQJdt-b4",
         "publishedAt": "2026-05-17"
-      },
-      {
-        "id": "vid-1wGYBiNHf3E",
-        "title": "Redeem Code ZERGRUSH for 1 LC, 3 RC, 1 Leggo Gear, and 6 Normal Gems | Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/1wGYBiNHf3E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1wGYBiNHf3E",
-        "publishedAt": "2026-05-16"
       }
     ]
   },
@@ -308,6 +308,20 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-a-LAljCuKpc",
+        "title": "LIVE: Warlock PvP Push + Verge/TRs! | Raid Build sneak peak!",
+        "thumbnail": "https://i2.ytimg.com/vi/a-LAljCuKpc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=a-LAljCuKpc",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-KUJ-PKzcU20",
+        "title": "LIVE: Warlock PvP Push + Verge/TRs! | Raid Build sneak peak!",
+        "thumbnail": "https://i4.ytimg.com/vi/KUJ-PKzcU20/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KUJ-PKzcU20",
+        "publishedAt": "2026-07-05"
+      },
       {
         "id": "vid-C6JzBjDhjb8",
         "title": "LIVE: NEW LOGO! Warlock PvP + PVE | MIRRORED JEWELS!!",
@@ -363,20 +377,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/1sTguKND488/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1sTguKND488",
         "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-LJWVuUN3JbE",
-        "title": "LIVE: Warlock PvP DoT Build + Viewer Dungeons!",
-        "thumbnail": "https://i1.ytimg.com/vi/LJWVuUN3JbE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LJWVuUN3JbE",
-        "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-43KdYxMsX7s",
-        "title": "The Ultimate Warlock DoT Build! | Diablo Immortal",
-        "thumbnail": "https://i1.ytimg.com/vi/43KdYxMsX7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=43KdYxMsX7s",
-        "publishedAt": "2026-06-25"
       }
     ]
   }

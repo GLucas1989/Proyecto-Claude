@@ -69,6 +69,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-vg6dhQ4bvQw",
+        "title": "FUNNIEST MOMENTS IN LEAGUE OF LEGENDS #69",
+        "thumbnail": "https://i3.ytimg.com/vi/vg6dhQ4bvQw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vg6dhQ4bvQw",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-5Buccp0VzFA",
         "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #14",
         "thumbnail": "https://i2.ytimg.com/vi/5Buccp0VzFA/hqdefault.jpg",
@@ -130,13 +137,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/j_viVpIN3Qk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=j_viVpIN3Qk",
         "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-89qg0OptM9Y",
-        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #11",
-        "thumbnail": "https://i1.ytimg.com/vi/89qg0OptM9Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=89qg0OptM9Y",
-        "publishedAt": "2026-06-12"
       }
     ]
   },

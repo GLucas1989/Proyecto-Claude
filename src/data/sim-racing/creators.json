@@ -114,17 +114,24 @@
     },
     "latestVideos": [
       {
+        "id": "vid-45iDpYq4APw",
+        "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC - WHAT IS THIS FINISH!!!",
+        "thumbnail": "https://i1.ytimg.com/vi/45iDpYq4APw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=45iDpYq4APw",
+        "publishedAt": "2026-07-05"
+      },
+      {
+        "id": "vid-3-vsEHyYies",
+        "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC - NIGHT Stints",
+        "thumbnail": "https://i4.ytimg.com/vi/3-vsEHyYies/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3-vsEHyYies",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-T2AUGbuxH-w",
         "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC!",
         "thumbnail": "https://i1.ytimg.com/vi/T2AUGbuxH-w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=T2AUGbuxH-w",
-        "publishedAt": "2026-07-04"
-      },
-      {
-        "id": "vid-3-vsEHyYies",
-        "title": "Reunited with the Boys for LFM 24 Hours of SPA in ACC - Part 2",
-        "thumbnail": "https://i4.ytimg.com/vi/3-vsEHyYies/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3-vsEHyYies",
         "publishedAt": "2026-07-04"
       },
       {
@@ -175,13 +182,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/vMbIEvtYPis/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vMbIEvtYPis",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-1ttu0u0l4G8",
-        "title": "Multiclass Action And Mixed Conditions IMOLA ELMS 90mins!",
-        "thumbnail": "https://i2.ytimg.com/vi/1ttu0u0l4G8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1ttu0u0l4G8",
-        "publishedAt": "2026-06-22"
       }
     ]
   },
@@ -298,6 +298,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-q_5ymPsXzDE",
+        "title": "Starting from the Back!? - Creator Series Austria 71 Lap Race",
+        "thumbnail": "https://i2.ytimg.com/vi/q_5ymPsXzDE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q_5ymPsXzDE",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-KowuA7TxLwI",
         "title": "Final Laps are ABSOLUTE CINEMA - Creator Series Madrid 100% Race",
         "thumbnail": "https://i4.ytimg.com/vi/KowuA7TxLwI/hqdefault.jpg",
@@ -359,13 +366,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/hlRRo5_kGk0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hlRRo5_kGk0",
         "publishedAt": "2026-06-03"
-      },
-      {
-        "id": "vid-w_aEnc24S_Y",
-        "title": "Creator Series: 10v10 Red vs Blue Challenge",
-        "thumbnail": "https://i4.ytimg.com/vi/w_aEnc24S_Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w_aEnc24S_Y",
-        "publishedAt": "2026-06-03"
       }
     ]
   },
@@ -419,6 +419,13 @@
       "twitter": "SimRacingCorner"
     },
     "latestVideos": [
+      {
+        "id": "vid-xh4OWC6t-fE",
+        "title": "SIMAGIC Alpha EVO Ultra Le Mans Ultimate!",
+        "thumbnail": "https://i1.ytimg.com/vi/xh4OWC6t-fE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xh4OWC6t-fE",
+        "publishedAt": "2026-07-05"
+      },
       {
         "id": "vid-Q2J1LXZx8j0",
         "title": "GX100 Dual-mode Sim Racing Shifter",
@@ -481,13 +488,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/DjNE71Y8kiY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DjNE71Y8kiY",
         "publishedAt": "2026-06-15"
-      },
-      {
-        "id": "vid-O8PzJ6WeylQ",
-        "title": "Thrustmaster T818 - How Direct Drive Helps You Save a Crash!",
-        "thumbnail": "https://i4.ytimg.com/vi/O8PzJ6WeylQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=O8PzJ6WeylQ",
-        "publishedAt": "2026-06-13"
       }
     ]
   }

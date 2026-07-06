@@ -121,6 +121,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-G71qqk0tjnM",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i4.ytimg.com/vi/G71qqk0tjnM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G71qqk0tjnM",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-KJCY5EoSigc",
         "title": "Path of Exile 2 Arc Totem Grand Expeditions",
         "thumbnail": "https://i4.ytimg.com/vi/KJCY5EoSigc/hqdefault.jpg",
@@ -181,13 +188,6 @@
         "title": "Path of Exile 2 Making A New Spell Totem Build",
         "thumbnail": "https://i3.ytimg.com/vi/6L9pY2GTJvk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6L9pY2GTJvk",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-rbdqwvs3lbE",
-        "title": "Path of Exile 2 Making A New Spell Totem Build",
-        "thumbnail": "https://i3.ytimg.com/vi/rbdqwvs3lbE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rbdqwvs3lbE",
         "publishedAt": "2026-06-28"
       }
     ]
@@ -413,6 +413,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-oeSmSvKsazQ",
+        "title": "Diablo 4 Season 14 HCSSF Paragon 300 Rogue Blasting!",
+        "thumbnail": "https://i4.ytimg.com/vi/oeSmSvKsazQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oeSmSvKsazQ",
+        "publishedAt": "2026-07-06"
+      },
+      {
+        "id": "vid-JUal6llTdug",
+        "title": "Diablo 4 - PICK THESE WAR PLAN NODES (for casuals)",
+        "thumbnail": "https://i3.ytimg.com/vi/JUal6llTdug/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JUal6llTdug",
+        "publishedAt": "2026-07-06"
+      },
+      {
+        "id": "vid-EiPCsuXOk0k",
+        "title": "Diablo 4 - Insane New Crafting Tech for GG Amulets!",
+        "thumbnail": "https://i2.ytimg.com/vi/EiPCsuXOk0k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EiPCsuXOk0k",
+        "publishedAt": "2026-07-05"
+      },
+      {
         "id": "vid-SSAmgDUKX9Y",
         "title": "Diablo 4 Season 14 HCSSF Paragon 300 Rogue Blasting!",
         "thumbnail": "https://i4.ytimg.com/vi/SSAmgDUKX9Y/hqdefault.jpg",
@@ -460,27 +481,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/wnS7VGTldwY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wnS7VGTldwY",
         "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-rdkMP_8uSkA",
-        "title": "Diablo 4 - Most Ethical Build in Season 14",
-        "thumbnail": "https://i3.ytimg.com/vi/rdkMP_8uSkA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rdkMP_8uSkA",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-2ooDRydOx74",
-        "title": "Diablo 4 - INSANE Ruby Fragments",
-        "thumbnail": "https://i3.ytimg.com/vi/2ooDRydOx74/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2ooDRydOx74",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-9NptWdcetRI",
-        "title": "Diablo 4 - ARROWS EVERYWHERE: PenShot Rogue Guide",
-        "thumbnail": "https://i2.ytimg.com/vi/9NptWdcetRI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9NptWdcetRI",
-        "publishedAt": "2026-07-02"
       }
     ]
   }
