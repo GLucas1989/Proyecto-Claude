@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Creators S-HUB** (creatorsshub.com) — a multi-game directory of gaming content creators, with a monetization layer (creator subscriptions, UGC promotion, tiered game access) built on top. Next.js 16 (App Router) + TypeScript strict + Tailwind v4 + Supabase.
 
+`PROJECT_TRACKER.md` is the living status doc — check it for what's actually live vs. pending activation (missing env vars, unrun migrations) before assuming a feature works end-to-end in production. `ROADMAP_EVOLUTION.md` is a point-in-time architecture snapshot (2026-06-24) predating the Stripe→Lemon Squeezy migration and the Netlify cron move below — treat it as historical context, not current architecture.
+
 ## Commands
 
 ```bash
@@ -17,7 +19,9 @@ npm run fetch-videos    # scripts/fetch-youtube.ts — pulls latest videos/avata
 npm run fetch-videos -- --game=<slug> --dry-run   # scope to one game / preview without writing
 ```
 
-There is no test runner configured in this repo — do not assume `npm test` works.
+There is no test runner configured in this repo — do not assume `npm test` works. `.github/workflows/ci.yml` (lint + build on every push to `main`/`claude/**` and PRs into `main`) is the closest thing to a merge gate; treat a red `npm run lint` or `npm run build` as blocking in the same way a test failure would be elsewhere.
+
+The Supabase MCP server (`.mcp.json`, project ref `hyivoggsnukybgjboxpb`) is wired into this session for direct DB introspection/queries against the live project — prefer it over guessing schema from migration files when you need current table state.
 
 Supabase migrations are plain SQL files under `supabase/migrations/phaseN_*.sql`, applied manually via the Supabase Dashboard SQL Editor (there is no migration CLI wired up). When adding schema changes, add a new `phaseN_*.sql` file following the existing numbering — do not edit past phase files.
 
@@ -43,26 +47,32 @@ Webhook idempotency follows a similar recurring pattern: webhook handlers (Didit
 - `academies`, `vault` — cross-game aggregated views built from Supabase UGC data (`getAllPublishedPublications` etc. in `src/lib/marketplace`).
 - `dashboard`, `dashboard/admin`, `dashboard/admin/moderation` — authenticated areas; access is gated in `src/middleware.ts` (see below), admin-only checks happen inside the route/action itself via `is_admin()`.
 - `ugc/*` — creator-authored guides/builds/tier lists (publish/edit flow).
+- `auth/{login,callback}` — Supabase auth pages; `login` is the redirect target `src/middleware.ts` sends unauthenticated users to.
+- `overlays/alerts/[creatorId]` — public, unauthenticated OBS browser-source overlay (transparent background, hides nav/footer) that renders `StreamTipAlert` for a creator's tip notifications; the shareable URL is surfaced to creators via `OBSOverlayCard` in the dashboard.
 - `api/webhooks/{didit,lemon-squeezy,mux}` — inbound provider webhooks, service-role client, signature verification, idempotency table/constraint.
 - `api/{lemonsqueezy,stripe,mux,spotify,twitch,auth,newsletter}` — outbound integration routes (checkout sessions, playback tokens, OAuth, live status).
-- `api/cron/{recompute-reputation,sync-news}` — invoked by Vercel Cron (`vercel.json`), not user-facing.
+- `api/cron/{recompute-reputation,sync-news}` — hit over plain HTTP by an external scheduler rather than invoked in-process (see Deploy below); both accept the shared secret either as an `Authorization: Bearer` header or a `?secret=` query param (the latter added so they can be triggered manually from a browser).
 - `actions/*` — Next.js server actions per domain (admin, monetization, payments, ratings, ugc, verification, video, follows, subscriptions) — this is where most business logic and RLS-sensitive writes live, rather than in route handlers.
 
 `src/middleware.ts` only protects `/dashboard/*`, `/ugc/new`, and `/ugc/:id/edit` (redirects to `/auth/login?redirectTo=...`), and is a no-op if Supabase env vars are absent (so preview builds without env vars don't hard-fail). Everything else is open by default — don't assume middleware covers admin/role checks; those live in the action/route itself.
 
 ### Third-party integrations, one lib dir each
 
-`src/lib/{lemonsqueezy,mux,spotify,stripe,didit.ts,news,email}` each wrap one external service. Stripe exists alongside Lemon Squeezy (LS is the active payments provider per `.env.example`; check which is actually wired before assuming Stripe is live). Spotify ("Gaming Mode") uses next-auth (Auth.js v5) purely for the Spotify OAuth login + Web Playback SDK — it is unrelated to the Supabase auth session used everywhere else in the app.
+`src/lib/{lemonsqueezy,mux,spotify,stripe,didit.ts,news,email}` each wrap one external service. Stripe exists alongside Lemon Squeezy (LS is the active payments provider — `.env.example`'s `LS_VARIANT_GAME_*`/`LS_VARIANT_FEE_*` variant IDs confirm it's fully wired; Stripe's routes/lib remain from a prior migration, check before assuming Stripe is live). Spotify ("Gaming Mode") uses next-auth (Auth.js v5) purely for the Spotify OAuth login + Web Playback SDK — it is unrelated to the Supabase auth session used everywhere else in the app. `src/lib/email` wraps two providers for two different jobs: Resend (`RESEND_API_KEY`) for transactional email, MailerLite (`MAILERLITE_API_KEY`) for the newsletter subscriber list via `api/newsletter`.
+
+A handful of smaller single-file lib dirs cover cross-cutting concerns rather than external services: `src/lib/moderation/filters.ts` (regex-based auto-reject for spam/scam UGC submissions before they reach the admin queue), `src/lib/validation/hashtags.ts` (enforces the required `#CreatorsSHUB` promo hashtag, shared between client forms and server actions), `src/lib/security/watermark.ts` (reversible XOR+base64 obfuscation of a buyer's email into premium PDFs/guides — deterrent traceability, not real cryptography), and `src/lib/media/types.ts` (a provider-agnostic `MediaAsset` type so today's YouTube-Unlisted embeds can move to Cloudflare Stream/Vimeo OTT later without touching UI code).
 
 ### Content ingestion is external, not app code
 
 Two feeds refresh `src/data/**` and `game_news` respectively, both outside normal request handling:
 - **YouTube sync**: `.github/workflows/sync-youtube.yml` runs `npm run fetch-videos` on a schedule (Mondays) and on every push to `main`/the active dev branch (paths-ignored on `src/data/**` to avoid a commit loop), then commits directly to that branch as `github-actions[bot]` with `[skip ci]`. Expect to see these auto-commits interleaved in `git log` on both `main` and feature branches.
-- **Game news RSS**: `/api/cron/sync-news` (Vercel Cron, every 3h) upserts into `game_news` keyed by URL (`phase18_game_news_url_unique.sql`), read via `src/lib/news.ts` and rendered by `NewsSection`/`LiveHubWidget`.
+- **Game news RSS**: `/api/cron/sync-news` (triggered every 3h by a Netlify Scheduled Function, not Vercel — see Deploy below) upserts into `game_news` keyed by URL (`phase18_game_news_url_unique.sql`), read via `src/lib/news.ts` and rendered by `NewsSection`/`LiveHubWidget`.
 
 ### Deploy
 
-Production is Vercel, connected to GitHub (`GLucas1989/Proyecto-Claude`), production branch `main`. Development happens on a `claude/*` branch and is merged to `main` only on explicit request to ship to production — do not push directly to `main` otherwise. `vercel.json` defines the two cron schedules; there is no `.vercel/project.json` in the repo, so the Vercel CLI can't deploy from this sandbox — deploys go through git push or a Vercel Deploy Hook.
+Production hosting is Vercel, connected to GitHub (`GLucas1989/Proyecto-Claude`), production branch `main`. Development happens on a `claude/*` branch and is merged to `main` only on explicit request to ship to production — do not push directly to `main` otherwise. There is no `.vercel/project.json` in the repo, so the Vercel CLI can't deploy from this sandbox — deploys go through git push or a Vercel Deploy Hook.
+
+**Cron no longer runs on Vercel in practice.** `vercel.json` still declares the two cron schedules, but as of the `feat: migrar cron jobs de vercel.json a Netlify Scheduled Functions` commit it is dead config — Vercel's plan can't do sub-daily schedules, so both jobs were moved to Netlify Scheduled Functions (`netlify/functions/{recompute-reputation,sync-news}.mts`, same two schedules), which run on Netlify's infra purely to make an outbound HTTP call to the live site's `/api/cron/*` routes with `Authorization: Bearer ${CRON_SECRET}`. There's no `netlify.toml` and no Netlify build/hosting config in this repo — Netlify is a scheduler sidecar here, not a second hosting target; don't assume the app itself deploys to or serves from Netlify. `.netlify-trigger` / `.vercel-trigger` are empty timestamp files at repo root used to force a redeploy on each platform respectively (touch + commit + push) — not app config, safe to ignore unless you're deliberately forcing a rebuild.
 
 ## Installed skills — when to reach for them
 
@@ -80,3 +90,4 @@ Production is Vercel, connected to GitHub (`GLucas1989/Proyecto-Claude`), produc
 - **SLOs/alerts/dashboards once traffic is real** → `observability-designer`.
 - **Home/landing page or any new marketing page** → `landing-page-generator` (Next.js/TSX + Tailwind output, matches the existing stack) and, for content discoverability (this is a content directory site), `aeo` for SEO + LLM-citation optimization.
 - **Wallet/payout/subscription metrics** (Lemon Squeezy monetization, `wallet_transactions`, `withdrawal_requests`) → `saas-metrics-coach` for MRR/churn/quick-ratio analysis.
+- **Visual/brand assets** (logos, banners, social images, slide decks) or general UI polish → `design`/`ui-ux-pro-max`/`frontend-design`/`ui-styling` and the more specific `banner-design`/`brand`/`design-system`/`frontend-slides`/`slides` as the task warrants. These are a separate, more general-purpose skill pack from the domain-specific ones above — reach for them on any request that's primarily visual rather than architectural.
