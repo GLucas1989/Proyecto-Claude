@@ -24,6 +24,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-fvKZdm6rfcc",
+        "title": "Top 10 Best Builds for Diablo 4 Lord of Hatred Season 14 (All Classes)",
+        "thumbnail": "https://i3.ytimg.com/vi/fvKZdm6rfcc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fvKZdm6rfcc",
+        "publishedAt": "2026-07-12"
+      },
+      {
+        "id": "vid-nSklLSy8q38",
+        "title": "Diablo 4’s Mythic Fix Doesn’t Fix the Real Problem",
+        "thumbnail": "https://i3.ytimg.com/vi/nSklLSy8q38/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nSklLSy8q38",
+        "publishedAt": "2026-07-11"
+      },
+      {
         "id": "vid-aEtj56ctcMI",
         "title": "Diablo 4 Season 14 Is Fun, But Something Feels Wrong",
         "thumbnail": "https://i2.ytimg.com/vi/aEtj56ctcMI/hqdefault.jpg",
@@ -78,20 +92,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/BI_ulXQIezw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BI_ulXQIezw",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-2ZgkBq9FeOU",
-        "title": "Diablo 4 Season 14 Is Coming, But Xbox Is Melting Down",
-        "thumbnail": "https://i3.ytimg.com/vi/2ZgkBq9FeOU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2ZgkBq9FeOU",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-sv_Uj70jg1c",
-        "title": "Diablo Buildcrafting in a Hades-Style Roguelite? | Cursemark",
-        "thumbnail": "https://i4.ytimg.com/vi/sv_Uj70jg1c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sv_Uj70jg1c",
-        "publishedAt": "2026-06-19"
       }
     ]
   },
@@ -121,11 +121,60 @@
     },
     "latestVideos": [
       {
+        "id": "vid-OehU049QCII",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i4.ytimg.com/vi/OehU049QCII/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OehU049QCII",
+        "publishedAt": "2026-07-13"
+      },
+      {
+        "id": "vid-cS1iEMIviSk",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i4.ytimg.com/vi/cS1iEMIviSk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cS1iEMIviSk",
+        "publishedAt": "2026-07-12"
+      },
+      {
+        "id": "vid-2TmqyEV8jM4",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i3.ytimg.com/vi/2TmqyEV8jM4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2TmqyEV8jM4",
+        "publishedAt": "2026-07-11"
+      },
+      {
+        "id": "vid-POmMWhHZOVA",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i1.ytimg.com/vi/POmMWhHZOVA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=POmMWhHZOVA",
+        "publishedAt": "2026-07-09"
+      },
+      {
+        "id": "vid-3HPI8kR366Y",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i4.ytimg.com/vi/3HPI8kR366Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3HPI8kR366Y",
+        "publishedAt": "2026-07-08"
+      },
+      {
+        "id": "vid-sq2bi9qL2MY",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i4.ytimg.com/vi/sq2bi9qL2MY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sq2bi9qL2MY",
+        "publishedAt": "2026-07-07"
+      },
+      {
+        "id": "vid-CcvaEwl90Go",
+        "title": "Path of Exile 2 Arc Totem Grand Expeditions",
+        "thumbnail": "https://i4.ytimg.com/vi/CcvaEwl90Go/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CcvaEwl90Go",
+        "publishedAt": "2026-07-07"
+      },
+      {
         "id": "vid-G71qqk0tjnM",
         "title": "Path of Exile 2 Arc Totem Grand Expeditions",
         "thumbnail": "https://i4.ytimg.com/vi/G71qqk0tjnM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=G71qqk0tjnM",
-        "publishedAt": "2026-07-05"
+        "publishedAt": "2026-07-06"
       },
       {
         "id": "vid-KJCY5EoSigc",
@@ -140,55 +189,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/nlPbICryCNg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nlPbICryCNg",
         "publishedAt": "2026-07-04"
-      },
-      {
-        "id": "vid-VaYyJkBIJJk",
-        "title": "Path of Exile 2 Back to Arc Totems",
-        "thumbnail": "https://i3.ytimg.com/vi/VaYyJkBIJJk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VaYyJkBIJJk",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-QJNMCpUA9o8",
-        "title": "Diablo 4 Season 14 Day 2",
-        "thumbnail": "https://i2.ytimg.com/vi/QJNMCpUA9o8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QJNMCpUA9o8",
-        "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-Uy6aBO7eCdU",
-        "title": "The State of Diablo 4 Season 14",
-        "thumbnail": "https://i2.ytimg.com/vi/Uy6aBO7eCdU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Uy6aBO7eCdU",
-        "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-VWBAgMR3wp4",
-        "title": "Diablo 4 Season 14 Launch",
-        "thumbnail": "https://i3.ytimg.com/vi/VWBAgMR3wp4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VWBAgMR3wp4",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-c9v32y5srJo",
-        "title": "Diablo 4 Season 14 Leveling & Endgame Build Guides",
-        "thumbnail": "https://i4.ytimg.com/vi/c9v32y5srJo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c9v32y5srJo",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-Ybexo17L6Do",
-        "title": "Path of Exile 2 Arc Totem Time",
-        "thumbnail": "https://i2.ytimg.com/vi/Ybexo17L6Do/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ybexo17L6Do",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-6L9pY2GTJvk",
-        "title": "Path of Exile 2 Making A New Spell Totem Build",
-        "thumbnail": "https://i3.ytimg.com/vi/6L9pY2GTJvk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6L9pY2GTJvk",
-        "publishedAt": "2026-06-28"
       }
     ]
   },
@@ -315,74 +315,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-9PSNukh2-1U",
-        "title": "INSANE VEX BUILD IN BORDERLANDS",
-        "thumbnail": "https://i2.ytimg.com/vi/9PSNukh2-1U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9PSNukh2-1U",
-        "publishedAt": "2026-07-04"
+        "id": "vid-q4F9fJbrSps",
+        "title": "PALWORLD 1.0 LAUNCH! Let's Blast! Day 3 // Livestream",
+        "thumbnail": "https://i2.ytimg.com/vi/q4F9fJbrSps/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q4F9fJbrSps",
+        "publishedAt": "2026-07-12"
       },
       {
-        "id": "vid-na9FDo0iH3E",
-        "title": "I BROKE BORDERLANDS 4 AGAIN..",
-        "thumbnail": "https://i3.ytimg.com/vi/na9FDo0iH3E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=na9FDo0iH3E",
-        "publishedAt": "2026-07-02"
+        "id": "vid-9TACQS20NFo",
+        "title": "UPDATED Best Base Locations + Base Setup Guide (All Resources)! // Palworld 1.0 Guide",
+        "thumbnail": "https://i2.ytimg.com/vi/9TACQS20NFo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9TACQS20NFo",
+        "publishedAt": "2026-07-13"
       },
       {
-        "id": "vid-J-RXLoz2eQM",
-        "title": "BEST DRUID BUILD FOR S14! Torment 12 Made EASY! // Diablo 4 Smite Shred Build Guide",
-        "thumbnail": "https://i3.ytimg.com/vi/J-RXLoz2eQM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=J-RXLoz2eQM",
-        "publishedAt": "2026-07-02"
+        "id": "vid-jFcFkcK0zUw",
+        "title": "How To Get The BEST PALS (Perfect Stats)! // Palworld 1.0 Updated Yakumo Strat Step-By-Step Guide",
+        "thumbnail": "https://i3.ytimg.com/vi/jFcFkcK0zUw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jFcFkcK0zUw",
+        "publishedAt": "2026-07-11"
       },
       {
-        "id": "vid-g2k4tQ8bLSc",
-        "title": "NEW Ricochet Witch Vex (Mayhem 20 Made Easy!) // Borderlands 4 Vex Build Guide",
-        "thumbnail": "https://i4.ytimg.com/vi/g2k4tQ8bLSc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g2k4tQ8bLSc",
-        "publishedAt": "2026-07-01"
+        "id": "vid-w6Ec7sjgMXA",
+        "title": "PALWORLD 1.0 LAUNCH! Let's Blast // Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/w6Ec7sjgMXA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w6Ec7sjgMXA",
+        "publishedAt": "2026-07-11"
       },
       {
-        "id": "vid-ndn8WYhr3co",
-        "title": "D4 NEW SEASON LAUNCH! Shred Druid Blasting // Diablo 4 Livestream",
-        "thumbnail": "https://i3.ytimg.com/vi/ndn8WYhr3co/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ndn8WYhr3co",
-        "publishedAt": "2026-07-01"
+        "id": "vid-XZMF2jOhif0",
+        "title": "PALWORLD 1.0 LAUNCH BLASTING! // Livestream",
+        "thumbnail": "https://i1.ytimg.com/vi/XZMF2jOhif0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XZMF2jOhif0",
+        "publishedAt": "2026-07-10"
       },
       {
-        "id": "vid-kIASpmnzF2A",
-        "title": "UPDATED Best Harlowe Build?! (Mayhem 20 Made Easy!) // Infini-Crit Harlowe Borderlands 4 Build",
-        "thumbnail": "https://i4.ytimg.com/vi/kIASpmnzF2A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kIASpmnzF2A",
-        "publishedAt": "2026-06-30"
+        "id": "vid-ST7mW2tFOOI",
+        "title": "Palworld 1.0 Tonight & Hellclock Expansion! // Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/ST7mW2tFOOI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ST7mW2tFOOI",
+        "publishedAt": "2026-07-10"
       },
       {
-        "id": "vid-0dFJlzmASlc",
-        "title": "Updating Builds & Takedown Grind! // Borderlands 4 Livestream",
-        "thumbnail": "https://i1.ytimg.com/vi/0dFJlzmASlc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0dFJlzmASlc",
-        "publishedAt": "2026-06-30"
+        "id": "vid-gAKBcqjYQkk",
+        "title": "Palworld 1.0 Everything You Need To Know! New & Returning Player Changes Overview",
+        "thumbnail": "https://i4.ytimg.com/vi/gAKBcqjYQkk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gAKBcqjYQkk",
+        "publishedAt": "2026-07-09"
       },
       {
-        "id": "vid-y3GdOr37jBE",
-        "title": "I DELETE BORDERLANDS BOSSES SO FAST",
-        "thumbnail": "https://i2.ytimg.com/vi/y3GdOr37jBE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y3GdOr37jBE",
-        "publishedAt": "2026-06-29"
+        "id": "vid-BeUwmSQ2w7Q",
+        "title": "UPDATED Crossfire C4SH Destroys Mayhem 20! // Borderlands 4 Stackbot 2.0 C4SH Build",
+        "thumbnail": "https://i3.ytimg.com/vi/BeUwmSQ2w7Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BeUwmSQ2w7Q",
+        "publishedAt": "2026-07-08"
       },
       {
-        "id": "vid-JNF0MI76EhE",
-        "title": "UPDATED HIGHEST DAMAGE RAFA! (Mayhem 20 In 12 Min!) // Borderlands 4 Gamebreaker Rafa 3.0",
-        "thumbnail": "https://i3.ytimg.com/vi/JNF0MI76EhE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JNF0MI76EhE",
-        "publishedAt": "2026-06-29"
+        "id": "vid-y9O92xXKmbY",
+        "title": "Can Crossfire C4SH Do M20? // Borderlands 4 Livestream",
+        "thumbnail": "https://i2.ytimg.com/vi/y9O92xXKmbY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=y9O92xXKmbY",
+        "publishedAt": "2026-07-08"
       },
       {
-        "id": "vid-cHu5wI_XHyU",
-        "title": "They Did Maya SO Dirty LMAO #borderlands",
-        "thumbnail": "https://i4.ytimg.com/vi/cHu5wI_XHyU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cHu5wI_XHyU",
-        "publishedAt": "2026-06-29"
+        "id": "vid-OF_eE300Nlw",
+        "title": "CRAZY INFINI-CRIT HARLOWE BUILD",
+        "thumbnail": "https://i4.ytimg.com/vi/OF_eE300Nlw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OF_eE300Nlw",
+        "publishedAt": "2026-07-06"
       }
     ]
   },
@@ -413,74 +413,74 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-oeSmSvKsazQ",
-        "title": "Diablo 4 Season 14 HCSSF Paragon 300 Rogue Blasting!",
-        "thumbnail": "https://i4.ytimg.com/vi/oeSmSvKsazQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oeSmSvKsazQ",
-        "publishedAt": "2026-07-06"
+        "id": "vid-LeNDwekzqJ4",
+        "title": "Diablo 4 Season 14 - HC Sorcerer & Paladin Time!",
+        "thumbnail": "https://i1.ytimg.com/vi/LeNDwekzqJ4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LeNDwekzqJ4",
+        "publishedAt": "2026-07-13"
       },
       {
-        "id": "vid-JUal6llTdug",
-        "title": "Diablo 4 - PICK THESE WAR PLAN NODES (for casuals)",
-        "thumbnail": "https://i3.ytimg.com/vi/JUal6llTdug/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JUal6llTdug",
-        "publishedAt": "2026-07-06"
+        "id": "vid-hhEHY56TD-c",
+        "title": "Diablo 4 - The TRUE Value of lvl 150 Glyphs",
+        "thumbnail": "https://i1.ytimg.com/vi/hhEHY56TD-c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hhEHY56TD-c",
+        "publishedAt": "2026-07-12"
       },
       {
-        "id": "vid-EiPCsuXOk0k",
-        "title": "Diablo 4 - Insane New Crafting Tech for GG Amulets!",
-        "thumbnail": "https://i2.ytimg.com/vi/EiPCsuXOk0k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EiPCsuXOk0k",
-        "publishedAt": "2026-07-05"
+        "id": "vid-Cuul-iSdxbI",
+        "title": "Diablo 4 - I found the pit bubble!",
+        "thumbnail": "https://i4.ytimg.com/vi/Cuul-iSdxbI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Cuul-iSdxbI",
+        "publishedAt": "2026-07-12"
       },
       {
-        "id": "vid-SSAmgDUKX9Y",
-        "title": "Diablo 4 Season 14 HCSSF Paragon 300 Rogue Blasting!",
-        "thumbnail": "https://i4.ytimg.com/vi/SSAmgDUKX9Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SSAmgDUKX9Y",
-        "publishedAt": "2026-07-05"
+        "id": "vid-H14mtPK5dh8",
+        "title": "Diablo 4 - CLUTCH FINISH (Tower 139)",
+        "thumbnail": "https://i1.ytimg.com/vi/H14mtPK5dh8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H14mtPK5dh8",
+        "publishedAt": "2026-07-12"
       },
       {
-        "id": "vid-D0lucXvYbA4",
-        "title": "Diablo 4 - How to farm Mythics, Gems, Gold & more",
-        "thumbnail": "https://i1.ytimg.com/vi/D0lucXvYbA4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D0lucXvYbA4",
-        "publishedAt": "2026-07-05"
+        "id": "vid-O7wCH8sVut4",
+        "title": "Diablo 4 - Too washed for Rank 1 I guess",
+        "thumbnail": "https://i4.ytimg.com/vi/O7wCH8sVut4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O7wCH8sVut4",
+        "publishedAt": "2026-07-12"
       },
       {
-        "id": "vid-2Mx93ZhesIM",
-        "title": "Diablo 4 - What Have I Done?",
-        "thumbnail": "https://i3.ytimg.com/vi/2Mx93ZhesIM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2Mx93ZhesIM",
-        "publishedAt": "2026-07-04"
+        "id": "vid-ZW1KXNujfUc",
+        "title": "Diablo 4 Season 14 - HCSSF #1 Push, Starting Sorc, Torchlight SS13 Reveal (#ad)",
+        "thumbnail": "https://i3.ytimg.com/vi/ZW1KXNujfUc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZW1KXNujfUc",
+        "publishedAt": "2026-07-12"
       },
       {
-        "id": "vid-ra1dkWIUc1M",
-        "title": "Diablo 4 - GIGA FAST: Death Trap Rogue Full Guide",
-        "thumbnail": "https://i3.ytimg.com/vi/ra1dkWIUc1M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ra1dkWIUc1M",
-        "publishedAt": "2026-07-04"
+        "id": "vid-Ga8BJIcCJI0",
+        "title": "Diablo 4 - STRONGEST ROGUE BUILD Full Guide S14",
+        "thumbnail": "https://i4.ytimg.com/vi/Ga8BJIcCJI0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ga8BJIcCJI0",
+        "publishedAt": "2026-07-11"
       },
       {
-        "id": "vid-uPFoqCBaROQ",
-        "title": "Diablo 4 - This Is Great… (Not)",
-        "thumbnail": "https://i2.ytimg.com/vi/uPFoqCBaROQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uPFoqCBaROQ",
-        "publishedAt": "2026-07-04"
+        "id": "vid-6lFuza7OeF4",
+        "title": "Diablo 4 - Pit Bubble? Never Heard Of It",
+        "thumbnail": "https://i3.ytimg.com/vi/6lFuza7OeF4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6lFuza7OeF4",
+        "publishedAt": "2026-07-11"
       },
       {
-        "id": "vid-FvG-aYT1JY8",
-        "title": "Diablo 4 - How I reached HCSSF Paragon 300 in 3 Days",
-        "thumbnail": "https://i3.ytimg.com/vi/FvG-aYT1JY8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FvG-aYT1JY8",
-        "publishedAt": "2026-07-03"
+        "id": "vid-x6JYmNblEaQ",
+        "title": "Diablo 4 - What Is This?",
+        "thumbnail": "https://i1.ytimg.com/vi/x6JYmNblEaQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x6JYmNblEaQ",
+        "publishedAt": "2026-07-11"
       },
       {
-        "id": "vid-wnS7VGTldwY",
-        "title": "Diablo 4 - P300 HCSSF in 3 Days",
-        "thumbnail": "https://i4.ytimg.com/vi/wnS7VGTldwY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wnS7VGTldwY",
-        "publishedAt": "2026-07-03"
+        "id": "vid-sJqwmW6d9HU",
+        "title": "Diablo 4 - My GIGA rank 1 gear and how I got it",
+        "thumbnail": "https://i4.ytimg.com/vi/sJqwmW6d9HU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sJqwmW6d9HU",
+        "publishedAt": "2026-07-11"
       }
     ]
   }

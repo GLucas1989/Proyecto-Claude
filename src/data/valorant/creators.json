@@ -21,8 +21,29 @@
     },
     "latestVideos": [
       {
+        "id": "vid-rDOkAbLfEjQ",
+        "title": "how every duelist's brain works",
+        "thumbnail": "https://i3.ytimg.com/vi/rDOkAbLfEjQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rDOkAbLfEjQ",
+        "publishedAt": "2026-07-12"
+      },
+      {
+        "id": "vid-ok0-YknhAjk",
+        "title": "what is going on at Cloud9?",
+        "thumbnail": "https://i4.ytimg.com/vi/ok0-YknhAjk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ok0-YknhAjk",
+        "publishedAt": "2026-07-11"
+      },
+      {
+        "id": "vid-Uo9y0INaCmw",
+        "title": "I'M STILL IN MY PRIME!",
+        "thumbnail": "https://i2.ytimg.com/vi/Uo9y0INaCmw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Uo9y0INaCmw",
+        "publishedAt": "2026-07-08"
+      },
+      {
         "id": "vid-AgMiPM82jWs",
-        "title": "It's like nothing has changed...",
+        "title": "The CS Squad Is Back!",
         "thumbnail": "https://i2.ytimg.com/vi/AgMiPM82jWs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AgMiPM82jWs",
         "publishedAt": "2026-07-03"
@@ -68,27 +89,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/EZDgg9IqkSg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EZDgg9IqkSg",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-nFH4VwGq2Ao",
-        "title": "MUST WIN MATCH! Tarik Reacts to LEV vs EDG | VCT Masters London 2026",
-        "thumbnail": "https://i3.ytimg.com/vi/nFH4VwGq2Ao/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nFH4VwGq2Ao",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-Tpx7i806g2c",
-        "title": "🔴 FALCONS V SPIRIT 🔴 IEM COLOGNE MAJOR 🔴 SEMI FINALS 🔴",
-        "thumbnail": "https://i1.ytimg.com/vi/Tpx7i806g2c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Tpx7i806g2c",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-Xb2h7z1F1ec",
-        "title": "live translating edg's comms",
-        "thumbnail": "https://i1.ytimg.com/vi/Xb2h7z1F1ec/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xb2h7z1F1ec",
-        "publishedAt": "2026-06-19"
       }
     ]
   },
@@ -112,6 +112,41 @@
       "twitter": "TenZOfficial"
     },
     "latestVideos": [
+      {
+        "id": "vid-f_QaRX97vAk",
+        "title": "low sens arc again!",
+        "thumbnail": "https://i3.ytimg.com/vi/f_QaRX97vAk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f_QaRX97vAk",
+        "publishedAt": "2026-07-12"
+      },
+      {
+        "id": "vid-QhjsY-pE0_Y",
+        "title": "GRIND STARTS NOW!",
+        "thumbnail": "https://i2.ytimg.com/vi/QhjsY-pE0_Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QhjsY-pE0_Y",
+        "publishedAt": "2026-07-11"
+      },
+      {
+        "id": "vid-AdHVBRfZfoY",
+        "title": "MY VERY BEST GAME ON SUMMIT (so far...) | TenZ",
+        "thumbnail": "https://i2.ytimg.com/vi/AdHVBRfZfoY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AdHVBRfZfoY",
+        "publishedAt": "2026-07-10"
+      },
+      {
+        "id": "vid-VNHTDkrlVlw",
+        "title": "GRIND STARTS NOW!",
+        "thumbnail": "https://i3.ytimg.com/vi/VNHTDkrlVlw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VNHTDkrlVlw",
+        "publishedAt": "2026-07-10"
+      },
+      {
+        "id": "vid-uPfr2BSg94k",
+        "title": "I FINALLY GOT MY RANK IN *NEW* SEASON !!! | TenZ",
+        "thumbnail": "https://i2.ytimg.com/vi/uPfr2BSg94k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uPfr2BSg94k",
+        "publishedAt": "2026-07-07"
+      },
       {
         "id": "vid-hz6UkPNNCIc",
         "title": "THIS IS THE EASIEST WAY TO RADIANT... | TenZ",
@@ -146,41 +181,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/yXF6gah1JBY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yXF6gah1JBY",
         "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-GZ9y-zuXfU0",
-        "title": "So comfy I forget I’m wearing it! 10% off with code TENZ10 (US only) #valorant #tenz #sonyinzone",
-        "thumbnail": "https://i4.ytimg.com/vi/GZ9y-zuXfU0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GZ9y-zuXfU0",
-        "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-lHjzXPO760I",
-        "title": "TenZ BACK TO PRIME ON COUNTER STRIKE 2 !!!",
-        "thumbnail": "https://i1.ytimg.com/vi/lHjzXPO760I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lHjzXPO760I",
-        "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-qZS-0X_OkQc",
-        "title": "jet lag hitting zzzz",
-        "thumbnail": "https://i2.ytimg.com/vi/qZS-0X_OkQc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qZS-0X_OkQc",
-        "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-eeWBxeewimg",
-        "title": "TenZ TESTS & REACTS TO *NEW* SUMMIT MAP & SENTINEL BUFFS !!!",
-        "thumbnail": "https://i2.ytimg.com/vi/eeWBxeewimg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eeWBxeewimg",
-        "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-N8RH-ZihVZc",
-        "title": "NEW PATCH?! NEW MAP?! BACK HOME LETS GO",
-        "thumbnail": "https://i3.ytimg.com/vi/N8RH-ZihVZc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N8RH-ZihVZc",
-        "publishedAt": "2026-06-24"
       }
     ]
   },
@@ -205,74 +205,74 @@
     },
     "latestVideos": [
       {
+        "id": "vid-eAutqs1_Lg8",
+        "title": "My most surprising shots EVER",
+        "thumbnail": "https://i2.ytimg.com/vi/eAutqs1_Lg8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eAutqs1_Lg8",
+        "publishedAt": "2026-07-12"
+      },
+      {
+        "id": "vid--Vr-rwgkVa8",
+        "title": "Slammin Main Story in AC: Black Flag Resync!",
+        "thumbnail": "https://i2.ytimg.com/vi/-Vr-rwgkVa8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-Vr-rwgkVa8",
+        "publishedAt": "2026-07-11"
+      },
+      {
+        "id": "vid-I5l72kKA3oo",
+        "title": "Second Day in AC: Black Flag Resync!",
+        "thumbnail": "https://i2.ytimg.com/vi/I5l72kKA3oo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I5l72kKA3oo",
+        "publishedAt": "2026-07-11"
+      },
+      {
+        "id": "vid--QqoGSJbJas",
+        "title": "How Peanut and I DOMINATED These Stream Snipers...",
+        "thumbnail": "https://i2.ytimg.com/vi/-QqoGSJbJas/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-QqoGSJbJas",
+        "publishedAt": "2026-07-10"
+      },
+      {
+        "id": "vid-JyB97JP5IPY",
+        "title": "First Look at AC: Black Flag Resync!",
+        "thumbnail": "https://i3.ytimg.com/vi/JyB97JP5IPY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JyB97JP5IPY",
+        "publishedAt": "2026-07-10"
+      },
+      {
+        "id": "vid-F6oXFQ7xtzQ",
+        "title": "Story time with Peanut",
+        "thumbnail": "https://i3.ytimg.com/vi/F6oXFQ7xtzQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F6oXFQ7xtzQ",
+        "publishedAt": "2026-07-08"
+      },
+      {
+        "id": "vid-X6oMf2LmLXY",
+        "title": "Full Playthrough of DOOM Revelations DLC",
+        "thumbnail": "https://i1.ytimg.com/vi/X6oMf2LmLXY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=X6oMf2LmLXY",
+        "publishedAt": "2026-07-08"
+      },
+      {
+        "id": "vid-eYTMvlFyhZ4",
+        "title": "Second Day playing HUNGER",
+        "thumbnail": "https://i2.ytimg.com/vi/eYTMvlFyhZ4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eYTMvlFyhZ4",
+        "publishedAt": "2026-07-07"
+      },
+      {
+        "id": "vid-eHB6IkrgOYs",
+        "title": "I’ve Mastered Hiding in Plain Sight…",
+        "thumbnail": "https://i2.ytimg.com/vi/eHB6IkrgOYs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eHB6IkrgOYs",
+        "publishedAt": "2026-07-06"
+      },
+      {
         "id": "vid-IfOYrNjlEMk",
         "title": "First Look at HUNGER",
         "thumbnail": "https://i2.ytimg.com/vi/IfOYrNjlEMk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=IfOYrNjlEMk",
         "publishedAt": "2026-07-05"
-      },
-      {
-        "id": "vid-DdWGX9kXtoQ",
-        "title": "Finding Sophie in SAND!",
-        "thumbnail": "https://i1.ytimg.com/vi/DdWGX9kXtoQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DdWGX9kXtoQ",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-2WjiKlwIhm4",
-        "title": "Raiding the SANDs of Sophie!",
-        "thumbnail": "https://i3.ytimg.com/vi/2WjiKlwIhm4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2WjiKlwIhm4",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-tcZqbSirCjM",
-        "title": "Bring me back… 🥲",
-        "thumbnail": "https://i1.ytimg.com/vi/tcZqbSirCjM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tcZqbSirCjM",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-LZRvl0JcXO8",
-        "title": "ITS NOT MY FAULT",
-        "thumbnail": "https://i1.ytimg.com/vi/LZRvl0JcXO8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LZRvl0JcXO8",
-        "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-4TYD3n4g6-8",
-        "title": "Meccha Chameleon core.",
-        "thumbnail": "https://i1.ytimg.com/vi/4TYD3n4g6-8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4TYD3n4g6-8",
-        "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-Oq9O9KKcKoE",
-        "title": "This Meccha Chameleon Lobby was CHAOS...",
-        "thumbnail": "https://i4.ytimg.com/vi/Oq9O9KKcKoE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Oq9O9KKcKoE",
-        "publishedAt": "2026-06-25"
-      },
-      {
-        "id": "vid-FKnv79A3OS4",
-        "title": "Hiding in plain sight ✅",
-        "thumbnail": "https://i3.ytimg.com/vi/FKnv79A3OS4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FKnv79A3OS4",
-        "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-T3iN4_WZj60",
-        "title": "MECCHA CHAMELEON, BUT IT'S COUNTER STRIKE...",
-        "thumbnail": "https://i1.ytimg.com/vi/T3iN4_WZj60/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T3iN4_WZj60",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-rAcOtMmdZ7Y",
-        "title": "DESTROYING THE BIGGEST STREAMERS IN A $150K TOURNEY",
-        "thumbnail": "https://i3.ytimg.com/vi/rAcOtMmdZ7Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rAcOtMmdZ7Y",
-        "publishedAt": "2026-06-15"
       }
     ]
   },
@@ -296,6 +296,13 @@
       "twitter": "VALORANT"
     },
     "latestVideos": [
+      {
+        "id": "vid-mh59pM2K7rI",
+        "title": "had to switch up the background w/ @THEKIDSZN",
+        "thumbnail": "https://i2.ytimg.com/vi/mh59pM2K7rI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mh59pM2K7rI",
+        "publishedAt": "2026-07-10"
+      },
       {
         "id": "vid-JrVgz-ywwbg",
         "title": "A cinema worthy play deserves a cinema worthy spray.",
@@ -358,13 +365,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/ahqFkWj4WcY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ahqFkWj4WcY",
         "publishedAt": "2026-06-23"
-      },
-      {
-        "id": "vid-lDLdJRcjftI",
-        "title": "We brought you the sequel",
-        "thumbnail": "https://i1.ytimg.com/vi/lDLdJRcjftI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lDLdJRcjftI",
-        "publishedAt": "2026-06-22"
       }
     ]
   },
@@ -483,6 +483,41 @@
     },
     "latestVideos": [
       {
+        "id": "vid-zbHbO4vw89s",
+        "title": "Another Back-to-Back",
+        "thumbnail": "https://i3.ytimg.com/vi/zbHbO4vw89s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zbHbO4vw89s",
+        "publishedAt": "2026-07-12"
+      },
+      {
+        "id": "vid-qRnIUpuFBnE",
+        "title": "How many Hooks in a row can Bebop hit?",
+        "thumbnail": "https://i2.ytimg.com/vi/qRnIUpuFBnE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qRnIUpuFBnE",
+        "publishedAt": "2026-07-11"
+      },
+      {
+        "id": "vid-MX6FTw5f_8c",
+        "title": "Clipped Ivy's Wings",
+        "thumbnail": "https://i2.ytimg.com/vi/MX6FTw5f_8c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MX6FTw5f_8c",
+        "publishedAt": "2026-07-09"
+      },
+      {
+        "id": "vid-id26XwHvQ7A",
+        "title": "Spirit Drifter Overpowered? Part 2",
+        "thumbnail": "https://i2.ytimg.com/vi/id26XwHvQ7A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=id26XwHvQ7A",
+        "publishedAt": "2026-07-09"
+      },
+      {
+        "id": "vid-t-rep6HwfXM",
+        "title": "Going crazy on Shiv",
+        "thumbnail": "https://i1.ytimg.com/vi/t-rep6HwfXM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t-rep6HwfXM",
+        "publishedAt": "2026-07-07"
+      },
+      {
         "id": "vid-waj9fmevaWE",
         "title": "Spirit Drifter Overpowered?",
         "thumbnail": "https://i4.ytimg.com/vi/waj9fmevaWE/hqdefault.jpg",
@@ -516,41 +551,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/dwlCAJor3a8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=dwlCAJor3a8",
         "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-tBVILaSf_tI",
-        "title": "Bogur got mogged 💀",
-        "thumbnail": "https://i1.ytimg.com/vi/tBVILaSf_tI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tBVILaSf_tI",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-ZOx2CCsQiZI",
-        "title": "My Top 5 bebop plays of June",
-        "thumbnail": "https://i3.ytimg.com/vi/ZOx2CCsQiZI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZOx2CCsQiZI",
-        "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-yh-TwzWVUnw",
-        "title": "Escape Artist",
-        "thumbnail": "https://i2.ytimg.com/vi/yh-TwzWVUnw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yh-TwzWVUnw",
-        "publishedAt": "2026-06-22"
-      },
-      {
-        "id": "vid-0Q3g3-ZuTCg",
-        "title": "Bebop ult does INSANE damage",
-        "thumbnail": "https://i1.ytimg.com/vi/0Q3g3-ZuTCg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0Q3g3-ZuTCg",
-        "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-G0WZfCGicgY",
-        "title": "Deep Extraction",
-        "thumbnail": "https://i4.ytimg.com/vi/G0WZfCGicgY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G0WZfCGicgY",
-        "publishedAt": "2026-06-20"
       }
     ]
   },

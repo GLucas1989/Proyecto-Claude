@@ -69,6 +69,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-GtrJk_m0ke0",
+        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #15",
+        "thumbnail": "https://i4.ytimg.com/vi/GtrJk_m0ke0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GtrJk_m0ke0",
+        "publishedAt": "2026-07-11"
+      },
+      {
+        "id": "vid--eapYCvBRbc",
+        "title": "ULTRA SATISFYING MOMENTS #44",
+        "thumbnail": "https://i2.ytimg.com/vi/-eapYCvBRbc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-eapYCvBRbc",
+        "publishedAt": "2026-07-09"
+      },
+      {
+        "id": "vid-JsWkP7dDHWo",
+        "title": "PERFECT PENTAKILL MOMENTS IN LEAGUE OF LEGENDS #32",
+        "thumbnail": "https://i3.ytimg.com/vi/JsWkP7dDHWo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JsWkP7dDHWo",
+        "publishedAt": "2026-07-07"
+      },
+      {
         "id": "vid-vg6dhQ4bvQw",
         "title": "FUNNIEST MOMENTS IN LEAGUE OF LEGENDS #69",
         "thumbnail": "https://i3.ytimg.com/vi/vg6dhQ4bvQw/hqdefault.jpg",
@@ -116,27 +137,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/yb8plzGC_9M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yb8plzGC_9M",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-JEAqZkR6xb8",
-        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #12",
-        "thumbnail": "https://i3.ytimg.com/vi/JEAqZkR6xb8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JEAqZkR6xb8",
-        "publishedAt": "2026-06-19"
-      },
-      {
-        "id": "vid-HRUYdh2TC_s",
-        "title": "100% INSTANT DELETES",
-        "thumbnail": "https://i1.ytimg.com/vi/HRUYdh2TC_s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HRUYdh2TC_s",
-        "publishedAt": "2026-06-17"
-      },
-      {
-        "id": "vid-j_viVpIN3Qk",
-        "title": "FUNNIEST MOMENTS IN LEAGUE OF LEGENDS #68",
-        "thumbnail": "https://i3.ytimg.com/vi/j_viVpIN3Qk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=j_viVpIN3Qk",
-        "publishedAt": "2026-06-15"
       }
     ]
   },
@@ -164,6 +164,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-XwJTdKq5Fss",
+        "title": "Wild Rift: NEW SEASON RANK 1 GRIND!",
+        "thumbnail": "https://i1.ytimg.com/vi/XwJTdKq5Fss/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XwJTdKq5Fss",
+        "publishedAt": "2026-07-11"
+      },
+      {
+        "id": "vid-oNhPgb4JEWU",
+        "title": "Wild Rift: NEW SEASON! GOING FOR RANK 1",
+        "thumbnail": "https://i4.ytimg.com/vi/oNhPgb4JEWU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oNhPgb4JEWU",
+        "publishedAt": "2026-07-10"
+      },
+      {
+        "id": "vid-1B7-VtKxv2g",
+        "title": "Wild Rift: GAME-BREAKING ZYRA BUG! BAN HER!",
+        "thumbnail": "https://i2.ytimg.com/vi/1B7-VtKxv2g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1B7-VtKxv2g",
+        "publishedAt": "2026-07-10"
+      },
+      {
+        "id": "vid-tYbo7XETfJ0",
+        "title": "Wild Rift: NEW SEASON RANK GRIND!",
+        "thumbnail": "https://i1.ytimg.com/vi/tYbo7XETfJ0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tYbo7XETfJ0",
+        "publishedAt": "2026-07-10"
+      },
+      {
+        "id": "vid-J_XbNlpNbiA",
+        "title": "NEW PATCH! NEW ITEMS! NEW OP CHAMPIONS!",
+        "thumbnail": "https://i3.ytimg.com/vi/J_XbNlpNbiA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J_XbNlpNbiA",
+        "publishedAt": "2026-07-09"
+      },
+      {
+        "id": "vid-ZcoGj9Pr9e8",
+        "title": "Wild Rift: NEW CHAMPION YUNARA - Build, Gameplay, Pro Tips",
+        "thumbnail": "https://i3.ytimg.com/vi/ZcoGj9Pr9e8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZcoGj9Pr9e8",
+        "publishedAt": "2026-07-09"
+      },
+      {
+        "id": "vid-Uq-ZTg4diYI",
+        "title": "Wild Rift: PATCH 7.2 - NEW ITEMS AND BOOTS - RUNE NERFS - RIP ENCHANTS",
+        "thumbnail": "https://i2.ytimg.com/vi/Uq-ZTg4diYI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Uq-ZTg4diYI",
+        "publishedAt": "2026-07-08"
+      },
+      {
         "id": "vid-aoVphkToR1s",
         "title": "Skarner Guide Wild Rift #wildrift #riotpartner",
         "thumbnail": "https://i2.ytimg.com/vi/aoVphkToR1s/hqdefault.jpg",
@@ -183,55 +232,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/rwkPWH3nGdE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rwkPWH3nGdE",
         "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-Il9l97B_Edg",
-        "title": "Wild Rift: HIT LEVEL 5 FIRST WITH THIS SMITE BUG",
-        "thumbnail": "https://i2.ytimg.com/vi/Il9l97B_Edg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Il9l97B_Edg",
-        "publishedAt": "2026-06-20"
-      },
-      {
-        "id": "vid-daHTXXK0CUE",
-        "title": "Wild Rift: Wave Management (Mid Lane Macro Guide)",
-        "thumbnail": "https://i1.ytimg.com/vi/daHTXXK0CUE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=daHTXXK0CUE",
-        "publishedAt": "2026-06-12"
-      },
-      {
-        "id": "vid-Z36hpTVeQ_I",
-        "title": "Wild Rift: NEW CHAMPION SKARNER - Build, Gameplay, Pro Tips",
-        "thumbnail": "https://i3.ytimg.com/vi/Z36hpTVeQ_I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Z36hpTVeQ_I",
-        "publishedAt": "2026-06-11"
-      },
-      {
-        "id": "vid-_65A2K_nwzA",
-        "title": "Wild Rift: PATCH 7.1G - THEY NERFED JUNGLE!!",
-        "thumbnail": "https://i4.ytimg.com/vi/_65A2K_nwzA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_65A2K_nwzA",
-        "publishedAt": "2026-06-10"
-      },
-      {
-        "id": "vid-ZHOKMkl4Idc",
-        "title": "Wild Rift: Lane Priority (Mid Lane Macro Guide)",
-        "thumbnail": "https://i3.ytimg.com/vi/ZHOKMkl4Idc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZHOKMkl4Idc",
-        "publishedAt": "2026-06-09"
-      },
-      {
-        "id": "vid-0tbIUTRvWY4",
-        "title": "Wild Rift: PATCH 7.2 PBE - THEY ARE CHANGING EVERYTHING!",
-        "thumbnail": "https://i1.ytimg.com/vi/0tbIUTRvWY4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0tbIUTRvWY4",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "id": "vid-IDyXp1tLSzU",
-        "title": "How to Play Mid Lane in Wild Rift (Rank 1 Mid lane Macro Guide)",
-        "thumbnail": "https://i2.ytimg.com/vi/IDyXp1tLSzU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IDyXp1tLSzU",
-        "publishedAt": "2026-06-08"
       }
     ]
   },
@@ -261,6 +261,13 @@
       "youtube": "https://www.youtube.com/@WildRiftLatam"
     },
     "latestVideos": [
+      {
+        "id": "vid-D4JAmUlspAo",
+        "title": "Tráiler de la versión 7.2: Festín",
+        "thumbnail": "https://i1.ytimg.com/vi/D4JAmUlspAo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D4JAmUlspAo",
+        "publishedAt": "2026-07-09"
+      },
       {
         "id": "vid-DQOeF5UY_JY",
         "title": "¿Cuántos intentos necesitas para convertirte en un Kinkou de verdad?",
@@ -323,13 +330,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/f5iFWfSK6d4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=f5iFWfSK6d4",
         "publishedAt": "2026-05-10"
-      },
-      {
-        "id": "vid-sl4lxr7rdUQ",
-        "title": "¡A Toda Máquina! Kai'Sa Neón Temerario Prestigiosa Selecta 🔥🏎️",
-        "thumbnail": "https://i4.ytimg.com/vi/sl4lxr7rdUQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sl4lxr7rdUQ",
-        "publishedAt": "2026-05-02"
       }
     ]
   },

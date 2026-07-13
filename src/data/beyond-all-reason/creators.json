@@ -121,11 +121,53 @@
     },
     "latestVideos": [
       {
+        "id": "vid-OG8env_d0ZE",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i4.ytimg.com/vi/OG8env_d0ZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OG8env_d0ZE",
+        "publishedAt": "2026-07-12"
+      },
+      {
+        "id": "vid-1I5FlLdrA-s",
+        "title": "HUGE RTS GAMEPLAY - KING of the HILL Beyond All Reason | AllReasonNoLogic | Throne",
+        "thumbnail": "https://i2.ytimg.com/vi/1I5FlLdrA-s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1I5FlLdrA-s",
+        "publishedAt": "2026-07-12"
+      },
+      {
+        "id": "vid-V_HuM8nNmpk",
+        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i3.ytimg.com/vi/V_HuM8nNmpk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V_HuM8nNmpk",
+        "publishedAt": "2026-07-09"
+      },
+      {
+        "id": "vid-HrNHUe89gnU",
+        "title": "Killing Opponents Base 4x | Beyond All Reason",
+        "thumbnail": "https://i1.ytimg.com/vi/HrNHUe89gnU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HrNHUe89gnU",
+        "publishedAt": "2026-07-08"
+      },
+      {
+        "id": "vid-MXkzrL5Ta58",
+        "title": "I OPENED hovers | Beyond All Reason | Pinewood Derby",
+        "thumbnail": "https://i2.ytimg.com/vi/MXkzrL5Ta58/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MXkzrL5Ta58",
+        "publishedAt": "2026-07-07"
+      },
+      {
+        "id": "vid-wPNqy51pEp8",
+        "title": "Fatboy BEFORE T2 Cons! | Beyond All Reason | White Fire Remake",
+        "thumbnail": "https://i4.ytimg.com/vi/wPNqy51pEp8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wPNqy51pEp8",
+        "publishedAt": "2026-07-06"
+      },
+      {
         "id": "vid-zrA7KkZvP5w",
         "title": "KING of the HILL - Beyond All Reason",
         "thumbnail": "https://i3.ytimg.com/vi/zrA7KkZvP5w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zrA7KkZvP5w",
-        "publishedAt": "2026-07-05"
+        "publishedAt": "2026-07-06"
       },
       {
         "id": "vid-u8MOM7WI_7k",
@@ -147,48 +189,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/4Dz6F3-14FI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4Dz6F3-14FI",
         "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-S_LLzmbY1Ho",
-        "title": "HLT's are TOO intimidating! | Beyond All Reason | The Halite Maze",
-        "thumbnail": "https://i4.ytimg.com/vi/S_LLzmbY1Ho/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S_LLzmbY1Ho",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-6Wdy0-B_Ogs",
-        "title": "The MOST CLUTCH game | Beyond All Reason",
-        "thumbnail": "https://i3.ytimg.com/vi/6Wdy0-B_Ogs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6Wdy0-B_Ogs",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-5hRLYqIvy7c",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i2.ytimg.com/vi/5hRLYqIvy7c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5hRLYqIvy7c",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-4N_jMA_jcKY",
-        "title": "THE HUGEST 105 Player RTS Match on Throne | Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/4N_jMA_jcKY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4N_jMA_jcKY",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-MGrETZeEuZE",
-        "title": "Early Nuke Bomber (Eco) - The Liche - We're Back",
-        "thumbnail": "https://i2.ytimg.com/vi/MGrETZeEuZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MGrETZeEuZE",
-        "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-lYiAfy21Yr4",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i1.ytimg.com/vi/lYiAfy21Yr4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lYiAfy21Yr4",
-        "publishedAt": "2026-06-25"
       }
     ]
   },
