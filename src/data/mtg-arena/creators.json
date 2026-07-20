@@ -26,6 +26,41 @@
     },
     "latestVideos": [
       {
+        "id": "vid-DwPtD6TDbuo",
+        "title": "My deck has a secret win-condition!",
+        "thumbnail": "https://i1.ytimg.com/vi/DwPtD6TDbuo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DwPtD6TDbuo",
+        "publishedAt": "2026-07-17"
+      },
+      {
+        "id": "vid-r9tjU3Y-IYs",
+        "title": "I have a couple pre-game actions ...",
+        "thumbnail": "https://i3.ytimg.com/vi/r9tjU3Y-IYs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r9tjU3Y-IYs",
+        "publishedAt": "2026-07-16"
+      },
+      {
+        "id": "vid-4q0MYZ7HAI4",
+        "title": "The saltiest deck in Standard.",
+        "thumbnail": "https://i1.ytimg.com/vi/4q0MYZ7HAI4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4q0MYZ7HAI4",
+        "publishedAt": "2026-07-15"
+      },
+      {
+        "id": "vid-XQi0k3X_Zu0",
+        "title": "Doctor Doom's favorite card.",
+        "thumbnail": "https://i1.ytimg.com/vi/XQi0k3X_Zu0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XQi0k3X_Zu0",
+        "publishedAt": "2026-07-14"
+      },
+      {
+        "id": "vid-WwTwBl6bngs",
+        "title": "Banned in Modern, now legal in Historic!",
+        "thumbnail": "https://i4.ytimg.com/vi/WwTwBl6bngs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WwTwBl6bngs",
+        "publishedAt": "2026-07-13"
+      },
+      {
         "id": "vid-qolYSZL4jG0",
         "title": "This brawl deck is fantastic!",
         "thumbnail": "https://i2.ytimg.com/vi/qolYSZL4jG0/hqdefault.jpg",
@@ -59,41 +94,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/hrXvKuSsOuo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hrXvKuSsOuo",
         "publishedAt": "2026-07-06"
-      },
-      {
-        "id": "vid--3QGg7AoAZY",
-        "title": "Storming off with Storm.",
-        "thumbnail": "https://i2.ytimg.com/vi/-3QGg7AoAZY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-3QGg7AoAZY",
-        "publishedAt": "2026-07-03"
-      },
-      {
-        "id": "vid-lhH5bJ6toH8",
-        "title": "Iron Man only needs one turn in Standard.",
-        "thumbnail": "https://i1.ytimg.com/vi/lhH5bJ6toH8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lhH5bJ6toH8",
-        "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-6zBhTzIGDQI",
-        "title": "Blue is banned in brawl, yet merfolk are thriving.",
-        "thumbnail": "https://i3.ytimg.com/vi/6zBhTzIGDQI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6zBhTzIGDQI",
-        "publishedAt": "2026-07-01"
-      },
-      {
-        "id": "vid-efVhJut7VHo",
-        "title": "Lifegain is eating good in Standard.",
-        "thumbnail": "https://i2.ytimg.com/vi/efVhJut7VHo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=efVhJut7VHo",
-        "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-11Ykmd6U3DQ",
-        "title": "Copying land destruction in Standard.",
-        "thumbnail": "https://i2.ytimg.com/vi/11Ykmd6U3DQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=11Ykmd6U3DQ",
-        "publishedAt": "2026-06-29"
       }
     ]
   },
@@ -124,74 +124,74 @@
     },
     "latestVideos": [
       {
+        "id": "vid-kaNTqJz7KqU",
+        "title": "De vuelta a la Tierra media: EL HOBBIT (Teaser)",
+        "thumbnail": "https://i4.ytimg.com/vi/kaNTqJz7KqU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kaNTqJz7KqU",
+        "publishedAt": "2026-07-18"
+      },
+      {
+        "id": "vid-hDMmpNyHqFA",
+        "title": "El mejor formato de la HISTORIA de Magic siempre me destroza",
+        "thumbnail": "https://i1.ytimg.com/vi/hDMmpNyHqFA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hDMmpNyHqFA",
+        "publishedAt": "2026-07-17"
+      },
+      {
+        "id": "vid-MMPwqgEDTww",
+        "title": "Recibiendo algunas cartas de #betamtg #mtg #magicthegathering",
+        "thumbnail": "https://i2.ytimg.com/vi/MMPwqgEDTww/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MMPwqgEDTww",
+        "publishedAt": "2026-07-17"
+      },
+      {
+        "id": "vid-XO1Pj0NbLNI",
+        "title": "TODO sigue igual. Monored Aggro",
+        "thumbnail": "https://i1.ytimg.com/vi/XO1Pj0NbLNI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XO1Pj0NbLNI",
+        "publishedAt": "2026-07-16"
+      },
+      {
+        "id": "vid-71UXAw2rK3g",
+        "title": "MUY superior a la versión monoblanca. Orzhov Life",
+        "thumbnail": "https://i4.ytimg.com/vi/71UXAw2rK3g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=71UXAw2rK3g",
+        "publishedAt": "2026-07-15"
+      },
+      {
+        "id": "vid-pqTtzem5g1o",
+        "title": "Ultra rápido, nadie se lo ESPERA. Orzhov Skeletons",
+        "thumbnail": "https://i1.ytimg.com/vi/pqTtzem5g1o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pqTtzem5g1o",
+        "publishedAt": "2026-07-14"
+      },
+      {
+        "id": "vid-MnIHa7y0_SQ",
+        "title": "Orzhov Skeletons",
+        "thumbnail": "https://i2.ytimg.com/vi/MnIHa7y0_SQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MnIHa7y0_SQ",
+        "publishedAt": "2026-07-14"
+      },
+      {
+        "id": "vid-7HgAAsLsR2Y",
+        "title": "El mazo de los BRONCES que arrasa en MÍTICO. Selesnya Rabbits",
+        "thumbnail": "https://i4.ytimg.com/vi/7HgAAsLsR2Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7HgAAsLsR2Y",
+        "publishedAt": "2026-07-13"
+      },
+      {
+        "id": "vid-3gDtQEaviaE",
+        "title": "Selesnya Rabbits",
+        "thumbnail": "https://i4.ytimg.com/vi/3gDtQEaviaE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3gDtQEaviaE",
+        "publishedAt": "2026-07-13"
+      },
+      {
         "id": "vid-EKuRkRz8H_M",
         "title": "NO hace falta pensar. Grixis Fling",
         "thumbnail": "https://i2.ytimg.com/vi/EKuRkRz8H_M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EKuRkRz8H_M",
         "publishedAt": "2026-07-12"
-      },
-      {
-        "id": "vid-EsEj5oA5xmc",
-        "title": "Grixis Fling",
-        "thumbnail": "https://i2.ytimg.com/vi/EsEj5oA5xmc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EsEj5oA5xmc",
-        "publishedAt": "2026-07-12"
-      },
-      {
-        "id": "vid-R-oBZzfdSWw",
-        "title": "Grixis Fling",
-        "thumbnail": "https://i3.ytimg.com/vi/R-oBZzfdSWw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R-oBZzfdSWw",
-        "publishedAt": "2026-07-12"
-      },
-      {
-        "id": "vid-Ieqsr8cA5os",
-        "title": "Dinosaurs Reanimator",
-        "thumbnail": "https://i2.ytimg.com/vi/Ieqsr8cA5os/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ieqsr8cA5os",
-        "publishedAt": "2026-07-11"
-      },
-      {
-        "id": "vid-PvF79y5ZKRc",
-        "title": "Dinosaurios, una vez MÁS. Dinosaurs Reanimator",
-        "thumbnail": "https://i1.ytimg.com/vi/PvF79y5ZKRc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PvF79y5ZKRc",
-        "publishedAt": "2026-07-11"
-      },
-      {
-        "id": "vid-0mVfF0bdve4",
-        "title": "Izzet Lessons",
-        "thumbnail": "https://i1.ytimg.com/vi/0mVfF0bdve4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0mVfF0bdve4",
-        "publishedAt": "2026-07-10"
-      },
-      {
-        "id": "vid-ustzgDINZZk",
-        "title": "Muchas cartas que NO DEBERÍAN existir. Izzet Lessons",
-        "thumbnail": "https://i2.ytimg.com/vi/ustzgDINZZk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ustzgDINZZk",
-        "publishedAt": "2026-07-10"
-      },
-      {
-        "id": "vid-7OC9SKspTQI",
-        "title": "Izzet Prowess",
-        "thumbnail": "https://i4.ytimg.com/vi/7OC9SKspTQI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7OC9SKspTQI",
-        "publishedAt": "2026-07-09"
-      },
-      {
-        "id": "vid-oJQ9xLa8abk",
-        "title": "Velocidad y respuesta en  un mazo nada DESPRECIABLE. Izzet Prowess",
-        "thumbnail": "https://i4.ytimg.com/vi/oJQ9xLa8abk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oJQ9xLa8abk",
-        "publishedAt": "2026-07-09"
-      },
-      {
-        "id": "vid-oKH4nzR67ic",
-        "title": "Un ATAQUE es suficiente. Monogreen Landfall",
-        "thumbnail": "https://i4.ytimg.com/vi/oKH4nzR67ic/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oKH4nzR67ic",
-        "publishedAt": "2026-07-08"
       }
     ]
   },
@@ -221,6 +221,34 @@
       "twitter": "TolarianCollege"
     },
     "latestVideos": [
+      {
+        "id": "vid-LrK2YCgctHA",
+        "title": "Umezawa's Jitte: Magic The Gathering's Iconic Design Mistake",
+        "thumbnail": "https://i1.ytimg.com/vi/LrK2YCgctHA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LrK2YCgctHA",
+        "publishedAt": "2026-07-17"
+      },
+      {
+        "id": "vid-P_IOy4nYuxs",
+        "title": "Should We Get Rid Of Commander Damage? | Magic: The Gathering",
+        "thumbnail": "https://i1.ytimg.com/vi/P_IOy4nYuxs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=P_IOy4nYuxs",
+        "publishedAt": "2026-07-15"
+      },
+      {
+        "id": "vid-dCjea_qVmTo",
+        "title": "This Is One Of Lua Stardust's Favorite Magic: The Gathering Cards...",
+        "thumbnail": "https://i1.ytimg.com/vi/dCjea_qVmTo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dCjea_qVmTo",
+        "publishedAt": "2026-07-14"
+      },
+      {
+        "id": "vid-FdIZOjOSmdM",
+        "title": "Hearthstone Streamers Rarran and Voxy Commander! Shuffle Up & Play 105 Magic The Gathering Gameplay",
+        "thumbnail": "https://i3.ytimg.com/vi/FdIZOjOSmdM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FdIZOjOSmdM",
+        "publishedAt": "2026-07-13"
+      },
       {
         "id": "vid-KU7psDDZkyU",
         "title": "Print To Demand Is Back For Secret Lair: Their Magic Is Limitless! | Magic: The Gathering",
@@ -262,34 +290,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/RLyr_bnB5B4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RLyr_bnB5B4",
         "publishedAt": "2026-06-30"
-      },
-      {
-        "id": "vid-ZgGkhfPilLU",
-        "title": "MoistCr1TiKaL and Slimecicle Play Messy Commander! Shuffle Up & Penguinz0 #105 | Magic The Gathering",
-        "thumbnail": "https://i3.ytimg.com/vi/ZgGkhfPilLU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZgGkhfPilLU",
-        "publishedAt": "2026-06-29"
-      },
-      {
-        "id": "vid-pkWvyPekol0",
-        "title": "Let's Play The $500.00 Collector Booster Box Game! | Marvel Super Heroes | Magic: The Gathering",
-        "thumbnail": "https://i1.ytimg.com/vi/pkWvyPekol0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pkWvyPekol0",
-        "publishedAt": "2026-06-26"
-      },
-      {
-        "id": "vid-K0-BnV8wnjw",
-        "title": "Top 7 Best New Commanders From Marvel Super Heroes | Magic: The Gathering",
-        "thumbnail": "https://i4.ytimg.com/vi/K0-BnV8wnjw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=K0-BnV8wnjw",
-        "publishedAt": "2026-06-24"
-      },
-      {
-        "id": "vid-iEv378u9sy4",
-        "title": "A Fortnite Lawsuit Just Waiting To Happen! (feat. Magic: The Gathering)",
-        "thumbnail": "https://i2.ytimg.com/vi/iEv378u9sy4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iEv378u9sy4",
-        "publishedAt": "2026-06-23"
       }
     ]
   },
@@ -320,74 +320,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-GmRIGspp8fc",
-        "title": "Is Squirrel Girl Actually Factually Unbeatable?!",
-        "thumbnail": "https://i4.ytimg.com/vi/GmRIGspp8fc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GmRIGspp8fc",
-        "publishedAt": "2026-07-12"
+        "id": "vid-_h2xehvSzus",
+        "title": "🔴STANDARD CHALLENGE🔴PAUPER CHALLENGE🔴GEOGUESSR🔴GALLEY HOUSE🔴DEADLOCK🔴",
+        "thumbnail": "https://i4.ytimg.com/vi/_h2xehvSzus/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_h2xehvSzus",
+        "publishedAt": "2026-07-19"
       },
       {
-        "id": "vid-arm8j1BLroM",
-        "title": "🔴GEOGUESSR🔴BAZAAR🔴UNC CS🔴KRANG+CRUCIAS🔴",
-        "thumbnail": "https://i2.ytimg.com/vi/arm8j1BLroM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=arm8j1BLroM",
-        "publishedAt": "2026-07-12"
+        "id": "vid-9xmDE91HsVA",
+        "title": "Black Widow Hits Where It Really Hurts!",
+        "thumbnail": "https://i2.ytimg.com/vi/9xmDE91HsVA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9xmDE91HsVA",
+        "publishedAt": "2026-07-19"
       },
       {
-        "id": "vid-2wexHxqdlFI",
-        "title": "🔴MAGIC FATES NEW STUFF (ad)🔴",
-        "thumbnail": "https://i3.ytimg.com/vi/2wexHxqdlFI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2wexHxqdlFI",
-        "publishedAt": "2026-07-11"
+        "id": "vid-s05S0xPWF1M",
+        "title": "🔴STANDARD CHALLENGE🔴PAUPER CHALLENGE🔴INCIDENT AT GALLEY HOUSE🔴",
+        "thumbnail": "https://i4.ytimg.com/vi/s05S0xPWF1M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=s05S0xPWF1M",
+        "publishedAt": "2026-07-18"
       },
       {
-        "id": "vid-RLsYjNLgpV8",
-        "title": "IT'S FREAKIN' ZOMBIE TIME",
-        "thumbnail": "https://i3.ytimg.com/vi/RLsYjNLgpV8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RLsYjNLgpV8",
-        "publishedAt": "2026-07-11"
+        "id": "vid-j9T_dak4fRI",
+        "title": "SUPER SICK Monke Business",
+        "thumbnail": "https://i3.ytimg.com/vi/j9T_dak4fRI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=j9T_dak4fRI",
+        "publishedAt": "2026-07-18"
       },
       {
-        "id": "vid-MyQh4BkuzQU",
-        "title": "SENTRY SUCKS? I don't think so!",
-        "thumbnail": "https://i2.ytimg.com/vi/MyQh4BkuzQU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MyQh4BkuzQU",
-        "publishedAt": "2026-07-10"
+        "id": "vid-LovSOdDh9bA",
+        "title": "🔴PAUPER METAGAME CHALLENGE🔴DEADLOCK🔴INCIDENT AT GALLEY HOUSE🔴",
+        "thumbnail": "https://i1.ytimg.com/vi/LovSOdDh9bA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LovSOdDh9bA",
+        "publishedAt": "2026-07-17"
       },
       {
-        "id": "vid-zbJV1N-hKk4",
-        "title": "🔴DEADLOCK FIRST BUILDS🔴MARVEL STANDARD🔴RANKED BRAWL🔴",
-        "thumbnail": "https://i3.ytimg.com/vi/zbJV1N-hKk4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zbJV1N-hKk4",
-        "publishedAt": "2026-07-10"
+        "id": "vid-jAmWHVG0Eew",
+        "title": "Our Top Deck Will Save Us, Right?... RIGHT?!",
+        "thumbnail": "https://i3.ytimg.com/vi/jAmWHVG0Eew/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jAmWHVG0Eew",
+        "publishedAt": "2026-07-17"
       },
       {
-        "id": "vid-AwY3A0yEFnI",
-        "title": "🔴MARVEL CONTENDER DRAFT🔴RANKED BRAWL🔴DEADLOCK RANKUPS🔴",
-        "thumbnail": "https://i2.ytimg.com/vi/AwY3A0yEFnI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AwY3A0yEFnI",
-        "publishedAt": "2026-07-09"
+        "id": "vid-WKDq_ZJ3Iwc",
+        "title": "🔴HISTORIC PAUPER METAGAME CHALLENGE🔴DEADLOCK🔴INCIDENT AT GALLEY HOUSE🔴",
+        "thumbnail": "https://i4.ytimg.com/vi/WKDq_ZJ3Iwc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WKDq_ZJ3Iwc",
+        "publishedAt": "2026-07-16"
       },
       {
-        "id": "vid-IleXulH-bG4",
-        "title": "MOAR CARDS = MOAR WINRATE?!",
-        "thumbnail": "https://i2.ytimg.com/vi/IleXulH-bG4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IleXulH-bG4",
-        "publishedAt": "2026-07-09"
+        "id": "vid-IvKlg5jBa6A",
+        "title": "Is Crucias Secretly CRACKED?",
+        "thumbnail": "https://i2.ytimg.com/vi/IvKlg5jBa6A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IvKlg5jBa6A",
+        "publishedAt": "2026-07-16"
       },
       {
-        "id": "vid-LRSDQJIxc1s",
-        "title": "This Cheeky Deck Will Get Your Blood Pumping!",
-        "thumbnail": "https://i1.ytimg.com/vi/LRSDQJIxc1s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LRSDQJIxc1s",
-        "publishedAt": "2026-07-08"
+        "id": "vid-q0QDVM8q3Kc",
+        "title": "BLINGED OUT KRANG Wins with a Bang!",
+        "thumbnail": "https://i2.ytimg.com/vi/q0QDVM8q3Kc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q0QDVM8q3Kc",
+        "publishedAt": "2026-07-15"
       },
       {
-        "id": "vid-X6HpAS0iHxI",
-        "title": "Brawl BEST Format",
-        "thumbnail": "https://i1.ytimg.com/vi/X6HpAS0iHxI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=X6HpAS0iHxI",
-        "publishedAt": "2026-07-06"
+        "id": "vid-GA4zJ9vKaDE",
+        "title": "Farming, Rolling & Destroying Everything in my Path!",
+        "thumbnail": "https://i4.ytimg.com/vi/GA4zJ9vKaDE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GA4zJ9vKaDE",
+        "publishedAt": "2026-07-14"
       }
     ]
   },
@@ -420,6 +420,55 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-3_L1NoY_8qo",
+        "title": "Crushing their spirit",
+        "thumbnail": "https://i4.ytimg.com/vi/3_L1NoY_8qo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3_L1NoY_8qo",
+        "publishedAt": "2026-07-19"
+      },
+      {
+        "id": "vid-oB556ZrgFdc",
+        "title": "Baron Helmut Zemo in Competitive Brawl on MTG Arena",
+        "thumbnail": "https://i4.ytimg.com/vi/oB556ZrgFdc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oB556ZrgFdc",
+        "publishedAt": "2026-07-18"
+      },
+      {
+        "id": "vid-q07zJVaZWIE",
+        "title": "Changing my mind about this deck.",
+        "thumbnail": "https://i2.ytimg.com/vi/q07zJVaZWIE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q07zJVaZWIE",
+        "publishedAt": "2026-07-17"
+      },
+      {
+        "id": "vid-N2mQ0-9281Y",
+        "title": "Mono Black Deceit for Ranked Standard",
+        "thumbnail": "https://i3.ytimg.com/vi/N2mQ0-9281Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N2mQ0-9281Y",
+        "publishedAt": "2026-07-16"
+      },
+      {
+        "id": "vid-wnDOWOAJXPU",
+        "title": "Standard needed more Namor",
+        "thumbnail": "https://i4.ytimg.com/vi/wnDOWOAJXPU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wnDOWOAJXPU",
+        "publishedAt": "2026-07-15"
+      },
+      {
+        "id": "vid-KmGYj_WpPIA",
+        "title": "CGB built this in a cave...from scraps",
+        "thumbnail": "https://i4.ytimg.com/vi/KmGYj_WpPIA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KmGYj_WpPIA",
+        "publishedAt": "2026-07-14"
+      },
+      {
+        "id": "vid-QXfhBo1xcR0",
+        "title": "Start your engines...AGAIN",
+        "thumbnail": "https://i2.ytimg.com/vi/QXfhBo1xcR0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QXfhBo1xcR0",
+        "publishedAt": "2026-07-13"
+      },
+      {
         "id": "vid-EbmKvDI9Yvo",
         "title": "That time I tried to race to Mythic with a Control Deck",
         "thumbnail": "https://i2.ytimg.com/vi/EbmKvDI9Yvo/hqdefault.jpg",
@@ -439,55 +488,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/cWzJUHCZKDc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cWzJUHCZKDc",
         "publishedAt": "2026-07-10"
-      },
-      {
-        "id": "vid-nZAQUe9-lVg",
-        "title": "The Highest Quality Namor Standard MTG",
-        "thumbnail": "https://i3.ytimg.com/vi/nZAQUe9-lVg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nZAQUe9-lVg",
-        "publishedAt": "2026-07-09"
-      },
-      {
-        "id": "vid-2OTZBY95zoA",
-        "title": "Getting Mono Red players into Brawl",
-        "thumbnail": "https://i3.ytimg.com/vi/2OTZBY95zoA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2OTZBY95zoA",
-        "publishedAt": "2026-07-08"
-      },
-      {
-        "id": "vid-CwuGH7SSftc",
-        "title": "I can't believe I'm playing Mono Red again.",
-        "thumbnail": "https://i4.ytimg.com/vi/CwuGH7SSftc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CwuGH7SSftc",
-        "publishedAt": "2026-07-07"
-      },
-      {
-        "id": "vid-my0rO0vEAZw",
-        "title": "Jeskai Control for the Ranked Standard Ladder",
-        "thumbnail": "https://i2.ytimg.com/vi/my0rO0vEAZw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=my0rO0vEAZw",
-        "publishedAt": "2026-07-06"
-      },
-      {
-        "id": "vid-Ye-XY-JzgoI",
-        "title": "I am doing this and I don't care what anyone thinks",
-        "thumbnail": "https://i2.ytimg.com/vi/Ye-XY-JzgoI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ye-XY-JzgoI",
-        "publishedAt": "2026-07-05"
-      },
-      {
-        "id": "vid-u3cc6hDFYjs",
-        "title": "It's time for She-Hulk in Competitive Brawl",
-        "thumbnail": "https://i2.ytimg.com/vi/u3cc6hDFYjs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u3cc6hDFYjs",
-        "publishedAt": "2026-07-04"
-      },
-      {
-        "id": "vid-kBOjCCE9tAo",
-        "title": "This She-Hulk Deck is Busted",
-        "thumbnail": "https://i4.ytimg.com/vi/kBOjCCE9tAo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kBOjCCE9tAo",
-        "publishedAt": "2026-07-03"
       }
     ]
   }
