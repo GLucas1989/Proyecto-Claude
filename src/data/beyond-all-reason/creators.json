@@ -25,6 +25,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-5HpjVKT48OY",
+        "title": "Territorial Domination",
+        "thumbnail": "https://i2.ytimg.com/vi/5HpjVKT48OY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5HpjVKT48OY",
+        "publishedAt": "2026-07-27"
+      },
+      {
+        "id": "vid-Lnoml3PSd5k",
+        "title": "The Creator Cup",
+        "thumbnail": "https://i1.ytimg.com/vi/Lnoml3PSd5k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Lnoml3PSd5k",
+        "publishedAt": "2026-07-26"
+      },
+      {
         "id": "vid-12CKSDfLrFY",
         "title": "Territorial Domination",
         "thumbnail": "https://i2.ytimg.com/vi/12CKSDfLrFY/hqdefault.jpg",
@@ -79,20 +93,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/vm55WqPyMDU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vm55WqPyMDU",
         "publishedAt": "2026-06-13"
-      },
-      {
-        "id": "vid-34rBmIqjLK4",
-        "title": "King Of The Hill by @AllReasonNoLogic",
-        "thumbnail": "https://i4.ytimg.com/vi/34rBmIqjLK4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=34rBmIqjLK4",
-        "publishedAt": "2026-06-08"
-      },
-      {
-        "id": "vid-4xIfRhSdHF8",
-        "title": "Fight Night - Masters League",
-        "thumbnail": "https://i1.ytimg.com/vi/4xIfRhSdHF8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4xIfRhSdHF8",
-        "publishedAt": "2026-06-07"
       }
     ]
   },
@@ -121,6 +121,48 @@
     },
     "latestVideos": [
       {
+        "id": "vid-YlVEeTQBqBI",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i2.ytimg.com/vi/YlVEeTQBqBI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YlVEeTQBqBI",
+        "publishedAt": "2026-07-27"
+      },
+      {
+        "id": "vid-cSENE-4uNt8",
+        "title": "Trying New Things On Claymore | King Of The Hill | Beyond All Reason",
+        "thumbnail": "https://i4.ytimg.com/vi/cSENE-4uNt8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cSENE-4uNt8",
+        "publishedAt": "2026-07-26"
+      },
+      {
+        "id": "vid-0m0vftjkuFY",
+        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i1.ytimg.com/vi/0m0vftjkuFY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0m0vftjkuFY",
+        "publishedAt": "2026-07-23"
+      },
+      {
+        "id": "vid-tFhLBdHlvOU",
+        "title": "Do people like this map? | Highlight: Beyond All Reason",
+        "thumbnail": "https://i1.ytimg.com/vi/tFhLBdHlvOU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tFhLBdHlvOU",
+        "publishedAt": "2026-07-22"
+      },
+      {
+        "id": "vid-_PrW7IVL9Dg",
+        "title": "GAMING (poorly) | Beyond All Reason",
+        "thumbnail": "https://i4.ytimg.com/vi/_PrW7IVL9Dg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_PrW7IVL9Dg",
+        "publishedAt": "2026-07-21"
+      },
+      {
+        "id": "vid-ahocNlq79DU",
+        "title": "Supreme Double Air| Beyond All Reason",
+        "thumbnail": "https://i2.ytimg.com/vi/ahocNlq79DU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ahocNlq79DU",
+        "publishedAt": "2026-07-20"
+      },
+      {
         "id": "vid-MjLd3uweTPQ",
         "title": "KING of the HILL - Beyond All Reason",
         "thumbnail": "https://i2.ytimg.com/vi/MjLd3uweTPQ/hqdefault.jpg",
@@ -147,48 +189,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/78dn4q7iq8U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=78dn4q7iq8U",
         "publishedAt": "2026-07-15"
-      },
-      {
-        "id": "vid-ygIFqOiqDmA",
-        "title": "1vs2!!! | Beyond All Reason",
-        "thumbnail": "https://i2.ytimg.com/vi/ygIFqOiqDmA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ygIFqOiqDmA",
-        "publishedAt": "2026-07-14"
-      },
-      {
-        "id": "vid-I3JmmtvhRa8",
-        "title": "Missed it by THAT much | Beyond All Reason",
-        "thumbnail": "https://i2.ytimg.com/vi/I3JmmtvhRa8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I3JmmtvhRa8",
-        "publishedAt": "2026-07-13"
-      },
-      {
-        "id": "vid-OG8env_d0ZE",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i4.ytimg.com/vi/OG8env_d0ZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OG8env_d0ZE",
-        "publishedAt": "2026-07-12"
-      },
-      {
-        "id": "vid-1I5FlLdrA-s",
-        "title": "HUGE RTS GAMEPLAY - KING of the HILL Beyond All Reason | AllReasonNoLogic | Throne",
-        "thumbnail": "https://i2.ytimg.com/vi/1I5FlLdrA-s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1I5FlLdrA-s",
-        "publishedAt": "2026-07-12"
-      },
-      {
-        "id": "vid-V_HuM8nNmpk",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i3.ytimg.com/vi/V_HuM8nNmpk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V_HuM8nNmpk",
-        "publishedAt": "2026-07-09"
-      },
-      {
-        "id": "vid-HrNHUe89gnU",
-        "title": "Killing Opponents Base 4x | Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/HrNHUe89gnU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HrNHUe89gnU",
-        "publishedAt": "2026-07-08"
       }
     ]
   },

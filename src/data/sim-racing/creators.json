@@ -21,6 +21,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-uDGTZSUNOTY",
+        "title": "Am I Part Of The Problem? - Sim Racing Stewards",
+        "thumbnail": "https://i2.ytimg.com/vi/uDGTZSUNOTY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uDGTZSUNOTY",
+        "publishedAt": "2026-07-22"
+      },
+      {
         "id": "vid-isUf6SFSZ9A",
         "title": "Welcome To The Goodwood Festival Of Memes",
         "thumbnail": "https://i2.ytimg.com/vi/isUf6SFSZ9A/hqdefault.jpg",
@@ -82,13 +89,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/6HJWmYuyVMo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6HJWmYuyVMo",
         "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-nxbk2Vr-BbI",
-        "title": "What If Forza Horizon 6 Was A Sim?",
-        "thumbnail": "https://i3.ytimg.com/vi/nxbk2Vr-BbI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nxbk2Vr-BbI",
-        "publishedAt": "2026-06-24"
       }
     ]
   },
@@ -113,6 +113,41 @@
       "twitter": "Jardier"
     },
     "latestVideos": [
+      {
+        "id": "vid-OwNOsOCBFRU",
+        "title": "Paul Ricard Super Sprint Combo BUT Multiclass!",
+        "thumbnail": "https://i4.ytimg.com/vi/OwNOsOCBFRU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OwNOsOCBFRU",
+        "publishedAt": "2026-07-26"
+      },
+      {
+        "id": "vid-CkWnTWqMS4M",
+        "title": "Easy start in 6 Hours of Sao Paulo 👀🤞🤣",
+        "thumbnail": "https://i4.ytimg.com/vi/CkWnTWqMS4M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CkWnTWqMS4M",
+        "publishedAt": "2026-07-23"
+      },
+      {
+        "id": "vid-2MZ8eE_fO48",
+        "title": "Bad Quali And HUGE COMEBACK FIGHTS! - ELMS Championship BAHRAIN",
+        "thumbnail": "https://i3.ytimg.com/vi/2MZ8eE_fO48/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2MZ8eE_fO48",
+        "publishedAt": "2026-07-22"
+      },
+      {
+        "id": "vid-kkm5ZU_iGbI",
+        "title": "Le Mans Ultimate 1.4 Update - USA Tracks, Int.Wrecks, JOKER Talk",
+        "thumbnail": "https://i4.ytimg.com/vi/kkm5ZU_iGbI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kkm5ZU_iGbI",
+        "publishedAt": "2026-07-21"
+      },
+      {
+        "id": "vid-0ECro-ukbvg",
+        "title": "Can I Break My Curse In This MAYHEM Race??? - ELMS 90mins of Paul Ricard",
+        "thumbnail": "https://i1.ytimg.com/vi/0ECro-ukbvg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0ECro-ukbvg",
+        "publishedAt": "2026-07-20"
+      },
       {
         "id": "vid-hlRqF97x-gA",
         "title": "I'm Racing Big Boy League at Le Mans! - 145 Mins Virtual Motorsport Series PRO",
@@ -147,41 +182,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/F6YrTqy6h68/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=F6YrTqy6h68",
         "publishedAt": "2026-07-15"
-      },
-      {
-        "id": "vid-TqmWvwLe7ic",
-        "title": "Esport Setup VS Default Setup - Does It Matter In LMP2?",
-        "thumbnail": "https://i1.ytimg.com/vi/TqmWvwLe7ic/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TqmWvwLe7ic",
-        "publishedAt": "2026-07-14"
-      },
-      {
-        "id": "vid-RsX3ptxSVQM",
-        "title": "Fight for P1 in Endurance and close call with LMP3!",
-        "thumbnail": "https://i3.ytimg.com/vi/RsX3ptxSVQM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RsX3ptxSVQM",
-        "publishedAt": "2026-07-12"
-      },
-      {
-        "id": "vid-zUBEWiSIAVU",
-        "title": "This Race Had 17 DNFs Yesterday - Crazy 4 Hours ELMS of IMOLA",
-        "thumbnail": "https://i3.ytimg.com/vi/zUBEWiSIAVU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zUBEWiSIAVU",
-        "publishedAt": "2026-07-11"
-      },
-      {
-        "id": "vid-zIJcFeXt0gc",
-        "title": "Can I Manage To Survive 4 Hours of ELMS IMOLA And SOLO?",
-        "thumbnail": "https://i3.ytimg.com/vi/zIJcFeXt0gc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zIJcFeXt0gc",
-        "publishedAt": "2026-07-10"
-      },
-      {
-        "id": "vid-x0L_B0hfTeE",
-        "title": "Highspeed Crazy Track For Multiclass - ELMS Qatar 90mins",
-        "thumbnail": "https://i1.ytimg.com/vi/x0L_B0hfTeE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x0L_B0hfTeE",
-        "publishedAt": "2026-07-08"
       }
     ]
   },
@@ -298,6 +298,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Yg0O3T2cPEg",
+        "title": "CREATOR SERIES LIVE - Hungary 100% Race 70 Laps",
+        "thumbnail": "https://i2.ytimg.com/vi/Yg0O3T2cPEg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Yg0O3T2cPEg",
+        "publishedAt": "2026-07-25"
+      },
+      {
         "id": "vid-4Stata_u-tE",
         "title": "EVERYONE made mistakes - Creator Series Silverstone 100% Race",
         "thumbnail": "https://i1.ytimg.com/vi/4Stata_u-tE/hqdefault.jpg",
@@ -359,13 +366,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/ZFx_JYuzWJs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZFx_JYuzWJs",
         "publishedAt": "2026-06-05"
-      },
-      {
-        "id": "vid-fwWepvTX5zA",
-        "title": "F1 26 Multiplayer Racing is absolutely WILD",
-        "thumbnail": "https://i3.ytimg.com/vi/fwWepvTX5zA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fwWepvTX5zA",
-        "publishedAt": "2026-06-04"
       }
     ]
   },
@@ -420,6 +420,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-CoO7xBB-IaY",
+        "title": "Birnbeck Pier | Western-Super-Mare | 25th July 2026",
+        "thumbnail": "https://i4.ytimg.com/vi/CoO7xBB-IaY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CoO7xBB-IaY",
+        "publishedAt": "2026-07-26"
+      },
+      {
+        "id": "vid--lyhDnVKd7I",
+        "title": "Moza HBP Handbrake #simracingreviews",
+        "thumbnail": "https://i2.ytimg.com/vi/-lyhDnVKd7I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-lyhDnVKd7I",
+        "publishedAt": "2026-07-25"
+      },
+      {
+        "id": "vid-KllyhWWFhw8",
+        "title": "SIMAGIC Zeus Sport Review | The Ultimate Modular Sim Racing Steering Wheel?",
+        "thumbnail": "https://i4.ytimg.com/vi/KllyhWWFhw8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KllyhWWFhw8",
+        "publishedAt": "2026-07-23"
+      },
+      {
+        "id": "vid-nal3Ls3HGnw",
+        "title": "SIMAGIC Zeus Sport In Action!",
+        "thumbnail": "https://i3.ytimg.com/vi/nal3Ls3HGnw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nal3Ls3HGnw",
+        "publishedAt": "2026-07-20"
+      },
+      {
         "id": "vid-g7SxjNarwpQ",
         "title": "SIMNET Hydro-Link Pro Kit #simracingreviews",
         "thumbnail": "https://i4.ytimg.com/vi/g7SxjNarwpQ/hqdefault.jpg",
@@ -456,38 +484,10 @@
       },
       {
         "id": "vid-xh4OWC6t-fE",
-        "title": "SIMAGIC Alpha EVO Ultra Le Mans Ultimate!",
+        "title": "SIMAGIC Alpha EVO Ultra | Le Mans Ultimate!",
         "thumbnail": "https://i1.ytimg.com/vi/xh4OWC6t-fE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xh4OWC6t-fE",
         "publishedAt": "2026-07-05"
-      },
-      {
-        "id": "vid-Q2J1LXZx8j0",
-        "title": "GX100 Dual-mode Sim Racing Shifter",
-        "thumbnail": "https://i2.ytimg.com/vi/Q2J1LXZx8j0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q2J1LXZx8j0",
-        "publishedAt": "2026-07-04"
-      },
-      {
-        "id": "vid-usg4gSDXds4",
-        "title": "SIMDT 7\" Sim Racing Dashboard Display [UNBOXING]",
-        "thumbnail": "https://i2.ytimg.com/vi/usg4gSDXds4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=usg4gSDXds4",
-        "publishedAt": "2026-07-02"
-      },
-      {
-        "id": "vid-IwsYihPayB8",
-        "title": "PXN VD10 in Assetto Corsa Competizione!",
-        "thumbnail": "https://i2.ytimg.com/vi/IwsYihPayB8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IwsYihPayB8",
-        "publishedAt": "2026-06-28"
-      },
-      {
-        "id": "vid-YjctfotADnQ",
-        "title": "The SIMDID GTW Rally Steering Wheel is a Hootie Tootie Disco Cutie #simracingreviews",
-        "thumbnail": "https://i2.ytimg.com/vi/YjctfotADnQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YjctfotADnQ",
-        "publishedAt": "2026-06-27"
       }
     ]
   }
