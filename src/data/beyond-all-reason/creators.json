@@ -121,6 +121,41 @@
     },
     "latestVideos": [
       {
+        "id": "vid-R70a_gfXhyA",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i3.ytimg.com/vi/R70a_gfXhyA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R70a_gfXhyA",
+        "publishedAt": "2026-08-10"
+      },
+      {
+        "id": "vid-jeP80yP4Ad8",
+        "title": "The Unstoppable Rush! | King Of The Hill | BAR Praedyth Here, Don't Tell Twig I Hijacked the Title!",
+        "thumbnail": "https://i3.ytimg.com/vi/jeP80yP4Ad8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jeP80yP4Ad8",
+        "publishedAt": "2026-08-09"
+      },
+      {
+        "id": "vid-dDbdtN1uz-A",
+        "title": "If you can't do it with brains, DO IT WITH BULLETS | Beyond All Reason | Coastlines Dry",
+        "thumbnail": "https://i1.ytimg.com/vi/dDbdtN1uz-A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dDbdtN1uz-A",
+        "publishedAt": "2026-08-05"
+      },
+      {
+        "id": "vid-qQ6nnOzsxrU",
+        "title": "I 1v2'd a Pro | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i2.ytimg.com/vi/qQ6nnOzsxrU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qQ6nnOzsxrU",
+        "publishedAt": "2026-08-04"
+      },
+      {
+        "id": "vid-_lUL6Y5vjX8",
+        "title": "Hugged by Skill | Beyond All Reason | Nuclear Winter",
+        "thumbnail": "https://i4.ytimg.com/vi/_lUL6Y5vjX8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_lUL6Y5vjX8",
+        "publishedAt": "2026-08-03"
+      },
+      {
         "id": "vid-3ZMG3w-g5Ok",
         "title": "KING of the HILL - Beyond All Reason",
         "thumbnail": "https://i4.ytimg.com/vi/3ZMG3w-g5Ok/hqdefault.jpg",
@@ -154,41 +189,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/g3YkNcVKZYU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=g3YkNcVKZYU",
         "publishedAt": "2026-07-28"
-      },
-      {
-        "id": "vid-0nn8KR8NILs",
-        "title": "I get way to angry | Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/0nn8KR8NILs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0nn8KR8NILs",
-        "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-YlVEeTQBqBI",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i2.ytimg.com/vi/YlVEeTQBqBI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YlVEeTQBqBI",
-        "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-cSENE-4uNt8",
-        "title": "Trying New Things On Claymore | King Of The Hill | Beyond All Reason",
-        "thumbnail": "https://i4.ytimg.com/vi/cSENE-4uNt8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cSENE-4uNt8",
-        "publishedAt": "2026-07-26"
-      },
-      {
-        "id": "vid-0m0vftjkuFY",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i1.ytimg.com/vi/0m0vftjkuFY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0m0vftjkuFY",
-        "publishedAt": "2026-07-23"
-      },
-      {
-        "id": "vid-tFhLBdHlvOU",
-        "title": "Do people like this map? | Highlight: Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/tFhLBdHlvOU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tFhLBdHlvOU",
-        "publishedAt": "2026-07-22"
       }
     ]
   },

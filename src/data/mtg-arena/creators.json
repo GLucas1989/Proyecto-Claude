@@ -26,6 +26,41 @@
     },
     "latestVideos": [
       {
+        "id": "vid-DSY9r5LGUGA",
+        "title": "Monoblack Devotion is back!",
+        "thumbnail": "https://i1.ytimg.com/vi/DSY9r5LGUGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DSY9r5LGUGA",
+        "publishedAt": "2026-08-07"
+      },
+      {
+        "id": "vid-aztbv6S_rk0",
+        "title": "We're back in the driver's seat!",
+        "thumbnail": "https://i2.ytimg.com/vi/aztbv6S_rk0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aztbv6S_rk0",
+        "publishedAt": "2026-08-06"
+      },
+      {
+        "id": "vid-FzcM5JSE1e8",
+        "title": "Cheating out the most expensive artifacts.",
+        "thumbnail": "https://i3.ytimg.com/vi/FzcM5JSE1e8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FzcM5JSE1e8",
+        "publishedAt": "2026-08-05"
+      },
+      {
+        "id": "vid-_2OjSweH48c",
+        "title": "Double demilich on turn two!",
+        "thumbnail": "https://i4.ytimg.com/vi/_2OjSweH48c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_2OjSweH48c",
+        "publishedAt": "2026-08-04"
+      },
+      {
+        "id": "vid-WWC-ouZR29E",
+        "title": "Tricking my opponents in Standard.",
+        "thumbnail": "https://i4.ytimg.com/vi/WWC-ouZR29E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WWC-ouZR29E",
+        "publishedAt": "2026-08-03"
+      },
+      {
         "id": "vid-SkmRKwq77bY",
         "title": "Gaslighting the mana system.",
         "thumbnail": "https://i4.ytimg.com/vi/SkmRKwq77bY/hqdefault.jpg",
@@ -59,41 +94,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/Q3aEi4jyml8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Q3aEi4jyml8",
         "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-QxNxd0FKOvA",
-        "title": "He's worthy to wield the hammer.",
-        "thumbnail": "https://i2.ytimg.com/vi/QxNxd0FKOvA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QxNxd0FKOvA",
-        "publishedAt": "2026-07-24"
-      },
-      {
-        "id": "vid-FI58VhpHWQo",
-        "title": "The competitive brawl deck with most aura.",
-        "thumbnail": "https://i3.ytimg.com/vi/FI58VhpHWQo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FI58VhpHWQo",
-        "publishedAt": "2026-07-23"
-      },
-      {
-        "id": "vid-kZCjKqX7q1M",
-        "title": "This deck can't be stopped!",
-        "thumbnail": "https://i4.ytimg.com/vi/kZCjKqX7q1M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kZCjKqX7q1M",
-        "publishedAt": "2026-07-22"
-      },
-      {
-        "id": "vid-7xJaWn-zBt8",
-        "title": "Learning new and old lessons.",
-        "thumbnail": "https://i4.ytimg.com/vi/7xJaWn-zBt8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7xJaWn-zBt8",
-        "publishedAt": "2026-07-21"
-      },
-      {
-        "id": "vid-LNnJe7fKgcs",
-        "title": "Hexproof was a mistake.",
-        "thumbnail": "https://i1.ytimg.com/vi/LNnJe7fKgcs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LNnJe7fKgcs",
-        "publishedAt": "2026-07-20"
       }
     ]
   },
@@ -124,74 +124,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-7pAWGkqmpxY",
-        "title": "KAVAERO sigue vivo en nuestros corazones. Dimir Doomsday",
-        "thumbnail": "https://i4.ytimg.com/vi/7pAWGkqmpxY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7pAWGkqmpxY",
-        "publishedAt": "2026-08-02"
+        "id": "vid-RKUT2Rbfivg",
+        "title": "COMMANDER!!??",
+        "thumbnail": "https://i3.ytimg.com/vi/RKUT2Rbfivg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RKUT2Rbfivg",
+        "publishedAt": "2026-08-09"
       },
       {
-        "id": "vid-0miPcgEczAo",
-        "title": "Sultai Control",
-        "thumbnail": "https://i1.ytimg.com/vi/0miPcgEczAo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0miPcgEczAo",
-        "publishedAt": "2026-08-01"
+        "id": "vid-eb6C9yGNPnA",
+        "title": "MÁS RELLENO. Análisis de cartas INCOLORAS de El Hobbit | Magic The Gathering",
+        "thumbnail": "https://i2.ytimg.com/vi/eb6C9yGNPnA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eb6C9yGNPnA",
+        "publishedAt": "2026-08-09"
       },
       {
-        "id": "vid-g-2Qb4F6l6Y",
-        "title": "Control y CHISPAZOS. Izzet Burn",
-        "thumbnail": "https://i4.ytimg.com/vi/g-2Qb4F6l6Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g-2Qb4F6l6Y",
-        "publishedAt": "2026-07-31"
+        "id": "vid-CTvhd4B0cf0",
+        "title": "Llegó el relleno. Análisis de cartas MULTICOLOR de El Hobbit | Magic The Gathering",
+        "thumbnail": "https://i4.ytimg.com/vi/CTvhd4B0cf0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CTvhd4B0cf0",
+        "publishedAt": "2026-08-08"
       },
       {
-        "id": "vid-QEHKCiFddJE",
-        "title": "El primer mazo tribal en MUCHO TIEMPO. 5c Heroes",
-        "thumbnail": "https://i2.ytimg.com/vi/QEHKCiFddJE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QEHKCiFddJE",
-        "publishedAt": "2026-07-30"
+        "id": "vid-O4W3NOHYOvE",
+        "title": "Presentación de El Hobbit",
+        "thumbnail": "https://i4.ytimg.com/vi/O4W3NOHYOvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O4W3NOHYOvE",
+        "publishedAt": "2026-08-08"
       },
       {
-        "id": "vid-6goH7SpdDXI",
-        "title": "APROVECHA ahora para pillar por sorpresa a tus rivales. Esper Bounce",
-        "thumbnail": "https://i3.ytimg.com/vi/6goH7SpdDXI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6goH7SpdDXI",
-        "publishedAt": "2026-07-30"
+        "id": "vid-jzkcG5IGAR0",
+        "title": "La cosa se pone aún MEJOR. Análisis del color VERDE de El Hobbit | Magic The Gathering",
+        "thumbnail": "https://i3.ytimg.com/vi/jzkcG5IGAR0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jzkcG5IGAR0",
+        "publishedAt": "2026-08-07"
       },
       {
-        "id": "vid-6YnZ3gzEZkY",
-        "title": "Esta es la solución al PEOR formato de la historia de Magic",
-        "thumbnail": "https://i3.ytimg.com/vi/6YnZ3gzEZkY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6YnZ3gzEZkY",
-        "publishedAt": "2026-07-29"
+        "id": "vid-fgr7iHBF3Tw",
+        "title": "ENORMES enanos, equipos y dragones. Análisis del color ROJO de El Hobbit | Magic The Gathering",
+        "thumbnail": "https://i3.ytimg.com/vi/fgr7iHBF3Tw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fgr7iHBF3Tw",
+        "publishedAt": "2026-08-06"
       },
       {
-        "id": "vid-vt9N7B11N2M",
-        "title": "ABUSA del metajuego. Izzet Aggro",
-        "thumbnail": "https://i3.ytimg.com/vi/vt9N7B11N2M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vt9N7B11N2M",
-        "publishedAt": "2026-07-24"
+        "id": "vid-KBdbJ6Th118",
+        "title": "Me está ENCANTANDO. Análisis del color NEGRO de El Hobbit | Magic The Gathering",
+        "thumbnail": "https://i4.ytimg.com/vi/KBdbJ6Th118/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KBdbJ6Th118",
+        "publishedAt": "2026-08-05"
       },
       {
-        "id": "vid-ob9VHPuMV_A",
-        "title": "El MEJOR mazo de encantamientos posible. Azorius Auras",
-        "thumbnail": "https://i4.ytimg.com/vi/ob9VHPuMV_A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ob9VHPuMV_A",
-        "publishedAt": "2026-07-23"
+        "id": "vid-IibrLHtV_D8",
+        "title": "SIEMPRE BUENO. Análisis del color AZUL de El Hobbit | Magic The Gathering",
+        "thumbnail": "https://i2.ytimg.com/vi/IibrLHtV_D8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IibrLHtV_D8",
+        "publishedAt": "2026-08-04"
       },
       {
-        "id": "vid--vvp4eKQG_8",
-        "title": "Ya sabes dónde está la PUERTA",
-        "thumbnail": "https://i2.ytimg.com/vi/-vvp4eKQG_8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-vvp4eKQG_8",
-        "publishedAt": "2026-07-21"
+        "id": "vid-eK7MjO3lX10",
+        "title": "Tengo SECRETOS... de Strixhaven #mtg #magicthegathering #mtgsos",
+        "thumbnail": "https://i2.ytimg.com/vi/eK7MjO3lX10/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eK7MjO3lX10",
+        "publishedAt": "2026-08-04"
       },
       {
-        "id": "vid-gzHdMNGdZtQ",
-        "title": "Las colecciones de 2027. MIEDO",
-        "thumbnail": "https://i4.ytimg.com/vi/gzHdMNGdZtQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gzHdMNGdZtQ",
-        "publishedAt": "2026-07-20"
+        "id": "vid-_s34-IGxXpc",
+        "title": "¡¡AMOR a primera vista!! Análisis del color BLANCO de El Hobbit | Magic The Gathering",
+        "thumbnail": "https://i4.ytimg.com/vi/_s34-IGxXpc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_s34-IGxXpc",
+        "publishedAt": "2026-08-03"
       }
     ]
   },
@@ -221,6 +221,41 @@
       "twitter": "TolarianCollege"
     },
     "latestVideos": [
+      {
+        "id": "vid-bi5PlZLs5uI",
+        "title": "What Is This New Commander Product? Hatsune Miku vs Mystery Booster 3 for Magic: The Gathering!",
+        "thumbnail": "https://i3.ytimg.com/vi/bi5PlZLs5uI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bi5PlZLs5uI",
+        "publishedAt": "2026-08-07"
+      },
+      {
+        "id": "vid-jkNzHz9kprc",
+        "title": "Voxy Can't Roll in Commander",
+        "thumbnail": "https://i3.ytimg.com/vi/jkNzHz9kprc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jkNzHz9kprc",
+        "publishedAt": "2026-08-06"
+      },
+      {
+        "id": "vid-KDNr-raXpVg",
+        "title": "Complete Guide To The Hobbit Prerelease! | Magic: The Gathering Sealed Deck Building | How To Win",
+        "thumbnail": "https://i4.ytimg.com/vi/KDNr-raXpVg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KDNr-raXpVg",
+        "publishedAt": "2026-08-05"
+      },
+      {
+        "id": "vid-CvD1cqHCieE",
+        "title": "Magic: The Gathering Player Says \"No\" w/ ZachTheBold, Brian David Gilbert, and Wheeler",
+        "thumbnail": "https://i4.ytimg.com/vi/CvD1cqHCieE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CvD1cqHCieE",
+        "publishedAt": "2026-08-04"
+      },
+      {
+        "id": "vid-iYFXrEiw7TY",
+        "title": "Playing The Hobbit w/ ZachTheBold and Brian David Gilbert! Shuffle Up & Play 107 Magic The Gathering",
+        "thumbnail": "https://i2.ytimg.com/vi/iYFXrEiw7TY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iYFXrEiw7TY",
+        "publishedAt": "2026-08-03"
+      },
       {
         "id": "vid-BuaXCJ8Bfco",
         "title": "Do Not Buy The Hobbit Packs! Buy These Commander Cards Instead! Magic: The Gathering Top 8 For EDH",
@@ -255,41 +290,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/J1SavjI8Vdk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=J1SavjI8Vdk",
         "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-4_p0gHj6658",
-        "title": "The Dumbest Dramas Of Magic: The Gathering",
-        "thumbnail": "https://i1.ytimg.com/vi/4_p0gHj6658/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4_p0gHj6658",
-        "publishedAt": "2026-07-24"
-      },
-      {
-        "id": "vid-BU23BLDV1EU",
-        "title": "Final Conclusion: Marvel Super Heroes | A Magic: The Gathering Review",
-        "thumbnail": "https://i3.ytimg.com/vi/BU23BLDV1EU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BU23BLDV1EU",
-        "publishedAt": "2026-07-22"
-      },
-      {
-        "id": "vid-90C-7_fSDII",
-        "title": "Josh Lee Kwai and Rhystic Studies are Hooked On DanDan! | Magic: The Gathering",
-        "thumbnail": "https://i2.ytimg.com/vi/90C-7_fSDII/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=90C-7_fSDII",
-        "publishedAt": "2026-07-20"
-      },
-      {
-        "id": "vid-LrK2YCgctHA",
-        "title": "Umezawa's Jitte: Magic The Gathering's Iconic Design Mistake",
-        "thumbnail": "https://i1.ytimg.com/vi/LrK2YCgctHA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LrK2YCgctHA",
-        "publishedAt": "2026-07-17"
-      },
-      {
-        "id": "vid-P_IOy4nYuxs",
-        "title": "Should We Get Rid Of Commander Damage? | Magic: The Gathering",
-        "thumbnail": "https://i1.ytimg.com/vi/P_IOy4nYuxs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P_IOy4nYuxs",
-        "publishedAt": "2026-07-15"
       }
     ]
   },
@@ -420,6 +420,55 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-by4YuO93FtY",
+        "title": "Winning shouldn't be this easy",
+        "thumbnail": "https://i3.ytimg.com/vi/by4YuO93FtY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=by4YuO93FtY",
+        "publishedAt": "2026-08-09"
+      },
+      {
+        "id": "vid-QCAotDzJ3Aw",
+        "title": "The third one is always the worst...",
+        "thumbnail": "https://i2.ytimg.com/vi/QCAotDzJ3Aw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QCAotDzJ3Aw",
+        "publishedAt": "2026-08-08"
+      },
+      {
+        "id": "vid-xpQSemBvhks",
+        "title": "If you can't win, don't play",
+        "thumbnail": "https://i1.ytimg.com/vi/xpQSemBvhks/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xpQSemBvhks",
+        "publishedAt": "2026-08-07"
+      },
+      {
+        "id": "vid-Nu4MOyoGMks",
+        "title": "The easiest games of my life",
+        "thumbnail": "https://i3.ytimg.com/vi/Nu4MOyoGMks/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Nu4MOyoGMks",
+        "publishedAt": "2026-08-06"
+      },
+      {
+        "id": "vid-sn4As5hlCho",
+        "title": "She is trying to end my career...",
+        "thumbnail": "https://i4.ytimg.com/vi/sn4As5hlCho/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sn4As5hlCho",
+        "publishedAt": "2026-08-05"
+      },
+      {
+        "id": "vid-KY_J3MxA9mQ",
+        "title": "Minimal effort, maximal wins",
+        "thumbnail": "https://i4.ytimg.com/vi/KY_J3MxA9mQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KY_J3MxA9mQ",
+        "publishedAt": "2026-08-04"
+      },
+      {
+        "id": "vid-4woum2StBZc",
+        "title": "This time will be different",
+        "thumbnail": "https://i1.ytimg.com/vi/4woum2StBZc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4woum2StBZc",
+        "publishedAt": "2026-08-03"
+      },
+      {
         "id": "vid-fm2VMcMqwEs",
         "title": "Can land destruction hit Mythic in 2026?",
         "thumbnail": "https://i3.ytimg.com/vi/fm2VMcMqwEs/hqdefault.jpg",
@@ -439,55 +488,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/hZld9r7-RY4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hZld9r7-RY4",
         "publishedAt": "2026-07-31"
-      },
-      {
-        "id": "vid-_wQilg0leTg",
-        "title": "A very special guest episode",
-        "thumbnail": "https://i4.ytimg.com/vi/_wQilg0leTg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_wQilg0leTg",
-        "publishedAt": "2026-07-30"
-      },
-      {
-        "id": "vid-8w5qckTY9XQ",
-        "title": "Burn is so good - if you don't care about winning",
-        "thumbnail": "https://i1.ytimg.com/vi/8w5qckTY9XQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8w5qckTY9XQ",
-        "publishedAt": "2026-07-29"
-      },
-      {
-        "id": "vid-Pw60h4bQhp0",
-        "title": "I guess Life Gain is Busted Now",
-        "thumbnail": "https://i1.ytimg.com/vi/Pw60h4bQhp0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Pw60h4bQhp0",
-        "publishedAt": "2026-07-28"
-      },
-      {
-        "id": "vid-YDK9Xxqz8Fw",
-        "title": "Mono Red Sligh in 2026?",
-        "thumbnail": "https://i2.ytimg.com/vi/YDK9Xxqz8Fw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YDK9Xxqz8Fw",
-        "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-QXhkTuz8LBo",
-        "title": "@Rarran reviews Magic: The Gathering | The Hobbit",
-        "thumbnail": "https://i2.ytimg.com/vi/QXhkTuz8LBo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QXhkTuz8LBo",
-        "publishedAt": "2026-07-26"
-      },
-      {
-        "id": "vid-YHnX1v_dO2I",
-        "title": "Bringing Big Red Back",
-        "thumbnail": "https://i2.ytimg.com/vi/YHnX1v_dO2I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YHnX1v_dO2I",
-        "publishedAt": "2026-07-25"
-      },
-      {
-        "id": "vid-Ktqo7edOwCc",
-        "title": "Making Mono Red Disassembly Ponza work in current Standard",
-        "thumbnail": "https://i4.ytimg.com/vi/Ktqo7edOwCc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ktqo7edOwCc",
-        "publishedAt": "2026-07-24"
       }
     ]
   }

@@ -119,6 +119,55 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-_jxL47flSiM",
+        "title": "Mi primera funa",
+        "thumbnail": "https://i4.ytimg.com/vi/_jxL47flSiM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_jxL47flSiM",
+        "publishedAt": "2026-08-09"
+      },
+      {
+        "id": "vid-iuZM7USJiYk",
+        "title": "El mejor face reveal de la historia de YouTube",
+        "thumbnail": "https://i2.ytimg.com/vi/iuZM7USJiYk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iuZM7USJiYk",
+        "publishedAt": "2026-08-08"
+      },
+      {
+        "id": "vid-MlN7poDa4LM",
+        "title": "No hagáis esto en casa",
+        "thumbnail": "https://i2.ytimg.com/vi/MlN7poDa4LM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MlN7poDa4LM",
+        "publishedAt": "2026-08-07"
+      },
+      {
+        "id": "vid-ze20VZg1Zfc",
+        "title": "LA MAYOR LOCURA DESPUÉS DE LA VELADA",
+        "thumbnail": "https://i3.ytimg.com/vi/ze20VZg1Zfc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ze20VZg1Zfc",
+        "publishedAt": "2026-08-06"
+      },
+      {
+        "id": "vid-cCR1HkSWNRc",
+        "title": "Mi combate contra JH",
+        "thumbnail": "https://i4.ytimg.com/vi/cCR1HkSWNRc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cCR1HkSWNRc",
+        "publishedAt": "2026-08-05"
+      },
+      {
+        "id": "vid-YwSfYKRoabA",
+        "title": "Dentro de 50 años… 👴🏻",
+        "thumbnail": "https://i2.ytimg.com/vi/YwSfYKRoabA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YwSfYKRoabA",
+        "publishedAt": "2026-08-04"
+      },
+      {
+        "id": "vid-HjUKcEbqfOM",
+        "title": "Lo que nunca pude hacer...",
+        "thumbnail": "https://i1.ytimg.com/vi/HjUKcEbqfOM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HjUKcEbqfOM",
+        "publishedAt": "2026-08-03"
+      },
+      {
         "id": "vid-z27HhlmMYvk",
         "title": "Mi regalo por ganar la Velada",
         "thumbnail": "https://i3.ytimg.com/vi/z27HhlmMYvk/hqdefault.jpg",
@@ -138,55 +187,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/xgBiJOkYqqQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xgBiJOkYqqQ",
         "publishedAt": "2026-07-31"
-      },
-      {
-        "id": "vid-tKeV0KemaAk",
-        "title": "Así conocí a Farruko",
-        "thumbnail": "https://i1.ytimg.com/vi/tKeV0KemaAk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tKeV0KemaAk",
-        "publishedAt": "2026-07-31"
-      },
-      {
-        "id": "vid-yiWvGdna8FE",
-        "title": "Fui a ver la nueva de Spider-Man",
-        "thumbnail": "https://i2.ytimg.com/vi/yiWvGdna8FE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yiWvGdna8FE",
-        "publishedAt": "2026-07-30"
-      },
-      {
-        "id": "vid-Lxrdyjo570I",
-        "title": "I had to do it twice.",
-        "thumbnail": "https://i1.ytimg.com/vi/Lxrdyjo570I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Lxrdyjo570I",
-        "publishedAt": "2026-07-30"
-      },
-      {
-        "id": "vid-Fu8iA_qbdzI",
-        "title": "Esto era necesario?",
-        "thumbnail": "https://i3.ytimg.com/vi/Fu8iA_qbdzI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Fu8iA_qbdzI",
-        "publishedAt": "2026-07-30"
-      },
-      {
-        "id": "vid-7kgfp_KhKDQ",
-        "title": "JUAN, TE QUIERO.",
-        "thumbnail": "https://i4.ytimg.com/vi/7kgfp_KhKDQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7kgfp_KhKDQ",
-        "publishedAt": "2026-07-29"
-      },
-      {
-        "id": "vid-4bklmW0SboE",
-        "title": "Curiosidades de mi entrada de la Velada del Año VI",
-        "thumbnail": "https://i1.ytimg.com/vi/4bklmW0SboE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4bklmW0SboE",
-        "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-8GgCwWkjBYg",
-        "title": "REACCIONANDO A MI COMBATE DE LA VELADA DEL AÑO VI - TheGrefg",
-        "thumbnail": "https://i1.ytimg.com/vi/8GgCwWkjBYg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8GgCwWkjBYg",
-        "publishedAt": "2026-07-26"
       }
     ]
   },
@@ -213,6 +213,41 @@
       "es"
     ],
     "latestVideos": [
+      {
+        "id": "vid-I3XgrUOhHP4",
+        "title": "El día 12 habrá un eclipse.",
+        "thumbnail": "https://i2.ytimg.com/vi/I3XgrUOhHP4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I3XgrUOhHP4",
+        "publishedAt": "2026-08-09"
+      },
+      {
+        "id": "vid-qB8UCXNHDJg",
+        "title": "Soy guapo de abuelo?",
+        "thumbnail": "https://i2.ytimg.com/vi/qB8UCXNHDJg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qB8UCXNHDJg",
+        "publishedAt": "2026-08-05"
+      },
+      {
+        "id": "vid-WGg2PLqoEEo",
+        "title": "JH vs TheGrefg.",
+        "thumbnail": "https://i4.ytimg.com/vi/WGg2PLqoEEo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WGg2PLqoEEo",
+        "publishedAt": "2026-08-04"
+      },
+      {
+        "id": "vid-P-kyjQ7ddqE",
+        "title": "¿Quién ganaría a Gero Arias?",
+        "thumbnail": "https://i1.ytimg.com/vi/P-kyjQ7ddqE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=P-kyjQ7ddqE",
+        "publishedAt": "2026-08-04"
+      },
+      {
+        "id": "vid-I8wmxZQqbqA",
+        "title": "Publi. Sorteo el Balón del España - Francia. Participad también en el de @cocacola en su web",
+        "thumbnail": "https://i2.ytimg.com/vi/I8wmxZQqbqA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I8wmxZQqbqA",
+        "publishedAt": "2026-08-03"
+      },
       {
         "id": "vid-SnZRvtZ1PKE",
         "title": "¿A quién debería traer a la próxima velada?",
@@ -247,41 +282,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/3KYCPCd0Aq4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3KYCPCd0Aq4",
         "publishedAt": "2026-07-28"
-      },
-      {
-        "id": "vid-uOmPWs27P1Y",
-        "title": "RDJavi vuelve a enseñar su outfit.",
-        "thumbnail": "https://i2.ytimg.com/vi/uOmPWs27P1Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uOmPWs27P1Y",
-        "publishedAt": "2026-07-28"
-      },
-      {
-        "id": "vid-wDoalxZDF8A",
-        "title": "El outfit de Auron para La Velada.",
-        "thumbnail": "https://i4.ytimg.com/vi/wDoalxZDF8A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wDoalxZDF8A",
-        "publishedAt": "2026-07-28"
-      },
-      {
-        "id": "vid-5o_FlvtVhpM",
-        "title": "Westcol rompe récords con su outfit.",
-        "thumbnail": "https://i2.ytimg.com/vi/5o_FlvtVhpM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5o_FlvtVhpM",
-        "publishedAt": "2026-07-28"
-      },
-      {
-        "id": "vid-2Sa90GqZ4og",
-        "title": "Cristiano con el cinturón de La Velada del Año.",
-        "thumbnail": "https://i3.ytimg.com/vi/2Sa90GqZ4og/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2Sa90GqZ4og",
-        "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-1rcaS1J12hs",
-        "title": "CUANTO VALE TU OUTFIT? en LA VELADA DEL AÑO 6",
-        "thumbnail": "https://i2.ytimg.com/vi/1rcaS1J12hs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1rcaS1J12hs",
-        "publishedAt": "2026-07-27"
       }
     ]
   },
