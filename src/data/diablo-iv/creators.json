@@ -24,6 +24,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-SPT0a2TivOg",
+        "title": "Diablo 4 Just Became More Important to Xbox Than Ever",
+        "thumbnail": "https://i4.ytimg.com/vi/SPT0a2TivOg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SPT0a2TivOg",
+        "publishedAt": "2026-08-15"
+      },
+      {
         "id": "vid-7qCrjtA-ReI",
         "title": "Diablo 4 Season 15 Is Clearly Hiding Something",
         "thumbnail": "https://i4.ytimg.com/vi/7qCrjtA-ReI/hqdefault.jpg",
@@ -85,13 +92,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/nSklLSy8q38/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nSklLSy8q38",
         "publishedAt": "2026-07-11"
-      },
-      {
-        "id": "vid-aEtj56ctcMI",
-        "title": "Diablo 4 Season 14 Is Fun, But Something Feels Wrong",
-        "thumbnail": "https://i2.ytimg.com/vi/aEtj56ctcMI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aEtj56ctcMI",
-        "publishedAt": "2026-07-04"
       }
     ]
   },
@@ -121,6 +121,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-wPR2gwulAMo",
+        "title": "Path of Exile 2 Building Arc Totem Leveling & Endgame Guides",
+        "thumbnail": "https://i4.ytimg.com/vi/wPR2gwulAMo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wPR2gwulAMo",
+        "publishedAt": "2026-08-16"
+      },
+      {
+        "id": "vid-funOi1-MUjQ",
+        "title": "Path of Exile 2 Building Arc Totem Leveling & Endgame Guides",
+        "thumbnail": "https://i3.ytimg.com/vi/funOi1-MUjQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=funOi1-MUjQ",
+        "publishedAt": "2026-08-15"
+      },
+      {
+        "id": "vid-RVaMXAzZrZQ",
+        "title": "Path of Exile 2 More Mercenary Practice",
+        "thumbnail": "https://i3.ytimg.com/vi/RVaMXAzZrZQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RVaMXAzZrZQ",
+        "publishedAt": "2026-08-14"
+      },
+      {
+        "id": "vid-bkkJ5IjBDdg",
+        "title": "Watching the POE2 Qualifier",
+        "thumbnail": "https://i3.ytimg.com/vi/bkkJ5IjBDdg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bkkJ5IjBDdg",
+        "publishedAt": "2026-08-13"
+      },
+      {
+        "id": "vid-ovLerh25rZk",
+        "title": "Making a Gemling Leveling Build",
+        "thumbnail": "https://i4.ytimg.com/vi/ovLerh25rZk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ovLerh25rZk",
+        "publishedAt": "2026-08-12"
+      },
+      {
+        "id": "vid-MA0bAGsNoQA",
+        "title": "Making a Gemling Leveling Build",
+        "thumbnail": "https://i2.ytimg.com/vi/MA0bAGsNoQA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MA0bAGsNoQA",
+        "publishedAt": "2026-08-11"
+      },
+      {
+        "id": "vid-XfAif286E60",
+        "title": "Making a Gemling Leveling Build",
+        "thumbnail": "https://i1.ytimg.com/vi/XfAif286E60/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XfAif286E60",
+        "publishedAt": "2026-08-11"
+      },
+      {
         "id": "vid-d_DnKPTYl-M",
         "title": "Learning POE2 Speedrunning",
         "thumbnail": "https://i1.ytimg.com/vi/d_DnKPTYl-M/hqdefault.jpg",
@@ -140,55 +189,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/Gw_XOimSzMc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Gw_XOimSzMc",
         "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-MYNofsbMW5A",
-        "title": "Watching the POE2 Race",
-        "thumbnail": "https://i2.ytimg.com/vi/MYNofsbMW5A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MYNofsbMW5A",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-dP9XOeF1Sio",
-        "title": "Path of Exile Speedrun Practice",
-        "thumbnail": "https://i1.ytimg.com/vi/dP9XOeF1Sio/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dP9XOeF1Sio",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-uJkYWfS-O5s",
-        "title": "Path of Exile Speedrun Practice",
-        "thumbnail": "https://i2.ytimg.com/vi/uJkYWfS-O5s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uJkYWfS-O5s",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-lgglKf-bmb4",
-        "title": "Path of Exile KF Totems Endgame",
-        "thumbnail": "https://i1.ytimg.com/vi/lgglKf-bmb4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lgglKf-bmb4",
-        "publishedAt": "2026-08-04"
-      },
-      {
-        "id": "vid-Y3Bf3lzr4Hw",
-        "title": "Path of Exile KF Totems Endgame",
-        "thumbnail": "https://i2.ytimg.com/vi/Y3Bf3lzr4Hw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Y3Bf3lzr4Hw",
-        "publishedAt": "2026-08-03"
-      },
-      {
-        "id": "vid-fCbj1v0tQQE",
-        "title": "Path of Exile KF Totems Acquiring Final Pieces",
-        "thumbnail": "https://i3.ytimg.com/vi/fCbj1v0tQQE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fCbj1v0tQQE",
-        "publishedAt": "2026-08-02"
-      },
-      {
-        "id": "vid-fDlcC3bTRXA",
-        "title": "Path of Exile KF Totems Acquiring Final Pieces",
-        "thumbnail": "https://i3.ytimg.com/vi/fDlcC3bTRXA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fDlcC3bTRXA",
-        "publishedAt": "2026-08-01"
       }
     ]
   },
@@ -315,6 +315,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-jUfOs2ghaSU",
+        "title": "Borderlands 4 What Worked & What Didn't // Livestream",
+        "thumbnail": "https://i3.ytimg.com/vi/jUfOs2ghaSU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jUfOs2ghaSU",
+        "publishedAt": "2026-08-14"
+      },
+      {
+        "id": "vid-hsB_2kIPrO0",
+        "title": "UPDATED BEST AMON BUILD! (Destroys M20!) // Borderlands 4 Boss Breaker Amon 2.0",
+        "thumbnail": "https://i1.ytimg.com/vi/hsB_2kIPrO0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hsB_2kIPrO0",
+        "publishedAt": "2026-08-12"
+      },
+      {
+        "id": "vid-FpPK2qqDORk",
+        "title": "New Division 2 Endgame?! // Livestream",
+        "thumbnail": "https://i3.ytimg.com/vi/FpPK2qqDORk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FpPK2qqDORk",
+        "publishedAt": "2026-08-12"
+      },
+      {
+        "id": "vid-gxpHtiu6HEU",
+        "title": "Season 4 News & Farming New Builds // The First Descendant Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/gxpHtiu6HEU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gxpHtiu6HEU",
+        "publishedAt": "2026-08-11"
+      },
+      {
         "id": "vid-ht4TLMYYfZg",
         "title": "New Season Prepping! // The First Descendant Livestream",
         "thumbnail": "https://i1.ytimg.com/vi/ht4TLMYYfZg/hqdefault.jpg",
@@ -355,34 +383,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/SoJKUM4GvE0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SoJKUM4GvE0",
         "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-4h_goDFbUXA",
-        "title": "THEY BUFFED THIS!? Updated Best Neutron Capture Harlowe! // Borderlands 4 Hazmat Harlowe (M20)",
-        "thumbnail": "https://i1.ytimg.com/vi/4h_goDFbUXA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4h_goDFbUXA",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-fzik_JfyYH4",
-        "title": "Working on Build Updates! // Borderlands 4 Livestream",
-        "thumbnail": "https://i3.ytimg.com/vi/fzik_JfyYH4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fzik_JfyYH4",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-0HboqQeFQO4",
-        "title": "We Need To Talk About This.. // Bounty Packs & The State of Borderlands 4",
-        "thumbnail": "https://i1.ytimg.com/vi/0HboqQeFQO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0HboqQeFQO4",
-        "publishedAt": "2026-08-03"
-      },
-      {
-        "id": "vid-slU09ObMP4o",
-        "title": "ALL NEW DLC & PEARL Gear Breakdown (+Drop Locations) // Borderlands 4 Bounty Pack 4",
-        "thumbnail": "https://i4.ytimg.com/vi/slU09ObMP4o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=slU09ObMP4o",
-        "publishedAt": "2026-08-01"
       }
     ]
   },
@@ -413,6 +413,55 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-CAAA-Fm7oGo",
+        "title": "Diablo 4 - S15 Lunatic Warlock Is So Much Fun",
+        "thumbnail": "https://i4.ytimg.com/vi/CAAA-Fm7oGo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CAAA-Fm7oGo",
+        "publishedAt": "2026-08-16"
+      },
+      {
+        "id": "vid-dBfbF4MylfM",
+        "title": "Diablo 4 - How Bad Are The Barb Nerfs? Season 15",
+        "thumbnail": "https://i1.ytimg.com/vi/dBfbF4MylfM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dBfbF4MylfM",
+        "publishedAt": "2026-08-15"
+      },
+      {
+        "id": "vid-uvFtdwZxKms",
+        "title": "Diablo 4 - Barb GIGA NERFED OR WHAT?!",
+        "thumbnail": "https://i2.ytimg.com/vi/uvFtdwZxKms/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uvFtdwZxKms",
+        "publishedAt": "2026-08-14"
+      },
+      {
+        "id": "vid-VCG5YR9lMfo",
+        "title": "Diablo 4 - Apocalypse Warlock Is Back Even Stronger",
+        "thumbnail": "https://i3.ytimg.com/vi/VCG5YR9lMfo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VCG5YR9lMfo",
+        "publishedAt": "2026-08-13"
+      },
+      {
+        "id": "vid-o9VXfUpyp7g",
+        "title": "Diablo 4 - Are Sorc, Druid, Necro & Paladin Bad? S15",
+        "thumbnail": "https://i4.ytimg.com/vi/o9VXfUpyp7g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o9VXfUpyp7g",
+        "publishedAt": "2026-08-12"
+      },
+      {
+        "id": "vid-bvxmD4TdQaI",
+        "title": "Diablo 4 - Terror Swarm Warlock Is Actually Insane",
+        "thumbnail": "https://i3.ytimg.com/vi/bvxmD4TdQaI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bvxmD4TdQaI",
+        "publishedAt": "2026-08-11"
+      },
+      {
+        "id": "vid-uPBDY3_K9o4",
+        "title": "Diablo 4 New Season 15 Test Realm! Final Day, traveling 11-19 Aug",
+        "thumbnail": "https://i2.ytimg.com/vi/uPBDY3_K9o4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uPBDY3_K9o4",
+        "publishedAt": "2026-08-10"
+      },
+      {
         "id": "vid-jC9OTgsSr-Y",
         "title": "Diablo 4 New Season 15 Test Realm!",
         "thumbnail": "https://i3.ytimg.com/vi/jC9OTgsSr-Y/hqdefault.jpg",
@@ -432,55 +481,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/2B_LWNxNHOo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2B_LWNxNHOo",
         "publishedAt": "2026-08-08"
-      },
-      {
-        "id": "vid-5Js0jwHgGr0",
-        "title": "Diablo 4 New Season 15 Test Realm, later Titan Quest 2 new update! (#ad)",
-        "thumbnail": "https://i2.ytimg.com/vi/5Js0jwHgGr0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5Js0jwHgGr0",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-ag1GHYxawiQ",
-        "title": "Diablo 4 - 150s for EVERYONE in Season 15?!",
-        "thumbnail": "https://i2.ytimg.com/vi/ag1GHYxawiQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ag1GHYxawiQ",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-XMcPuXFuz2I",
-        "title": "Diablo 4 New Season 15 Test Realm!",
-        "thumbnail": "https://i1.ytimg.com/vi/XMcPuXFuz2I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XMcPuXFuz2I",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-6NLGYfc0kjE",
-        "title": "Diablo 4 - Will this make everyone IMMORTAL in S15?",
-        "thumbnail": "https://i3.ytimg.com/vi/6NLGYfc0kjE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6NLGYfc0kjE",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-kIhm38unBeI",
-        "title": "Diablo 4 New Season 15 Test Realm!",
-        "thumbnail": "https://i4.ytimg.com/vi/kIhm38unBeI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kIhm38unBeI",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-bOrD9anW1yw",
-        "title": "Diablo 4 - New Season 15 \"Content\"",
-        "thumbnail": "https://i3.ytimg.com/vi/bOrD9anW1yw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bOrD9anW1yw",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-nlyHBPWsgeI",
-        "title": "Diablo 4 - Challenge Dungeon VERY CHALLENGING",
-        "thumbnail": "https://i3.ytimg.com/vi/nlyHBPWsgeI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nlyHBPWsgeI",
-        "publishedAt": "2026-08-05"
       }
     ]
   }
