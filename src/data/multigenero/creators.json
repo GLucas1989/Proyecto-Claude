@@ -119,6 +119,55 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-QCnlrRuEqYs",
+        "title": "Fortnite, por qué me haces esto...",
+        "thumbnail": "https://i2.ytimg.com/vi/QCnlrRuEqYs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QCnlrRuEqYs",
+        "publishedAt": "2026-08-23"
+      },
+      {
+        "id": "vid-Q1I8phi3WEE",
+        "title": "He vuelto a ganar en Fortnite…",
+        "thumbnail": "https://i2.ytimg.com/vi/Q1I8phi3WEE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q1I8phi3WEE",
+        "publishedAt": "2026-08-22"
+      },
+      {
+        "id": "vid-6lD4BohkHR4",
+        "title": "He hecho el reto de Spider-Man",
+        "thumbnail": "https://i3.ytimg.com/vi/6lD4BohkHR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6lD4BohkHR4",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-s-mFhv_fr3w",
+        "title": "LA NUEVA TEMPORADA DE FORTNITE ES UNA LOCURA - TheGrefg",
+        "thumbnail": "https://i4.ytimg.com/vi/s-mFhv_fr3w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=s-mFhv_fr3w",
+        "publishedAt": "2026-08-20"
+      },
+      {
+        "id": "vid-XlxrOrFzFzQ",
+        "title": "GTA 6 filtrado 🚨",
+        "thumbnail": "https://i1.ytimg.com/vi/XlxrOrFzFzQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XlxrOrFzFzQ",
+        "publishedAt": "2026-08-19"
+      },
+      {
+        "id": "vid-J5A16bzdvNc",
+        "title": "La mejor carne del mundo ⭐️",
+        "thumbnail": "https://i3.ytimg.com/vi/J5A16bzdvNc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J5A16bzdvNc",
+        "publishedAt": "2026-08-19"
+      },
+      {
+        "id": "vid-EEwEEDsfuNc",
+        "title": "EL MEJOR RESTAURANTE DE CARNE DEL MUNDO \"La Cúpula de El Capricho\"",
+        "thumbnail": "https://i2.ytimg.com/vi/EEwEEDsfuNc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EEwEEDsfuNc",
+        "publishedAt": "2026-08-18"
+      },
+      {
         "id": "vid-KlUr9YFh4ko",
         "title": "El momento en el que Jesús Calleja se emociona con el Eclipse",
         "thumbnail": "https://i4.ytimg.com/vi/KlUr9YFh4ko/hqdefault.jpg",
@@ -138,55 +187,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/pafY2nzSPg0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pafY2nzSPg0",
         "publishedAt": "2026-08-13"
-      },
-      {
-        "id": "vid-1Jf2vKy_RgA",
-        "title": "Así será el eclipse solar",
-        "thumbnail": "https://i2.ytimg.com/vi/1Jf2vKy_RgA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1Jf2vKy_RgA",
-        "publishedAt": "2026-08-12"
-      },
-      {
-        "id": "vid-Q8xJ-d0VayY",
-        "title": "Pi",
-        "thumbnail": "https://i2.ytimg.com/vi/Q8xJ-d0VayY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q8xJ-d0VayY",
-        "publishedAt": "2026-08-11"
-      },
-      {
-        "id": "vid-ABLwwkXmFUk",
-        "title": "¿Qué me ha pasado?",
-        "thumbnail": "https://i2.ytimg.com/vi/ABLwwkXmFUk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ABLwwkXmFUk",
-        "publishedAt": "2026-08-10"
-      },
-      {
-        "id": "vid-_jxL47flSiM",
-        "title": "Mi primera funa",
-        "thumbnail": "https://i4.ytimg.com/vi/_jxL47flSiM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_jxL47flSiM",
-        "publishedAt": "2026-08-09"
-      },
-      {
-        "id": "vid-iuZM7USJiYk",
-        "title": "El mejor face reveal de la historia de YouTube",
-        "thumbnail": "https://i2.ytimg.com/vi/iuZM7USJiYk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iuZM7USJiYk",
-        "publishedAt": "2026-08-08"
-      },
-      {
-        "id": "vid-MlN7poDa4LM",
-        "title": "No hagáis esto en casa",
-        "thumbnail": "https://i2.ytimg.com/vi/MlN7poDa4LM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MlN7poDa4LM",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-ze20VZg1Zfc",
-        "title": "LA MAYOR LOCURA DESPUÉS DE LA VELADA",
-        "thumbnail": "https://i3.ytimg.com/vi/ze20VZg1Zfc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ze20VZg1Zfc",
-        "publishedAt": "2026-08-06"
       }
     ]
   },

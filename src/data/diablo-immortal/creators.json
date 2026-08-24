@@ -213,6 +213,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-LwurrkKTfxw",
+        "title": "VOB Match ft. Old-Time Player xRare's Blood Knight with 13-1-20 KDA | Diablo Immortal",
+        "thumbnail": "https://i1.ytimg.com/vi/LwurrkKTfxw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LwurrkKTfxw",
+        "publishedAt": "2026-08-23"
+      },
+      {
         "id": "vid-uIqC7S8vLgw",
         "title": "Xtilus's PVP Warlock, Crocodilo's Blessed Reign, & Aries's Ascension (Aug 18 ROE) | Diablo Immortal",
         "thumbnail": "https://i2.ytimg.com/vi/uIqC7S8vLgw/hqdefault.jpg",
@@ -274,13 +281,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/os64ShJKPmI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=os64ShJKPmI",
         "publishedAt": "2026-06-21"
-      },
-      {
-        "id": "vid-aoYrBHpULg4",
-        "title": "My First Lucky Mirrored Jewels ER Run (I Got 4 5-Star Gems Overall)| Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/aoYrBHpULg4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aoYrBHpULg4",
-        "publishedAt": "2026-06-17"
       }
     ]
   },
@@ -308,6 +308,34 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-r2ool7mrlIA",
+        "title": "🔴 Necro PvP + Weekly chores!",
+        "thumbnail": "https://i3.ytimg.com/vi/r2ool7mrlIA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r2ool7mrlIA",
+        "publishedAt": "2026-08-23"
+      },
+      {
+        "id": "vid-VT9MFPF9Hfk",
+        "title": "🔴 DUNGEONATHON: Beat 152?! YOU Add the Dungeons!",
+        "thumbnail": "https://i3.ytimg.com/vi/VT9MFPF9Hfk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VT9MFPF9Hfk",
+        "publishedAt": "2026-08-22"
+      },
+      {
+        "id": "vid-cqASpdc8SXc",
+        "title": "🔴New Necro PvP Build! Mirrored Jewels + Dungeons!",
+        "thumbnail": "https://i4.ytimg.com/vi/cqASpdc8SXc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cqASpdc8SXc",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-7HPPOJcNoT4",
+        "title": "🔴 Necro PvP Build Testing + Dungeons!",
+        "thumbnail": "https://i4.ytimg.com/vi/7HPPOJcNoT4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7HPPOJcNoT4",
+        "publishedAt": "2026-08-17"
+      },
       {
         "id": "vid-T8XUp_kdmtQ",
         "title": "🔴 Necro FLOOR-Grounds, Terror Rifts + Dungeons!!",
@@ -349,34 +377,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/QCuMyKB7vYg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=QCuMyKB7vYg",
         "publishedAt": "2026-08-08"
-      },
-      {
-        "id": "vid-sMoD-SJM2iY",
-        "title": "LIVE: Necro PvP + Weekly Clear up!",
-        "thumbnail": "https://i4.ytimg.com/vi/sMoD-SJM2iY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sMoD-SJM2iY",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-NY_kyvwEnKI",
-        "title": "LIVE: Testing Necro PvP Build! | Dungeons | Mirrored Jewels!",
-        "thumbnail": "https://i3.ytimg.com/vi/NY_kyvwEnKI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NY_kyvwEnKI",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-gX25dmymS-s",
-        "title": "LIVE: Testing Necro PvP Build! | Inferno 14 Dungeons & Chill",
-        "thumbnail": "https://i4.ytimg.com/vi/gX25dmymS-s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gX25dmymS-s",
-        "publishedAt": "2026-08-02"
-      },
-      {
-        "id": "vid-D8m_U6f6jug",
-        "title": "LIVE: Testing Necro PvP Build! | Inferno 14 Dungeons & Chill",
-        "thumbnail": "https://i1.ytimg.com/vi/D8m_U6f6jug/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D8m_U6f6jug",
-        "publishedAt": "2026-07-31"
       }
     ]
   }

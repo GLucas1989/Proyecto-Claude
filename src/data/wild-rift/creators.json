@@ -69,6 +69,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-Kal31q6LQFU",
+        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #21",
+        "thumbnail": "https://i4.ytimg.com/vi/Kal31q6LQFU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Kal31q6LQFU",
+        "publishedAt": "2026-08-23"
+      },
+      {
+        "id": "vid-EEMFN2cKgIo",
+        "title": "INSANE ADC MOMENTS 2026 (Twitch 1v9 Pentakill, Zeri Movement, High APM Vayne...)",
+        "thumbnail": "https://i2.ytimg.com/vi/EEMFN2cKgIo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EEMFN2cKgIo",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-LKzt6uLOLJk",
+        "title": "50 BEAUTIFUL TEAM WIPES IN LEAGUE OF LEGENDS!",
+        "thumbnail": "https://i1.ytimg.com/vi/LKzt6uLOLJk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LKzt6uLOLJk",
+        "publishedAt": "2026-08-19"
+      },
+      {
         "id": "vid-E5B0eVUz4tA",
         "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #20",
         "thumbnail": "https://i2.ytimg.com/vi/E5B0eVUz4tA/hqdefault.jpg",
@@ -116,27 +137,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/IgQpKyuVDfY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=IgQpKyuVDfY",
         "publishedAt": "2026-08-04"
-      },
-      {
-        "id": "vid-j-BqhUjcZLI",
-        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #18",
-        "thumbnail": "https://i3.ytimg.com/vi/j-BqhUjcZLI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=j-BqhUjcZLI",
-        "publishedAt": "2026-08-02"
-      },
-      {
-        "id": "vid-LqxDlMYHlz8",
-        "title": "SMARTEST MOMENTS IN LEAGUE OF LEGENDS #78",
-        "thumbnail": "https://i1.ytimg.com/vi/LqxDlMYHlz8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LqxDlMYHlz8",
-        "publishedAt": "2026-07-31"
-      },
-      {
-        "id": "vid-HR1CjKPofS8",
-        "title": "50 PERFECT BAITS IN LEAGUE OF LEGENDS!",
-        "thumbnail": "https://i1.ytimg.com/vi/HR1CjKPofS8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HR1CjKPofS8",
-        "publishedAt": "2026-07-29"
       }
     ]
   },
@@ -262,6 +262,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-c7gVGqX4EhE",
+        "title": "¿Notaste algo... diferente? Cho'Gath dice que es un simple almuerzo. Tenemos nuestras dudas 😈",
+        "thumbnail": "https://i4.ytimg.com/vi/c7gVGqX4EhE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c7gVGqX4EhE",
+        "publishedAt": "2026-08-18"
+      },
+      {
         "id": "vid-jxXrRWdRI2M",
         "title": "¡Miren, un nuevo ingrediente! Pero algo me dice que no es de esos fáciles de comer...🌹",
         "thumbnail": "https://i3.ytimg.com/vi/jxXrRWdRI2M/hqdefault.jpg",
@@ -323,13 +330,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/6WMdeiVK3vA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6WMdeiVK3vA",
         "publishedAt": "2026-07-25"
-      },
-      {
-        "id": "vid-D4JAmUlspAo",
-        "title": "Tráiler de la versión 7.2: Festín",
-        "thumbnail": "https://i1.ytimg.com/vi/D4JAmUlspAo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D4JAmUlspAo",
-        "publishedAt": "2026-07-09"
       }
     ]
   },

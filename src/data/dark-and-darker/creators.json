@@ -27,6 +27,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-GeuaiLS1590",
+        "title": "THE ULTIMATE SHIELD FIGHTER ZERO TO HERO - Dark and Darker",
+        "thumbnail": "https://i4.ytimg.com/vi/GeuaiLS1590/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GeuaiLS1590",
+        "publishedAt": "2026-08-17"
+      },
+      {
         "id": "vid-C-09-XNBh1s",
         "title": "THE NEW WIPE IS ABSOLUTE CINEMA... - Dark and Darker",
         "thumbnail": "https://i4.ytimg.com/vi/C-09-XNBh1s/hqdefault.jpg",
@@ -88,13 +95,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/FzyE_pv4EL4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FzyE_pv4EL4",
         "publishedAt": "2026-03-17"
-      },
-      {
-        "id": "vid-URBT9eB7AEg",
-        "title": "Gearing up FAST from nothing late into wipe (without PvP or bossing) - Dark and Darker",
-        "thumbnail": "https://i2.ytimg.com/vi/URBT9eB7AEg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=URBT9eB7AEg",
-        "publishedAt": "2026-03-11"
       }
     ]
   },
@@ -216,6 +216,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-C921UMfCLEE",
+        "title": "Bard is SECRETLY Insane in Dark and Darker",
+        "thumbnail": "https://i4.ytimg.com/vi/C921UMfCLEE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C921UMfCLEE",
+        "publishedAt": "2026-08-23"
+      },
+      {
         "id": "vid-tel7SwF1d-Y",
         "title": "Prediction of the Century!? #gaming #y4mi #darkanddarker #shorts",
         "thumbnail": "https://i1.ytimg.com/vi/tel7SwF1d-Y/hqdefault.jpg",
@@ -277,13 +284,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/wDZEXFjuRHA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wDZEXFjuRHA",
         "publishedAt": "2026-06-27"
-      },
-      {
-        "id": "vid-RRUnYEsuoaI",
-        "title": "Still Catching up to him as a FULL plate Fighter #darkanddarker",
-        "thumbnail": "https://i3.ytimg.com/vi/RRUnYEsuoaI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RRUnYEsuoaI",
-        "publishedAt": "2026-06-25"
       }
     ]
   },
@@ -315,6 +315,55 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-hM_79vob_Xw",
+        "title": "Solo pvp COMBAT GUIDE for Greatsword Withered Knight – Mistfall Hunter",
+        "thumbnail": "https://i1.ytimg.com/vi/hM_79vob_Xw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hM_79vob_Xw",
+        "publishedAt": "2026-08-22"
+      },
+      {
+        "id": "vid-3dOV-7xJh2g",
+        "title": "Did our hopes & fears come true? Mistfall Hunter",
+        "thumbnail": "https://i4.ytimg.com/vi/3dOV-7xJh2g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3dOV-7xJh2g",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-ekprqrriMGk",
+        "title": "topless knight vs EPIC knight (flawless) #mistfallhunter",
+        "thumbnail": "https://i2.ytimg.com/vi/ekprqrriMGk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ekprqrriMGk",
+        "publishedAt": "2026-08-20"
+      },
+      {
+        "id": "vid-poDrW4bnwx4",
+        "title": "ZERO to HERO Withered Knight (using 1/8 talents) – Mistfall Hunter",
+        "thumbnail": "https://i1.ytimg.com/vi/poDrW4bnwx4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=poDrW4bnwx4",
+        "publishedAt": "2026-08-19"
+      },
+      {
+        "id": "vid-Jl4LNCC21IA",
+        "title": "greatsword WK = new melee meta #mistfallhunter #cinematic",
+        "thumbnail": "https://i3.ytimg.com/vi/Jl4LNCC21IA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Jl4LNCC21IA",
+        "publishedAt": "2026-08-19"
+      },
+      {
+        "id": "vid-ErW9DE1SyJw",
+        "title": "Epic MERC vs underpowered knight #mistfallhunter",
+        "thumbnail": "https://i2.ytimg.com/vi/ErW9DE1SyJw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ErW9DE1SyJw",
+        "publishedAt": "2026-08-18"
+      },
+      {
+        "id": "vid-SkmugXkmhVY",
+        "title": "let's SEE how dumb this class is LIVE – Mistfall Hunter",
+        "thumbnail": "https://i4.ytimg.com/vi/SkmugXkmhVY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SkmugXkmhVY",
+        "publishedAt": "2026-08-18"
+      },
+      {
         "id": "vid-gWES7NRd8FI",
         "title": "-1 sorcerer #mistfallhunter",
         "thumbnail": "https://i4.ytimg.com/vi/gWES7NRd8FI/hqdefault.jpg",
@@ -334,55 +383,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/BO6b6bAVR7c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BO6b6bAVR7c",
         "publishedAt": "2026-08-13"
-      },
-      {
-        "id": "vid-NWE5oGJNN3U",
-        "title": "Seers LOSE to Withered Knight – Mistfall Hunter",
-        "thumbnail": "https://i3.ytimg.com/vi/NWE5oGJNN3U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NWE5oGJNN3U",
-        "publishedAt": "2026-08-11"
-      },
-      {
-        "id": "vid-AHqAq92MDEY",
-        "title": "learning Shield Knight LIVE – Mistfall Hunter",
-        "thumbnail": "https://i2.ytimg.com/vi/AHqAq92MDEY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AHqAq92MDEY",
-        "publishedAt": "2026-08-10"
-      },
-      {
-        "id": "vid-WHV619NB18Y",
-        "title": "chaos KNIGHT FIGHT #mistfallhunter #cinematic",
-        "thumbnail": "https://i4.ytimg.com/vi/WHV619NB18Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WHV619NB18Y",
-        "publishedAt": "2026-08-10"
-      },
-      {
-        "id": "vid-H4KM498OGLE",
-        "title": "Learn the opposition LIVE – Mistfall Hunter",
-        "thumbnail": "https://i1.ytimg.com/vi/H4KM498OGLE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H4KM498OGLE",
-        "publishedAt": "2026-08-08"
-      },
-      {
-        "id": "vid-4xMfawkkTrU",
-        "title": "blue knight vs LEGENDARY knight #mistfallhunter",
-        "thumbnail": "https://i1.ytimg.com/vi/4xMfawkkTrU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4xMfawkkTrU",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-cbJSboa2RDw",
-        "title": "Rogues LOSE to Withered Knight – Mistfall Hunter",
-        "thumbnail": "https://i4.ytimg.com/vi/cbJSboa2RDw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cbJSboa2RDw",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-1reuDqbAC0A",
-        "title": "Blackarrows LOSE to Withered Knight – Mistfall Hunter",
-        "thumbnail": "https://i2.ytimg.com/vi/1reuDqbAC0A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1reuDqbAC0A",
-        "publishedAt": "2026-08-05"
       }
     ]
   },
@@ -413,6 +413,41 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-XlW6LDN_lq8",
+        "title": "frost wave might be good",
+        "thumbnail": "https://i1.ytimg.com/vi/XlW6LDN_lq8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XlW6LDN_lq8",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-HxbiyFV9TlQ",
+        "title": "clutch gene activated",
+        "thumbnail": "https://i1.ytimg.com/vi/HxbiyFV9TlQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HxbiyFV9TlQ",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-E5eCe59LSzM",
+        "title": "did all i could",
+        "thumbnail": "https://i2.ytimg.com/vi/E5eCe59LSzM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E5eCe59LSzM",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-li4tinHcMeo",
+        "title": "making transmute look good",
+        "thumbnail": "https://i1.ytimg.com/vi/li4tinHcMeo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=li4tinHcMeo",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-dbHuaMVpeEY",
+        "title": "average ken play",
+        "thumbnail": "https://i1.ytimg.com/vi/dbHuaMVpeEY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dbHuaMVpeEY",
+        "publishedAt": "2026-08-21"
+      },
       {
         "id": "vid-5BxgAngyYD0",
         "title": "political ice cream take",
@@ -447,41 +482,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/yRbqVfj5u6U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yRbqVfj5u6U",
         "publishedAt": "2026-08-15"
-      },
-      {
-        "id": "vid-ZjhI-06nbFE",
-        "title": "humble box",
-        "thumbnail": "https://i3.ytimg.com/vi/ZjhI-06nbFE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZjhI-06nbFE",
-        "publishedAt": "2026-08-15"
-      },
-      {
-        "id": "vid-HVSGvEIgKQk",
-        "title": "insane transmute play",
-        "thumbnail": "https://i1.ytimg.com/vi/HVSGvEIgKQk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HVSGvEIgKQk",
-        "publishedAt": "2026-08-10"
-      },
-      {
-        "id": "vid-jIO-QpRCzW0",
-        "title": "Invisible cock",
-        "thumbnail": "https://i3.ytimg.com/vi/jIO-QpRCzW0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jIO-QpRCzW0",
-        "publishedAt": "2026-08-10"
-      },
-      {
-        "id": "vid-hT4IAjxxYRE",
-        "title": "man of iron",
-        "thumbnail": "https://i1.ytimg.com/vi/hT4IAjxxYRE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hT4IAjxxYRE",
-        "publishedAt": "2026-08-09"
-      },
-      {
-        "id": "vid-Rr__oyNipdo",
-        "title": "im just a rock",
-        "thumbnail": "https://i3.ytimg.com/vi/Rr__oyNipdo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rr__oyNipdo",
-        "publishedAt": "2026-08-09"
       }
     ]
   }
