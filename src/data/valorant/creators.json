@@ -21,6 +21,27 @@
     },
     "latestVideos": [
       {
+        "id": "vid-sw7kZxFIF60",
+        "title": "I accidentally queued into Summit1g in CS2 and destroyed him.",
+        "thumbnail": "https://i4.ytimg.com/vi/sw7kZxFIF60/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sw7kZxFIF60",
+        "publishedAt": "2026-08-25"
+      },
+      {
+        "id": "vid-HwDNzN8DMKw",
+        "title": "THE MOST DYSFUNCTIONAL CS2 TEAM EVER",
+        "thumbnail": "https://i1.ytimg.com/vi/HwDNzN8DMKw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HwDNzN8DMKw",
+        "publishedAt": "2026-08-20"
+      },
+      {
+        "id": "vid-cqjyUNkw0Ek",
+        "title": "I'M ENTERING MY SECOND PRIME!",
+        "thumbnail": "https://i4.ytimg.com/vi/cqjyUNkw0Ek/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cqjyUNkw0Ek",
+        "publishedAt": "2026-08-19"
+      },
+      {
         "id": "vid-kgcI17CljQY",
         "title": "First Pro Game Back, Kinda Nervous...",
         "thumbnail": "https://i4.ytimg.com/vi/kgcI17CljQY/hqdefault.jpg",
@@ -68,27 +89,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/Tb6CJypUBw4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Tb6CJypUBw4",
         "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-ca2yVLCZE84",
-        "title": "I randomly queued into a Pro team in ranked. Big mistake.",
-        "thumbnail": "https://i4.ytimg.com/vi/ca2yVLCZE84/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ca2yVLCZE84",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-0oxWsJmU3xc",
-        "title": "🔴LIVE - faceit s9 launch // new merch soon - Xitter @tarik #ad",
-        "thumbnail": "https://i1.ytimg.com/vi/0oxWsJmU3xc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0oxWsJmU3xc",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-chpbpv31h2w",
-        "title": "i gotta stop meowing for drops",
-        "thumbnail": "https://i4.ytimg.com/vi/chpbpv31h2w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=chpbpv31h2w",
-        "publishedAt": "2026-08-04"
       }
     ]
   },
@@ -112,6 +112,48 @@
       "twitter": "TenZOfficial"
     },
     "latestVideos": [
+      {
+        "id": "vid-seCynQmsW_c",
+        "title": "I PLAYED VALORANT WITH ATHENA from FIFTY FIFTY !!!",
+        "thumbnail": "https://i4.ytimg.com/vi/seCynQmsW_c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=seCynQmsW_c",
+        "publishedAt": "2026-08-31"
+      },
+      {
+        "id": "vid-HuhI93AiTqw",
+        "title": "THIS ONE HABIT IS RUINING YOUR AIM... | TenZ",
+        "thumbnail": "https://i1.ytimg.com/vi/HuhI93AiTqw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HuhI93AiTqw",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-aUdleLcmzKU",
+        "title": "might need a little more practice on the dance #Valorant #tenz #fiftyfifty",
+        "thumbnail": "https://i2.ytimg.com/vi/aUdleLcmzKU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aUdleLcmzKU",
+        "publishedAt": "2026-08-27"
+      },
+      {
+        "id": "vid-2LSxnpMi_hw",
+        "title": "WHEN TenZ PRACTICE HIS JETT FOR PRO PLAYS !!!",
+        "thumbnail": "https://i3.ytimg.com/vi/2LSxnpMi_hw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSxnpMi_hw",
+        "publishedAt": "2026-08-26"
+      },
+      {
+        "id": "vid-2cuMw_nX6-s",
+        "title": "the flash synergy was not there #Valorant #tenz #fiftyfifty",
+        "thumbnail": "https://i3.ytimg.com/vi/2cuMw_nX6-s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2cuMw_nX6-s",
+        "publishedAt": "2026-08-25"
+      },
+      {
+        "id": "vid-SjesGBbhrNw",
+        "title": "I've never seen this before #Valorant #tenz",
+        "thumbnail": "https://i4.ytimg.com/vi/SjesGBbhrNw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SjesGBbhrNw",
+        "publishedAt": "2026-08-24"
+      },
       {
         "id": "vid-ApJjDConfg8",
         "title": "THIS IS WHY REYNA IS BROKEN !!! | TenZ",
@@ -139,48 +181,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/qbALEfRwsv4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qbALEfRwsv4",
         "publishedAt": "2026-08-17"
-      },
-      {
-        "id": "vid-VyAc3AEuYDU",
-        "title": "HOW TENZ CLAIMED HIS FINAL VCT TROPHY !!! | TenZ Retro #2",
-        "thumbnail": "https://i3.ytimg.com/vi/VyAc3AEuYDU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VyAc3AEuYDU",
-        "publishedAt": "2026-08-16"
-      },
-      {
-        "id": "vid-kO2oPQ1V0H4",
-        "title": "Ngl the M10S II was incredibly easy to set up @sonyelectronics #tenz #INZONEPartner",
-        "thumbnail": "https://i4.ytimg.com/vi/kO2oPQ1V0H4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kO2oPQ1V0H4",
-        "publishedAt": "2026-08-15"
-      },
-      {
-        "id": "vid-IahJZCTzGEI",
-        "title": "TenZ X ATHENA VALORANT LIVE STREAM | T1 VALORANT",
-        "thumbnail": "https://i2.ytimg.com/vi/IahJZCTzGEI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IahJZCTzGEI",
-        "publishedAt": "2026-08-13"
-      },
-      {
-        "id": "vid-M1GcHh9Pgn4",
-        "title": "THE WORLD CUP GRIND BEGINS NOW !!! | TenZ",
-        "thumbnail": "https://i2.ytimg.com/vi/M1GcHh9Pgn4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=M1GcHh9Pgn4",
-        "publishedAt": "2026-08-13"
-      },
-      {
-        "id": "vid-kXnRt9joklU",
-        "title": "what even is friction #valorant #tenz #artisan",
-        "thumbnail": "https://i4.ytimg.com/vi/kXnRt9joklU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kXnRt9joklU",
-        "publishedAt": "2026-08-12"
-      },
-      {
-        "id": "vid-maoenrydQxc",
-        "title": "what a beautiful compilation #Valorant #tenz #yvonnie #s0m",
-        "thumbnail": "https://i2.ytimg.com/vi/maoenrydQxc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=maoenrydQxc",
-        "publishedAt": "2026-08-11"
       }
     ]
   },
@@ -390,6 +390,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-W5z3QKqgwKY",
+        "title": "Roblox pero todo es satisfactorio #2",
+        "thumbnail": "https://i4.ytimg.com/vi/W5z3QKqgwKY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W5z3QKqgwKY",
+        "publishedAt": "2026-08-28"
+      },
+      {
+        "id": "vid-bDz-uIbS_2s",
+        "title": "jugando juegos de cuando era chico",
+        "thumbnail": "https://i3.ytimg.com/vi/bDz-uIbS_2s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bDz-uIbS_2s",
+        "publishedAt": "2026-08-24"
+      },
+      {
         "id": "vid-vXwlNfdqb6U",
         "title": "PUSIMOS nuestras VOCES en estos PERSONAJES",
         "thumbnail": "https://i3.ytimg.com/vi/vXwlNfdqb6U/hqdefault.jpg",
@@ -444,20 +458,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/nOwhCQsAdAU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nOwhCQsAdAU",
         "publishedAt": "2026-06-01"
-      },
-      {
-        "id": "vid-sirjszqSmFo",
-        "title": "viendo edits que me hicieron 😎",
-        "thumbnail": "https://i4.ytimg.com/vi/sirjszqSmFo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sirjszqSmFo",
-        "publishedAt": "2026-05-27"
-      },
-      {
-        "id": "vid-qkq98SC4WZI",
-        "title": "Hice MI PROPIO ALFAJOR 😎",
-        "thumbnail": "https://i2.ytimg.com/vi/qkq98SC4WZI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qkq98SC4WZI",
-        "publishedAt": "2026-05-05"
       }
     ]
   },
@@ -482,6 +482,41 @@
       "twitter": "AverageJonas"
     },
     "latestVideos": [
+      {
+        "id": "vid-okJcNal5vBs",
+        "title": "Easy Recon/Shock dart combo for Summit",
+        "thumbnail": "https://i4.ytimg.com/vi/okJcNal5vBs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=okJcNal5vBs",
+        "publishedAt": "2026-08-31"
+      },
+      {
+        "id": "vid-c2tSVn9w0RU",
+        "title": "Sova lineups on Summit already?",
+        "thumbnail": "https://i4.ytimg.com/vi/c2tSVn9w0RU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c2tSVn9w0RU",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-kc7z8Qmge-I",
+        "title": "The Return side of Valorant Ranked",
+        "thumbnail": "https://i4.ytimg.com/vi/kc7z8Qmge-I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kc7z8Qmge-I",
+        "publishedAt": "2026-08-28"
+      },
+      {
+        "id": "vid-Mwfb0l2Uqkg",
+        "title": "How do you remember all your lineups?",
+        "thumbnail": "https://i2.ytimg.com/vi/Mwfb0l2Uqkg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mwfb0l2Uqkg",
+        "publishedAt": "2026-08-26"
+      },
+      {
+        "id": "vid-uYYxj8tju0k",
+        "title": "Blind Double Kill WIth Sova Ult",
+        "thumbnail": "https://i2.ytimg.com/vi/uYYxj8tju0k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uYYxj8tju0k",
+        "publishedAt": "2026-08-24"
+      },
       {
         "id": "vid-c_Y0HkiPESE",
         "title": "The Lineup King is Back to Valorant",
@@ -516,41 +551,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/BSMIhZsUqKs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BSMIhZsUqKs",
         "publishedAt": "2026-08-11"
-      },
-      {
-        "id": "vid-re_Jse9mjGE",
-        "title": "Ivy + Dynamo kidnaps the whole neighborhood..",
-        "thumbnail": "https://i3.ytimg.com/vi/re_Jse9mjGE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=re_Jse9mjGE",
-        "publishedAt": "2026-08-09"
-      },
-      {
-        "id": "vid-xdm6WY4ScRc",
-        "title": "ULTIMATE CIRCLE SLOP COMP",
-        "thumbnail": "https://i1.ytimg.com/vi/xdm6WY4ScRc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xdm6WY4ScRc",
-        "publishedAt": "2026-08-09"
-      },
-      {
-        "id": "vid-7tM4PF2UU-k",
-        "title": "Wraith players need to suffer...",
-        "thumbnail": "https://i4.ytimg.com/vi/7tM4PF2UU-k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7tM4PF2UU-k",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-biM75nnShyw",
-        "title": "Returning to Valorant for my Birthday.. (August 20th)",
-        "thumbnail": "https://i3.ytimg.com/vi/biM75nnShyw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=biM75nnShyw",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-LKQWjyiZDAc",
-        "title": "Returning to Valorant for my Birthday.. (August 20th)",
-        "thumbnail": "https://i1.ytimg.com/vi/LKQWjyiZDAc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LKQWjyiZDAc",
-        "publishedAt": "2026-08-05"
       }
     ]
   },

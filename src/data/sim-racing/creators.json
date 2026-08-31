@@ -21,6 +21,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Dcj_IFIZJNU",
+        "title": "I Have No Idea How He Pulled This Off",
+        "thumbnail": "https://i1.ytimg.com/vi/Dcj_IFIZJNU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Dcj_IFIZJNU",
+        "publishedAt": "2026-08-30"
+      },
+      {
+        "id": "vid-T10nGCNv6GI",
+        "title": "I Have No Idea How He Survived This",
+        "thumbnail": "https://i1.ytimg.com/vi/T10nGCNv6GI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T10nGCNv6GI",
+        "publishedAt": "2026-08-27"
+      },
+      {
         "id": "vid-pVZQM0sAkcs",
         "title": "I'm A Great Rally Driver",
         "thumbnail": "https://i1.ytimg.com/vi/pVZQM0sAkcs/hqdefault.jpg",
@@ -75,20 +89,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/KgG8ET85AsY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KgG8ET85AsY",
         "publishedAt": "2026-08-18"
-      },
-      {
-        "id": "vid-Uqb9jGJCo8U",
-        "title": "Reacting To Your BEST Racing Overtakes",
-        "thumbnail": "https://i2.ytimg.com/vi/Uqb9jGJCo8U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Uqb9jGJCo8U",
-        "publishedAt": "2026-08-17"
-      },
-      {
-        "id": "vid-OEwai5TRwcQ",
-        "title": "There's No Way You'd Survive This",
-        "thumbnail": "https://i4.ytimg.com/vi/OEwai5TRwcQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OEwai5TRwcQ",
-        "publishedAt": "2026-08-17"
       }
     ]
   },
@@ -113,6 +113,48 @@
       "twitter": "Jardier"
     },
     "latestVideos": [
+      {
+        "id": "vid-Em9OSIlDH6s",
+        "title": "Can I Handle This Alone? Big Challenge 8 Hours of DAYTONA Multiclass (maybe)",
+        "thumbnail": "https://i2.ytimg.com/vi/Em9OSIlDH6s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Em9OSIlDH6s",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-8u56yeJMIMs",
+        "title": "Me And Henrik vs 8 Hours of SURVIVAL DAYTONA Multiclass",
+        "thumbnail": "https://i1.ytimg.com/vi/8u56yeJMIMs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8u56yeJMIMs",
+        "publishedAt": "2026-08-28"
+      },
+      {
+        "id": "vid-SLA2taVP91Q",
+        "title": "We Are Racing LIVE with KTM in GT Cup Grand Prix of Slovakia",
+        "thumbnail": "https://i4.ytimg.com/vi/SLA2taVP91Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SLA2taVP91Q",
+        "publishedAt": "2026-08-22"
+      },
+      {
+        "id": "vid-y8kzMBxAq5A",
+        "title": "My INSANE close call!🤏😅",
+        "thumbnail": "https://i2.ytimg.com/vi/y8kzMBxAq5A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=y8kzMBxAq5A",
+        "publishedAt": "2026-08-21"
+      },
+      {
+        "id": "vid-Ao-WfOwN1as",
+        "title": "My Worst Start Ever🤦🏼‍♂️🤣",
+        "thumbnail": "https://i2.ytimg.com/vi/Ao-WfOwN1as/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ao-WfOwN1as",
+        "publishedAt": "2026-08-20"
+      },
+      {
+        "id": "vid-FwjBx0C-NCI",
+        "title": "How I Almost Missed My Real GT Car Race But Won - GT Cup Most",
+        "thumbnail": "https://i3.ytimg.com/vi/FwjBx0C-NCI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FwjBx0C-NCI",
+        "publishedAt": "2026-08-18"
+      },
       {
         "id": "vid-9qTQDRHqBd0",
         "title": "I Want To Have Race Without Lag Issues - 4 Hours of ELMS SPA SOLO TRY",
@@ -140,48 +182,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/5VXSuPuELFE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5VXSuPuELFE",
         "publishedAt": "2026-08-12"
-      },
-      {
-        "id": "vid-EqqKgY7id84",
-        "title": "This is Harder Than it Looks - 2.4 Hours of SPA Weekly",
-        "thumbnail": "https://i2.ytimg.com/vi/EqqKgY7id84/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EqqKgY7id84",
-        "publishedAt": "2026-08-11"
-      },
-      {
-        "id": "vid-gUpswU1q4_0",
-        "title": "New Patch and Big Le Mans Race! - ELMS 90min Championship",
-        "thumbnail": "https://i4.ytimg.com/vi/gUpswU1q4_0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gUpswU1q4_0",
-        "publishedAt": "2026-08-10"
-      },
-      {
-        "id": "vid-6gidRZ8YJ3E",
-        "title": "Big Community Madness - Can We Survive 2.4 Hours of DAYTONA in GT3!",
-        "thumbnail": "https://i3.ytimg.com/vi/6gidRZ8YJ3E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6gidRZ8YJ3E",
-        "publishedAt": "2026-08-09"
-      },
-      {
-        "id": "vid-QhzLbfrJqVQ",
-        "title": "New Track Update AND Not Bottoming Out 2.4 Hours of Le Mans",
-        "thumbnail": "https://i2.ytimg.com/vi/QhzLbfrJqVQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QhzLbfrJqVQ",
-        "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-rGqZrPlb42Q",
-        "title": "First Time at 2026 Le Mans Big Grid Multiclass - ELMS 90min Championship",
-        "thumbnail": "https://i3.ytimg.com/vi/rGqZrPlb42Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rGqZrPlb42Q",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-b0gMY8bAj3w",
-        "title": "Is The Game Fixed? Incoming Thunderstorm ELMS 90Mins Championship SILVERSTONE",
-        "thumbnail": "https://i3.ytimg.com/vi/b0gMY8bAj3w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b0gMY8bAj3w",
-        "publishedAt": "2026-08-03"
       }
     ]
   },
@@ -298,6 +298,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-AGuRa_-mqfs",
+        "title": "Creator Series | 50 Laps of Las Vegas | Final Stand for the Championship??",
+        "thumbnail": "https://i2.ytimg.com/vi/AGuRa_-mqfs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AGuRa_-mqfs",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-XxDyUhLq4Q4",
+        "title": "Devon Butler still driving dirty in 2026..",
+        "thumbnail": "https://i1.ytimg.com/vi/XxDyUhLq4Q4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XxDyUhLq4Q4",
+        "publishedAt": "2026-08-25"
+      },
+      {
         "id": "vid-rP1vlR3Wplc",
         "title": "I Tried to Win an F1 26 Race without making ANY contact...",
         "thumbnail": "https://i3.ytimg.com/vi/rP1vlR3Wplc/hqdefault.jpg",
@@ -352,20 +366,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/wLBDZMxaxhg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wLBDZMxaxhg",
         "publishedAt": "2026-08-03"
-      },
-      {
-        "id": "vid-XS5GBuLjldw",
-        "title": "Overtaking Frenzy on lap 1 - Le Mans Ultimate Laguna Seca",
-        "thumbnail": "https://i1.ytimg.com/vi/XS5GBuLjldw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XS5GBuLjldw",
-        "publishedAt": "2026-08-02"
-      },
-      {
-        "id": "vid-Rqh229aRazQ",
-        "title": "NEW LMU CONTENT - Trying the New Tracks in Le Mans Ultimate!",
-        "thumbnail": "https://i3.ytimg.com/vi/Rqh229aRazQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rqh229aRazQ",
-        "publishedAt": "2026-08-01"
       }
     ]
   },
@@ -420,6 +420,27 @@
     },
     "latestVideos": [
       {
+        "id": "vid-qfRKPnq21_E",
+        "title": "MOZA GS GT - Why Wheel Shape Matters for Your Screen Visibility!  #simracingreviews",
+        "thumbnail": "https://i2.ytimg.com/vi/qfRKPnq21_E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qfRKPnq21_E",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-xmTleEtX2yo",
+        "title": "[UNBOXING] MVH Studios RSR 4.0 CORE | Logitech RS50/PlayStation compatible",
+        "thumbnail": "https://i1.ytimg.com/vi/xmTleEtX2yo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xmTleEtX2yo",
+        "publishedAt": "2026-08-27"
+      },
+      {
+        "id": "vid-Ab328CvBecU",
+        "title": "SIMAGIC TB-NEO HANDBRAKE – First Look + Hydraulic & Haptic Upgrades",
+        "thumbnail": "https://i2.ytimg.com/vi/Ab328CvBecU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ab328CvBecU",
+        "publishedAt": "2026-08-24"
+      },
+      {
         "id": "vid-owWBesOb7sA",
         "title": "SIMAGIC P700 Pedals - The Secret to Comfortable Sim Racing Pedals!",
         "thumbnail": "https://i4.ytimg.com/vi/owWBesOb7sA/hqdefault.jpg",
@@ -467,27 +488,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/rGv9EkNcbVo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rGv9EkNcbVo",
         "publishedAt": "2026-08-08"
-      },
-      {
-        "id": "vid-ZwJCcCOV0z0",
-        "title": "Should You Buy the REVOSIM RS PURE Direct Drive? Honest Review",
-        "thumbnail": "https://i3.ytimg.com/vi/ZwJCcCOV0z0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZwJCcCOV0z0",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-2Y0W_iSoMoc",
-        "title": "SIMDID DV480 PRO Sim Racing Display #simracingreviews",
-        "thumbnail": "https://i3.ytimg.com/vi/2Y0W_iSoMoc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2Y0W_iSoMoc",
-        "publishedAt": "2026-08-01"
-      },
-      {
-        "id": "vid-qHiIgqmWHuM",
-        "title": "Logitech Racing Adaptor [REVIEW] Bridges compatibility between old and new hardware!",
-        "thumbnail": "https://i2.ytimg.com/vi/qHiIgqmWHuM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qHiIgqmWHuM",
-        "publishedAt": "2026-07-30"
       }
     ]
   }

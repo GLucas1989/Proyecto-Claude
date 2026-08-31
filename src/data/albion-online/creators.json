@@ -122,6 +122,34 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-FcBtSrG3gR0",
+        "title": "Everything You MISSED in the NEW UPDATE | Albion Online",
+        "thumbnail": "https://i3.ytimg.com/vi/FcBtSrG3gR0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FcBtSrG3gR0",
+        "publishedAt": "2026-08-31"
+      },
+      {
+        "id": "vid-9_HBF1LdTeo",
+        "title": "NEW HARDEST PvE Content in Albion Online",
+        "thumbnail": "https://i2.ytimg.com/vi/9_HBF1LdTeo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9_HBF1LdTeo",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-g83f9-eFgsA",
+        "title": "My BEST Builds From This Summer in Albion Online",
+        "thumbnail": "https://i4.ytimg.com/vi/g83f9-eFgsA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=g83f9-eFgsA",
+        "publishedAt": "2026-08-26"
+      },
+      {
+        "id": "vid-C2ZViv7y5Kc",
+        "title": "This SOLO Fire Staff Build Is SO STRONG in Albion Online",
+        "thumbnail": "https://i4.ytimg.com/vi/C2ZViv7y5Kc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C2ZViv7y5Kc",
+        "publishedAt": "2026-08-24"
+      },
+      {
         "id": "vid-mJQE4X1u5os",
         "title": "I Started With NOTHING in Albion Online",
         "thumbnail": "https://i2.ytimg.com/vi/mJQE4X1u5os/hqdefault.jpg",
@@ -162,34 +190,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/S7rFkMRGhAU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=S7rFkMRGhAU",
         "publishedAt": "2026-08-10"
-      },
-      {
-        "id": "vid-8e_skVH-_o0",
-        "title": "This Build Deals INSANE Damage in Albion Online",
-        "thumbnail": "https://i1.ytimg.com/vi/8e_skVH-_o0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8e_skVH-_o0",
-        "publishedAt": "2026-08-08"
-      },
-      {
-        "id": "vid-xfKg0A94DR0",
-        "title": "HUGE META CHANGES AGAIN! | Albion Online",
-        "thumbnail": "https://i1.ytimg.com/vi/xfKg0A94DR0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xfKg0A94DR0",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-lWYGuM4G2Ak",
-        "title": "🔴 Coolest Weapon in Albion Online",
-        "thumbnail": "https://i1.ytimg.com/vi/lWYGuM4G2Ak/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lWYGuM4G2Ak",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-2MmEpODd7go",
-        "title": "This Might Be the Best Solo Bow Build! | Albion Online",
-        "thumbnail": "https://i3.ytimg.com/vi/2MmEpODd7go/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2MmEpODd7go",
-        "publishedAt": "2026-08-04"
       }
     ]
   },
@@ -215,6 +215,20 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-HM59zAj_8LI",
+        "title": "10x Dagger Solo Mist Albion Online",
+        "thumbnail": "https://i1.ytimg.com/vi/HM59zAj_8LI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HM59zAj_8LI",
+        "publishedAt": "2026-08-30"
+      },
+      {
+        "id": "vid-BxltQrl-6Es",
+        "title": "10x Dagger Solo Mist Albion Online",
+        "thumbnail": "https://i3.ytimg.com/vi/BxltQrl-6Es/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BxltQrl-6Es",
+        "publishedAt": "2026-08-28"
+      },
       {
         "id": "vid-YFSRP8nKJds",
         "title": "10x Dagger Solo Mist Albion Online",
@@ -270,20 +284,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/-OXJj3jTN_E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-OXJj3jTN_E",
         "publishedAt": "2026-04-28"
-      },
-      {
-        "id": "vid-hk0lp3iQrpw",
-        "title": "The Most Consistent Weapon in Albion Online| Weapon Review| Magepotemkin",
-        "thumbnail": "https://i1.ytimg.com/vi/hk0lp3iQrpw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hk0lp3iQrpw",
-        "publishedAt": "2026-01-06"
-      },
-      {
-        "id": "vid-LlnKyd3e8tI",
-        "title": "The Best Dagger Build in Albion Online  #albion #gaming #mmorpg",
-        "thumbnail": "https://i1.ytimg.com/vi/LlnKyd3e8tI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LlnKyd3e8tI",
-        "publishedAt": "2025-12-09"
       }
     ]
   },
@@ -503,6 +503,55 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-eue7EYoN-j8",
+        "title": "🔴 DRAGONFIRE HA LLEGADO a ALBION ONLINE 🐉 EN DIRECTO",
+        "thumbnail": "https://i2.ytimg.com/vi/eue7EYoN-j8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eue7EYoN-j8",
+        "publishedAt": "2026-04-13"
+      },
+      {
+        "id": "vid-4S3V9uHmHVU",
+        "title": "TIERRAS ANCESTRALES de ALBION ONLINE 🔥🐉 GUIA COMPLETA",
+        "thumbnail": "https://i1.ytimg.com/vi/4S3V9uHmHVU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4S3V9uHmHVU",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-YGqftZan_cU",
+        "title": "ES EL FINAL... 😦",
+        "thumbnail": "https://i2.ytimg.com/vi/YGqftZan_cU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YGqftZan_cU",
+        "publishedAt": "2026-08-28"
+      },
+      {
+        "id": "vid-w5cId4AeQSo",
+        "title": "NUEVA POCIÓN Y COMIDA de DRAGON 🐲🔥 Albion Online",
+        "thumbnail": "https://i4.ytimg.com/vi/w5cId4AeQSo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w5cId4AeQSo",
+        "publishedAt": "2026-08-27"
+      },
+      {
+        "id": "vid-62zFbMVxsac",
+        "title": "ESTA ARMA ESTÁ INFRAVALORADA... 🔥 Albion Online",
+        "thumbnail": "https://i3.ytimg.com/vi/62zFbMVxsac/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=62zFbMVxsac",
+        "publishedAt": "2026-08-26"
+      },
+      {
+        "id": "vid-eivsUWn3cgI",
+        "title": "LA MONTURA DE DRAGON TENDRÁ HABILIDAD 🐲🔥 Albion Online",
+        "thumbnail": "https://i2.ytimg.com/vi/eivsUWn3cgI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eivsUWn3cgI",
+        "publishedAt": "2026-08-25"
+      },
+      {
+        "id": "vid-wXBksdaq1F4",
+        "title": "CAMBIOS al LOOT, NUEVA HABILIDAD DEL DRAGON Y MÁS 🤔 Café y Mazmorras #76",
+        "thumbnail": "https://i4.ytimg.com/vi/wXBksdaq1F4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wXBksdaq1F4",
+        "publishedAt": "2026-08-24"
+      },
+      {
         "id": "vid-FRFc6mFBQ2g",
         "title": "HAN MEJORADO LOS COFRES en ALBION ONLINE? 🎁",
         "thumbnail": "https://i3.ytimg.com/vi/FRFc6mFBQ2g/hqdefault.jpg",
@@ -522,55 +571,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/AyUE2o2Jb0I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AyUE2o2Jb0I",
         "publishedAt": "2026-08-19"
-      },
-      {
-        "id": "vid-RiVA1i3YrSQ",
-        "title": "ES NECESARIO EL PREMIUM PARA JUGAR ALBION ONLINE? 🤔",
-        "thumbnail": "https://i3.ytimg.com/vi/RiVA1i3YrSQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RiVA1i3YrSQ",
-        "publishedAt": "2026-08-18"
-      },
-      {
-        "id": "vid-k6jZiVSGIt0",
-        "title": "¿Es NECESARIO el PREMIUM en Albion Online? 🤔☕ Café y Mazmorras #75",
-        "thumbnail": "https://i4.ytimg.com/vi/k6jZiVSGIt0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=k6jZiVSGIt0",
-        "publishedAt": "2026-08-17"
-      },
-      {
-        "id": "vid-UIq7jHaCniE",
-        "title": "HAN VUELTO LOS PUÑOS DE AVALON en ALBION ONLINE 🥊🔥",
-        "thumbnail": "https://i2.ytimg.com/vi/UIq7jHaCniE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UIq7jHaCniE",
-        "publishedAt": "2026-08-13"
-      },
-      {
-        "id": "vid-cOcP3Z0Zm40",
-        "title": "¿POR QUÉ NO HAY LOOT EN ALBION ONLINE? 🙄 Café y Mazmorras #74",
-        "thumbnail": "https://i4.ytimg.com/vi/cOcP3Z0Zm40/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cOcP3Z0Zm40",
-        "publishedAt": "2026-08-10"
-      },
-      {
-        "id": "vid-Cue5zQFoosE",
-        "title": "ESTO CAMBIARÁ EL PVE PARA SIEMPRE en ALBION ONLINE 🤯 NUEVO PARCHE 5",
-        "thumbnail": "https://i4.ytimg.com/vi/Cue5zQFoosE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Cue5zQFoosE",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-cyFdfHa5wdo",
-        "title": "LA MONTURA DE DRAGÓN ES MÁS RARA DE LO QUE PARECE 🤷‍♀️",
-        "thumbnail": "https://i4.ytimg.com/vi/cyFdfHa5wdo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cyFdfHa5wdo",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-tyrpng8hw4c",
-        "title": "NUEVA MONTURA Y EQUIPO de DRAGON en ALBION ONLINE 🤯",
-        "thumbnail": "https://i1.ytimg.com/vi/tyrpng8hw4c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tyrpng8hw4c",
-        "publishedAt": "2026-08-03"
       }
     ]
   }

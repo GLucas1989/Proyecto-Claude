@@ -125,6 +125,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-sZLluTPcR34",
+        "title": "Cowardly Lion Cost Me Every Shard I Own",
+        "thumbnail": "https://i4.ytimg.com/vi/sZLluTPcR34/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sZLluTPcR34",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-wpsiF8Q0TMw",
+        "title": "Plarium is CHANGING Shard Chances for Events",
+        "thumbnail": "https://i4.ytimg.com/vi/wpsiF8Q0TMw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wpsiF8Q0TMw",
+        "publishedAt": "2026-08-28"
+      },
+      {
+        "id": "vid-kKsotmeaBVU",
+        "title": "Turtles VS Assassins VS Oz Champs RANKED 17 to 1",
+        "thumbnail": "https://i4.ytimg.com/vi/kKsotmeaBVU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kKsotmeaBVU",
+        "publishedAt": "2026-08-27"
+      },
+      {
+        "id": "vid-5DTPxSUuj8c",
+        "title": "This Dorothy Discovery Changes EVERYTHING",
+        "thumbnail": "https://i2.ytimg.com/vi/5DTPxSUuj8c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5DTPxSUuj8c",
+        "publishedAt": "2026-08-26"
+      },
+      {
+        "id": "vid-oXgL6nYgpjE",
+        "title": "100 Days Playing RAID F2P: Account Review",
+        "thumbnail": "https://i4.ytimg.com/vi/oXgL6nYgpjE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oXgL6nYgpjE",
+        "publishedAt": "2026-08-25"
+      },
+      {
+        "id": "vid-QW0ZxtJAym0",
+        "title": "DON'T Build Dorothy Gale Until You See This",
+        "thumbnail": "https://i2.ytimg.com/vi/QW0ZxtJAym0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QW0ZxtJAym0",
+        "publishedAt": "2026-08-24"
+      },
+      {
+        "id": "vid-GLLao2Rq65M",
+        "title": "I MAXED 8 NEW LEGGOS: Who's Good, Who's Trash?",
+        "thumbnail": "https://i4.ytimg.com/vi/GLLao2Rq65M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GLLao2Rq65M",
+        "publishedAt": "2026-08-24"
+      },
+      {
         "id": "vid-_lLYJetWHyg",
         "title": "Assassin's Creed Now WATCHER of REALMS!?",
         "thumbnail": "https://i4.ytimg.com/vi/_lLYJetWHyg/hqdefault.jpg",
@@ -144,55 +193,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/_oOg1cktTYk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_oOg1cktTYk",
         "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-soabVAkwj7Q",
-        "title": "Cowardly Lion + Mavara is so OP",
-        "thumbnail": "https://i4.ytimg.com/vi/soabVAkwj7Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=soabVAkwj7Q",
-        "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-3gbF8243Bsg",
-        "title": "LUCKIEST PRISM SHARD PULLS EVER!",
-        "thumbnail": "https://i4.ytimg.com/vi/3gbF8243Bsg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3gbF8243Bsg",
-        "publishedAt": "2026-08-20"
-      },
-      {
-        "id": "vid-RA6Mo6V1JPs",
-        "title": "This OZ Champ Is A DELETE Button",
-        "thumbnail": "https://i3.ytimg.com/vi/RA6Mo6V1JPs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RA6Mo6V1JPs",
-        "publishedAt": "2026-08-19"
-      },
-      {
-        "id": "vid-H9DG0F75Sko",
-        "title": "Cowardly Lion Showcase: GO FOR THIS FUSION!",
-        "thumbnail": "https://i1.ytimg.com/vi/H9DG0F75Sko/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H9DG0F75Sko",
-        "publishedAt": "2026-08-18"
-      },
-      {
-        "id": "vid-C5ff7T6I0Ek",
-        "title": "Dorothy Gale Showcase: BEST Free Champ Ever",
-        "thumbnail": "https://i4.ytimg.com/vi/C5ff7T6I0Ek/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C5ff7T6I0Ek",
-        "publishedAt": "2026-08-18"
-      },
-      {
-        "id": "vid-3jzqV6vhZNQ",
-        "title": "Harrier Sleeps With the Fishes",
-        "thumbnail": "https://i4.ytimg.com/vi/3jzqV6vhZNQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3jzqV6vhZNQ",
-        "publishedAt": "2026-08-17"
-      },
-      {
-        "id": "vid-7SJjSTafPpI",
-        "title": "60 Best RARE Champs EVERY Player Should Know",
-        "thumbnail": "https://i4.ytimg.com/vi/7SJjSTafPpI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7SJjSTafPpI",
-        "publishedAt": "2026-08-17"
       }
     ]
   },
@@ -223,74 +223,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-tLtR66_2pJk",
-        "title": "Get Faster Level 60s - 5 TIPS FOR INFINITE FOOD - Raid Shadow Legends (2026)",
-        "thumbnail": "https://i1.ytimg.com/vi/tLtR66_2pJk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tLtR66_2pJk",
-        "publishedAt": "2026-08-23"
+        "id": "vid-A1u6ryNq2Kk",
+        "title": "I WHALED ON PRISM SHARDS for Tin Man... Here's What We Got - Raid Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/A1u6ryNq2Kk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A1u6ryNq2Kk",
+        "publishedAt": "2026-08-30"
       },
       {
-        "id": "vid-NZU3Aoim8iE",
-        "title": "DO NOT MISS THIS FREE EPIC! Antigone is a BEAST! - Raid Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/NZU3Aoim8iE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NZU3Aoim8iE",
-        "publishedAt": "2026-08-22"
+        "id": "vid-tkVMRdDBzck",
+        "title": "I CAN'T STOP PULLING THIS LEGGO in #raidshadowlegends",
+        "thumbnail": "https://i1.ytimg.com/vi/tkVMRdDBzck/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tkVMRdDBzck",
+        "publishedAt": "2026-08-30"
       },
       {
-        "id": "vid-M2a_blK16HQ",
-        "title": "F2P SACRED SHARD PULLS Just Got Me THIS! - Raid Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/M2a_blK16HQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=M2a_blK16HQ",
-        "publishedAt": "2026-08-22"
+        "id": "vid-DIRAq5UzyRg",
+        "title": "PLARIUM, WTF?! New Raid Accounts Are OUT OF CONTROL - Raid Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/DIRAq5UzyRg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DIRAq5UzyRg",
+        "publishedAt": "2026-08-30"
       },
       {
-        "id": "vid-I7sl4Xv1GrM",
-        "title": "\"IT'S GOLD!!\" - PULLING ALL MY SACRED SHARDS for the Lion! - Raid Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/I7sl4Xv1GrM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I7sl4Xv1GrM",
-        "publishedAt": "2026-08-21"
+        "id": "vid-Y9jp2UlYlYE",
+        "title": "I PULLED F2P SACRED SHARDS for the Lion... Here's What Happened - Raid Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/Y9jp2UlYlYE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Y9jp2UlYlYE",
+        "publishedAt": "2026-08-29"
       },
       {
-        "id": "vid-MkOhKA489ws",
-        "title": "\"THIS IS IMPOSSIBLE...?\"",
-        "thumbnail": "https://i2.ytimg.com/vi/MkOhKA489ws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MkOhKA489ws",
-        "publishedAt": "2026-08-20"
+        "id": "vid-l7Yg_3LNjcw",
+        "title": "2X ON PRIMAL SHARDS INCOMING! Tin Man Shard Event?? - Raid Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/l7Yg_3LNjcw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=l7Yg_3LNjcw",
+        "publishedAt": "2026-08-29"
       },
       {
-        "id": "vid--TgGn8oS23A",
-        "title": "BUILD CHAMPION TEAMS LIKE A RAID PRO with These Tips! - Raid Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/-TgGn8oS23A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-TgGn8oS23A",
-        "publishedAt": "2026-08-20"
+        "id": "vid-XBtL-x2GRB4",
+        "title": "ALL MY VOID SHARDS for the Lion! (and Ozilda) - Raid Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/XBtL-x2GRB4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XBtL-x2GRB4",
+        "publishedAt": "2026-08-28"
       },
       {
-        "id": "vid-sRmypjTSAMk",
-        "title": "EASIEST TEAMS to Farm the Ozilda EVENT DUNGEON! (Stage 20-30) - Raid Shadow Legends",
-        "thumbnail": "https://i4.ytimg.com/vi/sRmypjTSAMk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sRmypjTSAMk",
-        "publishedAt": "2026-08-19"
+        "id": "vid-OGypkvFzrL0",
+        "title": "\"SO MUCH MONEY WASTED...\" - Account Takeover Tips - Raid Shadow Legends",
+        "thumbnail": "https://i4.ytimg.com/vi/OGypkvFzrL0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OGypkvFzrL0",
+        "publishedAt": "2026-08-28"
       },
       {
-        "id": "vid-fbT63gW3rfY",
-        "title": "\"PLARIUM, THIS IS A PROBLEM...\" - FREE MAVARA START on New Raid Accounts is DISGUSTING",
-        "thumbnail": "https://i3.ytimg.com/vi/fbT63gW3rfY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fbT63gW3rfY",
-        "publishedAt": "2026-08-19"
+        "id": "vid-nDA8paZhbeo",
+        "title": "PLARIUM DID IT... Ozilda Shard Event INCOMING (Beware!) - Raid Shadow Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/nDA8paZhbeo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nDA8paZhbeo",
+        "publishedAt": "2026-08-27"
       },
       {
-        "id": "vid-LaRljgKmSUE",
-        "title": "NEW INSANE DOROTHY START for a NEW RAID ACCOUNT (3x Legendary Day 1!)",
-        "thumbnail": "https://i1.ytimg.com/vi/LaRljgKmSUE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LaRljgKmSUE",
-        "publishedAt": "2026-08-19"
+        "id": "vid-_cxPySkHCIQ",
+        "title": "HUGE F2P UPGRADES! - 2 NEW Game Changer 6 Stars - Raid Shadow Legends",
+        "thumbnail": "https://i4.ytimg.com/vi/_cxPySkHCIQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_cxPySkHCIQ",
+        "publishedAt": "2026-08-26"
       },
       {
-        "id": "vid-AmCRDX4dSjA",
-        "title": "EASIEST FUSION PLAN for Cowardly Lion - HOW MANY SACREDS?? - Raid Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/AmCRDX4dSjA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AmCRDX4dSjA",
-        "publishedAt": "2026-08-19"
+        "id": "vid-pWTA74iY8xs",
+        "title": "BUILD DOROTHY LIKE THIS! BEST Artifacts and Masteries - Raid Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/pWTA74iY8xs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pWTA74iY8xs",
+        "publishedAt": "2026-08-25"
       }
     ]
   },
@@ -419,74 +419,74 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-s5fqD2NIeEM",
-        "title": "I Recorded This 2 Months Ago, It's That Important  Raid Shadow Legends",
-        "thumbnail": "https://i4.ytimg.com/vi/s5fqD2NIeEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s5fqD2NIeEM",
-        "publishedAt": "2026-08-22"
+        "id": "vid-XJEH8-wob88",
+        "title": "Raid x Pokemon Streamathon with tons of Giveaways!!",
+        "thumbnail": "https://i1.ytimg.com/vi/XJEH8-wob88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XJEH8-wob88",
+        "publishedAt": "2026-08-30"
       },
       {
-        "id": "vid-uvPmjeGP1Ho",
-        "title": "Did I Get Lucky? I Pulled More than I thought Raid: Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/uvPmjeGP1Ho/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uvPmjeGP1Ho",
-        "publishedAt": "2026-08-21"
+        "id": "vid-Swq5o8Qs8TQ",
+        "title": "Raid x Pokemon Streamathon with tons of Giveaways!!",
+        "thumbnail": "https://i4.ytimg.com/vi/Swq5o8Qs8TQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Swq5o8Qs8TQ",
+        "publishedAt": "2026-08-30"
       },
       {
-        "id": "vid-vGo1Kuu7RE4",
-        "title": "2 NEW Teams DOMINATE Bommal the Dreadhorn!!  Raid: Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/vGo1Kuu7RE4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vGo1Kuu7RE4",
-        "publishedAt": "2026-08-20"
+        "id": "vid-U5_kdtpJws0",
+        "title": "Varkos + Valkanen Are WAY Better in Hydra Than I Expected! - Raid: Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/U5_kdtpJws0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U5_kdtpJws0",
+        "publishedAt": "2026-08-29"
       },
       {
-        "id": "vid-IIMag-35xtM",
-        "title": "12 Teams ALL Levels F2P to End Game - Raid: Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/IIMag-35xtM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IIMag-35xtM",
-        "publishedAt": "2026-08-19"
+        "id": "vid-6w8w9d5Roy0",
+        "title": "Live Shard Pulls Oh Yeah!!",
+        "thumbnail": "https://i3.ytimg.com/vi/6w8w9d5Roy0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6w8w9d5Roy0",
+        "publishedAt": "2026-08-28"
       },
       {
-        "id": "vid-phlMg9BN1Kk",
-        "title": "Proving Dungeon, Siege and Account Takeovers! - Raid: Shadow Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/phlMg9BN1Kk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=phlMg9BN1Kk",
-        "publishedAt": "2026-08-19"
+        "id": "vid-xVCTYo_oUXI",
+        "title": "These Shard Pulls Were Something… Plus a HUGE Announcement! | RAID",
+        "thumbnail": "https://i1.ytimg.com/vi/xVCTYo_oUXI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xVCTYo_oUXI",
+        "publishedAt": "2026-08-28"
       },
       {
         "id": "vid-TMuYe1Aen6c",
-        "title": "Proving Dungeon, Siege and Account Takeovers! - Raid: Shadow Legends",
+        "title": "NEW RAID Promo Code + Hard Faction Wars Takeover",
         "thumbnail": "https://i1.ytimg.com/vi/TMuYe1Aen6c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TMuYe1Aen6c",
-        "publishedAt": "2026-08-18"
+        "publishedAt": "2026-08-27"
       },
       {
-        "id": "vid-IF95HIJvL5c",
-        "title": "Dorothy Crazy Results in CRAPPY GEAR!!  | Raid: Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/IF95HIJvL5c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IF95HIJvL5c",
-        "publishedAt": "2026-08-18"
+        "id": "vid-bC2H-nDak3g",
+        "title": "I Found Out What's REALLY Holding This Arena Account Back! - Raid: Shadow Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/bC2H-nDak3g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bC2H-nDak3g",
+        "publishedAt": "2026-08-27"
       },
       {
-        "id": "vid-ec2rxc0STd8",
-        "title": "The Gear Every RAID Player Needs!",
-        "thumbnail": "https://i2.ytimg.com/vi/ec2rxc0STd8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ec2rxc0STd8",
-        "publishedAt": "2026-08-17"
+        "id": "vid-xFyeTaByCS0",
+        "title": "I Can't Believe This Actually WORKED!! Dorothy + Varkos - Raid: Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/xFyeTaByCS0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xFyeTaByCS0",
+        "publishedAt": "2026-08-26"
       },
       {
-        "id": "vid-vEoAK-ot1qQ",
-        "title": "Gigantic Sacred Shard PULL!!!  Raid: Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/vEoAK-ot1qQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vEoAK-ot1qQ",
-        "publishedAt": "2026-08-15"
+        "id": "vid-FqcmTj7R_Vc",
+        "title": "If I Started RAID Over in 2026, Here's EXACTLY What I'd Do",
+        "thumbnail": "https://i3.ytimg.com/vi/FqcmTj7R_Vc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FqcmTj7R_Vc",
+        "publishedAt": "2026-08-25"
       },
       {
-        "id": "vid-Zak755y6ZeI",
-        "title": "Shards and Hydra!! - Raid: Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/Zak755y6ZeI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zak755y6ZeI",
-        "publishedAt": "2026-08-15"
+        "id": "vid-HjkS-LUcCHo",
+        "title": "Proving Grounds Feels IMPOSSIBLE... Until You Do THIS!  Raid: Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/HjkS-LUcCHo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HjkS-LUcCHo",
+        "publishedAt": "2026-08-24"
       }
     ]
   }

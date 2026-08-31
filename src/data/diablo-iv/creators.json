@@ -24,6 +24,27 @@
     },
     "latestVideos": [
       {
+        "id": "vid-iL1a4kSbszQ",
+        "title": "This New Dark Fantasy Co-op Game Looks INSANE",
+        "thumbnail": "https://i2.ytimg.com/vi/iL1a4kSbszQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iL1a4kSbszQ",
+        "publishedAt": "2026-08-30"
+      },
+      {
+        "id": "vid-tpIMu3CCDRM",
+        "title": "The Witcher Is Coming to Diablo 4 - And It’s Just the Beginning",
+        "thumbnail": "https://i1.ytimg.com/vi/tpIMu3CCDRM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tpIMu3CCDRM",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-wGvkqrNlFm0",
+        "title": "Why Every ARPG Is Still Chasing Diablo 2",
+        "thumbnail": "https://i4.ytimg.com/vi/wGvkqrNlFm0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wGvkqrNlFm0",
+        "publishedAt": "2026-08-28"
+      },
+      {
         "id": "vid-WFE8hd-1z-Q",
         "title": "Diablo 4’s Next Major Villain May Have Just Been Teased",
         "thumbnail": "https://i4.ytimg.com/vi/WFE8hd-1z-Q/hqdefault.jpg",
@@ -71,27 +92,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/MJXdTl7BbCk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MJXdTl7BbCk",
         "publishedAt": "2026-07-25"
-      },
-      {
-        "id": "vid-Y1t26WsnwCQ",
-        "title": "Blizzard Just Changed Everything for Diablo 4 Season 14",
-        "thumbnail": "https://i2.ytimg.com/vi/Y1t26WsnwCQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Y1t26WsnwCQ",
-        "publishedAt": "2026-07-18"
-      },
-      {
-        "id": "vid-JihMZwlax14",
-        "title": "The Best Mythic Farm After Diablo 4’s Season 14 Patch",
-        "thumbnail": "https://i3.ytimg.com/vi/JihMZwlax14/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JihMZwlax14",
-        "publishedAt": "2026-07-16"
-      },
-      {
-        "id": "vid-Jwjd0b8ZAT4",
-        "title": "The New Warlock Might Be Diablo Immortal’s Wildest Class Yet",
-        "thumbnail": "https://i3.ytimg.com/vi/Jwjd0b8ZAT4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Jwjd0b8ZAT4",
-        "publishedAt": "2026-07-13"
       }
     ]
   },
@@ -121,74 +121,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-wPR2gwulAMo",
-        "title": "Path of Exile 2 Building Arc Totem Leveling & Endgame Guides",
-        "thumbnail": "https://i4.ytimg.com/vi/wPR2gwulAMo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wPR2gwulAMo",
-        "publishedAt": "2026-08-16"
+        "id": "vid-Vhn7e1BO7rw",
+        "title": "Path of Exile 2 Warming Up For Swords",
+        "thumbnail": "https://i3.ytimg.com/vi/Vhn7e1BO7rw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vhn7e1BO7rw",
+        "publishedAt": "2026-08-30"
       },
       {
-        "id": "vid-funOi1-MUjQ",
-        "title": "Path of Exile 2 Building Arc Totem Leveling & Endgame Guides",
-        "thumbnail": "https://i3.ytimg.com/vi/funOi1-MUjQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=funOi1-MUjQ",
-        "publishedAt": "2026-08-15"
+        "id": "vid-qjhJlxShk2A",
+        "title": "Path of Exile 2 Warming Up For Swords",
+        "thumbnail": "https://i2.ytimg.com/vi/qjhJlxShk2A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qjhJlxShk2A",
+        "publishedAt": "2026-08-29"
       },
       {
-        "id": "vid-RVaMXAzZrZQ",
-        "title": "Path of Exile 2 More Mercenary Practice",
-        "thumbnail": "https://i3.ytimg.com/vi/RVaMXAzZrZQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RVaMXAzZrZQ",
-        "publishedAt": "2026-08-14"
+        "id": "vid-H3w7gjeMTcM",
+        "title": "Path of Exile 2 Warming Up For Swords",
+        "thumbnail": "https://i1.ytimg.com/vi/H3w7gjeMTcM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H3w7gjeMTcM",
+        "publishedAt": "2026-08-28"
       },
       {
-        "id": "vid-bkkJ5IjBDdg",
-        "title": "Watching the POE2 Qualifier",
-        "thumbnail": "https://i3.ytimg.com/vi/bkkJ5IjBDdg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bkkJ5IjBDdg",
-        "publishedAt": "2026-08-13"
+        "id": "vid-JAYxUrx0kp0",
+        "title": "Path of Exile 2 Duelist, Swords and 0.5.5 Event Summary",
+        "thumbnail": "https://i3.ytimg.com/vi/JAYxUrx0kp0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JAYxUrx0kp0",
+        "publishedAt": "2026-08-27"
       },
       {
-        "id": "vid-ovLerh25rZk",
-        "title": "Making a Gemling Leveling Build",
-        "thumbnail": "https://i4.ytimg.com/vi/ovLerh25rZk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ovLerh25rZk",
-        "publishedAt": "2026-08-12"
+        "id": "vid-ZFVm4NfYduA",
+        "title": "Path of Exile 2 Mega Announcement - Brand New Info",
+        "thumbnail": "https://i3.ytimg.com/vi/ZFVm4NfYduA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZFVm4NfYduA",
+        "publishedAt": "2026-08-27"
       },
       {
-        "id": "vid-MA0bAGsNoQA",
-        "title": "Making a Gemling Leveling Build",
-        "thumbnail": "https://i2.ytimg.com/vi/MA0bAGsNoQA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MA0bAGsNoQA",
-        "publishedAt": "2026-08-11"
+        "id": "vid-8bKiJDEYxGE",
+        "title": "Path of Exile 2 ED/C Build",
+        "thumbnail": "https://i1.ytimg.com/vi/8bKiJDEYxGE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8bKiJDEYxGE",
+        "publishedAt": "2026-08-27"
       },
       {
-        "id": "vid-XfAif286E60",
-        "title": "Making a Gemling Leveling Build",
-        "thumbnail": "https://i1.ytimg.com/vi/XfAif286E60/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XfAif286E60",
-        "publishedAt": "2026-08-11"
+        "id": "vid-x2dsJlRcjis",
+        "title": "Gamescom Watch Party!",
+        "thumbnail": "https://i1.ytimg.com/vi/x2dsJlRcjis/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x2dsJlRcjis",
+        "publishedAt": "2026-08-25"
       },
       {
-        "id": "vid-d_DnKPTYl-M",
-        "title": "Learning POE2 Speedrunning",
-        "thumbnail": "https://i1.ytimg.com/vi/d_DnKPTYl-M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d_DnKPTYl-M",
-        "publishedAt": "2026-08-10"
+        "id": "vid-yJiK7zMbguE",
+        "title": "Path of Exile 2 Full Release Launch Date and Swords!",
+        "thumbnail": "https://i2.ytimg.com/vi/yJiK7zMbguE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yJiK7zMbguE",
+        "publishedAt": "2026-08-25"
       },
       {
-        "id": "vid-e1YdT03QLhs",
-        "title": "Learning POE2 Speedrunning",
-        "thumbnail": "https://i2.ytimg.com/vi/e1YdT03QLhs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e1YdT03QLhs",
-        "publishedAt": "2026-08-08"
+        "id": "vid-FpwMhtxSFjQ",
+        "title": "Path of Exile 2 Essence Drain Contagion",
+        "thumbnail": "https://i3.ytimg.com/vi/FpwMhtxSFjQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FpwMhtxSFjQ",
+        "publishedAt": "2026-08-24"
       },
       {
-        "id": "vid-Gw_XOimSzMc",
-        "title": "Return to POE2",
-        "thumbnail": "https://i4.ytimg.com/vi/Gw_XOimSzMc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gw_XOimSzMc",
-        "publishedAt": "2026-08-07"
+        "id": "vid-0XAC-2HLjtI",
+        "title": "Path of Exile 2 Making More Builds",
+        "thumbnail": "https://i1.ytimg.com/vi/0XAC-2HLjtI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0XAC-2HLjtI",
+        "publishedAt": "2026-08-23"
       }
     ]
   },
@@ -315,6 +315,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-oBk_W5VTLqs",
+        "title": "Working on New Builds & Guides // The First Descendant Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/oBk_W5VTLqs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oBk_W5VTLqs",
+        "publishedAt": "2026-08-30"
+      },
+      {
+        "id": "vid-z0qRgbSnDzA",
+        "title": "TFD Rollbacks, Raven Buffs & More // The First Descendant Livestream",
+        "thumbnail": "https://i3.ytimg.com/vi/z0qRgbSnDzA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z0qRgbSnDzA",
+        "publishedAt": "2026-08-29"
+      },
+      {
+        "id": "vid-pXQ9p-uPCIw",
+        "title": "BLAIR IS A MUST BUILD! Updated Best Season 4 Blair Builds // The First Descendant",
+        "thumbnail": "https://i1.ytimg.com/vi/pXQ9p-uPCIw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pXQ9p-uPCIw",
+        "publishedAt": "2026-08-28"
+      },
+      {
+        "id": "vid-nKML00M5IsY",
+        "title": "The TFD Situtation is Crazy",
+        "thumbnail": "https://i3.ytimg.com/vi/nKML00M5IsY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nKML00M5IsY",
+        "publishedAt": "2026-08-27"
+      },
+      {
+        "id": "vid-mFmVtlLj3ng",
+        "title": "The TFD Situation is Crazy",
+        "thumbnail": "https://i2.ytimg.com/vi/mFmVtlLj3ng/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mFmVtlLj3ng",
+        "publishedAt": "2026-08-27"
+      },
+      {
+        "id": "vid-kBA8R4bH6j0",
+        "title": "UPDATED VALBY IS S TIER! Season 4 Best Builds // The First Descendant Guide",
+        "thumbnail": "https://i4.ytimg.com/vi/kBA8R4bH6j0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kBA8R4bH6j0",
+        "publishedAt": "2026-08-26"
+      },
+      {
+        "id": "vid-qQsxhTc2glw",
+        "title": "TFD SEASON 4 GRIND! Working on New Builds // #Sponsored",
+        "thumbnail": "https://i2.ytimg.com/vi/qQsxhTc2glw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qQsxhTc2glw",
+        "publishedAt": "2026-08-25"
+      },
+      {
         "id": "vid-X3c-gnBD-Hw",
         "title": "Is Season 4 Good? Brutally Honest Initial Impressions & The Future // The First Desendant",
         "thumbnail": "https://i1.ytimg.com/vi/X3c-gnBD-Hw/hqdefault.jpg",
@@ -334,55 +383,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/fQBXQ9Ie_S0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fQBXQ9Ie_S0",
         "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-uwlUYA1BN48",
-        "title": "BEST Transcendant Weapon Farms & Full Breakdown! // The First Descendant Guide",
-        "thumbnail": "https://i2.ytimg.com/vi/uwlUYA1BN48/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uwlUYA1BN48",
-        "publishedAt": "2026-08-22"
-      },
-      {
-        "id": "vid-QwsUXtIEAJg",
-        "title": "RAVEN IS INSANE (Onslaught 4 & Mega Dungeon Made Easy!) // The First Descendant Raven Guide",
-        "thumbnail": "https://i2.ytimg.com/vi/QwsUXtIEAJg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QwsUXtIEAJg",
-        "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-nWjAIrpZ9mI",
-        "title": "TFD SEASON 4 LAUNCH!  // The First Descendant Livestream",
-        "thumbnail": "https://i3.ytimg.com/vi/nWjAIrpZ9mI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nWjAIrpZ9mI",
-        "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-vjc5HC--EBM",
-        "title": "STORY PACK 2 NEW DETAILS & LEVEL CAP! // Borderlands 4 News",
-        "thumbnail": "https://i3.ytimg.com/vi/vjc5HC--EBM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vjc5HC--EBM",
-        "publishedAt": "2026-08-20"
-      },
-      {
-        "id": "vid-zACDyUGG-1U",
-        "title": "EVERYTHING YOU'VE MISSED! New & Returning Players Guide For Season 4 // The First Descendant",
-        "thumbnail": "https://i3.ytimg.com/vi/zACDyUGG-1U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zACDyUGG-1U",
-        "publishedAt": "2026-08-19"
-      },
-      {
-        "id": "vid-hzyoceyDNPE",
-        "title": "Night Mode Mortal Shell 2 NG+ Run! Farming For Builds // Livestream",
-        "thumbnail": "https://i1.ytimg.com/vi/hzyoceyDNPE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hzyoceyDNPE",
-        "publishedAt": "2026-08-19"
-      },
-      {
-        "id": "vid-Dy6OK-0tPcE",
-        "title": "FINALLY! Season 4 Breakdown (New Roguelike Mode, Mega Dungeons & More!) // The First Descendant",
-        "thumbnail": "https://i1.ytimg.com/vi/Dy6OK-0tPcE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Dy6OK-0tPcE",
-        "publishedAt": "2026-08-18"
       }
     ]
   },
@@ -413,74 +413,74 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-RqNoyi5J7-Q",
-        "title": "Diablo 4 - Season 15 Prep/Builds then more Torchlight Hardcore Event",
-        "thumbnail": "https://i3.ytimg.com/vi/RqNoyi5J7-Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RqNoyi5J7-Q",
-        "publishedAt": "2026-08-23"
+        "id": "vid-TptXZJFxWsE",
+        "title": "Diablo 4 - The GOD Rogue, better than EVER in S15",
+        "thumbnail": "https://i1.ytimg.com/vi/TptXZJFxWsE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TptXZJFxWsE",
+        "publishedAt": "2026-08-31"
       },
       {
-        "id": "vid-sBYvcssErRk",
-        "title": "Diablo 4 - WAR PLANS COULD TO BE SO MUCH COOLER",
-        "thumbnail": "https://i4.ytimg.com/vi/sBYvcssErRk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sBYvcssErRk",
-        "publishedAt": "2026-08-23"
+        "id": "vid-FwLIQbk-87k",
+        "title": "Diablo 4 - Itemization is COMPLETELY COOKED",
+        "thumbnail": "https://i3.ytimg.com/vi/FwLIQbk-87k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FwLIQbk-87k",
+        "publishedAt": "2026-08-30"
       },
       {
-        "id": "vid-0LMawkR4ljI",
-        "title": "Diablo 4 - Season 15 Prep/Builds, later trying out Torchlight Hardcore Event?",
-        "thumbnail": "https://i1.ytimg.com/vi/0LMawkR4ljI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0LMawkR4ljI",
-        "publishedAt": "2026-08-22"
+        "id": "vid-SiU3a6eA1oo",
+        "title": "Diablo 4 - WARLOCKS BEST CLASS SUDDENLY",
+        "thumbnail": "https://i4.ytimg.com/vi/SiU3a6eA1oo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SiU3a6eA1oo",
+        "publishedAt": "2026-08-29"
       },
       {
-        "id": "vid-ozD6IfbLcQw",
-        "title": "Diablo 4 - GREAT ORBS OF FIRE, SORCS BURN IT ALL!",
-        "thumbnail": "https://i4.ytimg.com/vi/ozD6IfbLcQw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ozD6IfbLcQw",
-        "publishedAt": "2026-08-22"
+        "id": "vid-OfQxLCcqaOQ",
+        "title": "Diablo 4 - NEW MYTHIC SECRETLY OP?!",
+        "thumbnail": "https://i4.ytimg.com/vi/OfQxLCcqaOQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OfQxLCcqaOQ",
+        "publishedAt": "2026-08-28"
       },
       {
-        "id": "vid-x0KGFLvc1oQ",
-        "title": "Diablo 4 - WE'RE BACK! Season 15 Prep/Builds, later trying out Hellforged (#ad)",
-        "thumbnail": "https://i1.ytimg.com/vi/x0KGFLvc1oQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x0KGFLvc1oQ",
-        "publishedAt": "2026-08-20"
+        "id": "vid-iCEg8ICIdm0",
+        "title": "Diablo 4 - What are the BEST CLASSES in Season 15",
+        "thumbnail": "https://i2.ytimg.com/vi/iCEg8ICIdm0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iCEg8ICIdm0",
+        "publishedAt": "2026-08-27"
       },
       {
-        "id": "vid-luw_azWdJf8",
-        "title": "Diablo 4 - Most Overlooked Item Change in S15",
-        "thumbnail": "https://i1.ytimg.com/vi/luw_azWdJf8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=luw_azWdJf8",
-        "publishedAt": "2026-08-17"
+        "id": "vid-1NjTAHoYvfo",
+        "title": "WOLCEN 2 IS COMING?! - I TRIED IT",
+        "thumbnail": "https://i2.ytimg.com/vi/1NjTAHoYvfo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1NjTAHoYvfo",
+        "publishedAt": "2026-08-26"
       },
       {
-        "id": "vid-CAAA-Fm7oGo",
-        "title": "Diablo 4 - S15 Lunatic Warlock Is So Much Fun",
-        "thumbnail": "https://i4.ytimg.com/vi/CAAA-Fm7oGo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CAAA-Fm7oGo",
-        "publishedAt": "2026-08-16"
+        "id": "vid-rrEvqnNtAp4",
+        "title": "Diablo 4 - NEW SEASON 15 CHALLENGE DUNGEONS!",
+        "thumbnail": "https://i3.ytimg.com/vi/rrEvqnNtAp4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rrEvqnNtAp4",
+        "publishedAt": "2026-08-26"
       },
       {
-        "id": "vid-dBfbF4MylfM",
-        "title": "Diablo 4 - How Bad Are The Barb Nerfs? Season 15",
-        "thumbnail": "https://i1.ytimg.com/vi/dBfbF4MylfM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dBfbF4MylfM",
-        "publishedAt": "2026-08-15"
+        "id": "vid-yLmzbZEQnJQ",
+        "title": "Diablo 4 Season 15 Prep & Path of Exile 2 New Content Reveal Stream Watch Party!",
+        "thumbnail": "https://i2.ytimg.com/vi/yLmzbZEQnJQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yLmzbZEQnJQ",
+        "publishedAt": "2026-08-26"
       },
       {
-        "id": "vid-VCG5YR9lMfo",
-        "title": "Diablo 4 - Apocalypse Warlock Is Back Even Stronger",
-        "thumbnail": "https://i3.ytimg.com/vi/VCG5YR9lMfo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VCG5YR9lMfo",
-        "publishedAt": "2026-08-13"
+        "id": "vid-5_ueb8flUrw",
+        "title": "Diablo 4 - Season 15 Class Ranking (So Far)",
+        "thumbnail": "https://i2.ytimg.com/vi/5_ueb8flUrw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5_ueb8flUrw",
+        "publishedAt": "2026-08-25"
       },
       {
-        "id": "vid-o9VXfUpyp7g",
-        "title": "Diablo 4 - Are Sorc, Druid, Necro & Paladin Bad? S15",
-        "thumbnail": "https://i4.ytimg.com/vi/o9VXfUpyp7g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o9VXfUpyp7g",
-        "publishedAt": "2026-08-12"
+        "id": "vid-r52E8IOVHXI",
+        "title": "Diablo 4 - RIGHTEOUS FIRE IN DIABLO 4",
+        "thumbnail": "https://i3.ytimg.com/vi/r52E8IOVHXI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r52E8IOVHXI",
+        "publishedAt": "2026-08-25"
       }
     ]
   }
