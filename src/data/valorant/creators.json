@@ -21,6 +21,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-pvNbPPGOOXU",
+        "title": "The Nuke Incident",
+        "thumbnail": "https://i1.ytimg.com/vi/pvNbPPGOOXU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pvNbPPGOOXU",
+        "publishedAt": "2026-08-31"
+      },
+      {
         "id": "vid-sw7kZxFIF60",
         "title": "I accidentally queued into Summit1g in CS2 and destroyed him.",
         "thumbnail": "https://i4.ytimg.com/vi/sw7kZxFIF60/hqdefault.jpg",
@@ -82,13 +89,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/9ejWSZ5m5WE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9ejWSZ5m5WE",
         "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-Tb6CJypUBw4",
-        "title": "half time voice chat is back in CS2",
-        "thumbnail": "https://i1.ytimg.com/vi/Tb6CJypUBw4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Tb6CJypUBw4",
-        "publishedAt": "2026-08-06"
       }
     ]
   },
@@ -112,6 +112,41 @@
       "twitter": "TenZOfficial"
     },
     "latestVideos": [
+      {
+        "id": "vid-u11cOAn4-5c",
+        "title": "the climb is starting!",
+        "thumbnail": "https://i2.ytimg.com/vi/u11cOAn4-5c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u11cOAn4-5c",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-TOeQykl2bJU",
+        "title": "PROJECT ZETA PLAYTEST!",
+        "thumbnail": "https://i1.ytimg.com/vi/TOeQykl2bJU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TOeQykl2bJU",
+        "publishedAt": "2026-09-05"
+      },
+      {
+        "id": "vid-TS3ED1j5ygw",
+        "title": "HELLO I'M BACK !!! + LIFE UPDATES | TenZ",
+        "thumbnail": "https://i1.ytimg.com/vi/TS3ED1j5ygw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TS3ED1j5ygw",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-D8x9-zUwL1A",
+        "title": "unwashing the wash",
+        "thumbnail": "https://i1.ytimg.com/vi/D8x9-zUwL1A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D8x9-zUwL1A",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-sn4kBFizKLA",
+        "title": "FINALLY BACK HOME!!! *LIFE UPDATES*",
+        "thumbnail": "https://i4.ytimg.com/vi/sn4kBFizKLA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sn4kBFizKLA",
+        "publishedAt": "2026-09-02"
+      },
       {
         "id": "vid-seCynQmsW_c",
         "title": "I PLAYED VALORANT WITH ATHENA from FIFTY FIFTY !!!",
@@ -146,41 +181,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/2cuMw_nX6-s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2cuMw_nX6-s",
         "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-SjesGBbhrNw",
-        "title": "I've never seen this before #Valorant #tenz",
-        "thumbnail": "https://i4.ytimg.com/vi/SjesGBbhrNw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SjesGBbhrNw",
-        "publishedAt": "2026-08-24"
-      },
-      {
-        "id": "vid-ApJjDConfg8",
-        "title": "THIS IS WHY REYNA IS BROKEN !!! | TenZ",
-        "thumbnail": "https://i2.ytimg.com/vi/ApJjDConfg8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ApJjDConfg8",
-        "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-Ctxo6e93z_Y",
-        "title": "can anyone explain the last clip? #Valorant #tenz",
-        "thumbnail": "https://i4.ytimg.com/vi/Ctxo6e93z_Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ctxo6e93z_Y",
-        "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-MS-WoI7l2ZE",
-        "title": "I FINALLY GOT BACK TO RADIANT AGAIN !!!",
-        "thumbnail": "https://i2.ytimg.com/vi/MS-WoI7l2ZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MS-WoI7l2ZE",
-        "publishedAt": "2026-08-19"
-      },
-      {
-        "id": "vid-qbALEfRwsv4",
-        "title": "val dm asmr #Valorant #tenz",
-        "thumbnail": "https://i2.ytimg.com/vi/qbALEfRwsv4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qbALEfRwsv4",
-        "publishedAt": "2026-08-17"
       }
     ]
   },
@@ -204,6 +204,34 @@
       "twitter": "shroud"
     },
     "latestVideos": [
+      {
+        "id": "vid-L7lUlkCCkUk",
+        "title": "I flew straight into him…",
+        "thumbnail": "https://i1.ytimg.com/vi/L7lUlkCCkUk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L7lUlkCCkUk",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-vaU1vo-Ql7s",
+        "title": "Wardogs is PEAK",
+        "thumbnail": "https://i3.ytimg.com/vi/vaU1vo-Ql7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vaU1vo-Ql7s",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-lTXXrDARsYs",
+        "title": "WE'RE SO BACK!",
+        "thumbnail": "https://i1.ytimg.com/vi/lTXXrDARsYs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lTXXrDARsYs",
+        "publishedAt": "2026-09-05"
+      },
+      {
+        "id": "vid--v-zGCVH9LA",
+        "title": "Unlocking The Most Broken Item in Wardogs",
+        "thumbnail": "https://i2.ytimg.com/vi/-v-zGCVH9LA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-v-zGCVH9LA",
+        "publishedAt": "2026-08-31"
+      },
       {
         "id": "vid-Z2NsMopf1lM",
         "title": "I Finally Got My Marathon Jacket",
@@ -245,34 +273,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/caZ5h3frt9g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=caZ5h3frt9g",
         "publishedAt": "2026-08-04"
-      },
-      {
-        "id": "vid-iaJPuo9LRSo",
-        "title": "It Almost Happened Twice",
-        "thumbnail": "https://i2.ytimg.com/vi/iaJPuo9LRSo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iaJPuo9LRSo",
-        "publishedAt": "2026-08-02"
-      },
-      {
-        "id": "vid-neJsOgu2RMs",
-        "title": "INTRODUCING MY NEW VALORANT TEAM !!",
-        "thumbnail": "https://i3.ytimg.com/vi/neJsOgu2RMs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=neJsOgu2RMs",
-        "publishedAt": "2026-08-02"
-      },
-      {
-        "id": "vid-v9HayCnO0Wk",
-        "title": "Shroud Wants To Play Every Game He Missed",
-        "thumbnail": "https://i3.ytimg.com/vi/v9HayCnO0Wk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v9HayCnO0Wk",
-        "publishedAt": "2026-07-30"
-      },
-      {
-        "id": "vid-dstLryZkQ-Q",
-        "title": "She Stole My Ace 😭",
-        "thumbnail": "https://i1.ytimg.com/vi/dstLryZkQ-Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dstLryZkQ-Q",
-        "publishedAt": "2026-07-28"
       }
     ]
   },
@@ -296,6 +296,13 @@
       "twitter": "VALORANT"
     },
     "latestVideos": [
+      {
+        "id": "vid-IaJsT1lv0LI",
+        "title": "Two weeks until the Champions 2026 Anthem",
+        "thumbnail": "https://i2.ytimg.com/vi/IaJsT1lv0LI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IaJsT1lv0LI",
+        "publishedAt": "2026-09-03"
+      },
       {
         "id": "vid-PIZLr359h1c",
         "title": "Harness the magic of the Aeris skinline",
@@ -358,13 +365,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/Xm7ujv0lugE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Xm7ujv0lugE",
         "publishedAt": "2026-07-28"
-      },
-      {
-        "id": "vid-iYfYrsd09lo",
-        "title": "FORGE THE FUTURE // Neo Frontier Skin Reveal Trailer - VALORANT",
-        "thumbnail": "https://i2.ytimg.com/vi/iYfYrsd09lo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iYfYrsd09lo",
-        "publishedAt": "2026-07-27"
       }
     ]
   },
@@ -390,6 +390,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-8dW99gEQ2uY",
+        "title": "jugando juegos de cuando era chico #2",
+        "thumbnail": "https://i1.ytimg.com/vi/8dW99gEQ2uY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8dW99gEQ2uY",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-kVhHZaG4uyM",
+        "title": "ME COMPRÉ esto que VI EN ROLBOX",
+        "thumbnail": "https://i4.ytimg.com/vi/kVhHZaG4uyM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kVhHZaG4uyM",
+        "publishedAt": "2026-09-04"
+      },
+      {
         "id": "vid-W5z3QKqgwKY",
         "title": "Roblox pero todo es satisfactorio #2",
         "thumbnail": "https://i4.ytimg.com/vi/W5z3QKqgwKY/hqdefault.jpg",
@@ -398,7 +412,7 @@
       },
       {
         "id": "vid-bDz-uIbS_2s",
-        "title": "jugando juegos de cuando era chico",
+        "title": "jugando juegos de cuando era chico #1",
         "thumbnail": "https://i3.ytimg.com/vi/bDz-uIbS_2s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=bDz-uIbS_2s",
         "publishedAt": "2026-08-24"
@@ -444,20 +458,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/ze6i2GnzqB0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ze6i2GnzqB0",
         "publishedAt": "2026-06-10"
-      },
-      {
-        "id": "vid-45b1_1p6I-8",
-        "title": "Adivino EL COLOR de los PERSONAJES 😎",
-        "thumbnail": "https://i1.ytimg.com/vi/45b1_1p6I-8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=45b1_1p6I-8",
-        "publishedAt": "2026-06-05"
-      },
-      {
-        "id": "vid-nOwhCQsAdAU",
-        "title": "Roblox pero todo es satisfactorio",
-        "thumbnail": "https://i3.ytimg.com/vi/nOwhCQsAdAU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nOwhCQsAdAU",
-        "publishedAt": "2026-06-01"
       }
     ]
   },
@@ -482,6 +482,48 @@
       "twitter": "AverageJonas"
     },
     "latestVideos": [
+      {
+        "id": "vid-zhMWC35dPVI",
+        "title": "Never go vents against Brim ult..",
+        "thumbnail": "https://i3.ytimg.com/vi/zhMWC35dPVI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zhMWC35dPVI",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-VBVG4OFiT6A",
+        "title": "Ez 1v3 lineup clutch",
+        "thumbnail": "https://i3.ytimg.com/vi/VBVG4OFiT6A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VBVG4OFiT6A",
+        "publishedAt": "2026-09-05"
+      },
+      {
+        "id": "vid-HW0k0hiOew0",
+        "title": "Crispy unc aim",
+        "thumbnail": "https://i1.ytimg.com/vi/HW0k0hiOew0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HW0k0hiOew0",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-qR3tcjoZVR0",
+        "title": "The Aeris side of Valorant Ranked",
+        "thumbnail": "https://i2.ytimg.com/vi/qR3tcjoZVR0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qR3tcjoZVR0",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-fcDxYpsTplo",
+        "title": "Crazy Summit Shock lineup",
+        "thumbnail": "https://i3.ytimg.com/vi/fcDxYpsTplo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fcDxYpsTplo",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-JkV5qi2ARMI",
+        "title": "Good old Haven wallbang dart",
+        "thumbnail": "https://i3.ytimg.com/vi/JkV5qi2ARMI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JkV5qi2ARMI",
+        "publishedAt": "2026-09-01"
+      },
       {
         "id": "vid-okJcNal5vBs",
         "title": "Easy Recon/Shock dart combo for Summit",
@@ -509,48 +551,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/Mwfb0l2Uqkg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Mwfb0l2Uqkg",
         "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-uYYxj8tju0k",
-        "title": "Blind Double Kill WIth Sova Ult",
-        "thumbnail": "https://i2.ytimg.com/vi/uYYxj8tju0k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uYYxj8tju0k",
-        "publishedAt": "2026-08-24"
-      },
-      {
-        "id": "vid-c_Y0HkiPESE",
-        "title": "The Lineup King is Back to Valorant",
-        "thumbnail": "https://i4.ytimg.com/vi/c_Y0HkiPESE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c_Y0HkiPESE",
-        "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-oy00NNo_nGc",
-        "title": "The Comeback Side of Valorant Ranked",
-        "thumbnail": "https://i4.ytimg.com/vi/oy00NNo_nGc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oy00NNo_nGc",
-        "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-PkuM3xpRNpY",
-        "title": "Epic fail Bebop gameplay",
-        "thumbnail": "https://i1.ytimg.com/vi/PkuM3xpRNpY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PkuM3xpRNpY",
-        "publishedAt": "2026-08-15"
-      },
-      {
-        "id": "vid--4s4I-coD_4",
-        "title": "When AverageJonas finally plays Gunbop",
-        "thumbnail": "https://i2.ytimg.com/vi/-4s4I-coD_4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-4s4I-coD_4",
-        "publishedAt": "2026-08-13"
-      },
-      {
-        "id": "vid-BSMIhZsUqKs",
-        "title": "Lash Bomb delivery service",
-        "thumbnail": "https://i3.ytimg.com/vi/BSMIhZsUqKs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BSMIhZsUqKs",
-        "publishedAt": "2026-08-11"
       }
     ]
   },

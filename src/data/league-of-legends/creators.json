@@ -24,6 +24,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-TZdJo9OtthU",
+        "title": "Cho’Gath’s Biggest Weakness Just Got FIXED #leagueoflegends",
+        "thumbnail": "https://i1.ytimg.com/vi/TZdJo9OtthU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TZdJo9OtthU",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-zeMhXijaV3Y",
+        "title": "The ONLY JUNGLE Guide You'll EVER NEED - League of Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/zeMhXijaV3Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zeMhXijaV3Y",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-Zu4BgrCzCHU",
+        "title": "ALL NEW CHANGES for PATCH 26.18 - League of Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/Zu4BgrCzCHU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zu4BgrCzCHU",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-Wrar9sLTZDs",
+        "title": "*NEW* Most OP Champion To Climb STUPIDLY Fast",
+        "thumbnail": "https://i4.ytimg.com/vi/Wrar9sLTZDs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Wrar9sLTZDs",
+        "publishedAt": "2026-09-02"
+      },
+      {
         "id": "vid-NkE-XKIN2w8",
         "title": "NEW UPDATED TIER LIST for PATCH 26.17! - League of Legends",
         "thumbnail": "https://i3.ytimg.com/vi/NkE-XKIN2w8/hqdefault.jpg",
@@ -64,34 +92,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/7f3jOUvEvOw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7f3jOUvEvOw",
         "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-eceSyaVnz3M",
-        "title": "How to CLIMB EACH RANK & ESCAPE Your ELO! - League of Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/eceSyaVnz3M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eceSyaVnz3M",
-        "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-W3Vx8E7VoQc",
-        "title": "ALL NEW CHANGES for PATCH 26.17 - League of Legends",
-        "thumbnail": "https://i4.ytimg.com/vi/W3Vx8E7VoQc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=W3Vx8E7VoQc",
-        "publishedAt": "2026-08-20"
-      },
-      {
-        "id": "vid-nucimbGViTE",
-        "title": "The 5 FASTEST Jungle Clears In League of Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/nucimbGViTE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nucimbGViTE",
-        "publishedAt": "2026-08-18"
-      },
-      {
-        "id": "vid-gYgNaRo4ZT4",
-        "title": "NEW UPDATED TIER LIST for PATCH 26.16! - League of Legends",
-        "thumbnail": "https://i4.ytimg.com/vi/gYgNaRo4ZT4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gYgNaRo4ZT4",
-        "publishedAt": "2026-08-17"
       }
     ]
   },
@@ -124,6 +124,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-0IF612JPxUg",
+        "title": "THIS NIDALEE BUILD PRINTS GOLD FASTER THAN YOU CAN SPEND IT! (EVERY SPEAR = FREE MONEY)",
+        "thumbnail": "https://i1.ytimg.com/vi/0IF612JPxUg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0IF612JPxUg",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-Tj3BtDqypR8",
+        "title": "NOBODY CAN MOVE AGAINST PERMASLOW BRAND! (EVERY SPELL PARALYZES YOU)",
+        "thumbnail": "https://i1.ytimg.com/vi/Tj3BtDqypR8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Tj3BtDqypR8",
+        "publishedAt": "2026-09-05"
+      },
+      {
+        "id": "vid-31_vwyRoxDI",
+        "title": "VOLIBEAR BUT I LITERALLY ONE SHOT THIS MISS FORTUNE WITH LIGHTNING (FULL AP BURST)",
+        "thumbnail": "https://i4.ytimg.com/vi/31_vwyRoxDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=31_vwyRoxDI",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-azATApIWcIk",
+        "title": "Anivia but I do so much damage it looks like I'm cheating (FASTEST ONE SHOTS EVER)",
+        "thumbnail": "https://i2.ytimg.com/vi/azATApIWcIk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=azATApIWcIk",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-BINC0ThrLNo",
+        "title": "Miss Fortune but I have 900 AP and my E just melts your whole team (BRAINLESS MEGA POKE)",
+        "thumbnail": "https://i3.ytimg.com/vi/BINC0ThrLNo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BINC0ThrLNo",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-N3t0TVk0EmM",
+        "title": "THIS MORDEKAISER BUILD IS ACTUALLY GENIUS! SHRED THEIR MAGIC RESIST AND MELT EVERYTHING!",
+        "thumbnail": "https://i3.ytimg.com/vi/N3t0TVk0EmM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N3t0TVk0EmM",
+        "publishedAt": "2026-09-01"
+      },
+      {
+        "id": "vid-Fc6QLyKs_ss",
+        "title": "WTF? INFINITE SCALING ON-HIT THRESH IS ACTUALLY CRACKED (NOBODY EXPECTS THIS DAMAGE)",
+        "thumbnail": "https://i3.ytimg.com/vi/Fc6QLyKs_ss/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fc6QLyKs_ss",
+        "publishedAt": "2026-08-31"
+      },
+      {
         "id": "vid-qBa15Gcv5jM",
         "title": "Nilah but I'm literally invincible with this much healing (1 AUTO = FULL HEALTH)",
         "thumbnail": "https://i2.ytimg.com/vi/qBa15Gcv5jM/hqdefault.jpg",
@@ -143,55 +192,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/GY92-6eAnwU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GY92-6eAnwU",
         "publishedAt": "2026-08-29"
-      },
-      {
-        "id": "vid-XNurYVyvhGU",
-        "title": "When Malphite hits 1300 Armor he becomes a literal mountain (300K DAMAGE TANKED)",
-        "thumbnail": "https://i1.ytimg.com/vi/XNurYVyvhGU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XNurYVyvhGU",
-        "publishedAt": "2026-08-28"
-      },
-      {
-        "id": "vid-HDIH-YBenkE",
-        "title": "FULL AP SINGED MID IS ACTUALLY BROKEN! THIS POISON DAMAGE IS BEYOND RIDICULOUS!",
-        "thumbnail": "https://i1.ytimg.com/vi/HDIH-YBenkE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HDIH-YBenkE",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-bEZJmWWa_m4",
-        "title": "Malzahar but I'm actually the best split pusher in the game (HULLBREAKER + DEMOLISHER)",
-        "thumbnail": "https://i3.ytimg.com/vi/bEZJmWWa_m4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bEZJmWWa_m4",
-        "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-dkCtW9YPHBs",
-        "title": "I AM ADDICTED TO SNIPER LETHALITY CAITLYN! PRESS R AND DELETE THEM FROM FULL HEALTH!",
-        "thumbnail": "https://i1.ytimg.com/vi/dkCtW9YPHBs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dkCtW9YPHBs",
-        "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-lAzmZet4Z6I",
-        "title": "ANNIE BUT IF YOU HIT ME YOU DIE INSTANTLY! (MAX REFLECT DAMAGE)",
-        "thumbnail": "https://i1.ytimg.com/vi/lAzmZet4Z6I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lAzmZet4Z6I",
-        "publishedAt": "2026-08-24"
-      },
-      {
-        "id": "vid-8iwFaihcsyQ",
-        "title": "Jhin but every auto heals me to full health and it's not balanced (100% LIFESTEAL BUILD)",
-        "thumbnail": "https://i1.ytimg.com/vi/8iwFaihcsyQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8iwFaihcsyQ",
-        "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-AzE6ClPWuHk",
-        "title": "THE MOST FED GAME OF SMOLDER YOU WILL EVER WITNESS! (LETHALITY BUILD = Q ONE SHOTS)",
-        "thumbnail": "https://i2.ytimg.com/vi/AzE6ClPWuHk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AzE6ClPWuHk",
-        "publishedAt": "2026-08-22"
       }
     ]
   },
@@ -281,74 +281,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-cmzCJZnzH3Y",
-        "title": "✅LYON vs TL // C9 vs SR MASSIVE DAY✅LCS MEXICO ROADSHOW COSTREAM✅SOLOQ AFTER✅",
-        "thumbnail": "https://i4.ytimg.com/vi/cmzCJZnzH3Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cmzCJZnzH3Y",
-        "publishedAt": "2026-08-31"
+        "id": "vid-sluPjwveYdM",
+        "title": "✅FLY vs SR // LYON vs DSG✅LAST DAY OF REGULAR SEASON✅!newvideo !hairtransplant✅",
+        "thumbnail": "https://i4.ytimg.com/vi/sluPjwveYdM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sluPjwveYdM",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-oMVskku-Acw",
-        "title": "Is This the Most Broken Champion in LoL?",
-        "thumbnail": "https://i4.ytimg.com/vi/oMVskku-Acw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oMVskku-Acw",
-        "publishedAt": "2026-08-30"
+        "id": "vid-bwJNBUBtG4k",
+        "title": "✅SLUR SATURDAY SOLOQ WARLORD MODE✅",
+        "thumbnail": "https://i3.ytimg.com/vi/bwJNBUBtG4k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bwJNBUBtG4k",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-vy6tIpLjROA",
-        "title": "✅SR vs TL // C9 vs LYON✅LCS ROADSHOW COSTREAM✅BIG SOLOQ AFTER RANK 63 START✅",
-        "thumbnail": "https://i3.ytimg.com/vi/vy6tIpLjROA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vy6tIpLjROA",
-        "publishedAt": "2026-08-30"
+        "id": "vid-NZ41zVtpqyk",
+        "title": "The Truth About My Hair Transplant",
+        "thumbnail": "https://i3.ytimg.com/vi/NZ41zVtpqyk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NZ41zVtpqyk",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-jN4CuoqXIi4",
-        "title": "🏯It is more shameful to distrust our friends than to be deceived by them🏯MODERN MONK RANK 64 CLIMB🏯",
-        "thumbnail": "https://i3.ytimg.com/vi/jN4CuoqXIi4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jN4CuoqXIi4",
-        "publishedAt": "2026-08-29"
+        "id": "vid-NJxbMLJ3_GI",
+        "title": "✅EXPANDING POOL ON MAIN?✅RANK 50 / 2072 LP START✅POSITIVE MINDSET + GOOD  VIBES WINS GAMES✅",
+        "thumbnail": "https://i3.ytimg.com/vi/NJxbMLJ3_GI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NJxbMLJ3_GI",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-raZi3avUG1U",
-        "title": "Jinx is actually the most OP ADC pick.. it's free LP",
-        "thumbnail": "https://i3.ytimg.com/vi/raZi3avUG1U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=raZi3avUG1U",
-        "publishedAt": "2026-08-28"
+        "id": "vid-uxY--A5-2l0",
+        "title": "Average Doublelift Lobby Experience",
+        "thumbnail": "https://i2.ytimg.com/vi/uxY--A5-2l0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uxY--A5-2l0",
+        "publishedAt": "2026-09-04"
       },
       {
-        "id": "vid-HJNMaqTXEU0",
-        "title": "🏯Do crackheads ever say, “I’m too broke to smoke crack tonight”? No. They get up and make it happen🏯",
-        "thumbnail": "https://i1.ytimg.com/vi/HJNMaqTXEU0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HJNMaqTXEU0",
-        "publishedAt": "2026-08-28"
+        "id": "vid-u_aT622ED2E",
+        "title": "✅TRYHARDING ON MAIN✅RANK 80 / 1942 LP START✅POSITIVE MINDSET + GOOD  VIBES WINS GAMES✅",
+        "thumbnail": "https://i2.ytimg.com/vi/u_aT622ED2E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u_aT622ED2E",
+        "publishedAt": "2026-09-04"
       },
       {
-        "id": "vid-cpc2D1bqj2g",
-        "title": "Being Bald Made Me a Better League Player 💀",
-        "thumbnail": "https://i4.ytimg.com/vi/cpc2D1bqj2g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cpc2D1bqj2g",
-        "publishedAt": "2026-08-28"
+        "id": "vid-L6_BgHK5XEw",
+        "title": "This is why I'm the RANK 1 Jinx main",
+        "thumbnail": "https://i1.ytimg.com/vi/L6_BgHK5XEw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L6_BgHK5XEw",
+        "publishedAt": "2026-09-03"
       },
       {
-        "id": "vid-A_OaefYeSdA",
-        "title": "🏯Do crackheads ever say, “I’m too broke to smoke crack tonight”? No. They get up and make it happen🏯",
-        "thumbnail": "https://i2.ytimg.com/vi/A_OaefYeSdA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=A_OaefYeSdA",
-        "publishedAt": "2026-08-28"
+        "id": "vid-4bUX59yc-uU",
+        "title": "Low Elo = Bigger EGO?",
+        "thumbnail": "https://i1.ytimg.com/vi/4bUX59yc-uU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4bUX59yc-uU",
+        "publishedAt": "2026-09-03"
       },
       {
-        "id": "vid-jcdMpJa9XSI",
-        "title": "🏯Do crackheads ever say, “I’m too broke to smoke crack tonight”? No. They get up and make it happen🏯",
-        "thumbnail": "https://i3.ytimg.com/vi/jcdMpJa9XSI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jcdMpJa9XSI",
-        "publishedAt": "2026-08-27"
+        "id": "vid-5jsf41zzw1E",
+        "title": "✅DISCOVERING NEW ADC TECH✅COOKING NEW BUILDS TODAY✅Giveaways✅Doublelift vs OP !SandiskOP #Sponsored✅",
+        "thumbnail": "https://i2.ytimg.com/vi/5jsf41zzw1E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5jsf41zzw1E",
+        "publishedAt": "2026-09-03"
       },
       {
-        "id": "vid-NbZgooBRXRk",
-        "title": "🏯Do crackheads ever say, “I’m too broke to smoke crack tonight”? No. They get up and make it happen🏯",
-        "thumbnail": "https://i3.ytimg.com/vi/NbZgooBRXRk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NbZgooBRXRk",
-        "publishedAt": "2026-08-27"
+        "id": "vid-MXjzGmShRB8",
+        "title": "Why Everyone is Scared of my Jinx...",
+        "thumbnail": "https://i2.ytimg.com/vi/MXjzGmShRB8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MXjzGmShRB8",
+        "publishedAt": "2026-09-02"
       }
     ]
   },
@@ -474,6 +474,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-EC7HaJ5bNbk",
+        "title": "Marc Merrill on Riot’s MMO during PAX West",
+        "thumbnail": "https://i2.ytimg.com/vi/EC7HaJ5bNbk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EC7HaJ5bNbk",
+        "publishedAt": "2026-09-05"
+      },
+      {
         "id": "vid-wHCFi4a-4zs",
         "title": "It All Comes Down to the Kinematics",
         "thumbnail": "https://i4.ytimg.com/vi/wHCFi4a-4zs/hqdefault.jpg",
@@ -535,13 +542,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/dNFYtSRIj_E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=dNFYtSRIj_E",
         "publishedAt": "2026-07-06"
-      },
-      {
-        "id": "vid-0zJqo8oQyaU",
-        "title": "We Found Miss Fortune and Sett at Anime Expo 2026",
-        "thumbnail": "https://i1.ytimg.com/vi/0zJqo8oQyaU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0zJqo8oQyaU",
-        "publishedAt": "2026-07-05"
       }
     ]
   },
@@ -568,6 +568,27 @@
       "twitter": "LeagueOfLegends"
     },
     "latestVideos": [
+      {
+        "id": "vid-wEuWSNpyPE8",
+        "title": "unleashed his inner Faker @WaoLoL",
+        "thumbnail": "https://i4.ytimg.com/vi/wEuWSNpyPE8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wEuWSNpyPE8",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-2b-8y6EVpyY",
+        "title": "@pobelt can’t keep getting away with it",
+        "thumbnail": "https://i3.ytimg.com/vi/2b-8y6EVpyY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2b-8y6EVpyY",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid--mQo4rqVGn8",
+        "title": "please Soobin needs this",
+        "thumbnail": "https://i2.ytimg.com/vi/-mQo4rqVGn8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-mQo4rqVGn8",
+        "publishedAt": "2026-09-01"
+      },
       {
         "id": "vid-SI3FnYRtFEE",
         "title": "so close, yet so far @AloisNL",
@@ -616,27 +637,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/cmDxWhJ_3Qo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cmDxWhJ_3Qo",
         "publishedAt": "2026-08-07"
-      },
-      {
-        "id": "vid-XfruhBEFG6A",
-        "title": "a tale of two bush ganks 🤫",
-        "thumbnail": "https://i1.ytimg.com/vi/XfruhBEFG6A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XfruhBEFG6A",
-        "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-yjsEqfpJFNE",
-        "title": "How to Get the Best Item Build | League of Legends Classic",
-        "thumbnail": "https://i2.ytimg.com/vi/yjsEqfpJFNE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yjsEqfpJFNE",
-        "publishedAt": "2026-08-05"
-      },
-      {
-        "id": "vid-2sP-TT9nIfU",
-        "title": "How to Get the Best Item Build",
-        "thumbnail": "https://i3.ytimg.com/vi/2sP-TT9nIfU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2sP-TT9nIfU",
-        "publishedAt": "2026-08-05"
       }
     ]
   },
@@ -663,74 +663,74 @@
     },
     "latestVideos": [
       {
+        "id": "vid-1iXcZINy9Eg",
+        "title": "Pentaking's another day at the office",
+        "thumbnail": "https://i2.ytimg.com/vi/1iXcZINy9Eg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1iXcZINy9Eg",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-d2TFD2Wo-tE",
+        "title": "BLG guys smurfing the League Classic Geoguessr challenge 📍",
+        "thumbnail": "https://i1.ytimg.com/vi/d2TFD2Wo-tE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d2TFD2Wo-tE",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-qgFRpLiFp1U",
+        "title": "Name a better Lee Sin, we'll wait...",
+        "thumbnail": "https://i2.ytimg.com/vi/qgFRpLiFp1U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qgFRpLiFp1U",
+        "publishedAt": "2026-09-05"
+      },
+      {
+        "id": "vid-0TFYdgkbUAA",
+        "title": "They could NOT keep up with Zothve",
+        "thumbnail": "https://i1.ytimg.com/vi/0TFYdgkbUAA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0TFYdgkbUAA",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-vOZ5qBLKGvk",
+        "title": "The Craziest Plays in League of Legends RIGHT NOW",
+        "thumbnail": "https://i3.ytimg.com/vi/vOZ5qBLKGvk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vOZ5qBLKGvk",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-8HXQQygDmIs",
+        "title": "THE QUADRA!!!",
+        "thumbnail": "https://i1.ytimg.com/vi/8HXQQygDmIs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8HXQQygDmIs",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-40pV2r4q9BI",
+        "title": "Lucid shows Gen.G how it's done",
+        "thumbnail": "https://i1.ytimg.com/vi/40pV2r4q9BI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=40pV2r4q9BI",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-zMg-imU63NI",
+        "title": "Simply OUTPLAYED",
+        "thumbnail": "https://i3.ytimg.com/vi/zMg-imU63NI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zMg-imU63NI",
+        "publishedAt": "2026-09-01"
+      },
+      {
+        "id": "vid-2zu2ZlNO2qU",
+        "title": "Paduck goes on a road trip with Razork",
+        "thumbnail": "https://i3.ytimg.com/vi/2zu2ZlNO2qU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2zu2ZlNO2qU",
+        "publishedAt": "2026-08-31"
+      },
+      {
         "id": "vid-WAvpNc__DAE",
         "title": "Don't blink with Kanavi around",
         "thumbnail": "https://i4.ytimg.com/vi/WAvpNc__DAE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WAvpNc__DAE",
         "publishedAt": "2026-08-30"
-      },
-      {
-        "id": "vid-86b6LcwVc80",
-        "title": "Can you guess these before Busio? 👀",
-        "thumbnail": "https://i1.ytimg.com/vi/86b6LcwVc80/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=86b6LcwVc80",
-        "publishedAt": "2026-08-29"
-      },
-      {
-        "id": "vid-efFcieILaXs",
-        "title": "The GREATEST 500IQ Plays In LoL Esports History",
-        "thumbnail": "https://i2.ytimg.com/vi/efFcieILaXs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=efFcieILaXs",
-        "publishedAt": "2026-08-28"
-      },
-      {
-        "id": "vid-3UCCyNkJvkQ",
-        "title": "THE FIGHT FOR WORLDS IS HEATING UP",
-        "thumbnail": "https://i4.ytimg.com/vi/3UCCyNkJvkQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3UCCyNkJvkQ",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-d9ppceZ7PP4",
-        "title": "And go Vayne he did",
-        "thumbnail": "https://i1.ytimg.com/vi/d9ppceZ7PP4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d9ppceZ7PP4",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-ptjqOBhuc2A",
-        "title": "Can't catch PerfecT 🫣",
-        "thumbnail": "https://i1.ytimg.com/vi/ptjqOBhuc2A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ptjqOBhuc2A",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-yKSEEnP1C9s",
-        "title": "Not even Jackies saw this coming",
-        "thumbnail": "https://i2.ytimg.com/vi/yKSEEnP1C9s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yKSEEnP1C9s",
-        "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-rw63ISs2lNI",
-        "title": "Scout, Lehends, and Kingen clean up the Rift",
-        "thumbnail": "https://i3.ytimg.com/vi/rw63ISs2lNI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rw63ISs2lNI",
-        "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-TIoH3-mjPV8",
-        "title": "His brain was 5 seconds ahead of Kiaya's every move 🤯",
-        "thumbnail": "https://i1.ytimg.com/vi/TIoH3-mjPV8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TIoH3-mjPV8",
-        "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-SOjaxKt6reM",
-        "title": "Caliste gets a pentakill with such nonchalance",
-        "thumbnail": "https://i4.ytimg.com/vi/SOjaxKt6reM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SOjaxKt6reM",
-        "publishedAt": "2026-08-24"
       }
     ]
   },
@@ -757,74 +757,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-SI-kUh8ElkQ",
-        "title": "Shoutout to Doublelift, NA League, and Sajed's brother.",
-        "thumbnail": "https://i4.ytimg.com/vi/SI-kUh8ElkQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SI-kUh8ElkQ",
-        "publishedAt": "2026-08-31"
+        "id": "vid-vuO_iImEt4E",
+        "title": "Raise your hand if you ALSO spent your free RP on Assassin Master Yi ✋🙂‍↕️",
+        "thumbnail": "https://i3.ytimg.com/vi/vuO_iImEt4E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vuO_iImEt4E",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-qi1sqhI2XmI",
-        "title": "LCS Homegrounds  | SR vs C9",
-        "thumbnail": "https://i2.ytimg.com/vi/qi1sqhI2XmI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qi1sqhI2XmI",
-        "publishedAt": "2026-08-31"
+        "id": "vid-kEsofDOdNyA",
+        "title": "LCS Summer Split | DSG vs LYON",
+        "thumbnail": "https://i4.ytimg.com/vi/kEsofDOdNyA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kEsofDOdNyA",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-byoqwpfVz6w",
-        "title": "Vertical | LCS Homegrounds  | SR vs C9  #shorts",
-        "thumbnail": "https://i3.ytimg.com/vi/byoqwpfVz6w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=byoqwpfVz6w",
-        "publishedAt": "2026-08-31"
+        "id": "vid-1y6iCRjYyys",
+        "title": "Vertical | LCS Summer Split | DSG vs LYON  #shorts",
+        "thumbnail": "https://i2.ytimg.com/vi/1y6iCRjYyys/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1y6iCRjYyys",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-Vcaeo8LUxcE",
-        "title": "LCS Summer 2026 | SR vs C9 | Regular Season",
-        "thumbnail": "https://i3.ytimg.com/vi/Vcaeo8LUxcE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Vcaeo8LUxcE",
-        "publishedAt": "2026-08-31"
+        "id": "vid-IkylT2Q049g",
+        "title": "LCS Summer 2026 | LYON vs DSG | Regular Season",
+        "thumbnail": "https://i2.ytimg.com/vi/IkylT2Q049g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IkylT2Q049g",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-OSlj6KzBzTk",
-        "title": "WHEEEEEEEEEEEEEEEEEEE",
-        "thumbnail": "https://i4.ytimg.com/vi/OSlj6KzBzTk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OSlj6KzBzTk",
-        "publishedAt": "2026-08-31"
+        "id": "vid-mAsLimu2hIY",
+        "title": "LCS Summer 2026 | SR vs FLY | Regular Season",
+        "thumbnail": "https://i2.ytimg.com/vi/mAsLimu2hIY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mAsLimu2hIY",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-iZI5WejzlQQ",
-        "title": "Is this what you wanted from the battle of the top two teams in the #LCS?",
-        "thumbnail": "https://i2.ytimg.com/vi/iZI5WejzlQQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iZI5WejzlQQ",
-        "publishedAt": "2026-08-30"
+        "id": "vid-v07bk9yXL_k",
+        "title": "LCS Summer Split  | TLAW vs DIG",
+        "thumbnail": "https://i3.ytimg.com/vi/v07bk9yXL_k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=v07bk9yXL_k",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-3Kg1AG_Awv0",
-        "title": "LCS Summer 2026 | TLAW vs LYON | Regular Season",
-        "thumbnail": "https://i4.ytimg.com/vi/3Kg1AG_Awv0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3Kg1AG_Awv0",
-        "publishedAt": "2026-08-30"
+        "id": "vid-YYSIs5A75AM",
+        "title": "Vertical | LCS Summer Split  | TLAW vs DIG  #shorts",
+        "thumbnail": "https://i2.ytimg.com/vi/YYSIs5A75AM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YYSIs5A75AM",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-6k-siKxRrI0",
-        "title": "LCS Homegrounds  | C9 vs LYON",
-        "thumbnail": "https://i3.ytimg.com/vi/6k-siKxRrI0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6k-siKxRrI0",
-        "publishedAt": "2026-08-30"
+        "id": "vid-XNfoTeXqboQ",
+        "title": "Team Liquid Alienware LIVE in the driver's seat.",
+        "thumbnail": "https://i1.ytimg.com/vi/XNfoTeXqboQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XNfoTeXqboQ",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-kUdHKzgx9yg",
-        "title": "Vertical | LCS Homegrounds  | C9 vs LYON  #shorts",
-        "thumbnail": "https://i4.ytimg.com/vi/kUdHKzgx9yg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kUdHKzgx9yg",
-        "publishedAt": "2026-08-30"
+        "id": "vid-OQpJVITv3_E",
+        "title": "LCS Summer 2026 | DIG vs TLAW | Regular Season",
+        "thumbnail": "https://i4.ytimg.com/vi/OQpJVITv3_E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OQpJVITv3_E",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-vBLizZhxVKo",
-        "title": "LCS Summer 2026 | LYON vs C9 | Regular Season",
-        "thumbnail": "https://i3.ytimg.com/vi/vBLizZhxVKo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vBLizZhxVKo",
-        "publishedAt": "2026-08-30"
+        "id": "vid-zm1j9wy7Wog",
+        "title": "They call him \"Eduardo el Gigante\".",
+        "thumbnail": "https://i3.ytimg.com/vi/zm1j9wy7Wog/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zm1j9wy7Wog",
+        "publishedAt": "2026-09-05"
       }
     ]
   },
@@ -851,74 +851,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-YXIRimy5VN8",
-        "title": "YIKE'S ELDER STEAL to complete the 9-0 Split!  #lec #leagueoflegends #lolesports",
-        "thumbnail": "https://i2.ytimg.com/vi/YXIRimy5VN8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YXIRimy5VN8",
-        "publishedAt": "2026-08-31"
+        "id": "vid-wpU58uY6SJ8",
+        "title": "KC vs G2 | HIGHLIGHTS | 2026 #LEC Summer - Week 7 Day 2 | Karmine Corp vs G2 Esports",
+        "thumbnail": "https://i4.ytimg.com/vi/wpU58uY6SJ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wpU58uY6SJ8",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-XmsyeRAKZKM",
-        "title": "GX vs FNC | 2026 LEC Summer Split Regular Season - Week 6 Day 3",
-        "thumbnail": "https://i1.ytimg.com/vi/XmsyeRAKZKM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XmsyeRAKZKM",
-        "publishedAt": "2026-08-30"
+        "id": "vid-ZRsJYluoq4w",
+        "title": "KC vs G2 | 2026 LEC Summer Split Playoffs - Upper Round 2",
+        "thumbnail": "https://i3.ytimg.com/vi/ZRsJYluoq4w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZRsJYluoq4w",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-gJJKo7JGZLg",
-        "title": "GX vs FNC | HIGHLIGHTS | 2026 #LEC Summer - Week 6 Day 3 | GIANTX vs Fnatic",
-        "thumbnail": "https://i4.ytimg.com/vi/gJJKo7JGZLg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gJJKo7JGZLg",
-        "publishedAt": "2026-08-30"
+        "id": "vid-pcludplPgRM",
+        "title": "Lore accurate Viktor 🌩️  #lec #leagueoflegends #lolesports",
+        "thumbnail": "https://i1.ytimg.com/vi/pcludplPgRM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pcludplPgRM",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-nEoUhYqIb7w",
-        "title": "TH vs MKOI | HIGHLIGHTS | 2026 #LEC Summer - Week 6 Day 3 | Team Heretics vs Movistar KOI",
-        "thumbnail": "https://i3.ytimg.com/vi/nEoUhYqIb7w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nEoUhYqIb7w",
-        "publishedAt": "2026-08-30"
+        "id": "vid-q43Lhj8KxUw",
+        "title": "Bald Canna?? ✂️ | Kia Mic Check Shorts",
+        "thumbnail": "https://i2.ytimg.com/vi/q43Lhj8KxUw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q43Lhj8KxUw",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-Byb21fmd1jw",
-        "title": "VIT vs SHFT | HIGHLIGHTS | 2026 #LEC Summer - Week 6 Day 3 | Team Vitality vs Shifters",
-        "thumbnail": "https://i3.ytimg.com/vi/Byb21fmd1jw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Byb21fmd1jw",
-        "publishedAt": "2026-08-30"
+        "id": "vid-pVpcUh4vXvY",
+        "title": "Hall of Legends - Trophy Ceremony",
+        "thumbnail": "https://i1.ytimg.com/vi/pVpcUh4vXvY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pVpcUh4vXvY",
+        "publishedAt": "2026-09-06"
       },
       {
-        "id": "vid-1eHgHqUlNhg",
-        "title": "BARON STEAL & QUADRA to win the game!  #lec #leagueoflegends #lolesports",
-        "thumbnail": "https://i2.ytimg.com/vi/1eHgHqUlNhg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1eHgHqUlNhg",
-        "publishedAt": "2026-08-30"
+        "id": "vid-TG-fUkYvvok",
+        "title": "KC vs GX | 2026 LEC Summer Split Playoffs - Upper Round 1",
+        "thumbnail": "https://i1.ytimg.com/vi/TG-fUkYvvok/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TG-fUkYvvok",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-mGYqr1_IG1s",
-        "title": "OUTPLAYED.  #lec #leagueoflegends #lolesports",
-        "thumbnail": "https://i2.ytimg.com/vi/mGYqr1_IG1s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mGYqr1_IG1s",
-        "publishedAt": "2026-08-30"
+        "id": "vid-wO61myeIOqI",
+        "title": "VIT vs G2 | HIGHLIGHTS | 2026 #LEC Summer - Week 7 Day 1 | Team Vitality vs G2 Esports",
+        "thumbnail": "https://i4.ytimg.com/vi/wO61myeIOqI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wO61myeIOqI",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-w1xOgP6SPZw",
-        "title": "NAVI vs GX | 2026 LEC Summer Split Regular Season - Week 6 Day 2",
-        "thumbnail": "https://i4.ytimg.com/vi/w1xOgP6SPZw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w1xOgP6SPZw",
-        "publishedAt": "2026-08-29"
+        "id": "vid-owV3c6iVM9Q",
+        "title": "KC vs GX | HIGHLIGHTS | 2026 #LEC Summer - Week 7 Day 1 | Karmine Corp vs GIANTX",
+        "thumbnail": "https://i4.ytimg.com/vi/owV3c6iVM9Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=owV3c6iVM9Q",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-5_P5z1Gta50",
-        "title": "NAVI vs GX | HIGHLIGHTS | 2026 #LEC Summer - Week 6 Day 2 | Natus Vincere vs GIANTX",
-        "thumbnail": "https://i2.ytimg.com/vi/5_P5z1Gta50/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5_P5z1Gta50",
-        "publishedAt": "2026-08-29"
+        "id": "vid-WPxeSe5sWQA",
+        "title": "JUST DELETED. 💥",
+        "thumbnail": "https://i4.ytimg.com/vi/WPxeSe5sWQA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WPxeSe5sWQA",
+        "publishedAt": "2026-09-05"
       },
       {
-        "id": "vid-WvWm6-vtgNg",
-        "title": "SK vs KC | HIGHLIGHTS | 2026 #LEC Summer - Week 6 Day 2 | SK Gaming vs Karmine Corp",
-        "thumbnail": "https://i4.ytimg.com/vi/WvWm6-vtgNg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WvWm6-vtgNg",
-        "publishedAt": "2026-08-29"
+        "id": "vid-B5XHc-KrLV4",
+        "title": "PENTAKILL IN MADRID | LEC Summer Playoffs",
+        "thumbnail": "https://i3.ytimg.com/vi/B5XHc-KrLV4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B5XHc-KrLV4",
+        "publishedAt": "2026-09-05"
       }
     ]
   },
@@ -945,74 +945,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-1cRRU3ROgww",
-        "title": "기둥 캐리",
-        "thumbnail": "https://i2.ytimg.com/vi/1cRRU3ROgww/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1cRRU3ROgww",
-        "publishedAt": "2026-08-31"
+        "id": "vid-9NIA9h-W_b8",
+        "title": "늙크크 싹쓸이!",
+        "thumbnail": "https://i2.ytimg.com/vi/9NIA9h-W_b8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9NIA9h-W_b8",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-xQ2ZYI4XZL0",
-        "title": "DK vs KT | 승자조 1라운드 매치 하이라이트 | 2026 우리은행 LCK 플레이오프",
-        "thumbnail": "https://i1.ytimg.com/vi/xQ2ZYI4XZL0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xQ2ZYI4XZL0",
-        "publishedAt": "2026-08-31"
+        "id": "vid-1NRoOVqEHME",
+        "title": "티원 클래식 칼리-레나타",
+        "thumbnail": "https://i2.ytimg.com/vi/1NRoOVqEHME/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1NRoOVqEHME",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-Nd2BKCbdCV0",
-        "title": "롤알못 박제합니다 | DK vs KT 게임 3 하이라이트 | 2026 우리은행 LCK 플레이오프",
-        "thumbnail": "https://i3.ytimg.com/vi/Nd2BKCbdCV0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Nd2BKCbdCV0",
-        "publishedAt": "2026-08-31"
+        "id": "vid-5nO9isLe2kg",
+        "title": "T1 vs DK | 패자조 3라운드 매치 하이라이트 | 2026 우리은행 LCK 플레이오프",
+        "thumbnail": "https://i2.ytimg.com/vi/5nO9isLe2kg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5nO9isLe2kg",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-mqxi1y50jCw",
-        "title": "\"넥서스 살아 있잖아\" | DK vs KT 게임 2 하이라이트 | 2026 우리은행 LCK 플레이오프",
-        "thumbnail": "https://i2.ytimg.com/vi/mqxi1y50jCw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mqxi1y50jCw",
-        "publishedAt": "2026-08-31"
+        "id": "vid-CN1kmQ3oDUA",
+        "title": "돌고돌아 제도기 | T1 vs DK 게임 4 하이라이트 | 2026 우리은행 LCK 플레이오프",
+        "thumbnail": "https://i4.ytimg.com/vi/CN1kmQ3oDUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CN1kmQ3oDUA",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-H-gmtnFBh-k",
-        "title": "이게 지우야 우지야",
-        "thumbnail": "https://i1.ytimg.com/vi/H-gmtnFBh-k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H-gmtnFBh-k",
-        "publishedAt": "2026-08-31"
+        "id": "vid-8K2RVMjZZWc",
+        "title": "CORT1S - 늙크크 | T1 vs DK 게임 3 하이라이트 | 2026 우리은행 LCK 플레이오프",
+        "thumbnail": "https://i1.ytimg.com/vi/8K2RVMjZZWc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8K2RVMjZZWc",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-1DOqah0r2GY",
-        "title": "Bdd 선수의 LCK 3,000킬 달성을 축하드립니다. | DK vs KT 게임 1 하이라이트 | 2026 우리은행 LCK 플레이오프",
-        "thumbnail": "https://i2.ytimg.com/vi/1DOqah0r2GY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1DOqah0r2GY",
-        "publishedAt": "2026-08-31"
+        "id": "vid-x2kO9aseqT4",
+        "title": "대장군 라이즈 | T1 vs DK 게임 2 하이라이트 | 2026 우리은행 LCK 플레이오프",
+        "thumbnail": "https://i1.ytimg.com/vi/x2kO9aseqT4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x2kO9aseqT4",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-48BZfV2gS04",
-        "title": "전원 자격 박탈",
-        "thumbnail": "https://i1.ytimg.com/vi/48BZfV2gS04/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=48BZfV2gS04",
-        "publishedAt": "2026-08-31"
+        "id": "vid-RuGmPOcsPZY",
+        "title": "솔리드란",
+        "thumbnail": "https://i3.ytimg.com/vi/RuGmPOcsPZY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RuGmPOcsPZY",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-ddB-Bpzb0Ho",
-        "title": "내가 퍼스트에 서겠다 | 마이크 체크 Ep.14 | 2026 LCK",
-        "thumbnail": "https://i1.ytimg.com/vi/ddB-Bpzb0Ho/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ddB-Bpzb0Ho",
-        "publishedAt": "2026-08-30"
+        "id": "vid-FAQi_3yUqqc",
+        "title": "원콤맨 | T1 vs DK 게임 1 하이라이트 | 2026 우리은행 LCK 플레이오프",
+        "thumbnail": "https://i3.ytimg.com/vi/FAQi_3yUqqc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FAQi_3yUqqc",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-qNiW0EsWr9E",
-        "title": "스킨 보유자의 품격",
-        "thumbnail": "https://i2.ytimg.com/vi/qNiW0EsWr9E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qNiW0EsWr9E",
-        "publishedAt": "2026-08-30"
+        "id": "vid-V53AEuTT1nQ",
+        "title": "잡았죠?",
+        "thumbnail": "https://i3.ytimg.com/vi/V53AEuTT1nQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V53AEuTT1nQ",
+        "publishedAt": "2026-09-07"
       },
       {
-        "id": "vid-UgrIoia3kwM",
-        "title": "역체 펜타 머신",
-        "thumbnail": "https://i2.ytimg.com/vi/UgrIoia3kwM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UgrIoia3kwM",
-        "publishedAt": "2026-08-30"
+        "id": "vid-uXJrNQbZMnc",
+        "title": "GEN vs HLE | 승자조 3라운드 매치 하이라이트 | 2026 우리은행 LCK 플레이오프",
+        "thumbnail": "https://i2.ytimg.com/vi/uXJrNQbZMnc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uXJrNQbZMnc",
+        "publishedAt": "2026-09-06"
       }
     ]
   },
@@ -1062,6 +1062,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-kRBIVafwE9s",
+        "title": "1 Step Closer to Finals!  - T1 vs DK Highlights | LCK 2026 Playoffs",
+        "thumbnail": "https://i4.ytimg.com/vi/kRBIVafwE9s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kRBIVafwE9s",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-Yo5B2EV6f5k",
+        "title": "T1 Faker Mid Tristana - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i2.ytimg.com/vi/Yo5B2EV6f5k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Yo5B2EV6f5k",
+        "publishedAt": "2026-09-05"
+      },
+      {
+        "id": "vid-ZVnj3r5nzj0",
+        "title": "T1 Peyz (Mel) & T1 Oner (Jayce) vs T1 Keria (Gragas) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i3.ytimg.com/vi/ZVnj3r5nzj0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZVnj3r5nzj0",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-pcCpYFBG6gQ",
+        "title": "T1 Doran (Olaf) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i1.ytimg.com/vi/pcCpYFBG6gQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pcCpYFBG6gQ",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-ip49AkcjI8A",
+        "title": "The Best Blitz Performance in LCK!? - T1 vs HLE Highlights | LCK 2026 Playoffs",
+        "thumbnail": "https://i2.ytimg.com/vi/ip49AkcjI8A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ip49AkcjI8A",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-u89cSKw57Qo",
+        "title": "T1 Doran (Camille) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i2.ytimg.com/vi/u89cSKw57Qo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u89cSKw57Qo",
+        "publishedAt": "2026-09-01"
+      },
+      {
+        "id": "vid-R4Wj9ojQtTY",
+        "title": "T1 Peyz (Nilah) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i3.ytimg.com/vi/R4Wj9ojQtTY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R4Wj9ojQtTY",
+        "publishedAt": "2026-08-31"
+      },
+      {
         "id": "vid-uyc8-b2DdTs",
         "title": "T1 Doran (Camille) - Spectating T1 in KR SoloQ/티원관전방",
         "thumbnail": "https://i2.ytimg.com/vi/uyc8-b2DdTs/hqdefault.jpg",
@@ -1081,55 +1130,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/fsbsNebaOaU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fsbsNebaOaU",
         "publishedAt": "2026-08-28"
-      },
-      {
-        "id": "vid-suFM394VJlA",
-        "title": "Vayne Jungle Hits VERY Different!? - HIGH ELO KR Pros SoloQ Highlights",
-        "thumbnail": "https://i4.ytimg.com/vi/suFM394VJlA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=suFM394VJlA",
-        "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-9RBHZxfu564",
-        "title": "T1 Doran (Vayne) - Spectating T1 in KR SoloQ/티원관전방",
-        "thumbnail": "https://i2.ytimg.com/vi/9RBHZxfu564/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9RBHZxfu564",
-        "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-2n3juBwuNQI",
-        "title": "T1 Doran Top Vayne Masterclass - HIGH ELO KR Pros SoloQ Highlights",
-        "thumbnail": "https://i3.ytimg.com/vi/2n3juBwuNQI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2n3juBwuNQI",
-        "publishedAt": "2026-08-24"
-      },
-      {
-        "id": "vid-zVVL8w3LVKk",
-        "title": "T1 Peyz (Ezreal) vs T1 Faker (Gnar) - Spectating T1 in KR SoloQ/티원관전방",
-        "thumbnail": "https://i3.ytimg.com/vi/zVVL8w3LVKk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zVVL8w3LVKk",
-        "publishedAt": "2026-08-22"
-      },
-      {
-        "id": "vid-q2ow_mZ4hKo",
-        "title": "Oner has to pick 1 Teammate - T1 vs KT Highlights with Voice Comms Translated",
-        "thumbnail": "https://i2.ytimg.com/vi/q2ow_mZ4hKo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=q2ow_mZ4hKo",
-        "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-wL56KytF9fc",
-        "title": "T1 Doran (Vayne) - Spectating T1 in KR SoloQ/티원관전방",
-        "thumbnail": "https://i4.ytimg.com/vi/wL56KytF9fc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wL56KytF9fc",
-        "publishedAt": "2026-08-20"
-      },
-      {
-        "id": "vid-xzUA4rQWEm0",
-        "title": "T1 Peyz (Kalista) - Spectating T1 in KR SoloQ/티원관전방",
-        "thumbnail": "https://i1.ytimg.com/vi/xzUA4rQWEm0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xzUA4rQWEm0",
-        "publishedAt": "2026-08-19"
       }
     ]
   },
@@ -1158,6 +1158,41 @@
       "twitch": "t1"
     },
     "latestVideos": [
+      {
+        "id": "vid-CjJzFDmX5VI",
+        "title": "불같이 뜨거웠던 촬영 현장 삼성 오디세이 광고 비하인드",
+        "thumbnail": "https://i4.ytimg.com/vi/CjJzFDmX5VI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CjJzFDmX5VI",
+        "publishedAt": "2026-09-07"
+      },
+      {
+        "id": "vid-exMiD800sdI",
+        "title": "T1mitless Interview - 09.06.2026",
+        "thumbnail": "https://i2.ytimg.com/vi/exMiD800sdI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=exMiD800sdI",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-ogKPGyqXFCU",
+        "title": "QWER 찍으러 왔다가 마주친 T1 비밀병기 덤보",
+        "thumbnail": "https://i4.ytimg.com/vi/ogKPGyqXFCU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ogKPGyqXFCU",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-umnp9vs8eS4",
+        "title": "백 도 란 [T1scord 2026 vs BFX]",
+        "thumbnail": "https://i2.ytimg.com/vi/umnp9vs8eS4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=umnp9vs8eS4",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-RGbVUhO6av0",
+        "title": "다 알고있는 비밀 (ft. 도란&케리아)",
+        "thumbnail": "https://i3.ytimg.com/vi/RGbVUhO6av0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RGbVUhO6av0",
+        "publishedAt": "2026-09-02"
+      },
       {
         "id": "vid-ktFu2a9Ap7E",
         "title": "돌아 오셨군요네 [T1scord 2026 vs BFX]",
@@ -1192,41 +1227,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/NJN1odt-OfI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NJN1odt-OfI",
         "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-FDos-nzB8HE",
-        "title": "도베사 발견",
-        "thumbnail": "https://i3.ytimg.com/vi/FDos-nzB8HE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FDos-nzB8HE",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-cyVdNmaAHFc",
-        "title": "페칼리의 바텀 생존기(ft. 페이즈)",
-        "thumbnail": "https://i4.ytimg.com/vi/cyVdNmaAHFc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cyVdNmaAHFc",
-        "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-XP3mL2KbIZU",
-        "title": "영재 코그모",
-        "thumbnail": "https://i1.ytimg.com/vi/XP3mL2KbIZU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XP3mL2KbIZU",
-        "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-8D_eqz4-pWU",
-        "title": "T1mitless Interview - 08.21.2026",
-        "thumbnail": "https://i1.ytimg.com/vi/8D_eqz4-pWU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8D_eqz4-pWU",
-        "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-GUyutCReq08",
-        "title": "몰래 온 손님 [T1scord vs KT]",
-        "thumbnail": "https://i4.ytimg.com/vi/GUyutCReq08/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GUyutCReq08",
-        "publishedAt": "2026-08-21"
       }
     ]
   },

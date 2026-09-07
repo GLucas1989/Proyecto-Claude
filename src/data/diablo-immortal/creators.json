@@ -23,6 +23,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-AEJ_boT6V1Q",
+        "title": "Diablo Immortal – Warlock PVP Build | Pyrestorm",
+        "thumbnail": "https://i2.ytimg.com/vi/AEJ_boT6V1Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AEJ_boT6V1Q",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-BlgfTF7uw9o",
+        "title": "Diablo Immortal – Warlock PVP Build | Best Of Both Worlds",
+        "thumbnail": "https://i3.ytimg.com/vi/BlgfTF7uw9o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BlgfTF7uw9o",
+        "publishedAt": "2026-09-01"
+      },
+      {
         "id": "vid-IUGtJ09Rktk",
         "title": "Diablo Immortal – Monk Balance Changes",
         "thumbnail": "https://i2.ytimg.com/vi/IUGtJ09Rktk/hqdefault.jpg",
@@ -77,20 +91,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/VtmClmAqgow/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VtmClmAqgow",
         "publishedAt": "2026-07-30"
-      },
-      {
-        "id": "vid-u1bdXngS1vw",
-        "title": "Diablo Immortal - Is The Helicopter Monk Finally Viable?",
-        "thumbnail": "https://i2.ytimg.com/vi/u1bdXngS1vw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u1bdXngS1vw",
-        "publishedAt": "2026-07-29"
-      },
-      {
-        "id": "vid-jxddmb3ivGg",
-        "title": "Diablo Immortal - TotalChaos | EzPk | DarkMoon Alliance JUL. 2026 Giveaway 🦆",
-        "thumbnail": "https://i3.ytimg.com/vi/jxddmb3ivGg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jxddmb3ivGg",
-        "publishedAt": "2026-07-22"
       }
     ]
   },
@@ -213,6 +213,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-E8D5KtzViHM",
+        "title": "VOB Gameplay: Avalorian's Wizard and Z4Bran's Blood Knight (Sep 6, 2026) | Diablo Immortal",
+        "thumbnail": "https://i2.ytimg.com/vi/E8D5KtzViHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E8D5KtzViHM",
+        "publishedAt": "2026-09-06"
+      },
+      {
         "id": "vid-gVZe9N78IZc",
         "title": "BUILDER'S BEACON Demo (Boon of Colossus Ashes): Open the Elder Rift, Any Safe Zone | Diablo Immortal",
         "thumbnail": "https://i4.ytimg.com/vi/gVZe9N78IZc/hqdefault.jpg",
@@ -274,13 +281,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/VgTbJ5iZHXA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VgTbJ5iZHXA",
         "publishedAt": "2026-07-12"
-      },
-      {
-        "id": "vid-AakYfJC_yqg",
-        "title": "In Aries's Room in Eclipse VS Phantom Troupe in Our First Vigil (No Build) | Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/AakYfJC_yqg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AakYfJC_yqg",
-        "publishedAt": "2026-07-05"
       }
     ]
   },
@@ -308,6 +308,41 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-w3TaQA7aDJc",
+        "title": "🔴 Necro PvE | Verge + Terror Rifts | Double Rewards!!",
+        "thumbnail": "https://i4.ytimg.com/vi/w3TaQA7aDJc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w3TaQA7aDJc",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-BhaPFcdz7YY",
+        "title": "🔴 Necro PvP Legend climb + Dungeons! Class poll starts Monday!",
+        "thumbnail": "https://i3.ytimg.com/vi/BhaPFcdz7YY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BhaPFcdz7YY",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-zdyvXZHx2qw",
+        "title": "🔴 Necro Tornado Fear PvP Build + Dungeons!",
+        "thumbnail": "https://i3.ytimg.com/vi/zdyvXZHx2qw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zdyvXZHx2qw",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-P7pOcp1R5ns",
+        "title": "Fear Necro Is BACK! Is SUPPORT the New Necro Meta?",
+        "thumbnail": "https://i1.ytimg.com/vi/P7pOcp1R5ns/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=P7pOcp1R5ns",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-kU1tMrDdgWQ",
+        "title": "🔴 Necro Fear Dive SUPPORT Build! PvP + Dungeons",
+        "thumbnail": "https://i4.ytimg.com/vi/kU1tMrDdgWQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kU1tMrDdgWQ",
+        "publishedAt": "2026-08-31"
+      },
       {
         "id": "vid-C3P8mmukw3U",
         "title": "🔴 Necro Best PvP Builds + Verge!",
@@ -342,41 +377,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/r2ool7mrlIA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=r2ool7mrlIA",
         "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-VT9MFPF9Hfk",
-        "title": "🔴 DUNGEONATHON: Beat 152?! YOU Add the Dungeons!",
-        "thumbnail": "https://i3.ytimg.com/vi/VT9MFPF9Hfk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VT9MFPF9Hfk",
-        "publishedAt": "2026-08-22"
-      },
-      {
-        "id": "vid-cqASpdc8SXc",
-        "title": "🔴New Necro PvP Build! Mirrored Jewels + Dungeons!",
-        "thumbnail": "https://i4.ytimg.com/vi/cqASpdc8SXc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cqASpdc8SXc",
-        "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-7HPPOJcNoT4",
-        "title": "🔴 Necro PvP Build Testing + Dungeons!",
-        "thumbnail": "https://i4.ytimg.com/vi/7HPPOJcNoT4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7HPPOJcNoT4",
-        "publishedAt": "2026-08-17"
-      },
-      {
-        "id": "vid-T8XUp_kdmtQ",
-        "title": "🔴 Necro FLOOR-Grounds, Terror Rifts + Dungeons!!",
-        "thumbnail": "https://i1.ytimg.com/vi/T8XUp_kdmtQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T8XUp_kdmtQ",
-        "publishedAt": "2026-08-16"
-      },
-      {
-        "id": "vid-rBm9qtSVQ5o",
-        "title": "🔴 Revenant Market Pull! Essence Hunt + Dungeons!",
-        "thumbnail": "https://i3.ytimg.com/vi/rBm9qtSVQ5o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rBm9qtSVQ5o",
-        "publishedAt": "2026-08-14"
       }
     ]
   }

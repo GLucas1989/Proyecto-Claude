@@ -25,6 +25,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-I5jQTrSZpIg",
+        "title": "BAR Clan Conquest League Season 2!",
+        "thumbnail": "https://i2.ytimg.com/vi/I5jQTrSZpIg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I5jQTrSZpIg",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-fq7ogvGN1V0",
+        "title": "West Basinger - Invasive (RAPTORS OST - CONFLICT)",
+        "thumbnail": "https://i3.ytimg.com/vi/fq7ogvGN1V0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fq7ogvGN1V0",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid-aAkqcjV4lNI",
+        "title": "West Basinger - Alien Scouts (RAPTORS OST - CONFLICT)",
+        "thumbnail": "https://i2.ytimg.com/vi/aAkqcjV4lNI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aAkqcjV4lNI",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-oPQVjOs_cVg",
+        "title": "Leon Devereux - Line Worlds Overture (BAR OST - MENU)",
+        "thumbnail": "https://i4.ytimg.com/vi/oPQVjOs_cVg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oPQVjOs_cVg",
+        "publishedAt": "2026-08-31"
+      },
+      {
         "id": "vid-YK1YnfpYUrM",
         "title": "TM Cup 3!",
         "thumbnail": "https://i2.ytimg.com/vi/YK1YnfpYUrM/hqdefault.jpg",
@@ -65,34 +93,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/12CKSDfLrFY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=12CKSDfLrFY",
         "publishedAt": "2026-07-18"
-      },
-      {
-        "id": "vid-x8Y3HwoypUw",
-        "title": "Fight Night - Masters League",
-        "thumbnail": "https://i1.ytimg.com/vi/x8Y3HwoypUw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x8Y3HwoypUw",
-        "publishedAt": "2026-07-18"
-      },
-      {
-        "id": "vid-G-l3IsK2OxY",
-        "title": "KOTH BY ARNL",
-        "thumbnail": "https://i4.ytimg.com/vi/G-l3IsK2OxY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G-l3IsK2OxY",
-        "publishedAt": "2026-07-17"
-      },
-      {
-        "id": "vid-N2KsX8vPXAk",
-        "title": "KOTH BY ARNL",
-        "thumbnail": "https://i3.ytimg.com/vi/N2KsX8vPXAk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N2KsX8vPXAk",
-        "publishedAt": "2026-07-06"
-      },
-      {
-        "id": "vid-4JN6EUF5YdQ",
-        "title": "BAR Pro League Season 9 Grand Finals!",
-        "thumbnail": "https://i1.ytimg.com/vi/4JN6EUF5YdQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4JN6EUF5YdQ",
-        "publishedAt": "2026-06-29"
       }
     ]
   },
@@ -120,6 +120,41 @@
       "youtube": "https://www.youtube.com/@AllReasonNoLogic"
     },
     "latestVideos": [
+      {
+        "id": "vid-SAg1CHcbi8g",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i4.ytimg.com/vi/SAg1CHcbi8g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SAg1CHcbi8g",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-lXPLXg1sIsk",
+        "title": "82 Players - 1 Unit Changes The Game | King Of The Hill | Beyond All Reason",
+        "thumbnail": "https://i1.ytimg.com/vi/lXPLXg1sIsk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lXPLXg1sIsk",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-nedupgqW3go",
+        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i3.ytimg.com/vi/nedupgqW3go/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nedupgqW3go",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-871iujANthc",
+        "title": "UNSTOPPABLE | Beyond All Reason | All That Glitters",
+        "thumbnail": "https://i1.ytimg.com/vi/871iujANthc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=871iujANthc",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-DDzPDsr1EBU",
+        "title": "This 60 player RTS is INSANE | Beyond All Reason | Ascendency",
+        "thumbnail": "https://i1.ytimg.com/vi/DDzPDsr1EBU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DDzPDsr1EBU",
+        "publishedAt": "2026-08-31"
+      },
       {
         "id": "vid-fr2WG0WKb14",
         "title": "KING of the HILL - Beyond All Reason",
@@ -154,41 +189,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/zLsvndYcRCs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zLsvndYcRCs",
         "publishedAt": "2026-08-24"
-      },
-      {
-        "id": "vid-gcWoFbivkO0",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i4.ytimg.com/vi/gcWoFbivkO0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gcWoFbivkO0",
-        "publishedAt": "2026-08-24"
-      },
-      {
-        "id": "vid-dh2LTeIpHEM",
-        "title": "I Can't Believe That Turn Around | King Of The Hill | Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/dh2LTeIpHEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dh2LTeIpHEM",
-        "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-SdOCf2qCOls",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i4.ytimg.com/vi/SdOCf2qCOls/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SdOCf2qCOls",
-        "publishedAt": "2026-08-20"
-      },
-      {
-        "id": "vid-OiTrSwSFktc",
-        "title": "Why Armada Vehicles are best | Beyond All Reason",
-        "thumbnail": "https://i4.ytimg.com/vi/OiTrSwSFktc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OiTrSwSFktc",
-        "publishedAt": "2026-08-19"
-      },
-      {
-        "id": "vid-UtwGvmK1dhA",
-        "title": "Low Level Comeback | Beyond All Reason | Rosetta",
-        "thumbnail": "https://i2.ytimg.com/vi/UtwGvmK1dhA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UtwGvmK1dhA",
-        "publishedAt": "2026-08-18"
       }
     ]
   },

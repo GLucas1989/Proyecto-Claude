@@ -119,6 +119,34 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-KIdCMYysr6o",
+        "title": "Esta es la verdadera riqueza...",
+        "thumbnail": "https://i4.ytimg.com/vi/KIdCMYysr6o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KIdCMYysr6o",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-ltjSC4Q9Heo",
+        "title": "Soy TheMufas",
+        "thumbnail": "https://i1.ytimg.com/vi/ltjSC4Q9Heo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ltjSC4Q9Heo",
+        "publishedAt": "2026-09-03"
+      },
+      {
+        "id": "vid-pnpUQNeDnjw",
+        "title": "Invité a un sub a la F1 y me sorprendió 😂",
+        "thumbnail": "https://i1.ytimg.com/vi/pnpUQNeDnjw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pnpUQNeDnjw",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-59NvVJLPyKk",
+        "title": "INVITÉ A UN SUSCRIPTOR A LA F1 - TheGrefg",
+        "thumbnail": "https://i2.ytimg.com/vi/59NvVJLPyKk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=59NvVJLPyKk",
+        "publishedAt": "2026-09-01"
+      },
+      {
         "id": "vid-vv0KbiINWpQ",
         "title": "Sueño cumplido con mal sabor de boca.",
         "thumbnail": "https://i3.ytimg.com/vi/vv0KbiINWpQ/hqdefault.jpg",
@@ -159,34 +187,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/edmdXD8kkZA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=edmdXD8kkZA",
         "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-cRAs0WxOSzc",
-        "title": "Viendo ganar al mejor ciclista de la historia, Tadej Pogačar",
-        "thumbnail": "https://i4.ytimg.com/vi/cRAs0WxOSzc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cRAs0WxOSzc",
-        "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-QCnlrRuEqYs",
-        "title": "Fortnite, por qué me haces esto...",
-        "thumbnail": "https://i2.ytimg.com/vi/QCnlrRuEqYs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QCnlrRuEqYs",
-        "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-Q1I8phi3WEE",
-        "title": "He vuelto a ganar en Fortnite…",
-        "thumbnail": "https://i2.ytimg.com/vi/Q1I8phi3WEE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q1I8phi3WEE",
-        "publishedAt": "2026-08-22"
-      },
-      {
-        "id": "vid-6lD4BohkHR4",
-        "title": "He hecho el reto de Spider-Man",
-        "thumbnail": "https://i3.ytimg.com/vi/6lD4BohkHR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6lD4BohkHR4",
-        "publishedAt": "2026-08-21"
       }
     ]
   },
@@ -214,6 +214,48 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-sOlbQJ6p62I",
+        "title": "ECUADOR vs BOLIVIA | CUARTOS DE FINAL | MUNDIAL DE COMIDAS",
+        "thumbnail": "https://i4.ytimg.com/vi/sOlbQJ6p62I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sOlbQJ6p62I",
+        "publishedAt": "2026-09-06"
+      },
+      {
+        "id": "vid-dqY4Y2CFZzM",
+        "title": "VENEZUELA vs COLOMBIA | CUARTOS DE FINAL | MUNDIAL DE COMIDAS",
+        "thumbnail": "https://i1.ytimg.com/vi/dqY4Y2CFZzM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dqY4Y2CFZzM",
+        "publishedAt": "2026-09-05"
+      },
+      {
+        "id": "vid-OuBzjIG6aWo",
+        "title": "Hazard vs Ibai ¿Quién sabe más?",
+        "thumbnail": "https://i4.ytimg.com/vi/OuBzjIG6aWo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OuBzjIG6aWo",
+        "publishedAt": "2026-09-04"
+      },
+      {
+        "id": "vid--B14LJfYWPs",
+        "title": "PERÚ vs GUATEMALA | CUARTOS DE FINAL | MUNDIAL DE COMIDAS",
+        "thumbnail": "https://i2.ytimg.com/vi/-B14LJfYWPs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-B14LJfYWPs",
+        "publishedAt": "2026-09-02"
+      },
+      {
+        "id": "vid-XklVpe0gHvs",
+        "title": "El nuevo trofeo del Mundial de Comidas",
+        "thumbnail": "https://i1.ytimg.com/vi/XklVpe0gHvs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XklVpe0gHvs",
+        "publishedAt": "2026-09-01"
+      },
+      {
+        "id": "vid-tDb43zZzHiw",
+        "title": "Estos son los ganadores del Mundial de Comidas.",
+        "thumbnail": "https://i1.ytimg.com/vi/tDb43zZzHiw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tDb43zZzHiw",
+        "publishedAt": "2026-08-31"
+      },
+      {
         "id": "vid-iByOjb-6xg4",
         "title": "Vini Jr es muy bueno",
         "thumbnail": "https://i2.ytimg.com/vi/iByOjb-6xg4/hqdefault.jpg",
@@ -240,48 +282,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/tu7TCN3rMGI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=tu7TCN3rMGI",
         "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-GTRVOHO7dKo",
-        "title": "SORTEO HISTÓRICO DE LA CASA DE EMPEÑOS.",
-        "thumbnail": "https://i4.ytimg.com/vi/GTRVOHO7dKo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GTRVOHO7dKo",
-        "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-SLRlNNG6KIs",
-        "title": "VENEZUELA vs EL SALVADOR | OCTAVOS DE FINAL | MUNDIAL DE COMIDAS",
-        "thumbnail": "https://i4.ytimg.com/vi/SLRlNNG6KIs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SLRlNNG6KIs",
-        "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-GTSeLP2EA6c",
-        "title": "MÉXICO vs GUATEMALA | OCTAVOS DE FINAL | MUNDIAL DE COMIDAS",
-        "thumbnail": "https://i4.ytimg.com/vi/GTSeLP2EA6c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GTSeLP2EA6c",
-        "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-gbtUtv0h5nU",
-        "title": "Los Empeños de Ibai #2",
-        "thumbnail": "https://i4.ytimg.com/vi/gbtUtv0h5nU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gbtUtv0h5nU",
-        "publishedAt": "2026-08-24"
-      },
-      {
-        "id": "vid-3RzC-jeGXg0",
-        "title": "URUGUAY vs PARAGUAY | OCTAVOS DE FINAL | MUNDIAL DE COMIDAS",
-        "thumbnail": "https://i4.ytimg.com/vi/3RzC-jeGXg0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3RzC-jeGXg0",
-        "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-KaEWGDMpWck",
-        "title": "CHILE vs BOLIVIA | OCTAVOS DE FINAL | MUNDIAL DE COMIDAS",
-        "thumbnail": "https://i4.ytimg.com/vi/KaEWGDMpWck/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KaEWGDMpWck",
-        "publishedAt": "2026-08-22"
       }
     ]
   },
