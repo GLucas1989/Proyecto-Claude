@@ -25,6 +25,27 @@
     },
     "latestVideos": [
       {
+        "id": "vid-ScxE7PMXEaw",
+        "title": "West Basinger - Extermination Order REMASTERED (RAPTORS OST - WAR)",
+        "thumbnail": "https://i4.ytimg.com/vi/ScxE7PMXEaw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ScxE7PMXEaw",
+        "publishedAt": "2026-09-11"
+      },
+      {
+        "id": "vid-gsYI-trDKJU",
+        "title": "West Basinger - Dread (RAPTORS OST - WAR)",
+        "thumbnail": "https://i4.ytimg.com/vi/gsYI-trDKJU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gsYI-trDKJU",
+        "publishedAt": "2026-09-09"
+      },
+      {
+        "id": "vid-831XXhswg_g",
+        "title": "West Basinger - The Ashes of War (RAPTORS OST - INTERLUDE)",
+        "thumbnail": "https://i1.ytimg.com/vi/831XXhswg_g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=831XXhswg_g",
+        "publishedAt": "2026-09-07"
+      },
+      {
         "id": "vid-I5jQTrSZpIg",
         "title": "BAR Clan Conquest League Season 2!",
         "thumbnail": "https://i2.ytimg.com/vi/I5jQTrSZpIg/hqdefault.jpg",
@@ -72,27 +93,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/c10wnNu7ZEs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=c10wnNu7ZEs",
         "publishedAt": "2026-08-17"
-      },
-      {
-        "id": "vid-Lnoml3PSd5k",
-        "title": "The Creator Cup",
-        "thumbnail": "https://i1.ytimg.com/vi/Lnoml3PSd5k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Lnoml3PSd5k",
-        "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-5HpjVKT48OY",
-        "title": "King of the Hill by @AllReasonNoLogic",
-        "thumbnail": "https://i2.ytimg.com/vi/5HpjVKT48OY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5HpjVKT48OY",
-        "publishedAt": "2026-07-27"
-      },
-      {
-        "id": "vid-12CKSDfLrFY",
-        "title": "Territorial Domination",
-        "thumbnail": "https://i2.ytimg.com/vi/12CKSDfLrFY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=12CKSDfLrFY",
-        "publishedAt": "2026-07-18"
       }
     ]
   },
@@ -120,6 +120,41 @@
       "youtube": "https://www.youtube.com/@AllReasonNoLogic"
     },
     "latestVideos": [
+      {
+        "id": "vid--z2vkaAFHeU",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i2.ytimg.com/vi/-z2vkaAFHeU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-z2vkaAFHeU",
+        "publishedAt": "2026-09-14"
+      },
+      {
+        "id": "vid-_dfAwZZbq1E",
+        "title": "Everything Was Going So Well... Until it Wasn't | King Of The Hill | Beyond All Reason",
+        "thumbnail": "https://i4.ytimg.com/vi/_dfAwZZbq1E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_dfAwZZbq1E",
+        "publishedAt": "2026-09-13"
+      },
+      {
+        "id": "vid-EdIDU7q90lg",
+        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i2.ytimg.com/vi/EdIDU7q90lg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EdIDU7q90lg",
+        "publishedAt": "2026-09-10"
+      },
+      {
+        "id": "vid-hMbxagIRui0",
+        "title": "Don't watch this disgusting All That Glitters | Beyond All Reason",
+        "thumbnail": "https://i1.ytimg.com/vi/hMbxagIRui0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hMbxagIRui0",
+        "publishedAt": "2026-09-09"
+      },
+      {
+        "id": "vid-ql2n5REJA5U",
+        "title": "80 Player Apocalypse RTS | Beyond All Reason | No Eco Hot Stepper - Lava Rising",
+        "thumbnail": "https://i2.ytimg.com/vi/ql2n5REJA5U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ql2n5REJA5U",
+        "publishedAt": "2026-09-07"
+      },
       {
         "id": "vid-SAg1CHcbi8g",
         "title": "KING of the HILL - Beyond All Reason",
@@ -154,41 +189,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/DDzPDsr1EBU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DDzPDsr1EBU",
         "publishedAt": "2026-08-31"
-      },
-      {
-        "id": "vid-fr2WG0WKb14",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i3.ytimg.com/vi/fr2WG0WKb14/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fr2WG0WKb14",
-        "publishedAt": "2026-08-31"
-      },
-      {
-        "id": "vid--U4oBb6TxzY",
-        "title": "Janus Beat T3? The Meta Has Changed Forever! | King Of The Hill | Beyond All Reason",
-        "thumbnail": "https://i2.ytimg.com/vi/-U4oBb6TxzY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-U4oBb6TxzY",
-        "publishedAt": "2026-08-30"
-      },
-      {
-        "id": "vid-cma6-SITZeY",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i4.ytimg.com/vi/cma6-SITZeY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cma6-SITZeY",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-7vrhrRntZ-U",
-        "title": "Mate 1v2'd So I Could WIN | Beyond All Reason | Red River Remake",
-        "thumbnail": "https://i4.ytimg.com/vi/7vrhrRntZ-U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7vrhrRntZ-U",
-        "publishedAt": "2026-08-26"
-      },
-      {
-        "id": "vid-zLsvndYcRCs",
-        "title": "Learning Backline Canyon | Beyond All Reason | All That Glitters",
-        "thumbnail": "https://i3.ytimg.com/vi/zLsvndYcRCs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zLsvndYcRCs",
-        "publishedAt": "2026-08-24"
       }
     ]
   },

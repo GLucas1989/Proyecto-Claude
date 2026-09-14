@@ -119,6 +119,41 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-VnwMbnSn7IM",
+        "title": "Cómo suena un F1 con gente guapa",
+        "thumbnail": "https://i3.ytimg.com/vi/VnwMbnSn7IM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VnwMbnSn7IM",
+        "publishedAt": "2026-09-13"
+      },
+      {
+        "id": "vid-ZhLnGHZ7y_M",
+        "title": "Así es MADRING, el nuevo circuito de F1",
+        "thumbnail": "https://i3.ytimg.com/vi/ZhLnGHZ7y_M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZhLnGHZ7y_M",
+        "publishedAt": "2026-09-12"
+      },
+      {
+        "id": "vid-2XwO7DpRRwA",
+        "title": "Mi vida es surrealista",
+        "thumbnail": "https://i3.ytimg.com/vi/2XwO7DpRRwA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2XwO7DpRRwA",
+        "publishedAt": "2026-09-11"
+      },
+      {
+        "id": "vid-B3jPRzA7Ed0",
+        "title": "Muchas gracias José Luis",
+        "thumbnail": "https://i3.ytimg.com/vi/B3jPRzA7Ed0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B3jPRzA7Ed0",
+        "publishedAt": "2026-09-10"
+      },
+      {
+        "id": "vid-5d2oGtJh464",
+        "title": "Reaccionando al nuevo iPhone Duo",
+        "thumbnail": "https://i2.ytimg.com/vi/5d2oGtJh464/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5d2oGtJh464",
+        "publishedAt": "2026-09-09"
+      },
+      {
         "id": "vid-KIdCMYysr6o",
         "title": "Esta es la verdadera riqueza...",
         "thumbnail": "https://i4.ytimg.com/vi/KIdCMYysr6o/hqdefault.jpg",
@@ -152,41 +187,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/vv0KbiINWpQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vv0KbiINWpQ",
         "publishedAt": "2026-08-29"
-      },
-      {
-        "id": "vid-a-ZPv826dgM",
-        "title": "MI SKIN HA VUELTO",
-        "thumbnail": "https://i2.ytimg.com/vi/a-ZPv826dgM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a-ZPv826dgM",
-        "publishedAt": "2026-08-28"
-      },
-      {
-        "id": "vid-uCuiiWFka9k",
-        "title": "Mi reacción al tráiler de GTA 6 de Netflix",
-        "thumbnail": "https://i2.ytimg.com/vi/uCuiiWFka9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uCuiiWFka9k",
-        "publishedAt": "2026-08-28"
-      },
-      {
-        "id": "vid-om-lsGVdfL8",
-        "title": "REACCIONANDO a GTA VI Tráiler Exclusivo - TheGrefg",
-        "thumbnail": "https://i4.ytimg.com/vi/om-lsGVdfL8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=om-lsGVdfL8",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-tVWEu6e5zak",
-        "title": "Por qué hago estas cosas…",
-        "thumbnail": "https://i1.ytimg.com/vi/tVWEu6e5zak/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tVWEu6e5zak",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-edmdXD8kkZA",
-        "title": "POR FIN",
-        "thumbnail": "https://i2.ytimg.com/vi/edmdXD8kkZA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=edmdXD8kkZA",
-        "publishedAt": "2026-08-26"
       }
     ]
   },
@@ -213,6 +213,27 @@
       "es"
     ],
     "latestVideos": [
+      {
+        "id": "vid-j-XWVZMTxUg",
+        "title": "VENEZUELA vs ECUADOR | SEMIFINALES | MUNDIAL DE COMIDAS",
+        "thumbnail": "https://i3.ytimg.com/vi/j-XWVZMTxUg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=j-XWVZMTxUg",
+        "publishedAt": "2026-09-13"
+      },
+      {
+        "id": "vid-zs05269ezcA",
+        "title": "Estos son los ganadores del Mundial de Comidas.",
+        "thumbnail": "https://i3.ytimg.com/vi/zs05269ezcA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zs05269ezcA",
+        "publishedAt": "2026-09-10"
+      },
+      {
+        "id": "vid-6qd7_LuabG0",
+        "title": "ARGENTINA vs URUGUAY | CUARTOS DE FINAL | MUNDIAL DE COMIDAS",
+        "thumbnail": "https://i3.ytimg.com/vi/6qd7_LuabG0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6qd7_LuabG0",
+        "publishedAt": "2026-09-07"
+      },
       {
         "id": "vid-sOlbQJ6p62I",
         "title": "ECUADOR vs BOLIVIA | CUARTOS DE FINAL | MUNDIAL DE COMIDAS",
@@ -261,27 +282,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/iByOjb-6xg4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iByOjb-6xg4",
         "publishedAt": "2026-08-30"
-      },
-      {
-        "id": "vid-Yu38w2PX1H0",
-        "title": "¿Quién baila mejor?",
-        "thumbnail": "https://i2.ytimg.com/vi/Yu38w2PX1H0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Yu38w2PX1H0",
-        "publishedAt": "2026-08-29"
-      },
-      {
-        "id": "vid-9FHuJ6jIxa4",
-        "title": "COLOMBIA vs REPÚBLICA DOMINICANA | OCTAVOS DE FINAL | MUNDIAL DE COMIDAS",
-        "thumbnail": "https://i2.ytimg.com/vi/9FHuJ6jIxa4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9FHuJ6jIxa4",
-        "publishedAt": "2026-08-28"
-      },
-      {
-        "id": "vid-tu7TCN3rMGI",
-        "title": "ECUADOR vs CUBA | OCTAVOS DE FINAL | MUNDIAL DE COMIDAS",
-        "thumbnail": "https://i1.ytimg.com/vi/tu7TCN3rMGI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tu7TCN3rMGI",
-        "publishedAt": "2026-08-27"
       }
     ]
   },

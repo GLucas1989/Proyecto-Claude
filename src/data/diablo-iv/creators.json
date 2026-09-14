@@ -24,6 +24,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-zC6-wR32YXY",
+        "title": "Diablo 4 Is NOT Dead: Amazon, Season 15 & The Future",
+        "thumbnail": "https://i3.ytimg.com/vi/zC6-wR32YXY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zC6-wR32YXY",
+        "publishedAt": "2026-09-13"
+      },
+      {
+        "id": "vid-TaUy7UtAED4",
+        "title": "Diablo 5 Is Real: Everything Blizzard Revealed at BlizzCon Day 1",
+        "thumbnail": "https://i1.ytimg.com/vi/TaUy7UtAED4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TaUy7UtAED4",
+        "publishedAt": "2026-09-13"
+      },
+      {
         "id": "vid-6Ugm9vCgrBU",
         "title": "Blizzard Is Teasing a New StarCraft Game",
         "thumbnail": "https://i3.ytimg.com/vi/6Ugm9vCgrBU/hqdefault.jpg",
@@ -78,20 +92,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/SPT0a2TivOg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SPT0a2TivOg",
         "publishedAt": "2026-08-15"
-      },
-      {
-        "id": "vid-7qCrjtA-ReI",
-        "title": "Diablo 4 Season 15 Is Clearly Hiding Something",
-        "thumbnail": "https://i4.ytimg.com/vi/7qCrjtA-ReI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7qCrjtA-ReI",
-        "publishedAt": "2026-08-08"
-      },
-      {
-        "id": "vid-nrDUtEmEzJo",
-        "title": "Diablo 4 Season 15 Is Going Full Diablo 3",
-        "thumbnail": "https://i3.ytimg.com/vi/nrDUtEmEzJo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nrDUtEmEzJo",
-        "publishedAt": "2026-08-01"
       }
     ]
   },
@@ -121,74 +121,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-OI6j9L3CkrY",
-        "title": "Path of Exile 2 Arc Totems League Start Day 3",
-        "thumbnail": "https://i4.ytimg.com/vi/OI6j9L3CkrY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OI6j9L3CkrY",
+        "id": "vid-GjzXGbJctcE",
+        "title": "Path of Exile 2 Arc Totem Gemling Legionnaire Endgame",
+        "thumbnail": "https://i4.ytimg.com/vi/GjzXGbJctcE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GjzXGbJctcE",
+        "publishedAt": "2026-09-14"
+      },
+      {
+        "id": "vid-p76Up7ViWbQ",
+        "title": "Path of Exile 2 Arc Totem Gemling Legionnaire Endgame",
+        "thumbnail": "https://i1.ytimg.com/vi/p76Up7ViWbQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p76Up7ViWbQ",
+        "publishedAt": "2026-09-14"
+      },
+      {
+        "id": "vid-R-aQP1i1boY",
+        "title": "Diablo 5 Announced - Blizzcon Recap",
+        "thumbnail": "https://i3.ytimg.com/vi/R-aQP1i1boY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R-aQP1i1boY",
+        "publishedAt": "2026-09-12"
+      },
+      {
+        "id": "vid-owG0iisViy4",
+        "title": "Blizzcon Watchparty!",
+        "thumbnail": "https://i4.ytimg.com/vi/owG0iisViy4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=owG0iisViy4",
+        "publishedAt": "2026-09-12"
+      },
+      {
+        "id": "vid-WfJXH9eAbFk",
+        "title": "Path of Exile 2 Arc Totems Endgame Farming",
+        "thumbnail": "https://i4.ytimg.com/vi/WfJXH9eAbFk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WfJXH9eAbFk",
+        "publishedAt": "2026-09-12"
+      },
+      {
+        "id": "vid-wLxDFsgmjgs",
+        "title": "Path of Exile 2 Arc Totems Endgame Farming",
+        "thumbnail": "https://i4.ytimg.com/vi/wLxDFsgmjgs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wLxDFsgmjgs",
+        "publishedAt": "2026-09-11"
+      },
+      {
+        "id": "vid-t5FQQRt0o30",
+        "title": "Path of Exile 2 Arc Totems Endgame Farming",
+        "thumbnail": "https://i1.ytimg.com/vi/t5FQQRt0o30/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t5FQQRt0o30",
+        "publishedAt": "2026-09-10"
+      },
+      {
+        "id": "vid-qp61CNfMvXE",
+        "title": "Path of Exile 2 Arc Totems Endgame Farming",
+        "thumbnail": "https://i2.ytimg.com/vi/qp61CNfMvXE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qp61CNfMvXE",
+        "publishedAt": "2026-09-09"
+      },
+      {
+        "id": "vid-x7T683ZCYOs",
+        "title": "Path of Exile 2 Arc Totems Endgame Farming",
+        "thumbnail": "https://i1.ytimg.com/vi/x7T683ZCYOs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x7T683ZCYOs",
+        "publishedAt": "2026-09-08"
+      },
+      {
+        "id": "vid-GTWd0TlPDUQ",
+        "title": "Path of Exile 2 Arc Totems League Start Day 4",
+        "thumbnail": "https://i4.ytimg.com/vi/GTWd0TlPDUQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GTWd0TlPDUQ",
         "publishedAt": "2026-09-07"
-      },
-      {
-        "id": "vid-xJKcg63USYo",
-        "title": "Path of Exile 2 Arc Totems Day 2 Update",
-        "thumbnail": "https://i1.ytimg.com/vi/xJKcg63USYo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xJKcg63USYo",
-        "publishedAt": "2026-09-06"
-      },
-      {
-        "id": "vid-dbyP92oQp9A",
-        "title": "Look At This Hat!",
-        "thumbnail": "https://i1.ytimg.com/vi/dbyP92oQp9A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dbyP92oQp9A",
-        "publishedAt": "2026-09-06"
-      },
-      {
-        "id": "vid-Nmi6YVDOaW0",
-        "title": "Path of Exile 2 Arc Totems League Start Day 2",
-        "thumbnail": "https://i3.ytimg.com/vi/Nmi6YVDOaW0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Nmi6YVDOaW0",
-        "publishedAt": "2026-09-06"
-      },
-      {
-        "id": "vid-LtCH8eBtI-E",
-        "title": "Path of Exile 2 Day 1 Arc Totem Update",
-        "thumbnail": "https://i1.ytimg.com/vi/LtCH8eBtI-E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LtCH8eBtI-E",
-        "publishedAt": "2026-09-05"
-      },
-      {
-        "id": "vid-Ig3L2_PHRrs",
-        "title": "Path of Exile 2 Arc Totems League Start",
-        "thumbnail": "https://i2.ytimg.com/vi/Ig3L2_PHRrs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ig3L2_PHRrs",
-        "publishedAt": "2026-09-05"
-      },
-      {
-        "id": "vid-0DDfWfV_-9s",
-        "title": "Path of Exile 2 Finalizing Arc Totems for League Start",
-        "thumbnail": "https://i1.ytimg.com/vi/0DDfWfV_-9s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0DDfWfV_-9s",
-        "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-cGmPw9yQbKw",
-        "title": "Godly Build for Path of Exile 2 0.5.5 - Grenade & Arc Totem Gemling Legionnaire League Starter",
-        "thumbnail": "https://i4.ytimg.com/vi/cGmPw9yQbKw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cGmPw9yQbKw",
-        "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-WgZIwMs-0Oo",
-        "title": "Path of Exile 2 Finalizing Arc Totems for League Start",
-        "thumbnail": "https://i4.ytimg.com/vi/WgZIwMs-0Oo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WgZIwMs-0Oo",
-        "publishedAt": "2026-09-02"
-      },
-      {
-        "id": "vid-9b0IHeVkPJQ",
-        "title": "Path of Exile 2 Finalizing Arc Totems for League Start",
-        "thumbnail": "https://i2.ytimg.com/vi/9b0IHeVkPJQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9b0IHeVkPJQ",
-        "publishedAt": "2026-09-01"
       }
     ]
   },
@@ -315,74 +315,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-SSZFtGu8am0",
-        "title": "Off-Meta League Starter! Working on Guides! TFD Later // Livestream",
-        "thumbnail": "https://i4.ytimg.com/vi/SSZFtGu8am0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SSZFtGu8am0",
-        "publishedAt": "2026-09-06"
+        "id": "vid-Fdyr_OY2-Ds",
+        "title": "SPIN 2 WIN MELEE LOVELESS! (1-Tap EVERYTHING) // Borderlands 4 Loveless Guide & New Tech",
+        "thumbnail": "https://i3.ytimg.com/vi/Fdyr_OY2-Ds/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fdyr_OY2-Ds",
+        "publishedAt": "2026-09-14"
       },
       {
-        "id": "vid-pXBUghRmFZw",
-        "title": "LOVELESS SKILL TREE BREAKDOWN! // Borderlands 4 New Vault Hunter Breakdown",
-        "thumbnail": "https://i1.ytimg.com/vi/pXBUghRmFZw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pXBUghRmFZw",
-        "publishedAt": "2026-09-06"
+        "id": "vid-QGscXdOkCjk",
+        "title": "NEW BEST RAFA BUILD?! (Crazy New Weapon!) // Borderlands 4 Ricochet Ranger Rafa Level 70 M20",
+        "thumbnail": "https://i2.ytimg.com/vi/QGscXdOkCjk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QGscXdOkCjk",
+        "publishedAt": "2026-09-13"
       },
       {
-        "id": "vid-lnWY2kCYGHU",
-        "title": "New Co-Op Shooter Looks Awesome! // #ExterminautsPartner",
-        "thumbnail": "https://i1.ytimg.com/vi/lnWY2kCYGHU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lnWY2kCYGHU",
-        "publishedAt": "2026-09-05"
+        "id": "vid-5kquY1drms0",
+        "title": "Ummm Loveless is Pretty Strong...  #borderlands4",
+        "thumbnail": "https://i2.ytimg.com/vi/5kquY1drms0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5kquY1drms0",
+        "publishedAt": "2026-09-13"
       },
       {
-        "id": "vid-v561mOxm3VU",
-        "title": "SHIELD WALL MONK IS CRAZY! PoE 2 League Reset Event // Livestream",
-        "thumbnail": "https://i3.ytimg.com/vi/v561mOxm3VU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v561mOxm3VU",
-        "publishedAt": "2026-09-05"
+        "id": "vid-st8iDO4PZeI",
+        "title": "Best Farms for XP, Transcendant Weapons, Ancestor Mods & More! // The First Descendant Season 4",
+        "thumbnail": "https://i4.ytimg.com/vi/st8iDO4PZeI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=st8iDO4PZeI",
+        "publishedAt": "2026-09-13"
       },
       {
-        "id": "vid-DqFz69dlCvE",
-        "title": "POE 2 NEW LEAGUE RESET EVENT! // Livestream",
-        "thumbnail": "https://i1.ytimg.com/vi/DqFz69dlCvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DqFz69dlCvE",
-        "publishedAt": "2026-09-05"
+        "id": "vid-XwBY6EvdQfc",
+        "title": "BEST CONTAGION LOVELESS BUILD?! (Mobbing Machine!) // Borderlands 4 Plague Puncher Loveless",
+        "thumbnail": "https://i1.ytimg.com/vi/XwBY6EvdQfc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XwBY6EvdQfc",
+        "publishedAt": "2026-09-12"
       },
       {
-        "id": "vid-UrKurez3CrY",
-        "title": "Best League Starter I've Played! Spin To Win Martial Artist! // Path of Exile 2 0.5.5 Guide",
-        "thumbnail": "https://i2.ytimg.com/vi/UrKurez3CrY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UrKurez3CrY",
-        "publishedAt": "2026-09-04"
+        "id": "vid-zC1I5eidJEQ",
+        "title": "ALL Legendary Loveless Classmods & Where to Farm Them! // Borderlands 4 Loveless Guide",
+        "thumbnail": "https://i3.ytimg.com/vi/zC1I5eidJEQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zC1I5eidJEQ",
+        "publishedAt": "2026-09-11"
       },
       {
-        "id": "vid-a4B-AF4RHoA",
-        "title": "BL4 Loveless Skill Tree Reveal Breakdown! Then POE 2 prep // !Livestream",
-        "thumbnail": "https://i2.ytimg.com/vi/a4B-AF4RHoA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a4B-AF4RHoA",
-        "publishedAt": "2026-09-04"
+        "id": "vid-Wzw4IdSKpUs",
+        "title": "LOVELESS LAUNCH TODAY! New DLC & Level Cap // Borderlands 4 Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/Wzw4IdSKpUs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Wzw4IdSKpUs",
+        "publishedAt": "2026-09-11"
       },
       {
-        "id": "vid-aVK9-ub6eZg",
-        "title": "NEW VAULT HUNTER FULL REVEAL! Loveless Action Skills Breakdown // Borderlands 4",
-        "thumbnail": "https://i2.ytimg.com/vi/aVK9-ub6eZg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aVK9-ub6eZg",
-        "publishedAt": "2026-09-03"
+        "id": "vid-r0jV4_Rr79w",
+        "title": "BEST SNIPER LOVELESS BUILD! // Borderlands 4 Hackshot Loveless Build Guide",
+        "thumbnail": "https://i3.ytimg.com/vi/r0jV4_Rr79w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r0jV4_Rr79w",
+        "publishedAt": "2026-09-11"
       },
       {
-        "id": "vid-XZYnTGd9iKs",
-        "title": "Cooking up my League Starter! // Path of Exile 2",
-        "thumbnail": "https://i1.ytimg.com/vi/XZYnTGd9iKs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XZYnTGd9iKs",
-        "publishedAt": "2026-09-03"
+        "id": "vid-agg29847S38",
+        "title": "Loveless Leveling Guide! Best Fresh Start Build?! // Borderlands 4 Wyrm Loveless Guide",
+        "thumbnail": "https://i2.ytimg.com/vi/agg29847S38/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=agg29847S38",
+        "publishedAt": "2026-09-10"
       },
       {
-        "id": "vid-GlF1SgIM5hw",
-        "title": "Working on New Builds & Guides // The First Descendant Livestream",
-        "thumbnail": "https://i4.ytimg.com/vi/GlF1SgIM5hw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GlF1SgIM5hw",
-        "publishedAt": "2026-09-01"
+        "id": "vid-RY1FClMyTPY",
+        "title": "LOVELESS IS HERE! New Patch Notes, Vault Hunter Balance & Level Cap Increase! // Borderlands 4",
+        "thumbnail": "https://i3.ytimg.com/vi/RY1FClMyTPY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RY1FClMyTPY",
+        "publishedAt": "2026-09-10"
       }
     ]
   },
@@ -413,74 +413,74 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-Yh3JtDgBzPI",
-        "title": "PoE2 - New 0.5.5 Event Launch LOGIN XBow Merc",
-        "thumbnail": "https://i2.ytimg.com/vi/Yh3JtDgBzPI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Yh3JtDgBzPI",
-        "publishedAt": "2026-09-06"
+        "id": "vid-Ic0Pm_wi8I8",
+        "title": "Diablo 4 - The most Lazy, OP & Immortal Build",
+        "thumbnail": "https://i2.ytimg.com/vi/Ic0Pm_wi8I8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ic0Pm_wi8I8",
+        "publishedAt": "2026-09-11"
       },
       {
-        "id": "vid-zdSVKmLCD1I",
-        "title": "PoE2 - STORMBLASTING through Campaign & Endgame: Full Gemling Crossbow Build Guide for 0.5.5",
-        "thumbnail": "https://i3.ytimg.com/vi/zdSVKmLCD1I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zdSVKmLCD1I",
-        "publishedAt": "2026-09-06"
+        "id": "vid-yNgotvqa7bo",
+        "title": "Diablo 4 - BAIT or GREAT? Mythic War Plan Rewards",
+        "thumbnail": "https://i2.ytimg.com/vi/yNgotvqa7bo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yNgotvqa7bo",
+        "publishedAt": "2026-09-11"
       },
       {
-        "id": "vid-4IZNIi8hPz8",
-        "title": "PoE2 - New 0.5.5 Event Launch LOGIN XBow Merc",
-        "thumbnail": "https://i1.ytimg.com/vi/4IZNIi8hPz8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4IZNIi8hPz8",
-        "publishedAt": "2026-09-05"
+        "id": "vid-LFlg9Okgipk",
+        "title": "Diablo 4 - If you don't want to aim, play this Build",
+        "thumbnail": "https://i1.ytimg.com/vi/LFlg9Okgipk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LFlg9Okgipk",
+        "publishedAt": "2026-09-11"
       },
       {
-        "id": "vid-rJe-q-z6-kc",
-        "title": "PoE2 - New 0.5.5 Event Launch LOGIN",
-        "thumbnail": "https://i3.ytimg.com/vi/rJe-q-z6-kc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rJe-q-z6-kc",
-        "publishedAt": "2026-09-04"
+        "id": "vid-G7ruxkBe4qQ",
+        "title": "Diablo 4 - LOOT FILTERS, ready to go for Season 15",
+        "thumbnail": "https://i4.ytimg.com/vi/G7ruxkBe4qQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G7ruxkBe4qQ",
+        "publishedAt": "2026-09-11"
       },
       {
-        "id": "vid-nOf8uIbVflk",
-        "title": "SlashZero - NEW ROGUELIKE worth trying?",
-        "thumbnail": "https://i3.ytimg.com/vi/nOf8uIbVflk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nOf8uIbVflk",
-        "publishedAt": "2026-09-04"
+        "id": "vid-tqAGkglz_2A",
+        "title": "Diablo 4 - Season 15 FAST LEVELING Guide",
+        "thumbnail": "https://i1.ytimg.com/vi/tqAGkglz_2A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tqAGkglz_2A",
+        "publishedAt": "2026-09-10"
       },
       {
-        "id": "vid-0soAXCxJnss",
-        "title": "PoE 2 - My Duelist Gameplay & Details from Gamescom!",
-        "thumbnail": "https://i1.ytimg.com/vi/0soAXCxJnss/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0soAXCxJnss",
-        "publishedAt": "2026-09-04"
+        "id": "vid-tWSB14faU6k",
+        "title": "Diablo 4 - Don't miss this UNANNOUNCED Res Change!",
+        "thumbnail": "https://i1.ytimg.com/vi/tWSB14faU6k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tWSB14faU6k",
+        "publishedAt": "2026-09-10"
       },
       {
-        "id": "vid-Te_EWVBT_3o",
-        "title": "PoE 2 Patch Notes/Prep, then new roguelike SlashZero and more Albion Online!",
-        "thumbnail": "https://i1.ytimg.com/vi/Te_EWVBT_3o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Te_EWVBT_3o",
-        "publishedAt": "2026-09-03"
+        "id": "vid-gv-hwuEW7Z8",
+        "title": "Diablo 4 - ONESHOT THE WORLD with Apocalypse Warlock",
+        "thumbnail": "https://i4.ytimg.com/vi/gv-hwuEW7Z8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gv-hwuEW7Z8",
+        "publishedAt": "2026-09-09"
       },
       {
-        "id": "vid-recfYmGmBNE",
-        "title": "Diablo 4 - BAIT or GREAT? NEW Mythic Charms",
-        "thumbnail": "https://i3.ytimg.com/vi/recfYmGmBNE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=recfYmGmBNE",
-        "publishedAt": "2026-09-03"
+        "id": "vid-eM-tMBAyNbA",
+        "title": "Diablo 4 - CHICKEN WD but it's WARLOCK",
+        "thumbnail": "https://i2.ytimg.com/vi/eM-tMBAyNbA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eM-tMBAyNbA",
+        "publishedAt": "2026-09-09"
       },
       {
-        "id": "vid-ik5erfnf3-w",
-        "title": "Checking out the incredible Level Infinite booth at #gamescom",
-        "thumbnail": "https://i2.ytimg.com/vi/ik5erfnf3-w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ik5erfnf3-w",
-        "publishedAt": "2026-09-03"
+        "id": "vid-ZfVEUNXcyqo",
+        "title": "Diablo 4 - New Feature to get strong FAST",
+        "thumbnail": "https://i3.ytimg.com/vi/ZfVEUNXcyqo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZfVEUNXcyqo",
+        "publishedAt": "2026-09-08"
       },
       {
-        "id": "vid-J-gMLIXf_jM",
-        "title": "More Albion Online Royal Hunt Event!",
-        "thumbnail": "https://i3.ytimg.com/vi/J-gMLIXf_jM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=J-gMLIXf_jM",
-        "publishedAt": "2026-09-02"
+        "id": "vid-Iz2uEIh1K6Y",
+        "title": "Diablo 4 - THE BUILD OF THE SEASON",
+        "thumbnail": "https://i2.ytimg.com/vi/Iz2uEIh1K6Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Iz2uEIh1K6Y",
+        "publishedAt": "2026-09-08"
       }
     ]
   }
