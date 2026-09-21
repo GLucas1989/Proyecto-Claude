@@ -24,6 +24,27 @@
     },
     "latestVideos": [
       {
+        "id": "vid-1REIEX6GtGc",
+        "title": "Diablo 4 Season 15 Might Be the Best Diablo Season Ever",
+        "thumbnail": "https://i2.ytimg.com/vi/1REIEX6GtGc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1REIEX6GtGc",
+        "publishedAt": "2026-09-19"
+      },
+      {
+        "id": "vid-3t018Eb8mc8",
+        "title": "Diablo 4 Season 15 Ultimate Guide",
+        "thumbnail": "https://i4.ytimg.com/vi/3t018Eb8mc8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3t018Eb8mc8",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-N4wnTvZbOzw",
+        "title": "Diablo 4 Season 15 Best Class Tier List (Guide)",
+        "thumbnail": "https://i3.ytimg.com/vi/N4wnTvZbOzw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N4wnTvZbOzw",
+        "publishedAt": "2026-09-15"
+      },
+      {
         "id": "vid-zC6-wR32YXY",
         "title": "Diablo 4 Is NOT Dead: Amazon, Season 15 & The Future",
         "thumbnail": "https://i3.ytimg.com/vi/zC6-wR32YXY/hqdefault.jpg",
@@ -71,27 +92,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/wGvkqrNlFm0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wGvkqrNlFm0",
         "publishedAt": "2026-08-28"
-      },
-      {
-        "id": "vid-WFE8hd-1z-Q",
-        "title": "Diablo 4’s Next Major Villain May Have Just Been Teased",
-        "thumbnail": "https://i4.ytimg.com/vi/WFE8hd-1z-Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WFE8hd-1z-Q",
-        "publishedAt": "2026-08-22"
-      },
-      {
-        "id": "vid-ePPwztQWACk",
-        "title": "Diablo + Vampire Survivors + Extraction Shouldn't Work This Well",
-        "thumbnail": "https://i2.ytimg.com/vi/ePPwztQWACk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ePPwztQWACk",
-        "publishedAt": "2026-08-21"
-      },
-      {
-        "id": "vid-SPT0a2TivOg",
-        "title": "Diablo 4 Just Became More Important to Xbox Than Ever",
-        "thumbnail": "https://i4.ytimg.com/vi/SPT0a2TivOg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SPT0a2TivOg",
-        "publishedAt": "2026-08-15"
       }
     ]
   },
@@ -121,10 +121,52 @@
     },
     "latestVideos": [
       {
+        "id": "vid-21zTytrhbEE",
+        "title": "WoW Forever Beta Leveling A Third Character",
+        "thumbnail": "https://i3.ytimg.com/vi/21zTytrhbEE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=21zTytrhbEE",
+        "publishedAt": "2026-09-21"
+      },
+      {
+        "id": "vid-sgCVSGJbSCY",
+        "title": "WoW Forever Beta Leveling Warlock",
+        "thumbnail": "https://i4.ytimg.com/vi/sgCVSGJbSCY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sgCVSGJbSCY",
+        "publishedAt": "2026-09-20"
+      },
+      {
+        "id": "vid-rB0KDDIsrJo",
+        "title": "WoW Forever Beta Max Level Shaman",
+        "thumbnail": "https://i3.ytimg.com/vi/rB0KDDIsrJo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rB0KDDIsrJo",
+        "publishedAt": "2026-09-19"
+      },
+      {
+        "id": "vid-iysVXuQ3dv8",
+        "title": "Diablo 4 Season 15 Launch Round 2",
+        "thumbnail": "https://i2.ytimg.com/vi/iysVXuQ3dv8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iysVXuQ3dv8",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-rmVtl72cBjI",
+        "title": "Diablo 4 Season 15 Launch",
+        "thumbnail": "https://i3.ytimg.com/vi/rmVtl72cBjI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rmVtl72cBjI",
+        "publishedAt": "2026-09-15"
+      },
+      {
         "id": "vid-GjzXGbJctcE",
         "title": "Path of Exile 2 Arc Totem Gemling Legionnaire Endgame",
         "thumbnail": "https://i4.ytimg.com/vi/GjzXGbJctcE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GjzXGbJctcE",
+        "publishedAt": "2026-09-14"
+      },
+      {
+        "id": "vid-XBPFnEMJO5A",
+        "title": "The Current State of Path of Exile 2",
+        "thumbnail": "https://i1.ytimg.com/vi/XBPFnEMJO5A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XBPFnEMJO5A",
         "publishedAt": "2026-09-14"
       },
       {
@@ -147,48 +189,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/owG0iisViy4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=owG0iisViy4",
         "publishedAt": "2026-09-12"
-      },
-      {
-        "id": "vid-WfJXH9eAbFk",
-        "title": "Path of Exile 2 Arc Totems Endgame Farming",
-        "thumbnail": "https://i4.ytimg.com/vi/WfJXH9eAbFk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WfJXH9eAbFk",
-        "publishedAt": "2026-09-12"
-      },
-      {
-        "id": "vid-wLxDFsgmjgs",
-        "title": "Path of Exile 2 Arc Totems Endgame Farming",
-        "thumbnail": "https://i4.ytimg.com/vi/wLxDFsgmjgs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wLxDFsgmjgs",
-        "publishedAt": "2026-09-11"
-      },
-      {
-        "id": "vid-t5FQQRt0o30",
-        "title": "Path of Exile 2 Arc Totems Endgame Farming",
-        "thumbnail": "https://i1.ytimg.com/vi/t5FQQRt0o30/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t5FQQRt0o30",
-        "publishedAt": "2026-09-10"
-      },
-      {
-        "id": "vid-qp61CNfMvXE",
-        "title": "Path of Exile 2 Arc Totems Endgame Farming",
-        "thumbnail": "https://i2.ytimg.com/vi/qp61CNfMvXE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qp61CNfMvXE",
-        "publishedAt": "2026-09-09"
-      },
-      {
-        "id": "vid-x7T683ZCYOs",
-        "title": "Path of Exile 2 Arc Totems Endgame Farming",
-        "thumbnail": "https://i1.ytimg.com/vi/x7T683ZCYOs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x7T683ZCYOs",
-        "publishedAt": "2026-09-08"
-      },
-      {
-        "id": "vid-GTWd0TlPDUQ",
-        "title": "Path of Exile 2 Arc Totems League Start Day 4",
-        "thumbnail": "https://i4.ytimg.com/vi/GTWd0TlPDUQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GTWd0TlPDUQ",
-        "publishedAt": "2026-09-07"
       }
     ]
   },
@@ -216,6 +216,13 @@
       "twitter": "lexyu"
     },
     "latestVideos": [
+      {
+        "id": "vid-PvSh4ccoRxY",
+        "title": "The Best Starter Build I've Made - Oil Barrage Ice Nova Druid Shaman Leveling Guide - PoE2 0.5.5",
+        "thumbnail": "https://i1.ytimg.com/vi/PvSh4ccoRxY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PvSh4ccoRxY",
+        "publishedAt": "2026-09-20"
+      },
       {
         "id": "vid-TsJvwef_H0w",
         "title": "My Starter Build for the 0.5.5 League - Oil Barrage Ice Nova Druid Shaman - PoE 2 Forbidden Rites",
@@ -278,13 +285,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/4Y1Fmme5ESY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4Y1Fmme5ESY",
         "publishedAt": "2026-06-03"
-      },
-      {
-        "id": "vid-8HqQAs4ZJIc",
-        "title": "DAY 1 LEAGUE STARTER - Ice Nova Chronomancer Sorceress Leveling Build - Path of Exile 2 (Patch 0.5)",
-        "thumbnail": "https://i1.ytimg.com/vi/8HqQAs4ZJIc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8HqQAs4ZJIc",
-        "publishedAt": "2026-05-30"
       }
     ]
   },
@@ -315,6 +315,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-uEE_lIRiLgk",
+        "title": "UPDATED Infini-Crit Harlowe (Use Any Gun!) // Borderlands 4 Level 70 Harlowe Build (M20)",
+        "thumbnail": "https://i2.ytimg.com/vi/uEE_lIRiLgk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uEE_lIRiLgk",
+        "publishedAt": "2026-09-17"
+      },
+      {
+        "id": "vid-D7TqhjjJyEQ",
+        "title": "Working on Updated Build Guides! // Borderlands 4 Livestream",
+        "thumbnail": "https://i1.ytimg.com/vi/D7TqhjjJyEQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D7TqhjjJyEQ",
+        "publishedAt": "2026-09-17"
+      },
+      {
+        "id": "vid-pRut1gPpx2Q",
+        "title": "BEST BUILD YET!? Wyrm Loveless Deletes Everything! // Borderlands 4 BaeBlade Build Guide Level 70",
+        "thumbnail": "https://i1.ytimg.com/vi/pRut1gPpx2Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pRut1gPpx2Q",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-NMVqzq48eNI",
+        "title": "Wyrm Build Time! Working on Loveless & More // Borderlands 4 Livestream",
+        "thumbnail": "https://i3.ytimg.com/vi/NMVqzq48eNI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NMVqzq48eNI",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-CrlBoRSN3no",
+        "title": "NEW MUST HAVE WEAPONS! // Borderlands 4 DLC Guns Breakdown",
+        "thumbnail": "https://i4.ytimg.com/vi/CrlBoRSN3no/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CrlBoRSN3no",
+        "publishedAt": "2026-09-15"
+      },
+      {
+        "id": "vid-XaabKdq7OUM",
+        "title": "Wyrm Build Time! Working on Loveless & More // Borderlands 4 Livestream",
+        "thumbnail": "https://i1.ytimg.com/vi/XaabKdq7OUM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XaabKdq7OUM",
+        "publishedAt": "2026-09-15"
+      },
+      {
+        "id": "vid-w5nt_U7Vlvg",
+        "title": "Working on New Builds & Guides! Loveless Gud // Borderlands 4 Livestream",
+        "thumbnail": "https://i4.ytimg.com/vi/w5nt_U7Vlvg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w5nt_U7Vlvg",
+        "publishedAt": "2026-09-15"
+      },
+      {
         "id": "vid-Fdyr_OY2-Ds",
         "title": "SPIN 2 WIN MELEE LOVELESS! (1-Tap EVERYTHING) // Borderlands 4 Loveless Guide & New Tech",
         "thumbnail": "https://i3.ytimg.com/vi/Fdyr_OY2-Ds/hqdefault.jpg",
@@ -334,55 +383,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/5kquY1drms0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5kquY1drms0",
         "publishedAt": "2026-09-13"
-      },
-      {
-        "id": "vid-st8iDO4PZeI",
-        "title": "Best Farms for XP, Transcendant Weapons, Ancestor Mods & More! // The First Descendant Season 4",
-        "thumbnail": "https://i4.ytimg.com/vi/st8iDO4PZeI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=st8iDO4PZeI",
-        "publishedAt": "2026-09-13"
-      },
-      {
-        "id": "vid-XwBY6EvdQfc",
-        "title": "BEST CONTAGION LOVELESS BUILD?! (Mobbing Machine!) // Borderlands 4 Plague Puncher Loveless",
-        "thumbnail": "https://i1.ytimg.com/vi/XwBY6EvdQfc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XwBY6EvdQfc",
-        "publishedAt": "2026-09-12"
-      },
-      {
-        "id": "vid-zC1I5eidJEQ",
-        "title": "ALL Legendary Loveless Classmods & Where to Farm Them! // Borderlands 4 Loveless Guide",
-        "thumbnail": "https://i3.ytimg.com/vi/zC1I5eidJEQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zC1I5eidJEQ",
-        "publishedAt": "2026-09-11"
-      },
-      {
-        "id": "vid-Wzw4IdSKpUs",
-        "title": "LOVELESS LAUNCH TODAY! New DLC & Level Cap // Borderlands 4 Livestream",
-        "thumbnail": "https://i4.ytimg.com/vi/Wzw4IdSKpUs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Wzw4IdSKpUs",
-        "publishedAt": "2026-09-11"
-      },
-      {
-        "id": "vid-r0jV4_Rr79w",
-        "title": "BEST SNIPER LOVELESS BUILD! // Borderlands 4 Hackshot Loveless Build Guide",
-        "thumbnail": "https://i3.ytimg.com/vi/r0jV4_Rr79w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=r0jV4_Rr79w",
-        "publishedAt": "2026-09-11"
-      },
-      {
-        "id": "vid-agg29847S38",
-        "title": "Loveless Leveling Guide! Best Fresh Start Build?! // Borderlands 4 Wyrm Loveless Guide",
-        "thumbnail": "https://i2.ytimg.com/vi/agg29847S38/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=agg29847S38",
-        "publishedAt": "2026-09-10"
-      },
-      {
-        "id": "vid-RY1FClMyTPY",
-        "title": "LOVELESS IS HERE! New Patch Notes, Vault Hunter Balance & Level Cap Increase! // Borderlands 4",
-        "thumbnail": "https://i3.ytimg.com/vi/RY1FClMyTPY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RY1FClMyTPY",
-        "publishedAt": "2026-09-10"
       }
     ]
   },
@@ -413,74 +413,74 @@
     ],
     "latestVideos": [
       {
-        "id": "vid-Ic0Pm_wi8I8",
-        "title": "Diablo 4 - The most Lazy, OP & Immortal Build",
-        "thumbnail": "https://i2.ytimg.com/vi/Ic0Pm_wi8I8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ic0Pm_wi8I8",
-        "publishedAt": "2026-09-11"
+        "id": "vid-jD4_cI4N-Zs",
+        "title": "Diablo 4 - SEASON 15 LAUNCH SSF going for Rogue #1",
+        "thumbnail": "https://i3.ytimg.com/vi/jD4_cI4N-Zs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jD4_cI4N-Zs",
+        "publishedAt": "2026-09-21"
       },
       {
-        "id": "vid-yNgotvqa7bo",
-        "title": "Diablo 4 - BAIT or GREAT? Mythic War Plan Rewards",
-        "thumbnail": "https://i2.ytimg.com/vi/yNgotvqa7bo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yNgotvqa7bo",
-        "publishedAt": "2026-09-11"
+        "id": "vid-sSf99W-BV2Q",
+        "title": "Diablo 4 - These New Runes are CRACKED",
+        "thumbnail": "https://i4.ytimg.com/vi/sSf99W-BV2Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sSf99W-BV2Q",
+        "publishedAt": "2026-09-21"
       },
       {
-        "id": "vid-LFlg9Okgipk",
-        "title": "Diablo 4 - If you don't want to aim, play this Build",
-        "thumbnail": "https://i1.ytimg.com/vi/LFlg9Okgipk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LFlg9Okgipk",
-        "publishedAt": "2026-09-11"
+        "id": "vid-0SDKNkwkYRo",
+        "title": "Diablo 4 - SEASON 15 LAUNCH SSF going for Rogue #1",
+        "thumbnail": "https://i1.ytimg.com/vi/0SDKNkwkYRo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0SDKNkwkYRo",
+        "publishedAt": "2026-09-20"
       },
       {
-        "id": "vid-G7ruxkBe4qQ",
-        "title": "Diablo 4 - LOOT FILTERS, ready to go for Season 15",
-        "thumbnail": "https://i4.ytimg.com/vi/G7ruxkBe4qQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G7ruxkBe4qQ",
-        "publishedAt": "2026-09-11"
+        "id": "vid-OLODP-MCFa8",
+        "title": "Diablo 4 - UPDATED BEST ROGUE BUILD Poison PenShot",
+        "thumbnail": "https://i4.ytimg.com/vi/OLODP-MCFa8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLODP-MCFa8",
+        "publishedAt": "2026-09-20"
       },
       {
-        "id": "vid-tqAGkglz_2A",
-        "title": "Diablo 4 - Season 15 FAST LEVELING Guide",
-        "thumbnail": "https://i1.ytimg.com/vi/tqAGkglz_2A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tqAGkglz_2A",
-        "publishedAt": "2026-09-10"
+        "id": "vid-YQqL_FQbNLw",
+        "title": "Diablo 4 - First Ambush Was Fun",
+        "thumbnail": "https://i2.ytimg.com/vi/YQqL_FQbNLw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YQqL_FQbNLw",
+        "publishedAt": "2026-09-20"
       },
       {
-        "id": "vid-tWSB14faU6k",
-        "title": "Diablo 4 - Don't miss this UNANNOUNCED Res Change!",
-        "thumbnail": "https://i1.ytimg.com/vi/tWSB14faU6k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tWSB14faU6k",
-        "publishedAt": "2026-09-10"
+        "id": "vid-VrS3SMmUwNs",
+        "title": "Diablo 4 - BEST WAR PLANS PICKS for Season 15",
+        "thumbnail": "https://i3.ytimg.com/vi/VrS3SMmUwNs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VrS3SMmUwNs",
+        "publishedAt": "2026-09-20"
       },
       {
-        "id": "vid-gv-hwuEW7Z8",
-        "title": "Diablo 4 - ONESHOT THE WORLD with Apocalypse Warlock",
-        "thumbnail": "https://i4.ytimg.com/vi/gv-hwuEW7Z8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gv-hwuEW7Z8",
-        "publishedAt": "2026-09-09"
+        "id": "vid-XedQLdz4vsQ",
+        "title": "Diablo 4 - Mythic War Plan...",
+        "thumbnail": "https://i1.ytimg.com/vi/XedQLdz4vsQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XedQLdz4vsQ",
+        "publishedAt": "2026-09-20"
       },
       {
-        "id": "vid-eM-tMBAyNbA",
-        "title": "Diablo 4 - CHICKEN WD but it's WARLOCK",
-        "thumbnail": "https://i2.ytimg.com/vi/eM-tMBAyNbA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eM-tMBAyNbA",
-        "publishedAt": "2026-09-09"
+        "id": "vid-arPRYeSNZd4",
+        "title": "Diablo 4 - How to Farm MAX POWER Soul Splinters",
+        "thumbnail": "https://i2.ytimg.com/vi/arPRYeSNZd4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=arPRYeSNZd4",
+        "publishedAt": "2026-09-20"
       },
       {
-        "id": "vid-ZfVEUNXcyqo",
-        "title": "Diablo 4 - New Feature to get strong FAST",
-        "thumbnail": "https://i3.ytimg.com/vi/ZfVEUNXcyqo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZfVEUNXcyqo",
-        "publishedAt": "2026-09-08"
+        "id": "vid-B3rrYgKBfME",
+        "title": "Diablo 4 - SEASON 15 LAUNCH SSF going for Rogue #1",
+        "thumbnail": "https://i3.ytimg.com/vi/B3rrYgKBfME/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B3rrYgKBfME",
+        "publishedAt": "2026-09-19"
       },
       {
-        "id": "vid-Iz2uEIh1K6Y",
-        "title": "Diablo 4 - THE BUILD OF THE SEASON",
-        "thumbnail": "https://i2.ytimg.com/vi/Iz2uEIh1K6Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Iz2uEIh1K6Y",
-        "publishedAt": "2026-09-08"
+        "id": "vid-9e-ajPNcgLc",
+        "title": "Diablo 4 - WTF... Mythic Rune?!?!",
+        "thumbnail": "https://i2.ytimg.com/vi/9e-ajPNcgLc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9e-ajPNcgLc",
+        "publishedAt": "2026-09-19"
       }
     ]
   }

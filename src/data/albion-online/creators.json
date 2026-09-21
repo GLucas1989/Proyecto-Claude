@@ -122,6 +122,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-ywJbjWH1unI",
+        "title": "I Started Albion Online From ZERO After 4752 Hours",
+        "thumbnail": "https://i2.ytimg.com/vi/ywJbjWH1unI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ywJbjWH1unI",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-6sDqzMVXips",
+        "title": "The Most BROKEN Classes in Warcraft Forever",
+        "thumbnail": "https://i3.ytimg.com/vi/6sDqzMVXips/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6sDqzMVXips",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-X8K3U6pIBa0",
+        "title": "The Most INSANE Features in WoW Forever",
+        "thumbnail": "https://i1.ytimg.com/vi/X8K3U6pIBa0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=X8K3U6pIBa0",
+        "publishedAt": "2026-09-15"
+      },
+      {
         "id": "vid-0wspF-fkf7I",
         "title": "NEW BUFFS & NERFS Are Coming to Albion Online",
         "thumbnail": "https://i1.ytimg.com/vi/0wspF-fkf7I/hqdefault.jpg",
@@ -151,7 +172,7 @@
       },
       {
         "id": "vid-82XVxbqtqZE",
-        "title": "Should You Play Albion Online in 2026? 4,769 Hour Review",
+        "title": "Should You Start Albion Online in 2026?",
         "thumbnail": "https://i1.ytimg.com/vi/82XVxbqtqZE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=82XVxbqtqZE",
         "publishedAt": "2026-09-08"
@@ -169,27 +190,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/H4RGHnVtxX0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=H4RGHnVtxX0",
         "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-MyaHNriWPa4",
-        "title": "The BEST New Content You CAN'T PLAY in Albion Online",
-        "thumbnail": "https://i2.ytimg.com/vi/MyaHNriWPa4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MyaHNriWPa4",
-        "publishedAt": "2026-09-02"
-      },
-      {
-        "id": "vid-4Z8QIoL1ZV8",
-        "title": "This NEW SOLO Content PRINTS SILVER in Albion Online",
-        "thumbnail": "https://i1.ytimg.com/vi/4Z8QIoL1ZV8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4Z8QIoL1ZV8",
-        "publishedAt": "2026-09-01"
-      },
-      {
-        "id": "vid-FcBtSrG3gR0",
-        "title": "Everything You MISSED in the NEW UPDATE | Albion Online",
-        "thumbnail": "https://i3.ytimg.com/vi/FcBtSrG3gR0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FcBtSrG3gR0",
-        "publishedAt": "2026-08-31"
       }
     ]
   },
@@ -313,6 +313,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-Mqs4eLH-f4s",
+        "title": "Redesigning the Destiny Board: Game Designer FatherMorgana Dev Interview",
+        "thumbnail": "https://i2.ytimg.com/vi/Mqs4eLH-f4s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mqs4eLH-f4s",
+        "publishedAt": "2026-09-15"
+      },
+      {
         "id": "vid-NIwbMjei8fU",
         "title": "Creating Albion's First Raid Boss: Co-Creative Director Retroman Dev Interview",
         "thumbnail": "https://i3.ytimg.com/vi/NIwbMjei8fU/hqdefault.jpg",
@@ -374,13 +381,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/B5y3PhtuGrw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=B5y3PhtuGrw",
         "publishedAt": "2026-05-06"
-      },
-      {
-        "id": "vid-Gy-iadEqiAc",
-        "title": "THE MOMENT OF TRUTH 😳👑 WHO IS #1?",
-        "thumbnail": "https://i4.ytimg.com/vi/Gy-iadEqiAc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gy-iadEqiAc",
-        "publishedAt": "2026-04-29"
       }
     ]
   },
@@ -503,6 +503,34 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-iSJrOU1s-1I",
+        "title": "ASI SE PIERDEN 10 MILLONES 💀 RÁPIDO Y FÁCIL.. 🔥 Albion Online",
+        "thumbnail": "https://i2.ytimg.com/vi/iSJrOU1s-1I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iSJrOU1s-1I",
+        "publishedAt": "2026-09-19"
+      },
+      {
+        "id": "vid-dub9LiB_Fjk",
+        "title": "LA ETERNA CONFIABLE  ¡ESPADAS DOBLES! ⚔️🔥 Albion Online",
+        "thumbnail": "https://i1.ytimg.com/vi/dub9LiB_Fjk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dub9LiB_Fjk",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-VnudAaZFPiE",
+        "title": "HE VUELTO A CAER EN LA TRAMPA DE ALBION... 😰",
+        "thumbnail": "https://i3.ytimg.com/vi/VnudAaZFPiE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VnudAaZFPiE",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-Xl3P_kBLxbs",
+        "title": "¿ME DEBERIA ALEGRAR O PREOCUPAR? 🤔🔥 Albion Online",
+        "thumbnail": "https://i1.ytimg.com/vi/Xl3P_kBLxbs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xl3P_kBLxbs",
+        "publishedAt": "2026-09-15"
+      },
+      {
         "id": "vid-RmoZh8lHY30",
         "title": "NUEVA BUILD DE MAZAS JURADORAS en ANCESTRALES 🤯",
         "thumbnail": "https://i3.ytimg.com/vi/RmoZh8lHY30/hqdefault.jpg",
@@ -543,34 +571,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/6rjU89fVJBw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6rjU89fVJBw",
         "publishedAt": "2026-09-05"
-      },
-      {
-        "id": "vid-nJEVaEx82ag",
-        "title": "TIERRAS ANCESTRALES de ALBION ONLINE 🧑‍🏫 GUIA EN 1 MINUTO",
-        "thumbnail": "https://i3.ytimg.com/vi/nJEVaEx82ag/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nJEVaEx82ag",
-        "publishedAt": "2026-09-04"
-      },
-      {
-        "id": "vid-JknAa_B4IfQ",
-        "title": "DRAGONFIRE TIENE ALGUNOS PROBLEMITAS... 😡 Albion Online",
-        "thumbnail": "https://i3.ytimg.com/vi/JknAa_B4IfQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JknAa_B4IfQ",
-        "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-VwqG62sO1aU",
-        "title": "MI PRIMER COFRE DORADO de DRAGONES 🤯 ALBION ONLINE",
-        "thumbnail": "https://i3.ytimg.com/vi/VwqG62sO1aU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VwqG62sO1aU",
-        "publishedAt": "2026-09-02"
-      },
-      {
-        "id": "vid-gDvsJasCf-0",
-        "title": "MI PRIMER COFRE DORADO de DRAGONES 🤯 ALBION ONLINE",
-        "thumbnail": "https://i4.ytimg.com/vi/gDvsJasCf-0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gDvsJasCf-0",
-        "publishedAt": "2026-09-01"
       }
     ]
   }

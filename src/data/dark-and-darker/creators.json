@@ -216,6 +216,48 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-_gIscObXPJs",
+        "title": "I Finally Did It..... Unheard Edition #EscapeFromTarkov #Tarkov #EFT #UnheardEdition #tarkovclips",
+        "thumbnail": "https://i4.ytimg.com/vi/_gIscObXPJs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_gIscObXPJs",
+        "publishedAt": "2026-09-20"
+      },
+      {
+        "id": "vid-7zkGWnnABOM",
+        "title": "I Ran Out of Ammo… So I Did THIS 💀#escapefromtarkov #tarkov #eft #gaming #shorts",
+        "thumbnail": "https://i4.ytimg.com/vi/7zkGWnnABOM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7zkGWnnABOM",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-XTk4ebjlGfw",
+        "title": "NoGenerals Couldn’t Believe I Play Standard Edition 💀#escapefromtarkov #tarkov #eft #nogenerals",
+        "thumbnail": "https://i1.ytimg.com/vi/XTk4ebjlGfw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XTk4ebjlGfw",
+        "publishedAt": "2026-09-17"
+      },
+      {
+        "id": "vid-Hzuk7gC4Cy4",
+        "title": "My 700K Scope Got STOLEN in Tarkov 😭 #escapefromtarkov #tarkov #eft #gaming #shorts",
+        "thumbnail": "https://i1.ytimg.com/vi/Hzuk7gC4Cy4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Hzuk7gC4Cy4",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-L_DEJV0mxzw",
+        "title": "I Finally Unlocked the Flea Market in Tarkov 😂#escapefromtarkov #tarkov #eft #tarkovclips",
+        "thumbnail": "https://i1.ytimg.com/vi/L_DEJV0mxzw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L_DEJV0mxzw",
+        "publishedAt": "2026-09-15"
+      },
+      {
+        "id": "vid-u3YVbuiCrDg",
+        "title": "I Just Learned Shoulder Swapping in Tarkov… #escapefromtarkov #tarkov #eft #gaming #shorts",
+        "thumbnail": "https://i2.ytimg.com/vi/u3YVbuiCrDg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u3YVbuiCrDg",
+        "publishedAt": "2026-09-14"
+      },
+      {
         "id": "vid-YikL9sWTUDg",
         "title": "I FINALLY SPENT 1.3 MILLION ROUBLES #escapefromtarkov #tarkov #eft #tarkovclips #gaming #shorts",
         "thumbnail": "https://i2.ytimg.com/vi/YikL9sWTUDg/hqdefault.jpg",
@@ -242,48 +284,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/qVcdqmRGJAI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qVcdqmRGJAI",
         "publishedAt": "2026-09-10"
-      },
-      {
-        "id": "vid-gMLQUs3VnE8",
-        "title": "I Killed Black Division For The First Time 💀#escapefromtarkov #tarkov #eft #tarkovclips #gaming",
-        "thumbnail": "https://i4.ytimg.com/vi/gMLQUs3VnE8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gMLQUs3VnE8",
-        "publishedAt": "2026-09-09"
-      },
-      {
-        "id": "vid-FGG6H0W0Uto",
-        "title": "I Thought Tarkov’s DLC Was $10 #escapefromtarkov #tarkov #eft #gaming #shorts",
-        "thumbnail": "https://i3.ytimg.com/vi/FGG6H0W0Uto/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FGG6H0W0Uto",
-        "publishedAt": "2026-09-08"
-      },
-      {
-        "id": "vid-osL2h6njKe4",
-        "title": "I Finally Built My First Tarkov Gun... 💀#escapefromtarkov #tarkov #eft #gaming #shorts",
-        "thumbnail": "https://i4.ytimg.com/vi/osL2h6njKe4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=osL2h6njKe4",
-        "publishedAt": "2026-09-07"
-      },
-      {
-        "id": "vid-tmsHDY1yuqA",
-        "title": "I thought I could troll him 💀 #escapefromtarkov #tarkov #eft #gaming #shorts",
-        "thumbnail": "https://i1.ytimg.com/vi/tmsHDY1yuqA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tmsHDY1yuqA",
-        "publishedAt": "2026-09-06"
-      },
-      {
-        "id": "vid-92KgBIV0BxY",
-        "title": "My Chat Tried to KILL Me in Tarkov 💀#escapefromtarkov #tarkov #eft #gaming #shorts",
-        "thumbnail": "https://i2.ytimg.com/vi/92KgBIV0BxY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=92KgBIV0BxY",
-        "publishedAt": "2026-09-05"
-      },
-      {
-        "id": "vid-TSEFO1a6mhw",
-        "title": "My First EVER Kill in Tarkov 😭 #escapefromtarkov #tarkov #eft #shorts",
-        "thumbnail": "https://i1.ytimg.com/vi/TSEFO1a6mhw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TSEFO1a6mhw",
-        "publishedAt": "2026-09-04"
       }
     ]
   },
@@ -314,6 +314,27 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-S3lVg5T-FFA",
+        "title": "Yapping behind enemy lines LIVE – Wardogs",
+        "thumbnail": "https://i4.ytimg.com/vi/S3lVg5T-FFA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S3lVg5T-FFA",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-R4O2PL5QNNM",
+        "title": "Blueberry meat grinder LIVE – Wardogs",
+        "thumbnail": "https://i3.ytimg.com/vi/R4O2PL5QNNM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R4O2PL5QNNM",
+        "publishedAt": "2026-09-14"
+      },
+      {
+        "id": "vid-EnohvCvYmOg",
+        "title": "Co-op PvE expedition LIVE (with Two Hands) – Ignite the Depths",
+        "thumbnail": "https://i2.ytimg.com/vi/EnohvCvYmOg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EnohvCvYmOg",
+        "publishedAt": "2026-09-14"
+      },
       {
         "id": "vid-V-2KZB0KLv4",
         "title": "first boss fight WIN(s) vs Cardinal Mathias -- Executive Content",
@@ -362,27 +383,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/jVLkmyWmAnI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jVLkmyWmAnI",
         "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-rUy0z67hHrM",
-        "title": "CRAZY late night KNIGHT FIGHT (5 rounds) #mistfall",
-        "thumbnail": "https://i3.ytimg.com/vi/rUy0z67hHrM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rUy0z67hHrM",
-        "publishedAt": "2026-09-02"
-      },
-      {
-        "id": "vid-AkV_63lU6KI",
-        "title": "Learning slasher Merc LIVE – Mistfall Hunter",
-        "thumbnail": "https://i2.ytimg.com/vi/AkV_63lU6KI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AkV_63lU6KI",
-        "publishedAt": "2026-09-01"
-      },
-      {
-        "id": "vid-IAyRJ88L7uI",
-        "title": "PARRY KNIGHT solo pvp highlights – Mistfall Hunter",
-        "thumbnail": "https://i2.ytimg.com/vi/IAyRJ88L7uI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IAyRJ88L7uI",
-        "publishedAt": "2026-08-30"
       }
     ]
   },

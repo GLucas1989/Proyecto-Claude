@@ -26,6 +26,41 @@
     },
     "latestVideos": [
       {
+        "id": "vid-yg8RJFiW3zU",
+        "title": "This is not a normal Elf deck.",
+        "thumbnail": "https://i2.ytimg.com/vi/yg8RJFiW3zU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yg8RJFiW3zU",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-go0OuleoDPg",
+        "title": "Why free artifacts are broken.",
+        "thumbnail": "https://i4.ytimg.com/vi/go0OuleoDPg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=go0OuleoDPg",
+        "publishedAt": "2026-09-17"
+      },
+      {
+        "id": "vid-UqLUjj2pyZo",
+        "title": "Will they play around Settle the Wreckage?",
+        "thumbnail": "https://i2.ytimg.com/vi/UqLUjj2pyZo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UqLUjj2pyZo",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-GJWr6hAbCbM",
+        "title": "Hymn to Tourach is legal now!",
+        "thumbnail": "https://i4.ytimg.com/vi/GJWr6hAbCbM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GJWr6hAbCbM",
+        "publishedAt": "2026-09-15"
+      },
+      {
+        "id": "vid-EvfxlzRqg-I",
+        "title": "Super-friends are super broken.",
+        "thumbnail": "https://i2.ytimg.com/vi/EvfxlzRqg-I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EvfxlzRqg-I",
+        "publishedAt": "2026-09-14"
+      },
+      {
         "id": "vid-g5gyPi2XaMg",
         "title": "Wizards never pay for their spells.",
         "thumbnail": "https://i4.ytimg.com/vi/g5gyPi2XaMg/hqdefault.jpg",
@@ -59,41 +94,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/ZmxhQCP6-Qs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZmxhQCP6-Qs",
         "publishedAt": "2026-09-07"
-      },
-      {
-        "id": "vid-jIJIGSTtu_A",
-        "title": "One deck to rule them all ...",
-        "thumbnail": "https://i3.ytimg.com/vi/jIJIGSTtu_A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jIJIGSTtu_A",
-        "publishedAt": "2026-09-04"
-      },
-      {
-        "id": "vid-Narvko8UwWQ",
-        "title": "This deck has gotten nasty!",
-        "thumbnail": "https://i3.ytimg.com/vi/Narvko8UwWQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Narvko8UwWQ",
-        "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-ragk_07bGPM",
-        "title": "The fastest deck in the format.",
-        "thumbnail": "https://i3.ytimg.com/vi/ragk_07bGPM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ragk_07bGPM",
-        "publishedAt": "2026-09-02"
-      },
-      {
-        "id": "vid-fpmgfnDxeTo",
-        "title": "Smaug is smoking Standard.",
-        "thumbnail": "https://i3.ytimg.com/vi/fpmgfnDxeTo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fpmgfnDxeTo",
-        "publishedAt": "2026-09-01"
-      },
-      {
-        "id": "vid-mZPKangann8",
-        "title": "Paying two mana for an 8/8 Flying.",
-        "thumbnail": "https://i2.ytimg.com/vi/mZPKangann8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mZPKangann8",
-        "publishedAt": "2026-08-31"
       }
     ]
   },
@@ -124,6 +124,27 @@
     },
     "latestVideos": [
       {
+        "id": "vid-dwCXVEcW2E4",
+        "title": "Un mazo SORPRENDENTE. Boros Exile",
+        "thumbnail": "https://i1.ytimg.com/vi/dwCXVEcW2E4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dwCXVEcW2E4",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-kQJI5JK2THw",
+        "title": "La MUERTE de Alquimia",
+        "thumbnail": "https://i4.ytimg.com/vi/kQJI5JK2THw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kQJI5JK2THw",
+        "publishedAt": "2026-09-15"
+      },
+      {
+        "id": "vid--s0yqv87AUw",
+        "title": "Ganando de TERCER TURNO. Gruul Landfall",
+        "thumbnail": "https://i2.ytimg.com/vi/-s0yqv87AUw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-s0yqv87AUw",
+        "publishedAt": "2026-09-14"
+      },
+      {
         "id": "vid-aCvjNcJfNO0",
         "title": "Nunca te RINDAS con este mazo. Abzan Life",
         "thumbnail": "https://i2.ytimg.com/vi/aCvjNcJfNO0/hqdefault.jpg",
@@ -153,7 +174,7 @@
       },
       {
         "id": "vid-7fJVdJulQeI",
-        "title": "NUNCA había jugado al TAN BRUTAL. Tercer turno GAME OVER. Izzet Fling",
+        "title": "NUNCA había jugado algo TAN BRUTAL. Tercer turno GAME OVER. Izzet Fling",
         "thumbnail": "https://i4.ytimg.com/vi/7fJVdJulQeI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7fJVdJulQeI",
         "publishedAt": "2026-09-11"
@@ -171,27 +192,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/8fUer3AhDg0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=8fUer3AhDg0",
         "publishedAt": "2026-09-10"
-      },
-      {
-        "id": "vid-CVp81YStGaw",
-        "title": "El mazo FAVORITO del público. Monogreen Landfall",
-        "thumbnail": "https://i4.ytimg.com/vi/CVp81YStGaw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CVp81YStGaw",
-        "publishedAt": "2026-09-09"
-      },
-      {
-        "id": "vid-9pHxRUErMmM",
-        "title": "AFFINITY otra vez en Standard. Jeskai Robots",
-        "thumbnail": "https://i2.ytimg.com/vi/9pHxRUErMmM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9pHxRUErMmM",
-        "publishedAt": "2026-09-09"
-      },
-      {
-        "id": "vid-0gy1RgCmkXU",
-        "title": "Cómo me divierto con este mazo. Izzet Elementals",
-        "thumbnail": "https://i1.ytimg.com/vi/0gy1RgCmkXU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0gy1RgCmkXU",
-        "publishedAt": "2026-09-08"
       }
     ]
   },
@@ -222,6 +222,48 @@
     },
     "latestVideos": [
       {
+        "id": "vid-Vc8BJVBFolc",
+        "title": "Yes! You Should Buy Reality Fracture! Also These 7 Cards For The Commander 99 | Magic: The Gathering",
+        "thumbnail": "https://i3.ytimg.com/vi/Vc8BJVBFolc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vc8BJVBFolc",
+        "publishedAt": "2026-09-19"
+      },
+      {
+        "id": "vid-TuCrMg4eZPA",
+        "title": "Matt Mercer and Ally Beardsley Understanding The Rules Of This Commander Game",
+        "thumbnail": "https://i1.ytimg.com/vi/TuCrMg4eZPA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TuCrMg4eZPA",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-A2pP4Cm2bsk",
+        "title": "Top 6 Most Powerful Commanders From Reality Fracture for Magic: The Gathering",
+        "thumbnail": "https://i2.ytimg.com/vi/A2pP4Cm2bsk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A2pP4Cm2bsk",
+        "publishedAt": "2026-09-17"
+      },
+      {
+        "id": "vid-yJym3Kjsw60",
+        "title": "The World Of Magic: The Gathering Card Alters",
+        "thumbnail": "https://i2.ytimg.com/vi/yJym3Kjsw60/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yJym3Kjsw60",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-LdhdVLn67_Q",
+        "title": "This Is One Of Rachel Weeks Favorite Commanders...",
+        "thumbnail": "https://i1.ytimg.com/vi/LdhdVLn67_Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LdhdVLn67_Q",
+        "publishedAt": "2026-09-15"
+      },
+      {
+        "id": "vid-qtZ0wYGOJfA",
+        "title": "Final Conclusion: The Hobbit | A Magic: The Gathering Review",
+        "thumbnail": "https://i2.ytimg.com/vi/qtZ0wYGOJfA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qtZ0wYGOJfA",
+        "publishedAt": "2026-09-14"
+      },
+      {
         "id": "vid-mSWHF8tvPtA",
         "title": "Secret Lair Zeta Set Was \"A Disaster\" | Now Buy Secret Lair He-Man! | Magic: The Gathering",
         "thumbnail": "https://i2.ytimg.com/vi/mSWHF8tvPtA/hqdefault.jpg",
@@ -248,48 +290,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/GJe6zQURsSk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GJe6zQURsSk",
         "publishedAt": "2026-09-04"
-      },
-      {
-        "id": "vid-Bo-CWaLAfDU",
-        "title": "You'll never guess what Magic deck he's playing!",
-        "thumbnail": "https://i3.ytimg.com/vi/Bo-CWaLAfDU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Bo-CWaLAfDU",
-        "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-fdxITDI3Ri4",
-        "title": "Return To Alara - The Forgotten Plane of Magic: The Gathering",
-        "thumbnail": "https://i3.ytimg.com/vi/fdxITDI3Ri4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fdxITDI3Ri4",
-        "publishedAt": "2026-09-02"
-      },
-      {
-        "id": "vid-vRgBots6kVE",
-        "title": "Prof shows MoistCr1TiKaL his favorite Commander...",
-        "thumbnail": "https://i3.ytimg.com/vi/vRgBots6kVE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vRgBots6kVE",
-        "publishedAt": "2026-09-01"
-      },
-      {
-        "id": "vid-HDH9B9SU15c",
-        "title": "Is A Magic: The Gathering Bundle Worth It? | The Hobbit",
-        "thumbnail": "https://i1.ytimg.com/vi/HDH9B9SU15c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HDH9B9SU15c",
-        "publishedAt": "2026-08-31"
-      },
-      {
-        "id": "vid-4Cps1JYMqyc",
-        "title": "The New Magic Guide To Draft | Magic: The Gathering",
-        "thumbnail": "https://i1.ytimg.com/vi/4Cps1JYMqyc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4Cps1JYMqyc",
-        "publishedAt": "2026-08-28"
-      },
-      {
-        "id": "vid-gAuNjmtV4zA",
-        "title": "Is It Worth It To Buy A Hobbit Scene Box? A Magic: The Gathering Product Review",
-        "thumbnail": "https://i4.ytimg.com/vi/gAuNjmtV4zA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gAuNjmtV4zA",
-        "publishedAt": "2026-08-26"
       }
     ]
   },
@@ -320,6 +320,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-edtny4XQuGM",
+        "title": "BIG MAN Bilbo Pairs Well with Emry!",
+        "thumbnail": "https://i2.ytimg.com/vi/edtny4XQuGM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=edtny4XQuGM",
+        "publishedAt": "2026-09-20"
+      },
+      {
+        "id": "vid-UMW-D_t09EM",
+        "title": "I'm Gonna BRAIN YA!",
+        "thumbnail": "https://i2.ytimg.com/vi/UMW-D_t09EM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UMW-D_t09EM",
+        "publishedAt": "2026-09-19"
+      },
+      {
+        "id": "vid-8ZfmtYNdG9I",
+        "title": "Is Gollum a SAC GIGACHAD?",
+        "thumbnail": "https://i1.ytimg.com/vi/8ZfmtYNdG9I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8ZfmtYNdG9I",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-1Z-SzBc5KB4",
+        "title": "The ULTIMATE Sucky Sac Creature Showdown!",
+        "thumbnail": "https://i2.ytimg.com/vi/1Z-SzBc5KB4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1Z-SzBc5KB4",
+        "publishedAt": "2026-09-17"
+      },
+      {
+        "id": "vid-pJLXHjPRONo",
+        "title": "This Deck's Value is OFF THE CHARTS",
+        "thumbnail": "https://i1.ytimg.com/vi/pJLXHjPRONo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pJLXHjPRONo",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-TsF3JcJF-yI",
+        "title": "Surprise SUPERCHARGES the Kona Combo?!",
+        "thumbnail": "https://i1.ytimg.com/vi/TsF3JcJF-yI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TsF3JcJF-yI",
+        "publishedAt": "2026-09-15"
+      },
+      {
+        "id": "vid-A9zM2hRzbZY",
+        "title": "INSANE CARDS Totally Annihilate Creature Andys?!",
+        "thumbnail": "https://i2.ytimg.com/vi/A9zM2hRzbZY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A9zM2hRzbZY",
+        "publishedAt": "2026-09-14"
+      },
+      {
         "id": "vid-YDymirl_Rfw",
         "title": "My Life Drainers Will Suck You Dry!",
         "thumbnail": "https://i2.ytimg.com/vi/YDymirl_Rfw/hqdefault.jpg",
@@ -339,55 +388,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/yo8ss4NmVeY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yo8ss4NmVeY",
         "publishedAt": "2026-09-11"
-      },
-      {
-        "id": "vid-w0dvo96h9zk",
-        "title": "Sac Deck Barely Sacs but it Sure Does Win!",
-        "thumbnail": "https://i4.ytimg.com/vi/w0dvo96h9zk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w0dvo96h9zk",
-        "publishedAt": "2026-09-10"
-      },
-      {
-        "id": "vid-DZ7CE6ncLaM",
-        "title": "This Versatile Ball is BLOODY PHENOMENAL",
-        "thumbnail": "https://i1.ytimg.com/vi/DZ7CE6ncLaM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DZ7CE6ncLaM",
-        "publishedAt": "2026-09-09"
-      },
-      {
-        "id": "vid-yYAOQGNdtV8",
-        "title": "Vamps, Bats & Assorted Orzhov GIGACHADS",
-        "thumbnail": "https://i2.ytimg.com/vi/yYAOQGNdtV8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yYAOQGNdtV8",
-        "publishedAt": "2026-09-08"
-      },
-      {
-        "id": "vid-t76uuJyQXAM",
-        "title": "Leyline Axe into Kili is a KILLER MOVE",
-        "thumbnail": "https://i1.ytimg.com/vi/t76uuJyQXAM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t76uuJyQXAM",
-        "publishedAt": "2026-09-07"
-      },
-      {
-        "id": "vid-6k5i0HZVQMk",
-        "title": "Weird Warg Deck Posts IMPRESSIVE WINRATE",
-        "thumbnail": "https://i3.ytimg.com/vi/6k5i0HZVQMk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6k5i0HZVQMk",
-        "publishedAt": "2026-09-06"
-      },
-      {
-        "id": "vid-F9BtDkFrS7A",
-        "title": "Turns Out Kavaero ABSO-FREAKING-LUTELY SLAPS",
-        "thumbnail": "https://i3.ytimg.com/vi/F9BtDkFrS7A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F9BtDkFrS7A",
-        "publishedAt": "2026-09-05"
-      },
-      {
-        "id": "vid-8d-sS8DwXR8",
-        "title": "Absolutely Degen Lifegain DOPAMINE DECK",
-        "thumbnail": "https://i1.ytimg.com/vi/8d-sS8DwXR8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8d-sS8DwXR8",
-        "publishedAt": "2026-09-04"
       }
     ]
   },
@@ -419,6 +419,41 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-l8XLGXV-kwY",
+        "title": "This was Standards BEST deck | Remastered",
+        "thumbnail": "https://i1.ytimg.com/vi/l8XLGXV-kwY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=l8XLGXV-kwY",
+        "publishedAt": "2026-09-18"
+      },
+      {
+        "id": "vid-TibkqiiBKbw",
+        "title": "One of the MOST EPIC Arena games I ever played | Remastered",
+        "thumbnail": "https://i1.ytimg.com/vi/TibkqiiBKbw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TibkqiiBKbw",
+        "publishedAt": "2026-09-17"
+      },
+      {
+        "id": "vid-yVsYOiXCshg",
+        "title": "The Most Aggressive Control Deck in Standard?",
+        "thumbnail": "https://i2.ytimg.com/vi/yVsYOiXCshg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yVsYOiXCshg",
+        "publishedAt": "2026-09-16"
+      },
+      {
+        "id": "vid-LW_wo2zuhJ8",
+        "title": "I should retire this deck",
+        "thumbnail": "https://i1.ytimg.com/vi/LW_wo2zuhJ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LW_wo2zuhJ8",
+        "publishedAt": "2026-09-15"
+      },
+      {
+        "id": "vid-tC6OM_TNkms",
+        "title": "Does it win seven?",
+        "thumbnail": "https://i1.ytimg.com/vi/tC6OM_TNkms/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tC6OM_TNkms",
+        "publishedAt": "2026-09-14"
+      },
       {
         "id": "vid-LGMwteZG21Q",
         "title": "The Best New Deck This Year",
@@ -453,41 +488,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/hEe0HKRHncg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hEe0HKRHncg",
         "publishedAt": "2026-09-04"
-      },
-      {
-        "id": "vid-h4f4-c5ACCQ",
-        "title": "This deck is too good to be true",
-        "thumbnail": "https://i1.ytimg.com/vi/h4f4-c5ACCQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h4f4-c5ACCQ",
-        "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-KgrroBkOx5w",
-        "title": "A whole lot of legendaries... (and wildcards)",
-        "thumbnail": "https://i4.ytimg.com/vi/KgrroBkOx5w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KgrroBkOx5w",
-        "publishedAt": "2026-09-02"
-      },
-      {
-        "id": "vid-vjycqWwHaL4",
-        "title": "Can Mono Black Wolf Aggro get us to 7 wins?",
-        "thumbnail": "https://i3.ytimg.com/vi/vjycqWwHaL4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vjycqWwHaL4",
-        "publishedAt": "2026-09-01"
-      },
-      {
-        "id": "vid-NxfLgh1YeCo",
-        "title": "Old Bird Oculus for the Standard Challenge",
-        "thumbnail": "https://i3.ytimg.com/vi/NxfLgh1YeCo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NxfLgh1YeCo",
-        "publishedAt": "2026-08-31"
-      },
-      {
-        "id": "vid-sn26HmWlooE",
-        "title": "I can't believe it's come to this...",
-        "thumbnail": "https://i4.ytimg.com/vi/sn26HmWlooE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sn26HmWlooE",
-        "publishedAt": "2026-08-28"
       }
     ]
   }

@@ -69,6 +69,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-hpiA2LgStRU",
+        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #25",
+        "thumbnail": "https://i1.ytimg.com/vi/hpiA2LgStRU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hpiA2LgStRU",
+        "publishedAt": "2026-09-19"
+      },
+      {
+        "id": "vid-7dbXFmlHd2Q",
+        "title": "18 Minutes of GENIUS Baits in League of Legends",
+        "thumbnail": "https://i4.ytimg.com/vi/7dbXFmlHd2Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7dbXFmlHd2Q",
+        "publishedAt": "2026-09-17"
+      },
+      {
+        "id": "vid-jK95viV_ziA",
+        "title": "CRAZIEST LEVEL 1 MOMENTS IN LEAGUE OF LEGENDS #6",
+        "thumbnail": "https://i3.ytimg.com/vi/jK95viV_ziA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jK95viV_ziA",
+        "publishedAt": "2026-09-14"
+      },
+      {
         "id": "vid-4jyTkA6M8dk",
         "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #24",
         "thumbnail": "https://i1.ytimg.com/vi/4jyTkA6M8dk/hqdefault.jpg",
@@ -116,27 +137,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/yoG1Huoar9k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yoG1Huoar9k",
         "publishedAt": "2026-08-31"
-      },
-      {
-        "id": "vid-DOrhOXILxwY",
-        "title": "SMARTEST MOMENTS IN LEAGUE OF LEGENDS #79",
-        "thumbnail": "https://i1.ytimg.com/vi/DOrhOXILxwY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DOrhOXILxwY",
-        "publishedAt": "2026-08-29"
-      },
-      {
-        "id": "vid-BVnIAskZXAE",
-        "title": "ULTRA SATISFYING MOMENTS #48",
-        "thumbnail": "https://i3.ytimg.com/vi/BVnIAskZXAE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BVnIAskZXAE",
-        "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-Il61tZaFMXc",
-        "title": "PERFECT PENTAKILL MOMENTS IN LEAGUE OF LEGENDS #35",
-        "thumbnail": "https://i2.ytimg.com/vi/Il61tZaFMXc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Il61tZaFMXc",
-        "publishedAt": "2026-08-25"
       }
     ]
   },
@@ -163,6 +163,13 @@
       "youtube": "https://www.youtube.com/@Royal-WildRift"
     },
     "latestVideos": [
+      {
+        "id": "vid-VKuaSiKPM6w",
+        "title": "Wild Rift: PATCH 7.3 - MASSIVE JUNGLE UPDATE - ADC & CRIT REWORK - HUGE TURRET CHANGES",
+        "thumbnail": "https://i3.ytimg.com/vi/VKuaSiKPM6w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VKuaSiKPM6w",
+        "publishedAt": "2026-09-21"
+      },
       {
         "id": "vid-vzTL1eCmv5o",
         "title": "Someone Made a RAID BOSS TANK SWAIN Build... So I Tried it",
@@ -225,13 +232,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/9c0fRAncJH0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9c0fRAncJH0",
         "publishedAt": "2026-09-09"
-      },
-      {
-        "id": "vid-zQu54dCvBtA",
-        "title": "UNRANKED to CHALLENGER on Smolder - Wild Rift Smolder Guide",
-        "thumbnail": "https://i3.ytimg.com/vi/zQu54dCvBtA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zQu54dCvBtA",
-        "publishedAt": "2026-09-08"
       }
     ]
   },
@@ -261,6 +261,13 @@
       "youtube": "https://www.youtube.com/@WildRiftLatam"
     },
     "latestVideos": [
+      {
+        "id": "vid-qfTZF9RrfXk",
+        "title": "Resumen de Hwei | Jugabilidad - League of Legends: Wild Rift",
+        "thumbnail": "https://i2.ytimg.com/vi/qfTZF9RrfXk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qfTZF9RrfXk",
+        "publishedAt": "2026-09-16"
+      },
       {
         "id": "vid-xfTxscqb8jA",
         "title": "¡El camino a un sistema de clasificatorias mejorado continúa!",
@@ -323,13 +330,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/Oyk07vOBGLQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Oyk07vOBGLQ",
         "publishedAt": "2026-08-30"
-      },
-      {
-        "id": "vid-6dxkfVh_03k",
-        "title": "Aquí hay unas vibras muy artísticas 🎨 ¿Quién será? Los leemos en los comentarios 👀",
-        "thumbnail": "https://i3.ytimg.com/vi/6dxkfVh_03k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6dxkfVh_03k",
-        "publishedAt": "2026-08-29"
       }
     ]
   },
