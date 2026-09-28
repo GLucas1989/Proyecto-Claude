@@ -23,6 +23,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-HFXzU3HfPLU",
+        "title": "Diablo Immortal - Battleground Stream | Battle Pass Giveaway",
+        "thumbnail": "https://i1.ytimg.com/vi/HFXzU3HfPLU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HFXzU3HfPLU",
+        "publishedAt": "2026-09-27"
+      },
+      {
         "id": "vid-6DX9Ve6QIsA",
         "title": "Diablo Immortal – Warlock Shotgun Build: How To Play It PROPERLY | Old Fashion VS Immortals",
         "thumbnail": "https://i3.ytimg.com/vi/6DX9Ve6QIsA/hqdefault.jpg",
@@ -84,13 +91,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/oHT4BnnIk68/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oHT4BnnIk68",
         "publishedAt": "2026-08-25"
-      },
-      {
-        "id": "vid-fuEcpyyJ9J0",
-        "title": "Diablo Immortal – Legendary Battle: Captain Selection ft. VooDoo KS Activated",
-        "thumbnail": "https://i3.ytimg.com/vi/fuEcpyyJ9J0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fuEcpyyJ9J0",
-        "publishedAt": "2026-08-21"
       }
     ]
   },
@@ -213,6 +213,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-GeSdll_xSwA",
+        "title": "ShuānShuān and Fukurou's PVP Wizard Gameplays & Builds | Diablo Immortal",
+        "thumbnail": "https://i4.ytimg.com/vi/GeSdll_xSwA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GeSdll_xSwA",
+        "publishedAt": "2026-09-27"
+      },
+      {
         "id": "vid-98ut_FssXn0",
         "title": "Aries Extends Immortal Reign to Week 6, Fights ZJR w/ Unidentified Druid Build | Diablo Immortal",
         "thumbnail": "https://i2.ytimg.com/vi/98ut_FssXn0/hqdefault.jpg",
@@ -274,13 +281,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/I-M_5Pv1mX8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=I-M_5Pv1mX8",
         "publishedAt": "2026-08-09"
-      },
-      {
-        "id": "vid-EkrSxB9rq8c",
-        "title": "IceSurReal's PVP ~9K-ish Reso Barbarian Gets 22-0-25 KDA vs Anonymous in ROE | Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/EkrSxB9rq8c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EkrSxB9rq8c",
-        "publishedAt": "2026-08-02"
       }
     ]
   },
@@ -308,6 +308,41 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-Lf4RX2cHRo8",
+        "title": "🔴 Wizard PvE | Weekly Chores + Dungeons!",
+        "thumbnail": "https://i1.ytimg.com/vi/Lf4RX2cHRo8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Lf4RX2cHRo8",
+        "publishedAt": "2026-09-27"
+      },
+      {
+        "id": "vid-N0m2HscrKzA",
+        "title": "🔴 BATTLEPASS GIVEAWAY!! + Wiz Support PvP!!",
+        "thumbnail": "https://i3.ytimg.com/vi/N0m2HscrKzA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N0m2HscrKzA",
+        "publishedAt": "2026-09-25"
+      },
+      {
+        "id": "vid-I637GSs19uY",
+        "title": "Well that was a SURPRISE!!",
+        "thumbnail": "https://i2.ytimg.com/vi/I637GSs19uY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I637GSs19uY",
+        "publishedAt": "2026-09-24"
+      },
+      {
+        "id": "vid-xErEh6jIVO0",
+        "title": "🔴 Battlegrounds, Mirrored Jewels & Dungeons!",
+        "thumbnail": "https://i1.ytimg.com/vi/xErEh6jIVO0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xErEh6jIVO0",
+        "publishedAt": "2026-09-24"
+      },
+      {
+        "id": "vid-lRDnKHf5Ju4",
+        "title": "🔴 NEW PvP Season! Wizard + Dungeons | MERCH STORE LIVE!",
+        "thumbnail": "https://i1.ytimg.com/vi/lRDnKHf5Ju4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lRDnKHf5Ju4",
+        "publishedAt": "2026-09-21"
+      },
       {
         "id": "vid-VWMyon-EhFU",
         "title": "🔴 Enigma Latera PULL! Pillars, Terror Rifts + Dungeons!",
@@ -342,41 +377,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/gvvv2X6Jrps/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=gvvv2X6Jrps",
         "publishedAt": "2026-09-15"
-      },
-      {
-        "id": "vid-ieOyF_E0RwE",
-        "title": "Lets look at the new 2 Star Gem Prong Crag!",
-        "thumbnail": "https://i2.ytimg.com/vi/ieOyF_E0RwE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ieOyF_E0RwE",
-        "publishedAt": "2026-09-15"
-      },
-      {
-        "id": "vid-qUxZkjV10ks",
-        "title": "We are getting more PVP Seasons!",
-        "thumbnail": "https://i2.ytimg.com/vi/qUxZkjV10ks/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qUxZkjV10ks",
-        "publishedAt": "2026-09-15"
-      },
-      {
-        "id": "vid-m_DqyHollX0",
-        "title": "NEW 5-Star Gem Enigma Latera - My First Reaction!",
-        "thumbnail": "https://i2.ytimg.com/vi/m_DqyHollX0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m_DqyHollX0",
-        "publishedAt": "2026-09-15"
-      },
-      {
-        "id": "vid-2bkwpPadYZI",
-        "title": "Patch 5.1 Battleground map update!",
-        "thumbnail": "https://i3.ytimg.com/vi/2bkwpPadYZI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2bkwpPadYZI",
-        "publishedAt": "2026-09-15"
-      },
-      {
-        "id": "vid-5YFUoMqiMcM",
-        "title": "🔴 My First Wizard Stream! Patch Notes – Good or Bad?",
-        "thumbnail": "https://i2.ytimg.com/vi/5YFUoMqiMcM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5YFUoMqiMcM",
-        "publishedAt": "2026-09-14"
       }
     ]
   }
