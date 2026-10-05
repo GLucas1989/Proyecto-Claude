@@ -23,6 +23,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-pA5C4anZOg0",
+        "title": "Diablo Immortal – Hellspawns Guise Phantom Market | New Familiar Transmorg",
+        "thumbnail": "https://i1.ytimg.com/vi/pA5C4anZOg0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pA5C4anZOg0",
+        "publishedAt": "2026-09-29"
+      },
+      {
         "id": "vid-HFXzU3HfPLU",
         "title": "Diablo Immortal - Battleground Stream | Battle Pass Giveaway",
         "thumbnail": "https://i1.ytimg.com/vi/HFXzU3HfPLU/hqdefault.jpg",
@@ -84,13 +91,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/i6jdNdycELY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=i6jdNdycELY",
         "publishedAt": "2026-08-27"
-      },
-      {
-        "id": "vid-oHT4BnnIk68",
-        "title": "Diablo Immortal – Blood Knight PVP Build | INSANE DAMAGE",
-        "thumbnail": "https://i4.ytimg.com/vi/oHT4BnnIk68/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oHT4BnnIk68",
-        "publishedAt": "2026-08-25"
       }
     ]
   },
@@ -213,6 +213,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-fqCUTUmJD-g",
+        "title": "ROE: Rodrex's Warlock, Aries's Descend, Zz's Ascend at Cycle Reset | Diablo Immortal",
+        "thumbnail": "https://i3.ytimg.com/vi/fqCUTUmJD-g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fqCUTUmJD-g",
+        "publishedAt": "2026-10-04"
+      },
+      {
+        "id": "vid-3dFtxK6H6vg",
+        "title": "Two ENIGMA LATERA from Mirrored Jewels Plus Gem Animation Demo | Diablo Immortal",
+        "thumbnail": "https://i4.ytimg.com/vi/3dFtxK6H6vg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3dFtxK6H6vg",
+        "publishedAt": "2026-10-03"
+      },
+      {
         "id": "vid-GeSdll_xSwA",
         "title": "ShuānShuān and Fukurou's PVP Wizard Gameplays & Builds | Diablo Immortal",
         "thumbnail": "https://i4.ytimg.com/vi/GeSdll_xSwA/hqdefault.jpg",
@@ -267,20 +281,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/LwurrkKTfxw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LwurrkKTfxw",
         "publishedAt": "2026-08-23"
-      },
-      {
-        "id": "vid-uIqC7S8vLgw",
-        "title": "Xtilus's PVP Warlock, Crocodilo's Blessed Reign, & Aries's Ascension (Aug 18 ROE) | Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/uIqC7S8vLgw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uIqC7S8vLgw",
-        "publishedAt": "2026-08-16"
-      },
-      {
-        "id": "vid-I-M_5Pv1mX8",
-        "title": "MVP Demon Hunter Eranous Scores 42.63 in Rite of Exile PVP | Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/I-M_5Pv1mX8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I-M_5Pv1mX8",
-        "publishedAt": "2026-08-09"
       }
     ]
   },
@@ -309,6 +309,48 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-rve3P9gbw5U",
+        "title": "🔴YOU Control How Long I Stream! Wizard PvP + PvE!",
+        "thumbnail": "https://i3.ytimg.com/vi/rve3P9gbw5U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rve3P9gbw5U",
+        "publishedAt": "2026-10-05"
+      },
+      {
+        "id": "vid-pbfMNlxm8Co",
+        "title": "🔴 Wizard PvP Continues + Dungeons!!",
+        "thumbnail": "https://i1.ytimg.com/vi/pbfMNlxm8Co/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pbfMNlxm8Co",
+        "publishedAt": "2026-10-02"
+      },
+      {
+        "id": "vid--SXhIqLalJc",
+        "title": "🔴 Phantom Full Draw + Putting Wizard PvP Build to the Test!",
+        "thumbnail": "https://i2.ytimg.com/vi/-SXhIqLalJc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-SXhIqLalJc",
+        "publishedAt": "2026-09-30"
+      },
+      {
+        "id": "vid-eIpnhgNeqao",
+        "title": "🔴SPAWN INCOMING!!! Wizard PvP + Dungeons!!",
+        "thumbnail": "https://i2.ytimg.com/vi/eIpnhgNeqao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eIpnhgNeqao",
+        "publishedAt": "2026-09-29"
+      },
+      {
+        "id": "vid-5F2GyClao0k",
+        "title": "Don't build Necroplasm until you watch this #diabloimmortal #guide",
+        "thumbnail": "https://i2.ytimg.com/vi/5F2GyClao0k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5F2GyClao0k",
+        "publishedAt": "2026-09-29"
+      },
+      {
+        "id": "vid-xUs-zM29cqI",
+        "title": "Best Crossover Yet? NEW 2★ Gem, Cosmetic, Boss + More!",
+        "thumbnail": "https://i1.ytimg.com/vi/xUs-zM29cqI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xUs-zM29cqI",
+        "publishedAt": "2026-09-28"
+      },
+      {
         "id": "vid-Lf4RX2cHRo8",
         "title": "🔴 Wizard PvE | Weekly Chores + Dungeons!",
         "thumbnail": "https://i1.ytimg.com/vi/Lf4RX2cHRo8/hqdefault.jpg",
@@ -335,48 +377,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/xErEh6jIVO0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xErEh6jIVO0",
         "publishedAt": "2026-09-24"
-      },
-      {
-        "id": "vid-lRDnKHf5Ju4",
-        "title": "🔴 NEW PvP Season! Wizard + Dungeons | MERCH STORE LIVE!",
-        "thumbnail": "https://i1.ytimg.com/vi/lRDnKHf5Ju4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lRDnKHf5Ju4",
-        "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-VWMyon-EhFU",
-        "title": "🔴 Enigma Latera PULL! Pillars, Terror Rifts + Dungeons!",
-        "thumbnail": "https://i3.ytimg.com/vi/VWMyon-EhFU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VWMyon-EhFU",
-        "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-mXHRLYS5fZ8",
-        "title": "🔴Baby Wizard PvP, Dungeons + ANNOUNCEMENTS!!",
-        "thumbnail": "https://i2.ytimg.com/vi/mXHRLYS5fZ8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mXHRLYS5fZ8",
-        "publishedAt": "2026-09-19"
-      },
-      {
-        "id": "vid-_df11t_92ck",
-        "title": "🔴 My First Wizard PvP! Learning the Class + Dungeons!",
-        "thumbnail": "https://i4.ytimg.com/vi/_df11t_92ck/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_df11t_92ck",
-        "publishedAt": "2026-09-16"
-      },
-      {
-        "id": "vid-Wm59Ldjj_7I",
-        "title": "The BEST Necromancer Auto-Farming Build!",
-        "thumbnail": "https://i4.ytimg.com/vi/Wm59Ldjj_7I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Wm59Ldjj_7I",
-        "publishedAt": "2026-09-16"
-      },
-      {
-        "id": "vid-gvvv2X6Jrps",
-        "title": "This Normal Gem Change Is HUGE!",
-        "thumbnail": "https://i4.ytimg.com/vi/gvvv2X6Jrps/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gvvv2X6Jrps",
-        "publishedAt": "2026-09-15"
       }
     ]
   }

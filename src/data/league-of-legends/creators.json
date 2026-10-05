@@ -24,6 +24,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-QXIlupvG0z8",
+        "title": "NEW TIER LIST for PATCH 26.20 - WORLDS PATCH! - League of Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/QXIlupvG0z8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QXIlupvG0z8",
+        "publishedAt": "2026-10-05"
+      },
+      {
+        "id": "vid-JT_wmz0Qp_E",
+        "title": "The HIDDEN Jungle Pick DESTROYING Low ELO #leagueoflegends",
+        "thumbnail": "https://i3.ytimg.com/vi/JT_wmz0Qp_E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JT_wmz0Qp_E",
+        "publishedAt": "2026-10-04"
+      },
+      {
+        "id": "vid-62P31HNCnbM",
+        "title": "Strompest's 5 Low Elo Mistakes to AVOID for EVERY Role! - League of Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/62P31HNCnbM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=62P31HNCnbM",
+        "publishedAt": "2026-10-02"
+      },
+      {
+        "id": "vid-BgIUSRifXmM",
+        "title": "ALL NEW CHANGES for PATCH 26.20 - WORLDS PATCH! - League of Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/BgIUSRifXmM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BgIUSRifXmM",
+        "publishedAt": "2026-10-01"
+      },
+      {
         "id": "vid-TR8pJYEAt7k",
         "title": "NEW UPDATED TIER LIST for PATCH 26.19! - League of Legends",
         "thumbnail": "https://i1.ytimg.com/vi/TR8pJYEAt7k/hqdefault.jpg",
@@ -64,34 +92,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/fv5y43dc5cQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fv5y43dc5cQ",
         "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-sHjpBc6-sws",
-        "title": "You can Teleport TWICE In a Row?!? #leagueoflegends #skillcapped",
-        "thumbnail": "https://i4.ytimg.com/vi/sHjpBc6-sws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sHjpBc6-sws",
-        "publishedAt": "2026-09-20"
-      },
-      {
-        "id": "vid-8riA48PW5EU",
-        "title": "Why Challenger Macro DOESN'T Work In Low Elo!",
-        "thumbnail": "https://i1.ytimg.com/vi/8riA48PW5EU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8riA48PW5EU",
-        "publishedAt": "2026-09-18"
-      },
-      {
-        "id": "vid-YuZkFSw-QME",
-        "title": "ALL NEW CHANGES for PATCH 26.19 - League of Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/YuZkFSw-QME/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YuZkFSw-QME",
-        "publishedAt": "2026-09-17"
-      },
-      {
-        "id": "vid-dlp6o6c8f0s",
-        "title": "NEW UPDATED TIER LIST for PATCH 26.18! - League of Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/dlp6o6c8f0s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dlp6o6c8f0s",
-        "publishedAt": "2026-09-14"
       }
     ]
   },
@@ -124,8 +124,57 @@
     },
     "latestVideos": [
       {
+        "id": "vid-hOJdJNFrDgY",
+        "title": "THIS LETHALITY ASHE BUILD IS A NIGHTMARE TO PLAY AGAINST! (SPAM RAZOR SHARP ARROWS)",
+        "thumbnail": "https://i1.ytimg.com/vi/hOJdJNFrDgY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hOJdJNFrDgY",
+        "publishedAt": "2026-10-04"
+      },
+      {
+        "id": "vid-QkgjWiAHNnc",
+        "title": "Janna but I have 800 AP and my tornado just one shots you (THEY DON'T EXPECT IT)",
+        "thumbnail": "https://i2.ytimg.com/vi/QkgjWiAHNnc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QkgjWiAHNnc",
+        "publishedAt": "2026-10-03"
+      },
+      {
+        "id": "vid-5uIZRVrEkeQ",
+        "title": "VEL'KOZ BUT MY LASER FREEZES YOU AND IT'S 100% BROKEN! (NOBODY CAN MOVE)",
+        "thumbnail": "https://i2.ytimg.com/vi/5uIZRVrEkeQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5uIZRVrEkeQ",
+        "publishedAt": "2026-10-02"
+      },
+      {
+        "id": "vid-88WN3dFCoh4",
+        "title": "This guy locked in Yasuo so I countered him with Soraka mid (HE RAGED ALL GAME)",
+        "thumbnail": "https://i1.ytimg.com/vi/88WN3dFCoh4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=88WN3dFCoh4",
+        "publishedAt": "2026-10-01"
+      },
+      {
+        "id": "vid-rdT9lqERow0",
+        "title": "I CREATED THE STRONGEST HEIMERDINGER TURRETS YOU'LL EVER WITNESS! (SOLO BARON WITH EASE)",
+        "thumbnail": "https://i3.ytimg.com/vi/rdT9lqERow0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rdT9lqERow0",
+        "publishedAt": "2026-09-30"
+      },
+      {
+        "id": "vid-EWKZUzXhglE",
+        "title": "Pantheon with 20 On-Hit effects is the most unfair build in the game (PRESS W = THEY DIE)",
+        "thumbnail": "https://i2.ytimg.com/vi/EWKZUzXhglE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EWKZUzXhglE",
+        "publishedAt": "2026-09-29"
+      },
+      {
+        "id": "vid-z73qtPNfXYw",
+        "title": "Another day another Xerath player who gets his day ruined by Zwag (TANK KASSADIN)",
+        "thumbnail": "https://i3.ytimg.com/vi/z73qtPNfXYw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z73qtPNfXYw",
+        "publishedAt": "2026-09-28"
+      },
+      {
         "id": "vid-vlgnU9kEmIQ",
-        "title": "ONE VEIGAR Q HEALS ME TO FULL HEALTH?! 100% OMNIVAMP BUILD IS BROKEN!",
+        "title": "Veigar but every spell heals me to full health and it's not balanced (1300 AP)",
         "thumbnail": "https://i3.ytimg.com/vi/vlgnU9kEmIQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vlgnU9kEmIQ",
         "publishedAt": "2026-09-27"
@@ -143,55 +192,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/i-A0-fpiBsg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=i-A0-fpiBsg",
         "publishedAt": "2026-09-26"
-      },
-      {
-        "id": "vid-bRIn8Gsz31k",
-        "title": "When Ryze hits 9,000 Mana your whole team evaporates (MANA LORD RYZE)",
-        "thumbnail": "https://i3.ytimg.com/vi/bRIn8Gsz31k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bRIn8Gsz31k",
-        "publishedAt": "2026-09-25"
-      },
-      {
-        "id": "vid-OklsVs4Zszo",
-        "title": "Orianna but I turned my ult into an actual NUKE that one shots everyone",
-        "thumbnail": "https://i4.ytimg.com/vi/OklsVs4Zszo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OklsVs4Zszo",
-        "publishedAt": "2026-09-24"
-      },
-      {
-        "id": "vid-basy6jzEft4",
-        "title": "This Yone thought AP Rakan mid was a troll pick... but then he got 1 shot",
-        "thumbnail": "https://i3.ytimg.com/vi/basy6jzEft4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=basy6jzEft4",
-        "publishedAt": "2026-09-23"
-      },
-      {
-        "id": "vid-f-ylYvZ7luI",
-        "title": "I played the most evil mid laner in League of Legends... (THIS IS SO BROKEN)",
-        "thumbnail": "https://i3.ytimg.com/vi/f-ylYvZ7luI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f-ylYvZ7luI",
-        "publishedAt": "2026-09-22"
-      },
-      {
-        "id": "vid-v3I2PWHk218",
-        "title": "I AM ADDICTED TO THIS FULL AP ASSASSIN KOG'MAW BUILD! (ONE SHOT ACROSS THE LANE)",
-        "thumbnail": "https://i3.ytimg.com/vi/v3I2PWHk218/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v3I2PWHk218",
-        "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-RDh7Q17nlyI",
-        "title": "Pantheon but I ult this poor Caitlyn the entire game (AXIOM ARC = 0 SECOND ULT CD)",
-        "thumbnail": "https://i3.ytimg.com/vi/RDh7Q17nlyI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RDh7Q17nlyI",
-        "publishedAt": "2026-09-20"
-      },
-      {
-        "id": "vid-bfZHxuH3WY8",
-        "title": "Ezreal but I'm full lethality and my Q just one shots you (DODGE Q OR DIE)",
-        "thumbnail": "https://i3.ytimg.com/vi/bfZHxuH3WY8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bfZHxuH3WY8",
-        "publishedAt": "2026-09-19"
       }
     ]
   },
@@ -281,74 +281,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-vBY6Ipe6GOw",
-        "title": "✅TL vs C9 PLAYOFFS COSTREAM WINNER GOES GRAND FINALS✅SOLOQ AFTER✅",
-        "thumbnail": "https://i3.ytimg.com/vi/vBY6Ipe6GOw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vBY6Ipe6GOw",
-        "publishedAt": "2026-09-28"
+        "id": "vid-TCbAv1N1KDU",
+        "title": "✅LYON vs TL LCS SUMMER GRAND FINALS✅#1 INSPIRED/BERSERKER/DHOKLA FANBOY✅",
+        "thumbnail": "https://i1.ytimg.com/vi/TCbAv1N1KDU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TCbAv1N1KDU",
+        "publishedAt": "2026-10-05"
       },
       {
-        "id": "vid-MCiDSgd7MT8",
-        "title": "I HIT RANK 17.. RANK 1 IS BECOMING A REALITY.",
-        "thumbnail": "https://i2.ytimg.com/vi/MCiDSgd7MT8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MCiDSgd7MT8",
-        "publishedAt": "2026-09-27"
+        "id": "vid-ugbqDSnbEeU",
+        "title": "🏯Do crackheads ever say, “I’m too broke to smoke crack tonight”? No. They get up and make it happen🏯",
+        "thumbnail": "https://i2.ytimg.com/vi/ugbqDSnbEeU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ugbqDSnbEeU",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-sXqg_nAEESw",
-        "title": "tyler1 and TrainWrecks Try to Freestyle 😭",
-        "thumbnail": "https://i4.ytimg.com/vi/sXqg_nAEESw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sXqg_nAEESw",
-        "publishedAt": "2026-09-27"
+        "id": "vid-RSKSPuXh0J4",
+        "title": "✅LYON vs C9 LCS FINALS QUALIFIER✅LOSER GOES THROUGH WORLDS PLAYIN STAGE✅",
+        "thumbnail": "https://i3.ytimg.com/vi/RSKSPuXh0J4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RSKSPuXh0J4",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-7OSDv4bxa-k",
-        "title": "✅SR vs LYON LCS COSTREAM WORLDS ON THE LINE✅INSPIRED TILTWATCH✅SOLOQ AFTER✅",
-        "thumbnail": "https://i4.ytimg.com/vi/7OSDv4bxa-k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7OSDv4bxa-k",
-        "publishedAt": "2026-09-27"
+        "id": "vid-5mxYUXWRdpA",
+        "title": "This is the BEST Caitlyn Game I've played this season",
+        "thumbnail": "https://i2.ytimg.com/vi/5mxYUXWRdpA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5mxYUXWRdpA",
+        "publishedAt": "2026-10-03"
       },
       {
-        "id": "vid-kp99agrMM2U",
-        "title": "Mid Ashe is ACTUALLY BROKEN",
-        "thumbnail": "https://i4.ytimg.com/vi/kp99agrMM2U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kp99agrMM2U",
-        "publishedAt": "2026-09-26"
+        "id": "vid-hvclyAWxHxk",
+        "title": "The Moment Doublelift Wanted to Mute Dantes 💀",
+        "thumbnail": "https://i1.ytimg.com/vi/hvclyAWxHxk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hvclyAWxHxk",
+        "publishedAt": "2026-10-03"
       },
       {
-        "id": "vid-igAWG2Fhz7g",
-        "title": "✅MONK MENTAL SOLOQ✅The man who moves a mountain begins by carrying away small stones✅",
-        "thumbnail": "https://i2.ytimg.com/vi/igAWG2Fhz7g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=igAWG2Fhz7g",
-        "publishedAt": "2026-09-26"
+        "id": "vid-sIZzx9g2yjY",
+        "title": "✅RANKED 5s SUPERTEAM WITH TYLER1/DANTES/HUMZH 2PM PST✅tryhard mode only. my heart is in it now.✅",
+        "thumbnail": "https://i4.ytimg.com/vi/sIZzx9g2yjY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sIZzx9g2yjY",
+        "publishedAt": "2026-10-03"
       },
       {
-        "id": "vid-IQu5Q0RURpw",
-        "title": "This is Why I'm a Gamer...",
-        "thumbnail": "https://i2.ytimg.com/vi/IQu5Q0RURpw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IQu5Q0RURpw",
-        "publishedAt": "2026-09-25"
+        "id": "vid-HBrC7EyKC5g",
+        "title": "Rank 1 NA vs Rank 1 EU",
+        "thumbnail": "https://i1.ytimg.com/vi/HBrC7EyKC5g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HBrC7EyKC5g",
+        "publishedAt": "2026-10-02"
       },
       {
-        "id": "vid-roZeX9BSloI",
-        "title": "Yunara is a MUST PICK S+ ADC right now",
-        "thumbnail": "https://i3.ytimg.com/vi/roZeX9BSloI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=roZeX9BSloI",
-        "publishedAt": "2026-09-23"
+        "id": "vid-B1sFef4UHDo",
+        "title": "✅AMERICAN SUPERSERVER (best in world) 2435 LP Challenger✅Doing The Impossible✅",
+        "thumbnail": "https://i3.ytimg.com/vi/B1sFef4UHDo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B1sFef4UHDo",
+        "publishedAt": "2026-10-02"
       },
       {
-        "id": "vid-RDJk3tWYLSY",
-        "title": "✅Small minds discuss people, average minds discuss events, great minds discuss winners queue✅",
-        "thumbnail": "https://i3.ytimg.com/vi/RDJk3tWYLSY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RDJk3tWYLSY",
-        "publishedAt": "2026-09-23"
+        "id": "vid-mUuv6RIagMA",
+        "title": "The Pro Player With a 0% Win Rate 💀",
+        "thumbnail": "https://i2.ytimg.com/vi/mUuv6RIagMA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mUuv6RIagMA",
+        "publishedAt": "2026-10-01"
       },
       {
-        "id": "vid-vLFlK1qbjBM",
-        "title": "I Tried The Faker Wang Ttukong Ramen!",
-        "thumbnail": "https://i3.ytimg.com/vi/vLFlK1qbjBM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vLFlK1qbjBM",
-        "publishedAt": "2026-09-23"
+        "id": "vid-3zUK9sVE7Ek",
+        "title": "✅TRYING OUT AION2 TONIGHT FIRST TIME + W + ENJOYER OF MMOS✅!Aion2 #Aion2✅",
+        "thumbnail": "https://i4.ytimg.com/vi/3zUK9sVE7Ek/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3zUK9sVE7Ek",
+        "publishedAt": "2026-10-01"
       }
     ]
   },
@@ -474,6 +474,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-rlLzADAFi5k",
+        "title": "These Riftbound Point Trackers are Next Level",
+        "thumbnail": "https://i3.ytimg.com/vi/rlLzADAFi5k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rlLzADAFi5k",
+        "publishedAt": "2026-09-30"
+      },
+      {
         "id": "vid-xjhPgg7m0aI",
         "title": "Baekhyun or Ezreal? #heartsteel #livemylife",
         "thumbnail": "https://i1.ytimg.com/vi/xjhPgg7m0aI/hqdefault.jpg",
@@ -535,13 +542,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/UIXpy5PAtMM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UIXpy5PAtMM",
         "publishedAt": "2026-08-06"
-      },
-      {
-        "id": "vid-_Y9jQiaNN_o",
-        "title": "How This Cosplayer Brought Pitfighter Vi To Life",
-        "thumbnail": "https://i4.ytimg.com/vi/_Y9jQiaNN_o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_Y9jQiaNN_o",
-        "publishedAt": "2026-08-03"
       }
     ]
   },
@@ -568,6 +568,34 @@
       "twitter": "LeagueOfLegends"
     },
     "latestVideos": [
+      {
+        "id": "vid-l55JwciOTiw",
+        "title": "that support is gonna need support after that play @Esnoob1",
+        "thumbnail": "https://i1.ytimg.com/vi/l55JwciOTiw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=l55JwciOTiw",
+        "publishedAt": "2026-09-30"
+      },
+      {
+        "id": "vid-0NIcIbCdlXs",
+        "title": "small update from your Worlds artists (quick before Akali sees)",
+        "thumbnail": "https://i1.ytimg.com/vi/0NIcIbCdlXs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0NIcIbCdlXs",
+        "publishedAt": "2026-09-29"
+      },
+      {
+        "id": "vid-kRjZurv-7CM",
+        "title": "Poppy’s hammer packs a lot more punch than I remember @Cowsep",
+        "thumbnail": "https://i4.ytimg.com/vi/kRjZurv-7CM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kRjZurv-7CM",
+        "publishedAt": "2026-09-28"
+      },
+      {
+        "id": "vid-udUzJKwxCDs",
+        "title": "Bilgewater Legends Set Sail for League Classic",
+        "thumbnail": "https://i2.ytimg.com/vi/udUzJKwxCDs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=udUzJKwxCDs",
+        "publishedAt": "2026-09-28"
+      },
       {
         "id": "vid-1U8gL4DZedI",
         "title": "Qiyana go brrrrrrrrr",
@@ -609,34 +637,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/4PH9DUidaAg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4PH9DUidaAg",
         "publishedAt": "2026-09-22"
-      },
-      {
-        "id": "vid-6JF0bLn7Ork",
-        "title": "music video debrief time with HEARTSTEEL 🍕🏀",
-        "thumbnail": "https://i3.ytimg.com/vi/6JF0bLn7Ork/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6JF0bLn7Ork",
-        "publishedAt": "2026-09-20"
-      },
-      {
-        "id": "vid-gMkuV5hh7-s",
-        "title": "HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)",
-        "thumbnail": "https://i4.ytimg.com/vi/gMkuV5hh7-s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gMkuV5hh7-s",
-        "publishedAt": "2026-09-18"
-      },
-      {
-        "id": "vid-3bmdUAG8PSE",
-        "title": "@ShiphturLOL makes it look easy",
-        "thumbnail": "https://i4.ytimg.com/vi/3bmdUAG8PSE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3bmdUAG8PSE",
-        "publishedAt": "2026-09-16"
-      },
-      {
-        "id": "vid-ARdRVixVW0w",
-        "title": "Demacia’s Greatest Heroes Have Arrived in League Classic",
-        "thumbnail": "https://i2.ytimg.com/vi/ARdRVixVW0w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ARdRVixVW0w",
-        "publishedAt": "2026-09-15"
       }
     ]
   },
@@ -663,74 +663,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-o_DW2FQyxZA",
-        "title": "Phantom Dancer was not a part of his vocabulary",
-        "thumbnail": "https://i4.ytimg.com/vi/o_DW2FQyxZA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o_DW2FQyxZA",
-        "publishedAt": "2026-09-27"
+        "id": "vid-RR9XPFJMCvw",
+        "title": "Can Inspired guess these champs with Dhokla's hints?",
+        "thumbnail": "https://i3.ytimg.com/vi/RR9XPFJMCvw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RR9XPFJMCvw",
+        "publishedAt": "2026-10-05"
       },
       {
-        "id": "vid-ff-p1-bHtb0",
-        "title": "The level-up SAVED Fuuu",
-        "thumbnail": "https://i3.ytimg.com/vi/ff-p1-bHtb0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ff-p1-bHtb0",
-        "publishedAt": "2026-09-27"
+        "id": "vid-2nz0bw67eUA",
+        "title": "AL pushed T1 to the brink. Now the LPL Champions are coming for the Summoner's Cup. #Worlds2026",
+        "thumbnail": "https://i3.ytimg.com/vi/2nz0bw67eUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2nz0bw67eUA",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-gOuMOkkS7d8",
-        "title": "G2 have been on a tear in 2026. Can they take it to the next level at Worlds?",
-        "thumbnail": "https://i4.ytimg.com/vi/gOuMOkkS7d8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gOuMOkkS7d8",
-        "publishedAt": "2026-09-26"
+        "id": "vid-xivfCD3y6Jk",
+        "title": "They CANNOT keep Kaze DOWN",
+        "thumbnail": "https://i1.ytimg.com/vi/xivfCD3y6Jk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xivfCD3y6Jk",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-3A4CQ1h5kQA",
-        "title": "A beautiful serenade from Tactical, Thanatos, & Vulcan",
-        "thumbnail": "https://i4.ytimg.com/vi/3A4CQ1h5kQA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3A4CQ1h5kQA",
-        "publishedAt": "2026-09-26"
+        "id": "vid-gj1OZkOdn1M",
+        "title": "At their best, KC can beat anyone. Now they have the biggest stage to prove it. #Worlds2026",
+        "thumbnail": "https://i4.ytimg.com/vi/gj1OZkOdn1M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gj1OZkOdn1M",
+        "publishedAt": "2026-10-03"
       },
       {
-        "id": "vid-cRrPFJGoRL8",
-        "title": "Would you like a briefcase?",
-        "thumbnail": "https://i4.ytimg.com/vi/cRrPFJGoRL8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cRrPFJGoRL8",
-        "publishedAt": "2026-09-25"
+        "id": "vid-mruJb-M3j3k",
+        "title": "Old, Humble, Cultured",
+        "thumbnail": "https://i2.ytimg.com/vi/mruJb-M3j3k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mruJb-M3j3k",
+        "publishedAt": "2026-10-03"
       },
       {
-        "id": "vid-VvDiTzhOFMs",
-        "title": "10 Times the ENTIRE TEAM Got Caught",
-        "thumbnail": "https://i3.ytimg.com/vi/VvDiTzhOFMs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VvDiTzhOFMs",
-        "publishedAt": "2026-09-25"
+        "id": "vid-oaGLCRVFnmM",
+        "title": "It's been 6 years since DK last held the Worlds trophy, can they do it again?",
+        "thumbnail": "https://i4.ytimg.com/vi/oaGLCRVFnmM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oaGLCRVFnmM",
+        "publishedAt": "2026-10-02"
       },
       {
-        "id": "vid-9lWHkv5v6TY",
-        "title": "After back to back to back Worlds wins, can T1 do it again this year?",
-        "thumbnail": "https://i2.ytimg.com/vi/9lWHkv5v6TY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9lWHkv5v6TY",
-        "publishedAt": "2026-09-24"
+        "id": "vid-NizCh53dF00",
+        "title": "The Plays That Stole the Show This Week",
+        "thumbnail": "https://i3.ytimg.com/vi/NizCh53dF00/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NizCh53dF00",
+        "publishedAt": "2026-10-01"
       },
       {
-        "id": "vid-I0M1P-H0yww",
-        "title": "The Fight for the Final Worlds Spots",
-        "thumbnail": "https://i2.ytimg.com/vi/I0M1P-H0yww/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I0M1P-H0yww",
-        "publishedAt": "2026-09-24"
+        "id": "vid-62FAcsXlzoE",
+        "title": "Do you think Bvoy will be added to the wedding pyramid?",
+        "thumbnail": "https://i3.ytimg.com/vi/62FAcsXlzoE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=62FAcsXlzoE",
+        "publishedAt": "2026-10-01"
       },
       {
-        "id": "vid-8kzfMOB8x6I",
-        "title": "The Kaze Leblanc W of all time",
-        "thumbnail": "https://i1.ytimg.com/vi/8kzfMOB8x6I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8kzfMOB8x6I",
-        "publishedAt": "2026-09-24"
+        "id": "vid-Yo4yoavi2ww",
+        "title": "BLG have been looking FIERCE this year. Is a trophy lift in New York next?",
+        "thumbnail": "https://i2.ytimg.com/vi/Yo4yoavi2ww/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Yo4yoavi2ww",
+        "publishedAt": "2026-09-30"
       },
       {
-        "id": "vid-Uf7Nz7zQy50",
-        "title": "MKOI's bot duo are at it again.",
-        "thumbnail": "https://i2.ytimg.com/vi/Uf7Nz7zQy50/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Uf7Nz7zQy50",
-        "publishedAt": "2026-09-23"
+        "id": "vid-MsD9UNJuDz4",
+        "title": "Did anyone see where KC went?",
+        "thumbnail": "https://i2.ytimg.com/vi/MsD9UNJuDz4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MsD9UNJuDz4",
+        "publishedAt": "2026-09-29"
       }
     ]
   },
@@ -757,74 +757,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-G90B9gZ_-LA",
-        "title": "CaptainFlowers owes Raz $100,000, sorry, we don't make the rules.",
-        "thumbnail": "https://i4.ytimg.com/vi/G90B9gZ_-LA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G90B9gZ_-LA",
-        "publishedAt": "2026-09-28"
+        "id": "vid-AS095BPGtt8",
+        "title": "What it means to Josedeodo to be the FIRST Latin American player to hoist an LCS trophy 🏆",
+        "thumbnail": "https://i2.ytimg.com/vi/AS095BPGtt8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AS095BPGtt8",
+        "publishedAt": "2026-10-05"
       },
       {
-        "id": "vid-xd_fJRWZuVI",
-        "title": "LCS Finals Qualifier | TLAW vs C9",
-        "thumbnail": "https://i1.ytimg.com/vi/xd_fJRWZuVI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xd_fJRWZuVI",
-        "publishedAt": "2026-09-27"
+        "id": "vid-372l9giOeY4",
+        "title": "LCS Championship Final | LYON vs TLAW",
+        "thumbnail": "https://i4.ytimg.com/vi/372l9giOeY4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=372l9giOeY4",
+        "publishedAt": "2026-10-05"
       },
       {
-        "id": "vid-Bi8Z8VE2SrE",
-        "title": "Vertical | LCS Finals Qualifier | TLAW vs C9",
-        "thumbnail": "https://i3.ytimg.com/vi/Bi8Z8VE2SrE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Bi8Z8VE2SrE",
-        "publishedAt": "2026-09-27"
+        "id": "vid-XCh-3Yat1bc",
+        "title": "Vertical | LCS Championship Final | LYON vs TLAW",
+        "thumbnail": "https://i1.ytimg.com/vi/XCh-3Yat1bc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XCh-3Yat1bc",
+        "publishedAt": "2026-10-05"
       },
       {
-        "id": "vid-2bwtRk7juHQ",
-        "title": "LCS Summer 2026 | C9 vs TLAW | Playoffs",
-        "thumbnail": "https://i3.ytimg.com/vi/2bwtRk7juHQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2bwtRk7juHQ",
-        "publishedAt": "2026-09-27"
+        "id": "vid-8Mdtj9TMxWQ",
+        "title": "LCS Summer 2026 | TL vs LYON | Finals",
+        "thumbnail": "https://i1.ytimg.com/vi/8Mdtj9TMxWQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8Mdtj9TMxWQ",
+        "publishedAt": "2026-10-05"
       },
       {
-        "id": "vid-Gs4Ktn0XMWc",
-        "title": "SporeJJ 🍄(Please let us know if there was a better Teemo / CoreJJ pun.)",
-        "thumbnail": "https://i4.ytimg.com/vi/Gs4Ktn0XMWc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gs4Ktn0XMWc",
-        "publishedAt": "2026-09-27"
+        "id": "vid-Kfs4hTO3vkM",
+        "title": "Gold lead be damned, TLAW make the fight at the Baron go in their favor 🤯",
+        "thumbnail": "https://i4.ytimg.com/vi/Kfs4hTO3vkM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Kfs4hTO3vkM",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-NT9sw5JZOUc",
-        "title": "Josedeodo and Team Liquid Alienware with the moves to take game one 😎",
-        "thumbnail": "https://i3.ytimg.com/vi/NT9sw5JZOUc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NT9sw5JZOUc",
-        "publishedAt": "2026-09-27"
+        "id": "vid-zoXlUf7J_LM",
+        "title": "TLAW can do NO wrong today 😤",
+        "thumbnail": "https://i3.ytimg.com/vi/zoXlUf7J_LM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zoXlUf7J_LM",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-cwL86fOd3J0",
-        "title": "Vertical | LCS Playoffs | SR vs LYON | Elimination Gauntlet",
-        "thumbnail": "https://i4.ytimg.com/vi/cwL86fOd3J0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cwL86fOd3J0",
-        "publishedAt": "2026-09-26"
+        "id": "vid-I0ikQaV7zKw",
+        "title": "Picture perfect teamfight for Team Liquid Alienware 👏",
+        "thumbnail": "https://i2.ytimg.com/vi/I0ikQaV7zKw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I0ikQaV7zKw",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-uj206ZuG-1Q",
-        "title": "LCS Playoffs | SR vs LYON | Elimination Gauntlet",
-        "thumbnail": "https://i2.ytimg.com/vi/uj206ZuG-1Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uj206ZuG-1Q",
-        "publishedAt": "2026-09-26"
+        "id": "vid-sLVvND0WTRE",
+        "title": "Love is in the air here in Georgia 🥹",
+        "thumbnail": "https://i4.ytimg.com/vi/sLVvND0WTRE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sLVvND0WTRE",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-xrpKgobdXMA",
-        "title": "LCS Summer 2026 | SR vs LYON | Regular Season",
-        "thumbnail": "https://i1.ytimg.com/vi/xrpKgobdXMA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xrpKgobdXMA",
-        "publishedAt": "2026-09-26"
+        "id": "vid-TuigvTLBlxw",
+        "title": "The 2026 LCS Championship Opening Ceremony, Presented by Mastercard, featuring Joey Valence & Brae",
+        "thumbnail": "https://i1.ytimg.com/vi/TuigvTLBlxw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TuigvTLBlxw",
+        "publishedAt": "2026-10-04"
       },
       {
-        "id": "vid-EFh-AqLA2EE",
-        "title": "\"It's good, 1k gold. 👍\"",
-        "thumbnail": "https://i2.ytimg.com/vi/EFh-AqLA2EE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EFh-AqLA2EE",
-        "publishedAt": "2026-09-26"
+        "id": "vid-HK3AN671WX0",
+        "title": "LCS Finals Qualifier | LYON vs C9",
+        "thumbnail": "https://i1.ytimg.com/vi/HK3AN671WX0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HK3AN671WX0",
+        "publishedAt": "2026-10-04"
       }
     ]
   },
@@ -850,6 +850,41 @@
       "twitter": "LEC"
     },
     "latestVideos": [
+      {
+        "id": "vid-yJ1NHQ6WX-4",
+        "title": "Counterpicking with Parus and Poby #lec #leagueoflegends #lolesports",
+        "thumbnail": "https://i2.ytimg.com/vi/yJ1NHQ6WX-4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yJ1NHQ6WX-4",
+        "publishedAt": "2026-10-05"
+      },
+      {
+        "id": "vid-HZNfUCxnNvc",
+        "title": "Throwback to Caps' first international PENTA 💥",
+        "thumbnail": "https://i1.ytimg.com/vi/HZNfUCxnNvc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HZNfUCxnNvc",
+        "publishedAt": "2026-10-03"
+      },
+      {
+        "id": "vid-PTO13-gy0so",
+        "title": "Endless Counterpicks with Myrwn and Elyoya  #lec #leagueoflegends #lolesports",
+        "thumbnail": "https://i1.ytimg.com/vi/PTO13-gy0so/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PTO13-gy0so",
+        "publishedAt": "2026-10-02"
+      },
+      {
+        "id": "vid-YjclevBRJK0",
+        "title": "Throwback to the LEC XPO in Nice!  #lec #leagueoflegends #lolesports",
+        "thumbnail": "https://i2.ytimg.com/vi/YjclevBRJK0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YjclevBRJK0",
+        "publishedAt": "2026-09-30"
+      },
+      {
+        "id": "vid--AdFIvDAy6g",
+        "title": "Fan questions with Caliste and Busio  #lec #leagueoflegends #lolesports",
+        "thumbnail": "https://i2.ytimg.com/vi/-AdFIvDAy6g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-AdFIvDAy6g",
+        "publishedAt": "2026-09-28"
+      },
       {
         "id": "vid-hVxVwWygAxc",
         "title": "Who has the most cooked social media feed? 🤔  #lec #leagueoflegends #lolesports",
@@ -884,41 +919,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/-K3JSNsiS8U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-K3JSNsiS8U",
         "publishedAt": "2026-09-22"
-      },
-      {
-        "id": "vid-4L0k85L3v9g",
-        "title": "All About Music | LEC Pop Quiz | 2026 Summer",
-        "thumbnail": "https://i1.ytimg.com/vi/4L0k85L3v9g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4L0k85L3v9g",
-        "publishedAt": "2026-09-22"
-      },
-      {
-        "id": "vid-ISp2Y_Pdekk",
-        "title": "Holy poggers 🗣️ #leagueoflegends #lec #lolesports",
-        "thumbnail": "https://i2.ytimg.com/vi/ISp2Y_Pdekk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ISp2Y_Pdekk",
-        "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-ogjbQVjsA9c",
-        "title": "SkewMond wasn't too far off 👀 #leagueoflegends #lec #lolesports",
-        "thumbnail": "https://i4.ytimg.com/vi/ogjbQVjsA9c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ogjbQVjsA9c",
-        "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-ulqqOnNSGxk",
-        "title": "How G2 secured their 20th trophy 💪 #leagueoflegends #lec #lolesports",
-        "thumbnail": "https://i2.ytimg.com/vi/ulqqOnNSGxk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ulqqOnNSGxk",
-        "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-_FIISlt5g5Q",
-        "title": "MKOI vs G2 | 2026 LEC Summer Finals",
-        "thumbnail": "https://i4.ytimg.com/vi/_FIISlt5g5Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_FIISlt5g5Q",
-        "publishedAt": "2026-09-20"
       }
     ]
   },
@@ -944,6 +944,13 @@
       "twitter": "LCK_Korea"
     },
     "latestVideos": [
+      {
+        "id": "vid-iQYqXrQ7Ntw",
+        "title": "다 비켜라 HLE이 월즈 접수하러 간다!",
+        "thumbnail": "https://i2.ytimg.com/vi/iQYqXrQ7Ntw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iQYqXrQ7Ntw",
+        "publishedAt": "2026-10-05"
+      },
       {
         "id": "vid-uS9QXJ10XO8",
         "title": "T1 팬은 얼마나 잘 통할까? | 일심동체 게임",
@@ -1006,13 +1013,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/HDB1QYmNqsQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=HDB1QYmNqsQ",
         "publishedAt": "2026-09-18"
-      },
-      {
-        "id": "vid-apnDaKLVCAk",
-        "title": "여러분 젠지가 우승했습니다!!",
-        "thumbnail": "https://i2.ytimg.com/vi/apnDaKLVCAk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=apnDaKLVCAk",
-        "publishedAt": "2026-09-15"
       }
     ]
   },
@@ -1062,11 +1062,32 @@
     },
     "latestVideos": [
       {
+        "id": "vid-yKseSs53x_I",
+        "title": "T1 Doran Irelia SILENCES all the Haters!  - HIGH ELO KR Pros SoloQ Highlights",
+        "thumbnail": "https://i2.ytimg.com/vi/yKseSs53x_I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yKseSs53x_I",
+        "publishedAt": "2026-10-04"
+      },
+      {
+        "id": "vid-GJmQAnEOw0U",
+        "title": "T1 Faker (Cassiopeia) vs T1 Doran (Yorick) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i4.ytimg.com/vi/GJmQAnEOw0U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GJmQAnEOw0U",
+        "publishedAt": "2026-10-01"
+      },
+      {
+        "id": "vid-nL7Vl4LUpcs",
+        "title": "🔴LIVE T1 Doran (Camille) - Spectating T1 in KR SoloQ/티원관전방",
+        "thumbnail": "https://i3.ytimg.com/vi/nL7Vl4LUpcs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nL7Vl4LUpcs",
+        "publishedAt": "2026-09-29"
+      },
+      {
         "id": "vid-sYO--OYaFZw",
-        "title": "🔴LIVE T1 Faker (Annie) & Gumayusi (Ziggs) vs Kiin (Syndra)  - Spectating T1 in KR SoloQ/티원관전방",
+        "title": "🔴LIVE T1 Doran (Jayce) - Spectating T1 in KR SoloQ/티원관전방",
         "thumbnail": "https://i4.ytimg.com/vi/sYO--OYaFZw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sYO--OYaFZw",
-        "publishedAt": "2026-09-28"
+        "publishedAt": "2026-09-29"
       },
       {
         "id": "vid-e4z8tK0bp50",
@@ -1109,27 +1130,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/-roCXl8_99k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-roCXl8_99k",
         "publishedAt": "2026-09-22"
-      },
-      {
-        "id": "vid-zXVXzoUCztc",
-        "title": "T1 Faker (Qiyana) vs T1 Keria (Shen) & HLE Zeus (Kai'sa) - Spectating T1 in KR SoloQ/티원관전방",
-        "thumbnail": "https://i3.ytimg.com/vi/zXVXzoUCztc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zXVXzoUCztc",
-        "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-AQhVCs6TreM",
-        "title": "T1 Keria (Lux) vs T1 Oner (Lilia) - Spectating T1 in KR SoloQ/티원관전방",
-        "thumbnail": "https://i2.ytimg.com/vi/AQhVCs6TreM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AQhVCs6TreM",
-        "publishedAt": "2026-09-21"
-      },
-      {
-        "id": "vid-GeBL6o1So3w",
-        "title": "T1 Faker Jungling vs Oner! - HIGH ELO KR Pros SoloQ Highlights",
-        "thumbnail": "https://i4.ytimg.com/vi/GeBL6o1So3w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GeBL6o1So3w",
-        "publishedAt": "2026-09-19"
       }
     ]
   },
@@ -1158,6 +1158,34 @@
       "twitch": "t1"
     },
     "latestVideos": [
+      {
+        "id": "vid-UM8XRTHSc8A",
+        "title": "티모집 EP.2┃아쉽게 풀지못했던 대기실 비하인드 낋여왔습니다.",
+        "thumbnail": "https://i2.ytimg.com/vi/UM8XRTHSc8A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UM8XRTHSc8A",
+        "publishedAt": "2026-10-04"
+      },
+      {
+        "id": "vid-DaN5jK6QDM0",
+        "title": "금의환향",
+        "thumbnail": "https://i1.ytimg.com/vi/DaN5jK6QDM0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DaN5jK6QDM0",
+        "publishedAt": "2026-10-03"
+      },
+      {
+        "id": "vid-X8k5VmSgdIo",
+        "title": "탑에 나타난 도디세우스",
+        "thumbnail": "https://i1.ytimg.com/vi/X8k5VmSgdIo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=X8k5VmSgdIo",
+        "publishedAt": "2026-10-01"
+      },
+      {
+        "id": "vid-HcGQ2Ws8ZJ8",
+        "title": "비원딜 사이에 피어난 페이사",
+        "thumbnail": "https://i1.ytimg.com/vi/HcGQ2Ws8ZJ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HcGQ2Ws8ZJ8",
+        "publishedAt": "2026-09-30"
+      },
       {
         "id": "vid-gGcFS7KYlcI",
         "title": "HIDE ON BOUCHE",
@@ -1199,34 +1227,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/HdSLoJy9daA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=HdSLoJy9daA",
         "publishedAt": "2026-09-19"
-      },
-      {
-        "id": "vid-Y_kC8MrWIFk",
-        "title": "'요리 고수'의 김볶밥 취향",
-        "thumbnail": "https://i2.ytimg.com/vi/Y_kC8MrWIFk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Y_kC8MrWIFk",
-        "publishedAt": "2026-09-18"
-      },
-      {
-        "id": "vid-yKIB2LWoEXs",
-        "title": "한창 벌이 궁금할 나이 (ft. 페이즈)",
-        "thumbnail": "https://i2.ytimg.com/vi/yKIB2LWoEXs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yKIB2LWoEXs",
-        "publishedAt": "2026-09-16"
-      },
-      {
-        "id": "vid-K_9jJbNrD-k",
-        "title": "수환아 그건 좀 아닌 거 같아 [T1scord 2026 vs DK]",
-        "thumbnail": "https://i4.ytimg.com/vi/K_9jJbNrD-k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=K_9jJbNrD-k",
-        "publishedAt": "2026-09-11"
-      },
-      {
-        "id": "vid-eH65Tyu_-cs",
-        "title": "이쿠. | 온 세상이 T1 : 오너 태권도 1편",
-        "thumbnail": "https://i2.ytimg.com/vi/eH65Tyu_-cs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eH65Tyu_-cs",
-        "publishedAt": "2026-09-09"
       }
     ]
   },
