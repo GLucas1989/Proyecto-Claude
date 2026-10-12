@@ -69,6 +69,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-A7713bBGjkc",
+        "title": "BEST ADC MOMENTS 2026 #2 (Aphelios 1v5 Pentakill, High APM Yunara, 1v9 Xayah...)",
+        "thumbnail": "https://i2.ytimg.com/vi/A7713bBGjkc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A7713bBGjkc",
+        "publishedAt": "2026-10-10"
+      },
+      {
+        "id": "vid-Az137TlQjVs",
+        "title": "ULTRA SATISFYING MOMENTS #51",
+        "thumbnail": "https://i2.ytimg.com/vi/Az137TlQjVs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Az137TlQjVs",
+        "publishedAt": "2026-10-08"
+      },
+      {
+        "id": "vid-ALfkmNxqV5o",
+        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #27",
+        "thumbnail": "https://i2.ytimg.com/vi/ALfkmNxqV5o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ALfkmNxqV5o",
+        "publishedAt": "2026-10-05"
+      },
+      {
         "id": "vid-4naTlv1_GIk",
         "title": "FUNNIEST MOMENTS IN LEAGUE OF LEGENDS #71",
         "thumbnail": "https://i1.ytimg.com/vi/4naTlv1_GIk/hqdefault.jpg",
@@ -116,27 +137,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/hpiA2LgStRU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hpiA2LgStRU",
         "publishedAt": "2026-09-19"
-      },
-      {
-        "id": "vid-7dbXFmlHd2Q",
-        "title": "18 Minutes of GENIUS Baits in League of Legends",
-        "thumbnail": "https://i4.ytimg.com/vi/7dbXFmlHd2Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7dbXFmlHd2Q",
-        "publishedAt": "2026-09-17"
-      },
-      {
-        "id": "vid-jK95viV_ziA",
-        "title": "CRAZIEST LEVEL 1 MOMENTS IN LEAGUE OF LEGENDS #6",
-        "thumbnail": "https://i3.ytimg.com/vi/jK95viV_ziA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jK95viV_ziA",
-        "publishedAt": "2026-09-14"
-      },
-      {
-        "id": "vid-4jyTkA6M8dk",
-        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #24",
-        "thumbnail": "https://i1.ytimg.com/vi/4jyTkA6M8dk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4jyTkA6M8dk",
-        "publishedAt": "2026-09-12"
       }
     ]
   },
@@ -164,6 +164,62 @@
     },
     "latestVideos": [
       {
+        "id": "vid-ZYPTNHUBgzs",
+        "title": "(RANK 1 EU & NA) THE GOAT OF WILD RIFT IS LIVE (Portrait)",
+        "thumbnail": "https://i3.ytimg.com/vi/ZYPTNHUBgzs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZYPTNHUBgzs",
+        "publishedAt": "2026-10-10"
+      },
+      {
+        "id": "vid-TPWhZ0fythI",
+        "title": "(RANK 1 EU & NA) THE GOAT OF WILD RIFT IS LIVE",
+        "thumbnail": "https://i1.ytimg.com/vi/TPWhZ0fythI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TPWhZ0fythI",
+        "publishedAt": "2026-10-09"
+      },
+      {
+        "id": "vid-bUBVOcU7-qU",
+        "title": "I Picked Yasuo’s WORST NIGHTMARE COUNTER",
+        "thumbnail": "https://i3.ytimg.com/vi/bUBVOcU7-qU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bUBVOcU7-qU",
+        "publishedAt": "2026-10-09"
+      },
+      {
+        "id": "vid-tJqC5eMw8EM",
+        "title": "My Viewers Made Me Play Seraphine Mid… Turns Out She’s BROKEN",
+        "thumbnail": "https://i1.ytimg.com/vi/tJqC5eMw8EM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tJqC5eMw8EM",
+        "publishedAt": "2026-10-08"
+      },
+      {
+        "id": "vid-M2nO8rzLIBw",
+        "title": "(RANK 1 EU & NA)  LEGENDARY RANKED!! GET IN (Portrait)",
+        "thumbnail": "https://i2.ytimg.com/vi/M2nO8rzLIBw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=M2nO8rzLIBw",
+        "publishedAt": "2026-10-07"
+      },
+      {
+        "id": "vid-yG3g2YjQgw8",
+        "title": "(RANK 1 EU & NA)  LEGENDARY RANKED!! GET IN",
+        "thumbnail": "https://i2.ytimg.com/vi/yG3g2YjQgw8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yG3g2YjQgw8",
+        "publishedAt": "2026-10-07"
+      },
+      {
+        "id": "vid-tA-VbYOY0XE",
+        "title": "(RANK 1 EU & NA) RANKED GRIND (Portrait)",
+        "thumbnail": "https://i1.ytimg.com/vi/tA-VbYOY0XE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tA-VbYOY0XE",
+        "publishedAt": "2026-10-05"
+      },
+      {
+        "id": "vid-611qCGDdPys",
+        "title": "(RANK 1 EU & NA) RANKED GRIND",
+        "thumbnail": "https://i3.ytimg.com/vi/611qCGDdPys/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=611qCGDdPys",
+        "publishedAt": "2026-10-05"
+      },
+      {
         "id": "vid-lC3B02NM4_Y",
         "title": "(RANK 1 EU & NA) THE RANKED GRIND CONTINUES (Portrait)",
         "thumbnail": "https://i1.ytimg.com/vi/lC3B02NM4_Y/hqdefault.jpg",
@@ -176,62 +232,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/ADClYiirdXM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ADClYiirdXM",
         "publishedAt": "2026-10-04"
-      },
-      {
-        "id": "vid-yzrWgY9GUAY",
-        "title": "Wild Rift TIER LIST Patch 7.3A - FULL META BREAKDOWN",
-        "thumbnail": "https://i2.ytimg.com/vi/yzrWgY9GUAY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yzrWgY9GUAY",
-        "publishedAt": "2026-10-03"
-      },
-      {
-        "id": "vid-0gqWapSvbXA",
-        "title": "SNIPER ZOE IS ON THE CASE",
-        "thumbnail": "https://i1.ytimg.com/vi/0gqWapSvbXA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0gqWapSvbXA",
-        "publishedAt": "2026-10-02"
-      },
-      {
-        "id": "vid-iBlJwNGoMkA",
-        "title": "HWEI DAMAGE WTF",
-        "thumbnail": "https://i2.ytimg.com/vi/iBlJwNGoMkA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iBlJwNGoMkA",
-        "publishedAt": "2026-10-01"
-      },
-      {
-        "id": "vid-xnG4k0mFTQY",
-        "title": "(RANK 1 EU & NA) NEW PATCH IS OUT!! 7.3A (Portrait)",
-        "thumbnail": "https://i1.ytimg.com/vi/xnG4k0mFTQY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xnG4k0mFTQY",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-kofauGkRbl4",
-        "title": "(RANK 1 EU & NA) NEW PATCH IS OUT!! 7.3A",
-        "thumbnail": "https://i4.ytimg.com/vi/kofauGkRbl4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kofauGkRbl4",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-E7U-J4-n3zU",
-        "title": "Wild Rift: PATCH 7.3A - PERFECT BUFFS AND NERFS W RIOT",
-        "thumbnail": "https://i2.ytimg.com/vi/E7U-J4-n3zU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E7U-J4-n3zU",
-        "publishedAt": "2026-09-29"
-      },
-      {
-        "id": "vid-a63MQU6Y2Fw",
-        "title": "(RANK 1 EU & NA) THE FAKER OF WILD RIFT IS LIVE",
-        "thumbnail": "https://i2.ytimg.com/vi/a63MQU6Y2Fw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a63MQU6Y2Fw",
-        "publishedAt": "2026-09-28"
-      },
-      {
-        "id": "vid-teD_I7PQ_UU",
-        "title": "(RANK 1 EU & NA) THE FAKER OF WILD RIFT IS LIVE (Portrait)",
-        "thumbnail": "https://i1.ytimg.com/vi/teD_I7PQ_UU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=teD_I7PQ_UU",
-        "publishedAt": "2026-09-28"
       }
     ]
   },
@@ -261,6 +261,13 @@
       "youtube": "https://www.youtube.com/@WildRiftLatam"
     },
     "latestVideos": [
+      {
+        "id": "vid-XgaJFutWpLU",
+        "title": "Se nos puso la carne de gallina. ¿Y a ti?😌🥴",
+        "thumbnail": "https://i1.ytimg.com/vi/XgaJFutWpLU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XgaJFutWpLU",
+        "publishedAt": "2026-10-06"
+      },
       {
         "id": "vid-6_ByC3Aa1YU",
         "title": "Las leyendas se forjan en el campo de batalla. ¿Por qué reino pelearás?🏯✨",
@@ -323,13 +330,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/DfsJCDqVq3g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DfsJCDqVq3g",
         "publishedAt": "2026-09-14"
-      },
-      {
-        "id": "vid-NwsIvtHCp3A",
-        "title": "Tú: Ningún campeón tiene más de dos o tres combos útiles. Hwei: Sostén mi pincel 🖌️🎨",
-        "thumbnail": "https://i3.ytimg.com/vi/NwsIvtHCp3A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NwsIvtHCp3A",
-        "publishedAt": "2026-09-11"
       }
     ]
   },

@@ -121,6 +121,41 @@
     },
     "latestVideos": [
       {
+        "id": "vid-bxUF28VBOb0",
+        "title": "The DIRTIEST Glitters Open | Beyond All Reason",
+        "thumbnail": "https://i3.ytimg.com/vi/bxUF28VBOb0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bxUF28VBOb0",
+        "publishedAt": "2026-10-12"
+      },
+      {
+        "id": "vid-cwCFRnBglVA",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i4.ytimg.com/vi/cwCFRnBglVA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cwCFRnBglVA",
+        "publishedAt": "2026-10-12"
+      },
+      {
+        "id": "vid-Jqh4PAQ-154",
+        "title": "When The Kings Get Out Of Control | King Of The Hill | Beyond All Reason",
+        "thumbnail": "https://i3.ytimg.com/vi/Jqh4PAQ-154/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Jqh4PAQ-154",
+        "publishedAt": "2026-10-11"
+      },
+      {
+        "id": "vid-MmuNKWsg6RI",
+        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i2.ytimg.com/vi/MmuNKWsg6RI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MmuNKWsg6RI",
+        "publishedAt": "2026-10-08"
+      },
+      {
+        "id": "vid-o6hBKpwfh10",
+        "title": "OP Take a 43 OS? | Beyond All Reason | Rosetta",
+        "thumbnail": "https://i4.ytimg.com/vi/o6hBKpwfh10/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o6hBKpwfh10",
+        "publishedAt": "2026-10-07"
+      },
+      {
         "id": "vid-akwa5Ec_LcQ",
         "title": "WHISTLERS still DOMINATE | Beyond All Reason | Bismuth Valley",
         "thumbnail": "https://i2.ytimg.com/vi/akwa5Ec_LcQ/hqdefault.jpg",
@@ -154,41 +189,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/YorQlZUlSWc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YorQlZUlSWc",
         "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-TTyRFZtWhLA",
-        "title": "GIGA Glitters (Quietly) | Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/TTyRFZtWhLA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TTyRFZtWhLA",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-PcOtT9ugKsM",
-        "title": "They Didn't want me to upload this one | Beyond All Reason | Hellas Basin 3v3",
-        "thumbnail": "https://i1.ytimg.com/vi/PcOtT9ugKsM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PcOtT9ugKsM",
-        "publishedAt": "2026-09-28"
-      },
-      {
-        "id": "vid-RgIBzntftk0",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i3.ytimg.com/vi/RgIBzntftk0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RgIBzntftk0",
-        "publishedAt": "2026-09-27"
-      },
-      {
-        "id": "vid-zGQ1Du3SnYU",
-        "title": "I Don't Have The Brain Power For A Good Title | King Of The Hill | BAR | Twig & TankTom are Stinky",
-        "thumbnail": "https://i3.ytimg.com/vi/zGQ1Du3SnYU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zGQ1Du3SnYU",
-        "publishedAt": "2026-09-27"
-      },
-      {
-        "id": "vid-nVBc1LcvNo0",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i3.ytimg.com/vi/nVBc1LcvNo0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nVBc1LcvNo0",
-        "publishedAt": "2026-09-24"
       }
     ]
   },
