@@ -121,6 +121,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-CtfuMgno3Mw",
+        "title": "Beyond All Reason - KING of the HILL- AllReasonNoLogic",
+        "thumbnail": "https://i4.ytimg.com/vi/CtfuMgno3Mw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CtfuMgno3Mw",
+        "publishedAt": "2026-10-18"
+      },
+      {
+        "id": "vid-l3uoItR4ZKY",
+        "title": "When TankTom is in the Middle... | Beyond All Reason | King of the Hill",
+        "thumbnail": "https://i1.ytimg.com/vi/l3uoItR4ZKY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=l3uoItR4ZKY",
+        "publishedAt": "2026-10-18"
+      },
+      {
+        "id": "vid-4lVpNUgPAns",
+        "title": "Beyond All Reason - KING of the HILL- AllReasonNoLogic",
+        "thumbnail": "https://i1.ytimg.com/vi/4lVpNUgPAns/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4lVpNUgPAns",
+        "publishedAt": "2026-10-14"
+      },
+      {
+        "id": "vid-IRU7ylYzKHg",
+        "title": "8v8 RTS GAMING Aggressively | Beyond All Reason | Hyperion Shale",
+        "thumbnail": "https://i2.ytimg.com/vi/IRU7ylYzKHg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IRU7ylYzKHg",
+        "publishedAt": "2026-10-14"
+      },
+      {
         "id": "vid-bxUF28VBOb0",
         "title": "The DIRTIEST Glitters Open | Beyond All Reason",
         "thumbnail": "https://i3.ytimg.com/vi/bxUF28VBOb0/hqdefault.jpg",
@@ -161,34 +189,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/akwa5Ec_LcQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=akwa5Ec_LcQ",
         "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-0mw7vla54Yc",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i1.ytimg.com/vi/0mw7vla54Yc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0mw7vla54Yc",
-        "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-g5wxfIPkqa8",
-        "title": "How The Turn Tables! Can The Kings Survive Without Their Massive Bonus? | King Of The Hill | BAR",
-        "thumbnail": "https://i4.ytimg.com/vi/g5wxfIPkqa8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g5wxfIPkqa8",
-        "publishedAt": "2026-10-04"
-      },
-      {
-        "id": "vid-MuAVU1EXKmA",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i2.ytimg.com/vi/MuAVU1EXKmA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MuAVU1EXKmA",
-        "publishedAt": "2026-10-01"
-      },
-      {
-        "id": "vid-YorQlZUlSWc",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i2.ytimg.com/vi/YorQlZUlSWc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YorQlZUlSWc",
-        "publishedAt": "2026-09-30"
       }
     ]
   },

@@ -119,8 +119,57 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-iNINaPyEOOk",
+        "title": "Probando mi Tesla Roadster",
+        "thumbnail": "https://i2.ytimg.com/vi/iNINaPyEOOk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iNINaPyEOOk",
+        "publishedAt": "2026-10-19"
+      },
+      {
+        "id": "vid-b2xotFp5xB8",
+        "title": "El Tesla Roadster es una locura",
+        "thumbnail": "https://i3.ytimg.com/vi/b2xotFp5xB8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b2xotFp5xB8",
+        "publishedAt": "2026-10-17"
+      },
+      {
+        "id": "vid-wyZxDwO-Uns",
+        "title": "REACCIONANDO AL TESLA ROADSTER ¡EL COCHE QUE VUELA!",
+        "thumbnail": "https://i4.ytimg.com/vi/wyZxDwO-Uns/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wyZxDwO-Uns",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-GrrBH10CuUA",
+        "title": "Reaccionando a GTA 6 Tráiler de lanzamiento",
+        "thumbnail": "https://i4.ytimg.com/vi/GrrBH10CuUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GrrBH10CuUA",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-NelZ43182hE",
+        "title": "REACCIONANDO a GTA VI Tráiler de Lanzamiento - TheGrefg",
+        "thumbnail": "https://i3.ytimg.com/vi/NelZ43182hE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NelZ43182hE",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-yvohl5nL0Og",
+        "title": "Así me adelantó Max Verstappen",
+        "thumbnail": "https://i2.ytimg.com/vi/yvohl5nL0Og/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yvohl5nL0Og",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-Y35NjHXY5Hc",
+        "title": "La subida imposible 💀",
+        "thumbnail": "https://i2.ytimg.com/vi/Y35NjHXY5Hc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Y35NjHXY5Hc",
+        "publishedAt": "2026-10-12"
+      },
+      {
         "id": "vid-edR3vQiJFEA",
-        "title": "ME ENFRENTO A LA CUESTA MÁS DURA DE ANDORRA CON MI NUEVA BICI - TheGrefg",
+        "title": "ME ENFRENTO A LA SUBIDA IMPOSIBLE DE ANDORRA CON MI NUEVA BICI - TheGrefg",
         "thumbnail": "https://i2.ytimg.com/vi/edR3vQiJFEA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=edR3vQiJFEA",
         "publishedAt": "2026-10-11"
@@ -138,55 +187,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/8pyhGv9VeC4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=8pyhGv9VeC4",
         "publishedAt": "2026-10-06"
-      },
-      {
-        "id": "vid-8M5f2qOKt-E",
-        "title": "Lo que no visteis de la F1…",
-        "thumbnail": "https://i1.ytimg.com/vi/8M5f2qOKt-E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8M5f2qOKt-E",
-        "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-JWIuVlcGqec",
-        "title": "Reaccionando con RVFV a Leonardo DiCaprio de Auronplay, Magus y Peereira7",
-        "thumbnail": "https://i3.ytimg.com/vi/JWIuVlcGqec/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JWIuVlcGqec",
-        "publishedAt": "2026-10-03"
-      },
-      {
-        "id": "vid-QfknT_iQh8A",
-        "title": "SE ACABÓ.",
-        "thumbnail": "https://i2.ytimg.com/vi/QfknT_iQh8A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QfknT_iQh8A",
-        "publishedAt": "2026-10-01"
-      },
-      {
-        "id": "vid-CJbpTco8yhI",
-        "title": "Dragón vete a la verga",
-        "thumbnail": "https://i4.ytimg.com/vi/CJbpTco8yhI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CJbpTco8yhI",
-        "publishedAt": "2026-09-29"
-      },
-      {
-        "id": "vid-2q5DcO89boQ",
-        "title": "Mi primer LEGO",
-        "thumbnail": "https://i3.ytimg.com/vi/2q5DcO89boQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2q5DcO89boQ",
-        "publishedAt": "2026-09-28"
-      },
-      {
-        "id": "vid-6P8Zjd-UjnY",
-        "title": "FELIZ CUMPLEAÑOS FORTNITE",
-        "thumbnail": "https://i3.ytimg.com/vi/6P8Zjd-UjnY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6P8Zjd-UjnY",
-        "publishedAt": "2026-09-27"
-      },
-      {
-        "id": "vid-EhjxXRmGlBA",
-        "title": "No me das miedo...",
-        "thumbnail": "https://i2.ytimg.com/vi/EhjxXRmGlBA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EhjxXRmGlBA",
-        "publishedAt": "2026-09-26"
       }
     ]
   },
@@ -213,6 +213,27 @@
       "es"
     ],
     "latestVideos": [
+      {
+        "id": "vid-B82WFBXU7gs",
+        "title": "Intercambié Mi Vida Con Un Seguidor",
+        "thumbnail": "https://i3.ytimg.com/vi/B82WFBXU7gs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B82WFBXU7gs",
+        "publishedAt": "2026-10-18"
+      },
+      {
+        "id": "vid-Gb9WJAFkO_c",
+        "title": "Es oficial: los coches vuelan.",
+        "thumbnail": "https://i4.ytimg.com/vi/Gb9WJAFkO_c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Gb9WJAFkO_c",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-brADT5K4A20",
+        "title": "Es tu momento.",
+        "thumbnail": "https://i3.ytimg.com/vi/brADT5K4A20/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=brADT5K4A20",
+        "publishedAt": "2026-10-15"
+      },
       {
         "id": "vid-HOegM6iv1bo",
         "title": "Abrí Mi Propio Restaurante",
@@ -261,27 +282,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/D6cWdXgKlpM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=D6cWdXgKlpM",
         "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-x2ogeUY0Tk8",
-        "title": "¿Quien tiene mejor equipo? con @luisitocomunica",
-        "thumbnail": "https://i1.ytimg.com/vi/x2ogeUY0Tk8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x2ogeUY0Tk8",
-        "publishedAt": "2026-09-27"
-      },
-      {
-        "id": "vid-LYhzDUbW_kE",
-        "title": "ESTE ES EL CAMPEÓN DEL MUNDIAL DE COMIDAS.",
-        "thumbnail": "https://i1.ytimg.com/vi/LYhzDUbW_kE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LYhzDUbW_kE",
-        "publishedAt": "2026-09-25"
-      },
-      {
-        "id": "vid-pDAO-A7bnJg",
-        "title": "Todo lo que veis en internet es mentira.",
-        "thumbnail": "https://i1.ytimg.com/vi/pDAO-A7bnJg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pDAO-A7bnJg",
-        "publishedAt": "2026-09-24"
       }
     ]
   },

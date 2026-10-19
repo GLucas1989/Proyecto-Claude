@@ -125,6 +125,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-T9zEVXv_SyE",
+        "title": "Invokers Titan Legacy ACTUALLY Surprised Me",
+        "thumbnail": "https://i1.ytimg.com/vi/T9zEVXv_SyE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T9zEVXv_SyE",
+        "publishedAt": "2026-10-18"
+      },
+      {
+        "id": "vid-8M0bI78A8LE",
+        "title": "Hated Champions NOBODY Wants to Face",
+        "thumbnail": "https://i1.ytimg.com/vi/8M0bI78A8LE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8M0bI78A8LE",
+        "publishedAt": "2026-10-17"
+      },
+      {
+        "id": "vid-MniyLjFD_Xs",
+        "title": "Is Anaxia ACTUALLY as Bad as They Say?",
+        "thumbnail": "https://i2.ytimg.com/vi/MniyLjFD_Xs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MniyLjFD_Xs",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-DhVEkAluCU0",
+        "title": "NEW FUSION BEST in YEARS — Full Breakdown!",
+        "thumbnail": "https://i1.ytimg.com/vi/DhVEkAluCU0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DhVEkAluCU0",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-H8oe-OaVqlM",
+        "title": "Top 15 ENEMY MAX HP Champs in MODERN ERA",
+        "thumbnail": "https://i1.ytimg.com/vi/H8oe-OaVqlM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H8oe-OaVqlM",
+        "publishedAt": "2026-10-14"
+      },
+      {
+        "id": "vid-JxFiMyYE1gI",
+        "title": "I MAXED 10 New CHAMPS - Who's TRASH, Who's OP?",
+        "thumbnail": "https://i3.ytimg.com/vi/JxFiMyYE1gI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JxFiMyYE1gI",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-DWn5EbQ5lCc",
+        "title": "MAXING Whoever I Pull from Sacred Shards (LEGGO)",
+        "thumbnail": "https://i1.ytimg.com/vi/DWn5EbQ5lCc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DWn5EbQ5lCc",
+        "publishedAt": "2026-10-12"
+      },
+      {
         "id": "vid-e_ETm_PsrpI",
         "title": "This NEW Game Has Me Hooked",
         "thumbnail": "https://i2.ytimg.com/vi/e_ETm_PsrpI/hqdefault.jpg",
@@ -144,55 +193,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/oX4xKFh20gc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oX4xKFh20gc",
         "publishedAt": "2026-10-09"
-      },
-      {
-        "id": "vid-4b4Fl4aEYag",
-        "title": "The Man Who Spent MILLIONS on RAID",
-        "thumbnail": "https://i1.ytimg.com/vi/4b4Fl4aEYag/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4b4Fl4aEYag",
-        "publishedAt": "2026-10-08"
-      },
-      {
-        "id": "vid-wjIY8s-YNw4",
-        "title": "WORLD'S STRONGEST LITTLE MISS ANNIE 😱",
-        "thumbnail": "https://i4.ytimg.com/vi/wjIY8s-YNw4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wjIY8s-YNw4",
-        "publishedAt": "2026-10-07"
-      },
-      {
-        "id": "vid-RKERPaM7SIE",
-        "title": "RAID Went TOO FAR This Time",
-        "thumbnail": "https://i3.ytimg.com/vi/RKERPaM7SIE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RKERPaM7SIE",
-        "publishedAt": "2026-10-06"
-      },
-      {
-        "id": "vid-4rV9k_DNDes",
-        "title": "Plarium Just Created a MONSTER | Skartorsis Rework",
-        "thumbnail": "https://i1.ytimg.com/vi/4rV9k_DNDes/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4rV9k_DNDes",
-        "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-N8XynzuwyN0",
-        "title": "Men Don't Talk About This. We Did.",
-        "thumbnail": "https://i3.ytimg.com/vi/N8XynzuwyN0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N8XynzuwyN0",
-        "publishedAt": "2026-10-04"
-      },
-      {
-        "id": "vid-B-4oj8slMXo",
-        "title": "Hacker Caught ON VIDEO In Live Arena",
-        "thumbnail": "https://i3.ytimg.com/vi/B-4oj8slMXo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=B-4oj8slMXo",
-        "publishedAt": "2026-10-03"
-      },
-      {
-        "id": "vid-GJk8PrKI9GM",
-        "title": "New LEONARDO Build That's Taking OVER Raid",
-        "thumbnail": "https://i4.ytimg.com/vi/GJk8PrKI9GM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GJk8PrKI9GM",
-        "publishedAt": "2026-10-03"
       }
     ]
   },
@@ -223,74 +223,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-RBlGenGGoJo",
-        "title": "ALL MY F2P SACRED SHARDS for Scarecrow (STRUCK GOLD!) - Raid Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/RBlGenGGoJo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RBlGenGGoJo",
-        "publishedAt": "2026-10-11"
+        "id": "vid-F2jB002odZE",
+        "title": "AVOID THESE CHAMPS! BUILD THESE Instead! - Raid Shadow Legends Account Takeovers",
+        "thumbnail": "https://i3.ytimg.com/vi/F2jB002odZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F2jB002odZE",
+        "publishedAt": "2026-10-18"
       },
       {
-        "id": "vid-EMMfG5UENyQ",
-        "title": "NEW SEPTIMUS START CODES Are Insane! - Raid Shadow Legends Beginner Links",
-        "thumbnail": "https://i2.ytimg.com/vi/EMMfG5UENyQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EMMfG5UENyQ",
-        "publishedAt": "2026-10-11"
+        "id": "vid-owWEnaJ6WaI",
+        "title": "I Pulled ALL MY F2P Ancient Shard... Here's What We Got - Raid Shadow Legends",
+        "thumbnail": "https://i4.ytimg.com/vi/owWEnaJ6WaI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=owWEnaJ6WaI",
+        "publishedAt": "2026-10-18"
       },
       {
-        "id": "vid-HjTGhOyKMH0",
-        "title": "Pulling ALL MY SACRED SHARDS for the Path... Here's What Happened - Raid Shadow Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/HjTGhOyKMH0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HjTGhOyKMH0",
-        "publishedAt": "2026-10-10"
+        "id": "vid-auCK3PekMMo",
+        "title": "90% OF BEGINNERS MAKE THIS MISTAKE When Team Building in Raid Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/auCK3PekMMo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=auCK3PekMMo",
+        "publishedAt": "2026-10-17"
       },
       {
-        "id": "vid-bl5IOt2CcO0",
-        "title": "\"WTF, PLARIUM??\" - BEST PATH for Tin Man's Soul! - Raid Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/bl5IOt2CcO0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bl5IOt2CcO0",
-        "publishedAt": "2026-10-09"
+        "id": "vid-i8QGJy-dI9U",
+        "title": "THIS LUCK IS RIDICULOUS... Ancient Shard Pulls! - Raid Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/i8QGJy-dI9U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=i8QGJy-dI9U",
+        "publishedAt": "2026-10-16"
       },
       {
-        "id": "vid-PxmmnKr4YhU",
-        "title": "BEAT EVERY CLAN BOSS (F2P Account Teams and Tips!) - Raid Shadow Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/PxmmnKr4YhU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PxmmnKr4YhU",
-        "publishedAt": "2026-10-08"
+        "id": "vid-ValYb7NoY4w",
+        "title": "PLARIUM HAVE LOST IT... FREE TEODOR for New Accounts?? Raid Shadow Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/ValYb7NoY4w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ValYb7NoY4w",
+        "publishedAt": "2026-10-15"
       },
       {
-        "id": "vid-rEyi6cWOHTc",
-        "title": "These 3 Champs Changed My ENTIRE F2P ACCOUNT - Raid Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/rEyi6cWOHTc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rEyi6cWOHTc",
-        "publishedAt": "2026-10-07"
+        "id": "vid-Id2DLka_CFA",
+        "title": "\"HOLY POWER CREEP...\" - New Fusion is Fabian's DAD - Raid Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/Id2DLka_CFA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Id2DLka_CFA",
+        "publishedAt": "2026-10-15"
       },
       {
-        "id": "vid-hhKX9YlwZ78",
-        "title": "\"THIS IS BRUTAL...\" New Hero Path for TIN MAN AND THEIMIOS SOULS - Raid Shadow Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/hhKX9YlwZ78/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hhKX9YlwZ78",
-        "publishedAt": "2026-10-07"
+        "id": "vid-EJuk22k8X-4",
+        "title": "ONLY EPICS I STILL USE (2026) #raidshadowlegends",
+        "thumbnail": "https://i2.ytimg.com/vi/EJuk22k8X-4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EJuk22k8X-4",
+        "publishedAt": "2026-10-15"
       },
       {
-        "id": "vid-XWqwWnaphOc",
-        "title": "FRONTIER EVENT is WORSE THAN WE THOUGHT... - Raid Shadow Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/XWqwWnaphOc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XWqwWnaphOc",
-        "publishedAt": "2026-10-06"
+        "id": "vid-XXlGN14JfzQ",
+        "title": "YOUR CHAMP BUILDS Are HOLDING YOU BACK! - Raid Shadow Legends Account Takeover",
+        "thumbnail": "https://i1.ytimg.com/vi/XXlGN14JfzQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XXlGN14JfzQ",
+        "publishedAt": "2026-10-14"
       },
       {
-        "id": "vid-srYo8p8CdCw",
-        "title": "HUGE CVC UPGRADES! (kinda?) - New 6 Star Legendary - Raid Shadow Legends",
-        "thumbnail": "https://i4.ytimg.com/vi/srYo8p8CdCw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=srYo8p8CdCw",
-        "publishedAt": "2026-10-06"
+        "id": "vid-oWQYJLCQQHE",
+        "title": "PULLING ALL MY SOULSTONES So You Don't Have to - Raid Shadow Legends",
+        "thumbnail": "https://i4.ytimg.com/vi/oWQYJLCQQHE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oWQYJLCQQHE",
+        "publishedAt": "2026-10-13"
       },
       {
-        "id": "vid-UKSyM_i3U8s",
-        "title": "NEW FRONTIER EVENT is a PROBLEM... - Raid Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/UKSyM_i3U8s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UKSyM_i3U8s",
-        "publishedAt": "2026-10-05"
+        "id": "vid-QKkPuf6-4sQ",
+        "title": "I Maxed My FIRST EVER +4 LEGENDARY CHAMPION... - Raid Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/QKkPuf6-4sQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QKkPuf6-4sQ",
+        "publishedAt": "2026-10-12"
       }
     ]
   },
@@ -419,74 +419,74 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-owEI8f9wh08",
+        "title": "I Played Castle Busters & You Should Too!",
+        "thumbnail": "https://i4.ytimg.com/vi/owEI8f9wh08/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=owEI8f9wh08",
+        "publishedAt": "2026-10-17"
+      },
+      {
+        "id": "vid-XqgBRqc3tkA",
+        "title": "Most RAID Players Are Missing These Champion Upgrades!",
+        "thumbnail": "https://i1.ytimg.com/vi/XqgBRqc3tkA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XqgBRqc3tkA",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-jxeCLRb-Fks",
+        "title": "Is the NEW Fusion Better Than EVERYONE Else?! | RAID Shadow Legends",
+        "thumbnail": "https://i3.ytimg.com/vi/jxeCLRb-Fks/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jxeCLRb-Fks",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-C7HdNY_ZiQI",
+        "title": "I CAN'T BELIEVE I DIDN'T KNOW THIS!!  Raid: Shadow Legends",
+        "thumbnail": "https://i4.ytimg.com/vi/C7HdNY_ZiQI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C7HdNY_ZiQI",
+        "publishedAt": "2026-10-14"
+      },
+      {
+        "id": "vid-ChtghsW9KQI",
+        "title": "Tuesday Takeovers for Raid then !Castle",
+        "thumbnail": "https://i4.ytimg.com/vi/ChtghsW9KQI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ChtghsW9KQI",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-pQb2t2iDP9s",
+        "title": "Tuesday Takeovers for Raid then !Castle",
+        "thumbnail": "https://i1.ytimg.com/vi/pQb2t2iDP9s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pQb2t2iDP9s",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-8x_pExOaXC0",
+        "title": "You're NOT Getting Everything Out of Your Champions!  Raid: Shadow Legends",
+        "thumbnail": "https://i1.ytimg.com/vi/8x_pExOaXC0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8x_pExOaXC0",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-eDePjcM-mWg",
+        "title": "Monday Kickoff for Raid: Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/eDePjcM-mWg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eDePjcM-mWg",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-uvMrP9wvxm4",
+        "title": "3 Account, 20 Sacreds Each, All for Sydaxe!!!  Raid: Shadow Legends",
+        "thumbnail": "https://i2.ytimg.com/vi/uvMrP9wvxm4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uvMrP9wvxm4",
+        "publishedAt": "2026-10-12"
+      },
+      {
         "id": "vid-oH6Zo3X_wmA",
         "title": "Sacrificed Pythion... and RAID IMMEDIATELY TROLLED ME!",
         "thumbnail": "https://i4.ytimg.com/vi/oH6Zo3X_wmA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oH6Zo3X_wmA",
         "publishedAt": "2026-10-10"
-      },
-      {
-        "id": "vid-F5Cb0kVSW0o",
-        "title": "PULLING EVERY SHARD I OWN...AGAIN!  Raid: Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/F5Cb0kVSW0o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F5Cb0kVSW0o",
-        "publishedAt": "2026-10-09"
-      },
-      {
-        "id": "vid-ubNDjCdtJO8",
-        "title": "Let's Have Some Fun Today!  Raid: Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/ubNDjCdtJO8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ubNDjCdtJO8",
-        "publishedAt": "2026-10-09"
-      },
-      {
-        "id": "vid-eDePjcM-mWg",
-        "title": "Let's Have Some Fun Today!  Raid: Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/eDePjcM-mWg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eDePjcM-mWg",
-        "publishedAt": "2026-10-08"
-      },
-      {
-        "id": "vid-NwuSHegzsV4",
-        "title": "This Is Getting RIDICULOUS in RAID: Shadow Legends!",
-        "thumbnail": "https://i3.ytimg.com/vi/NwuSHegzsV4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NwuSHegzsV4",
-        "publishedAt": "2026-10-08"
-      },
-      {
-        "id": "vid-PwgUmvZR_HA",
-        "title": "This Video Was Supposed to Be About Aratheia... Raid: Shadow Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/PwgUmvZR_HA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PwgUmvZR_HA",
-        "publishedAt": "2026-10-07"
-      },
-      {
-        "id": "vid-pb4x82KxCnQ",
-        "title": "Argonites Faction Testing!!  Raid: Shadow Legends",
-        "thumbnail": "https://i1.ytimg.com/vi/pb4x82KxCnQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pb4x82KxCnQ",
-        "publishedAt": "2026-10-06"
-      },
-      {
-        "id": "vid-msnw23Ngm2g",
-        "title": "FREE Account Takeovers Today!  Raid: Shadow Legends",
-        "thumbnail": "https://i2.ytimg.com/vi/msnw23Ngm2g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=msnw23Ngm2g",
-        "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-3Q645cxoYUc",
-        "title": "Frontier Event Worse Than We Thought?  Raid: Shadow Legends",
-        "thumbnail": "https://i4.ytimg.com/vi/3Q645cxoYUc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3Q645cxoYUc",
-        "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-bREvzHoJmmo",
-        "title": "Going for MIDGAME Shard Glory! Can We Hit Something HUGE?  Raid: Shadow Legends",
-        "thumbnail": "https://i3.ytimg.com/vi/bREvzHoJmmo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bREvzHoJmmo",
-        "publishedAt": "2026-10-04"
       }
     ]
   }

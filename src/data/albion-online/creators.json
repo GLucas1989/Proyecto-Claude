@@ -122,8 +122,36 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-COFgwNmMdw0",
+        "title": "The BEST SOLO Content Is Coming BACK to Albion Online!",
+        "thumbnail": "https://i4.ytimg.com/vi/COFgwNmMdw0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=COFgwNmMdw0",
+        "publishedAt": "2026-10-17"
+      },
+      {
+        "id": "vid-mfRyPEInAfg",
+        "title": "HUGE META CHANGES Are Coming! | Albion Online",
+        "thumbnail": "https://i2.ytimg.com/vi/mfRyPEInAfg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mfRyPEInAfg",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-vObu2o_tcN4",
+        "title": "This Fists of Avalon Build Is INSANE Right Now in Albion Online",
+        "thumbnail": "https://i3.ytimg.com/vi/vObu2o_tcN4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vObu2o_tcN4",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-5YExorilW9Q",
+        "title": "This BUFFED Dagger Build DELETES Players in Albion Online",
+        "thumbnail": "https://i2.ytimg.com/vi/5YExorilW9Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5YExorilW9Q",
+        "publishedAt": "2026-10-14"
+      },
+      {
         "id": "vid-GyYz1vFfvOs",
-        "title": "Everything You MISSED in the NEW Update! | Albion Online",
+        "title": "Dragonfire Patch 3 FULL Patch Notes & Meta Updates | Albion Online",
         "thumbnail": "https://i4.ytimg.com/vi/GyYz1vFfvOs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GyYz1vFfvOs",
         "publishedAt": "2026-10-12"
@@ -162,34 +190,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/S1mj4iEsMS8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=S1mj4iEsMS8",
         "publishedAt": "2026-10-03"
-      },
-      {
-        "id": "vid-9J6kaIAW11w",
-        "title": "HUGE NERF Coming to the BEST SOLO Content in Albion Online",
-        "thumbnail": "https://i2.ytimg.com/vi/9J6kaIAW11w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9J6kaIAW11w",
-        "publishedAt": "2026-09-29"
-      },
-      {
-        "id": "vid-VKUkpKW499I",
-        "title": "HUGE META CHANGES AGAIN! | Albion Online",
-        "thumbnail": "https://i3.ytimg.com/vi/VKUkpKW499I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VKUkpKW499I",
-        "publishedAt": "2026-09-25"
-      },
-      {
-        "id": "vid-Rqrzr6s6T4c",
-        "title": "Dragonfire Patch 2 FULL Patch Notes & Meta Updates | Albion Online",
-        "thumbnail": "https://i3.ytimg.com/vi/Rqrzr6s6T4c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rqrzr6s6T4c",
-        "publishedAt": "2026-09-23"
-      },
-      {
-        "id": "vid-ywJbjWH1unI",
-        "title": "I Started Albion Online From ZERO After 4752 Hours",
-        "thumbnail": "https://i2.ytimg.com/vi/ywJbjWH1unI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ywJbjWH1unI",
-        "publishedAt": "2026-09-18"
       }
     ]
   },
@@ -503,6 +503,48 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-CMh95y7eL44",
+        "title": "VUELVEN LOS GUANTES INFERNALES 🔥 Albion Online",
+        "thumbnail": "https://i4.ytimg.com/vi/CMh95y7eL44/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CMh95y7eL44",
+        "publishedAt": "2026-10-18"
+      },
+      {
+        "id": "vid-LIBl-zjIKpI",
+        "title": "AION 2: Sube tu GEAR SCORE sin MALGASTAR materiales 🧑‍🏫",
+        "thumbnail": "https://i1.ytimg.com/vi/LIBl-zjIKpI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LIBl-zjIKpI",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-p_BwY2CgWMM",
+        "title": "El GRAN PROBLEMA de los MMO COREANOS COMO AION 2 🤔",
+        "thumbnail": "https://i1.ytimg.com/vi/p_BwY2CgWMM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p_BwY2CgWMM",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-fz0VFxWztRI",
+        "title": "ADIOS A LOS HEALERS, NUEVO HÁBITO DE MAGO... 🐲 PARCHE 3 de DRAGONFIRE🔥 Albion Online",
+        "thumbnail": "https://i3.ytimg.com/vi/fz0VFxWztRI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fz0VFxWztRI",
+        "publishedAt": "2026-10-14"
+      },
+      {
+        "id": "vid-w5q0DTQjsTk",
+        "title": "¡NERFEAN el LOOT de las TIERRAS ANCESTRALES! 🤯 Albion Online",
+        "thumbnail": "https://i4.ytimg.com/vi/w5q0DTQjsTk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w5q0DTQjsTk",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-TXh_B25BTxc",
+        "title": "¡NERFEAN el LOOT de las TIERRAS ANCESTRALES! 🤯 Albion Online",
+        "thumbnail": "https://i1.ytimg.com/vi/TXh_B25BTxc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TXh_B25BTxc",
+        "publishedAt": "2026-10-12"
+      },
+      {
         "id": "vid-bD0HT90Puog",
         "title": "El GRAN PROBLEMA de los MMO COREANOS... 🤔",
         "thumbnail": "https://i3.ytimg.com/vi/bD0HT90Puog/hqdefault.jpg",
@@ -529,48 +571,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/69elE-NnhSE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=69elE-NnhSE",
         "publishedAt": "2026-10-02"
-      },
-      {
-        "id": "vid-Err6zikAxR4",
-        "title": "HE VUELTO a ALBION… ¿QUÉ ME HE PERDIDO? 🤯 Café y Mazmorras #78",
-        "thumbnail": "https://i2.ytimg.com/vi/Err6zikAxR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Err6zikAxR4",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-br2Y5LMyBV4",
-        "title": "LOS DRAGONES SIEMPRE DAN PLATA 🤑🔥 Albion Online",
-        "thumbnail": "https://i3.ytimg.com/vi/br2Y5LMyBV4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=br2Y5LMyBV4",
-        "publishedAt": "2026-09-26"
-      },
-      {
-        "id": "vid-So46Ok_tJdg",
-        "title": "ESTOS GANKERS SE FUERON HUMILLADOS 😤🔥 Albion Online",
-        "thumbnail": "https://i4.ytimg.com/vi/So46Ok_tJdg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=So46Ok_tJdg",
-        "publishedAt": "2026-09-25"
-      },
-      {
-        "id": "vid-o650VMUQvso",
-        "title": "HE PERDIDO TODA MI SUERTE..😢🔥 Albion Online",
-        "thumbnail": "https://i4.ytimg.com/vi/o650VMUQvso/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o650VMUQvso",
-        "publishedAt": "2026-09-23"
-      },
-      {
-        "id": "vid-iSJrOU1s-1I",
-        "title": "ASI SE PIERDEN 10 MILLONES 💀 RÁPIDO Y FÁCIL.. 🔥 Albion Online",
-        "thumbnail": "https://i2.ytimg.com/vi/iSJrOU1s-1I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iSJrOU1s-1I",
-        "publishedAt": "2026-09-19"
-      },
-      {
-        "id": "vid-dub9LiB_Fjk",
-        "title": "LA ETERNA CONFIABLE  ¡ESPADAS DOBLES! ⚔️🔥 Albion Online",
-        "thumbnail": "https://i1.ytimg.com/vi/dub9LiB_Fjk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dub9LiB_Fjk",
-        "publishedAt": "2026-09-18"
       }
     ]
   }

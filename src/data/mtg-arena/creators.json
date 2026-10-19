@@ -26,6 +26,48 @@
     },
     "latestVideos": [
       {
+        "id": "vid-aypEpQnJiZ8",
+        "title": "They tried to sabotage me ...",
+        "thumbnail": "https://i2.ytimg.com/vi/aypEpQnJiZ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aypEpQnJiZ8",
+        "publishedAt": "2026-10-17"
+      },
+      {
+        "id": "vid-fPVH9Or4xho",
+        "title": "My deck has a secret commander ...",
+        "thumbnail": "https://i3.ytimg.com/vi/fPVH9Or4xho/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fPVH9Or4xho",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-LT-85p1mxac",
+        "title": "Goyf is back in Standard!",
+        "thumbnail": "https://i1.ytimg.com/vi/LT-85p1mxac/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LT-85p1mxac",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-dYW5O-ll-7M",
+        "title": "Solving the biggest Enigma in Magic.",
+        "thumbnail": "https://i1.ytimg.com/vi/dYW5O-ll-7M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dYW5O-ll-7M",
+        "publishedAt": "2026-10-14"
+      },
+      {
+        "id": "vid-8OZsSGQ_TpQ",
+        "title": "I might've gone a little too deep ...",
+        "thumbnail": "https://i1.ytimg.com/vi/8OZsSGQ_TpQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8OZsSGQ_TpQ",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-I3hPJQyUBV4",
+        "title": "This game almost broke me ...",
+        "thumbnail": "https://i2.ytimg.com/vi/I3hPJQyUBV4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I3hPJQyUBV4",
+        "publishedAt": "2026-10-12"
+      },
+      {
         "id": "vid-wdHAGKuvIpg",
         "title": "Flickering dinosaurs until my opponent goes extinct.",
         "thumbnail": "https://i4.ytimg.com/vi/wdHAGKuvIpg/hqdefault.jpg",
@@ -52,48 +94,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/AljeoQkXR5Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AljeoQkXR5Q",
         "publishedAt": "2026-10-06"
-      },
-      {
-        "id": "vid-uWM-bAuJVaU",
-        "title": "I made 20+ Dragons in one turn.",
-        "thumbnail": "https://i2.ytimg.com/vi/uWM-bAuJVaU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uWM-bAuJVaU",
-        "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-a2dMvbEqDwY",
-        "title": "These games were incredible!",
-        "thumbnail": "https://i2.ytimg.com/vi/a2dMvbEqDwY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a2dMvbEqDwY",
-        "publishedAt": "2026-10-03"
-      },
-      {
-        "id": "vid-GCFNWRMRCn8",
-        "title": "This new Lizard is broken.",
-        "thumbnail": "https://i4.ytimg.com/vi/GCFNWRMRCn8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GCFNWRMRCn8",
-        "publishedAt": "2026-10-02"
-      },
-      {
-        "id": "vid-ezOhWpWuol0",
-        "title": "Black Lotus is a token now.",
-        "thumbnail": "https://i2.ytimg.com/vi/ezOhWpWuol0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ezOhWpWuol0",
-        "publishedAt": "2026-10-01"
-      },
-      {
-        "id": "vid-2vfZCj7n6QE",
-        "title": "There's a new Snapcaster in Standard.",
-        "thumbnail": "https://i3.ytimg.com/vi/2vfZCj7n6QE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2vfZCj7n6QE",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-I5hMw98FTIU",
-        "title": "Standard is Doomed.",
-        "thumbnail": "https://i2.ytimg.com/vi/I5hMw98FTIU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I5hMw98FTIU",
-        "publishedAt": "2026-09-29"
       }
     ]
   },
@@ -123,6 +123,20 @@
       "twitch": "tkmagicblog"
     },
     "latestVideos": [
+      {
+        "id": "vid-HTtCmEapy8M",
+        "title": "Pequeñas GRANDES criaturas. Boros Tokens",
+        "thumbnail": "https://i1.ytimg.com/vi/HTtCmEapy8M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HTtCmEapy8M",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-uDpF7Z7W_vE",
+        "title": "Un mazo MÍTICO. Dimir Midrange",
+        "thumbnail": "https://i2.ytimg.com/vi/uDpF7Z7W_vE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uDpF7Z7W_vE",
+        "publishedAt": "2026-10-15"
+      },
       {
         "id": "vid-JETl_89rY6Y",
         "title": "Esto es PODER!! Jeskai Ramp",
@@ -178,20 +192,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/MuVIMA-zoZc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MuVIMA-zoZc",
         "publishedAt": "2026-10-01"
-      },
-      {
-        "id": "vid--wosgRNywzY",
-        "title": "El gran opening!!",
-        "thumbnail": "https://i2.ytimg.com/vi/-wosgRNywzY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-wosgRNywzY",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-OmFVxM9VnYY",
-        "title": "5 NUEVOS MAZOS para estrenar el NUEVO STANDARD",
-        "thumbnail": "https://i4.ytimg.com/vi/OmFVxM9VnYY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OmFVxM9VnYY",
-        "publishedAt": "2026-09-29"
       }
     ]
   },
@@ -222,8 +222,43 @@
     },
     "latestVideos": [
       {
+        "id": "vid-L74HtWVhtyo",
+        "title": "How To Start Playing Commander | Magic: The Gathering Foundations Decks",
+        "thumbnail": "https://i1.ytimg.com/vi/L74HtWVhtyo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L74HtWVhtyo",
+        "publishedAt": "2026-10-17"
+      },
+      {
+        "id": "vid-G0yHxJw9x8s",
+        "title": "How To Play Cyberpunk TCG | Learn To Play In Less Than 15 minutes!",
+        "thumbnail": "https://i4.ytimg.com/vi/G0yHxJw9x8s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G0yHxJw9x8s",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-YMZ2K8QOl6M",
+        "title": "When A PLayer Is Unfairly Targeted In A Game Of Commander | Magic: The Gathering",
+        "thumbnail": "https://i2.ytimg.com/vi/YMZ2K8QOl6M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YMZ2K8QOl6M",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-BVKKfswRmxY",
+        "title": "Is Power Creep A Problem In Commander? | Magic: The Gathering",
+        "thumbnail": "https://i3.ytimg.com/vi/BVKKfswRmxY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BVKKfswRmxY",
+        "publishedAt": "2026-10-14"
+      },
+      {
+        "id": "vid-tQsDgkrCtPA",
+        "title": "Booster Packs Will Have Fewer Cards In Them But The Same High Prices | Magic: The Gathering",
+        "thumbnail": "https://i1.ytimg.com/vi/tQsDgkrCtPA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tQsDgkrCtPA",
+        "publishedAt": "2026-10-12"
+      },
+      {
         "id": "vid-qhX6qSIrsL4",
-        "title": "New Secret Lair Alert! Marvel Zombies! David Bowie's Labyrinth & More Cards For Magic: The Gathering",
+        "title": "An Absolute Win For Magic The Gathering Players! | Secret Lair Zeta Set Returnd As Print To Demand!",
         "thumbnail": "https://i2.ytimg.com/vi/qhX6qSIrsL4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qhX6qSIrsL4",
         "publishedAt": "2026-10-09"
@@ -255,41 +290,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/cKnm3eGwD6M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cKnm3eGwD6M",
         "publishedAt": "2026-10-02"
-      },
-      {
-        "id": "vid-A_Qy3S1_vSg",
-        "title": "Let's Play The $560.00 Collector Booster Box Game! | Reality Fracture | Magic: The Gathering",
-        "thumbnail": "https://i2.ytimg.com/vi/A_Qy3S1_vSg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=A_Qy3S1_vSg",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-XOnshgCaCcw",
-        "title": "Is This One Of The Best New Cards For Magic: The Gathering?",
-        "thumbnail": "https://i1.ytimg.com/vi/XOnshgCaCcw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XOnshgCaCcw",
-        "publishedAt": "2026-09-29"
-      },
-      {
-        "id": "vid-51cl_195oTE",
-        "title": "Top 8 Best New Magic: The Gathering Cards From Reality Fracture",
-        "thumbnail": "https://i2.ytimg.com/vi/51cl_195oTE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=51cl_195oTE",
-        "publishedAt": "2026-09-28"
-      },
-      {
-        "id": "vid-rY3XQak9uuQ",
-        "title": "Is it Worth It To Buy A Reality Fracture Commander Deck? | A Magic: The Gathering Product Review",
-        "thumbnail": "https://i3.ytimg.com/vi/rY3XQak9uuQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rY3XQak9uuQ",
-        "publishedAt": "2026-09-25"
-      },
-      {
-        "id": "vid-Ig0p8zzwul0",
-        "title": "The Destruction Of Josh Lee Kwai...",
-        "thumbnail": "https://i2.ytimg.com/vi/Ig0p8zzwul0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ig0p8zzwul0",
-        "publishedAt": "2026-09-24"
       }
     ]
   },
@@ -319,6 +319,20 @@
       "twitter": "https://twitter.com/crokeyz"
     },
     "latestVideos": [
+      {
+        "id": "vid-dLDOoNKR9AI",
+        "title": "UNLEASHING ONSLAUGHT Feels Freakin' Good!",
+        "thumbnail": "https://i1.ytimg.com/vi/dLDOoNKR9AI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dLDOoNKR9AI",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-5izrl-aoNgU",
+        "title": "Izzet Superfriends is INSANELY OP?",
+        "thumbnail": "https://i2.ytimg.com/vi/5izrl-aoNgU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5izrl-aoNgU",
+        "publishedAt": "2026-10-12"
+      },
       {
         "id": "vid-7zL2x4SPz_s",
         "title": "Making Gruul Cool Again?!",
@@ -374,20 +388,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/GeXQo5mZq8c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GeXQo5mZq8c",
         "publishedAt": "2026-10-04"
-      },
-      {
-        "id": "vid-GcEPnwGZ5gU",
-        "title": "Reality Fracture Superfriends Actually Works!",
-        "thumbnail": "https://i4.ytimg.com/vi/GcEPnwGZ5gU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GcEPnwGZ5gU",
-        "publishedAt": "2026-10-03"
-      },
-      {
-        "id": "vid-clk-gkdPDWY",
-        "title": "Lurker Really JUICES UP Planeswalkers!",
-        "thumbnail": "https://i4.ytimg.com/vi/clk-gkdPDWY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=clk-gkdPDWY",
-        "publishedAt": "2026-10-02"
       }
     ]
   },
@@ -420,6 +420,48 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-vfaK6qDTVTA",
+        "title": "Who needs sleep when you have MTG Arena?",
+        "thumbnail": "https://i3.ytimg.com/vi/vfaK6qDTVTA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vfaK6qDTVTA",
+        "publishedAt": "2026-10-17"
+      },
+      {
+        "id": "vid-zEu78NzcbUA",
+        "title": "I played Arena before it was Arena",
+        "thumbnail": "https://i3.ytimg.com/vi/zEu78NzcbUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zEu78NzcbUA",
+        "publishedAt": "2026-10-16"
+      },
+      {
+        "id": "vid-R2X4HANQaxs",
+        "title": "I have high hopes for this deck...",
+        "thumbnail": "https://i3.ytimg.com/vi/R2X4HANQaxs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R2X4HANQaxs",
+        "publishedAt": "2026-10-15"
+      },
+      {
+        "id": "vid-FSImUjGM054",
+        "title": "CGB's Reanimator | the Best of One Menace",
+        "thumbnail": "https://i3.ytimg.com/vi/FSImUjGM054/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FSImUjGM054",
+        "publishedAt": "2026-10-14"
+      },
+      {
+        "id": "vid-Q3IC0kb8FIY",
+        "title": "My first ever MTG Arena video... | Remastered",
+        "thumbnail": "https://i2.ytimg.com/vi/Q3IC0kb8FIY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q3IC0kb8FIY",
+        "publishedAt": "2026-10-13"
+      },
+      {
+        "id": "vid-6ZgzP_qGaTA",
+        "title": "Climbing the ladder with Azorius Control",
+        "thumbnail": "https://i3.ytimg.com/vi/6ZgzP_qGaTA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6ZgzP_qGaTA",
+        "publishedAt": "2026-10-12"
+      },
+      {
         "id": "vid-sS7sHDC5qYI",
         "title": "Azorius Control 5-0's a League",
         "thumbnail": "https://i4.ytimg.com/vi/sS7sHDC5qYI/hqdefault.jpg",
@@ -446,48 +488,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/st6qggb7exs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=st6qggb7exs",
         "publishedAt": "2026-10-06"
-      },
-      {
-        "id": "vid-5_FmsPbpFBo",
-        "title": "The Dark Side of the Mill",
-        "thumbnail": "https://i2.ytimg.com/vi/5_FmsPbpFBo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5_FmsPbpFBo",
-        "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-2hq59xnogEo",
-        "title": "I played this deck to celebrate Streak #1000 | Remastered",
-        "thumbnail": "https://i3.ytimg.com/vi/2hq59xnogEo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2hq59xnogEo",
-        "publishedAt": "2026-10-04"
-      },
-      {
-        "id": "vid-IE0UYFmaKoM",
-        "title": "The Darker Dark Side",
-        "thumbnail": "https://i2.ytimg.com/vi/IE0UYFmaKoM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IE0UYFmaKoM",
-        "publishedAt": "2026-10-02"
-      },
-      {
-        "id": "vid-YNQIzTHGaDQ",
-        "title": "The most busted card of 2026",
-        "thumbnail": "https://i2.ytimg.com/vi/YNQIzTHGaDQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YNQIzTHGaDQ",
-        "publishedAt": "2026-10-01"
-      },
-      {
-        "id": "vid-Agn6tJcmkX4",
-        "title": "Jace is not empowered at all | Standard Reality Fracture [MTG Arena]",
-        "thumbnail": "https://i2.ytimg.com/vi/Agn6tJcmkX4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Agn6tJcmkX4",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-BihCgOOywuY",
-        "title": "3-Feri - now better than yesterday",
-        "thumbnail": "https://i3.ytimg.com/vi/BihCgOOywuY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BihCgOOywuY",
-        "publishedAt": "2026-09-29"
       }
     ]
   }
