@@ -23,6 +23,34 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-yOfTHdJMadc",
+        "title": "Diablo Immortal – Nobody Expected Monk to Be BACK! | Grasshopper Build",
+        "thumbnail": "https://i2.ytimg.com/vi/yOfTHdJMadc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yOfTHdJMadc",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-yRNhUq04-gQ",
+        "title": "Diablo Immortal – Warlock Got Nerfed | But Is It Really DEAD?",
+        "thumbnail": "https://i2.ytimg.com/vi/yRNhUq04-gQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yRNhUq04-gQ",
+        "publishedAt": "2026-10-23"
+      },
+      {
+        "id": "vid-rWq9bQPnjxE",
+        "title": "Diablo Immortal - TotalChaos | EzPk | DarkMoon Alliance OCT. 2026 Giveaway 🦆",
+        "thumbnail": "https://i3.ytimg.com/vi/rWq9bQPnjxE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rWq9bQPnjxE",
+        "publishedAt": "2026-10-23"
+      },
+      {
+        "id": "vid-Xn0R2nIfKvI",
+        "title": "Diablo Immortal – Warlock Inferno XV Essences | Hidden BUG at the End!",
+        "thumbnail": "https://i1.ytimg.com/vi/Xn0R2nIfKvI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xn0R2nIfKvI",
+        "publishedAt": "2026-10-21"
+      },
+      {
         "id": "vid-cYr4bMo2OzY",
         "title": "Diablo Immortal – This Gem Planner Gave Me FREE Resonance!",
         "thumbnail": "https://i4.ytimg.com/vi/cYr4bMo2OzY/hqdefault.jpg",
@@ -63,34 +91,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/6tiOOTVoDh0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6tiOOTVoDh0",
         "publishedAt": "2026-09-17"
-      },
-      {
-        "id": "vid-oRmvr9rczC8",
-        "title": "Diablo Immortal – Warlock PVE Builds",
-        "thumbnail": "https://i4.ytimg.com/vi/oRmvr9rczC8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oRmvr9rczC8",
-        "publishedAt": "2026-09-15"
-      },
-      {
-        "id": "vid-g-aQwoRIekQ",
-        "title": "Diablo Immortal – The ONE Warlock Build You Need for PVE & PVP",
-        "thumbnail": "https://i4.ytimg.com/vi/g-aQwoRIekQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g-aQwoRIekQ",
-        "publishedAt": "2026-09-07"
-      },
-      {
-        "id": "vid-AEJ_boT6V1Q",
-        "title": "Diablo Immortal – Warlock PVP Build | Pyrestorm",
-        "thumbnail": "https://i2.ytimg.com/vi/AEJ_boT6V1Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AEJ_boT6V1Q",
-        "publishedAt": "2026-09-03"
-      },
-      {
-        "id": "vid-BlgfTF7uw9o",
-        "title": "Diablo Immortal – Warlock PVP Build | Best Of Both Worlds",
-        "thumbnail": "https://i3.ytimg.com/vi/BlgfTF7uw9o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BlgfTF7uw9o",
-        "publishedAt": "2026-09-01"
       }
     ]
   },
@@ -309,6 +309,41 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-XzZlc5_fh38",
+        "title": "🔴 FINAL VOTE! What Class Will I Play Next?",
+        "thumbnail": "https://i1.ytimg.com/vi/XzZlc5_fh38/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XzZlc5_fh38",
+        "publishedAt": "2026-10-26"
+      },
+      {
+        "id": "vid-4z_M4vXiNMw",
+        "title": "🔴 ENDLESS HELLBANE EVENT LETS GO!!",
+        "thumbnail": "https://i1.ytimg.com/vi/4z_M4vXiNMw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4z_M4vXiNMw",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-p8nizjV12Rk",
+        "title": "🔴 Wizard PvP PUSH TO LEGEND + Member Choice Class Vote!",
+        "thumbnail": "https://i1.ytimg.com/vi/p8nizjV12Rk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p8nizjV12Rk",
+        "publishedAt": "2026-10-24"
+      },
+      {
+        "id": "vid-aTbnh5XYwqk",
+        "title": "Wizard SCORCH PvP - Better Than META? | Diablo Immortal",
+        "thumbnail": "https://i2.ytimg.com/vi/aTbnh5XYwqk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aTbnh5XYwqk",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-fpY5oMA4H6Q",
+        "title": "🔴 PATCH NOTES - RIP WARLOCK? + Last week of Wizard begins!!",
+        "thumbnail": "https://i3.ytimg.com/vi/fpY5oMA4H6Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fpY5oMA4H6Q",
+        "publishedAt": "2026-10-19"
+      },
+      {
         "id": "vid-ZeLDaJUaV4U",
         "title": "🔴 Wizard PvP Road to Legend | Global HELLSPAWN EVENT 10/24",
         "thumbnail": "https://i3.ytimg.com/vi/ZeLDaJUaV4U/hqdefault.jpg",
@@ -342,41 +377,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/nOBnsZE8xPE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nOBnsZE8xPE",
         "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-soXt00t7MGo",
-        "title": "My GO-TO Wizard Dungeon Build! HUGE Damage!",
-        "thumbnail": "https://i4.ytimg.com/vi/soXt00t7MGo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=soXt00t7MGo",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-pQ5loL5iBHo",
-        "title": "This Wizard PvE Farming Build Does It ALL! | Diablo Immortal",
-        "thumbnail": "https://i1.ytimg.com/vi/pQ5loL5iBHo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pQ5loL5iBHo",
-        "publishedAt": "2026-10-13"
-      },
-      {
-        "id": "vid-pGnY5jD36Fw",
-        "title": "🔴 My FIRST Time Trying Wizard BEAM PvP! + Dungeons!",
-        "thumbnail": "https://i1.ytimg.com/vi/pGnY5jD36Fw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pGnY5jD36Fw",
-        "publishedAt": "2026-10-12"
-      },
-      {
-        "id": "vid-cDBlUB-WRTc",
-        "title": "🔴Wizard - Winds of Fortune! ENDLESS HELLBANE EVENT SOON!!",
-        "thumbnail": "https://i4.ytimg.com/vi/cDBlUB-WRTc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cDBlUB-WRTc",
-        "publishedAt": "2026-10-11"
-      },
-      {
-        "id": "vid-LYU9R6W99gU",
-        "title": "🔴 Wizard PvP + PvE! BANE COMMUNITY EVENT SOON!!",
-        "thumbnail": "https://i1.ytimg.com/vi/LYU9R6W99gU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LYU9R6W99gU",
-        "publishedAt": "2026-10-09"
       }
     ]
   }

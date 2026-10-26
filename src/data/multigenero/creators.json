@@ -119,6 +119,41 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-Tk4oZQaph70",
+        "title": "COMIENDO EN UNO DE LOS MEJORES RESTAURANTES DE REPÚBLICA DOMINICANA - TheGrefg",
+        "thumbnail": "https://i1.ytimg.com/vi/Tk4oZQaph70/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Tk4oZQaph70",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-5s_C9GYnIWk",
+        "title": "República Dominicana es increíble 🇩🇴",
+        "thumbnail": "https://i2.ytimg.com/vi/5s_C9GYnIWk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5s_C9GYnIWk",
+        "publishedAt": "2026-10-24"
+      },
+      {
+        "id": "vid-D0zw36CvDZU",
+        "title": "No veas este vídeo con cascos",
+        "thumbnail": "https://i1.ytimg.com/vi/D0zw36CvDZU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D0zw36CvDZU",
+        "publishedAt": "2026-10-23"
+      },
+      {
+        "id": "vid-_G6ItgGY1eE",
+        "title": "MI PRIMERA VEZ EN REPÚBLICA DOMINICANA 🇩🇴",
+        "thumbnail": "https://i4.ytimg.com/vi/_G6ItgGY1eE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_G6ItgGY1eE",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-kVuFAUrT_mk",
+        "title": "Uno de mis mejores consejos…",
+        "thumbnail": "https://i4.ytimg.com/vi/kVuFAUrT_mk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kVuFAUrT_mk",
+        "publishedAt": "2026-10-21"
+      },
+      {
         "id": "vid-iNINaPyEOOk",
         "title": "Probando mi Tesla Roadster",
         "thumbnail": "https://i2.ytimg.com/vi/iNINaPyEOOk/hqdefault.jpg",
@@ -152,41 +187,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/NelZ43182hE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NelZ43182hE",
         "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-yvohl5nL0Og",
-        "title": "Así me adelantó Max Verstappen",
-        "thumbnail": "https://i2.ytimg.com/vi/yvohl5nL0Og/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yvohl5nL0Og",
-        "publishedAt": "2026-10-13"
-      },
-      {
-        "id": "vid-Y35NjHXY5Hc",
-        "title": "La subida imposible 💀",
-        "thumbnail": "https://i2.ytimg.com/vi/Y35NjHXY5Hc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Y35NjHXY5Hc",
-        "publishedAt": "2026-10-12"
-      },
-      {
-        "id": "vid-edR3vQiJFEA",
-        "title": "ME ENFRENTO A LA SUBIDA IMPOSIBLE DE ANDORRA CON MI NUEVA BICI - TheGrefg",
-        "thumbnail": "https://i2.ytimg.com/vi/edR3vQiJFEA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=edR3vQiJFEA",
-        "publishedAt": "2026-10-11"
-      },
-      {
-        "id": "vid-xR1a2DVqeec",
-        "title": "GREFG VS MAX VERSTAPPEN",
-        "thumbnail": "https://i1.ytimg.com/vi/xR1a2DVqeec/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xR1a2DVqeec",
-        "publishedAt": "2026-10-08"
-      },
-      {
-        "id": "vid-8pyhGv9VeC4",
-        "title": "Me hice una prueba de esfuerzo",
-        "thumbnail": "https://i1.ytimg.com/vi/8pyhGv9VeC4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8pyhGv9VeC4",
-        "publishedAt": "2026-10-06"
       }
     ]
   },
@@ -214,8 +214,29 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-WYUPToJhE_E",
+        "title": "Me gustaría desmentir esta información.",
+        "thumbnail": "https://i4.ytimg.com/vi/WYUPToJhE_E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WYUPToJhE_E",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-SeqTRCW4lx8",
+        "title": "Por este motivo La Velada será en Netflix.",
+        "thumbnail": "https://i4.ytimg.com/vi/SeqTRCW4lx8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SeqTRCW4lx8",
+        "publishedAt": "2026-10-20"
+      },
+      {
+        "id": "vid-ETgUA0jZiig",
+        "title": "La Velada del Año x Netflix. Historia.",
+        "thumbnail": "https://i2.ytimg.com/vi/ETgUA0jZiig/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ETgUA0jZiig",
+        "publishedAt": "2026-10-19"
+      },
+      {
         "id": "vid-B82WFBXU7gs",
-        "title": "Intercambié Mi Vida Con Un Seguidor",
+        "title": "Intercambié Mi Vida con Un Seguidor",
         "thumbnail": "https://i3.ytimg.com/vi/B82WFBXU7gs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=B82WFBXU7gs",
         "publishedAt": "2026-10-18"
@@ -261,27 +282,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/tTUE0DAV9XI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=tTUE0DAV9XI",
         "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-lzoc6kjd7-g",
-        "title": "AMONG US HISTÓRICO CON LA SELECCIÓN ESPAÑOLA",
-        "thumbnail": "https://i1.ytimg.com/vi/lzoc6kjd7-g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lzoc6kjd7-g",
-        "publishedAt": "2026-10-04"
-      },
-      {
-        "id": "vid-Ax7i2bvcUt0",
-        "title": "¿Cuál es el nombre de pueblo más raro del mundo?",
-        "thumbnail": "https://i2.ytimg.com/vi/Ax7i2bvcUt0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ax7i2bvcUt0",
-        "publishedAt": "2026-10-01"
-      },
-      {
-        "id": "vid-D6cWdXgKlpM",
-        "title": "Esto es vergonzoso.",
-        "thumbnail": "https://i1.ytimg.com/vi/D6cWdXgKlpM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D6cWdXgKlpM",
-        "publishedAt": "2026-09-30"
       }
     ]
   },

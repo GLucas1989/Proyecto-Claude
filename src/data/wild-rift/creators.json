@@ -69,6 +69,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-PhC2CXdhK88",
+        "title": "17 Minutes of Support HERO Plays...",
+        "thumbnail": "https://i1.ytimg.com/vi/PhC2CXdhK88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PhC2CXdhK88",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-nocyb8K5nzE",
+        "title": "50 SATISFYING WOMBO COMBOS IN LEAGUE OF LEGENDS!",
+        "thumbnail": "https://i3.ytimg.com/vi/nocyb8K5nzE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nocyb8K5nzE",
+        "publishedAt": "2026-10-23"
+      },
+      {
+        "id": "vid-_rsQHWCqORg",
+        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #29",
+        "thumbnail": "https://i4.ytimg.com/vi/_rsQHWCqORg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_rsQHWCqORg",
+        "publishedAt": "2026-10-20"
+      },
+      {
         "id": "vid-oago3mgAlV0",
         "title": "ULTRA SATISFYING MOMENTS #52",
         "thumbnail": "https://i4.ytimg.com/vi/oago3mgAlV0/hqdefault.jpg",
@@ -116,27 +137,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/4naTlv1_GIk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4naTlv1_GIk",
         "publishedAt": "2026-10-02"
-      },
-      {
-        "id": "vid-vUc8ScrXtbI",
-        "title": "PERFECT PENTAKILL MOMENTS IN LEAGUE OF LEGENDS #38",
-        "thumbnail": "https://i3.ytimg.com/vi/vUc8ScrXtbI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vUc8ScrXtbI",
-        "publishedAt": "2026-09-30"
-      },
-      {
-        "id": "vid-P8xDds_AoUs",
-        "title": "SMARTEST MOMENTS IN LEAGUE OF LEGENDS #80",
-        "thumbnail": "https://i1.ytimg.com/vi/P8xDds_AoUs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P8xDds_AoUs",
-        "publishedAt": "2026-09-28"
-      },
-      {
-        "id": "vid-4TTTUEgpKIc",
-        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #26",
-        "thumbnail": "https://i1.ytimg.com/vi/4TTTUEgpKIc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4TTTUEgpKIc",
-        "publishedAt": "2026-09-26"
       }
     ]
   },
@@ -164,6 +164,62 @@
     },
     "latestVideos": [
       {
+        "id": "vid-OsbPW12eohY",
+        "title": "JUNGLE A-Z - ALMOST AT POSITIVE WINRATE (Portrait)",
+        "thumbnail": "https://i4.ytimg.com/vi/OsbPW12eohY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OsbPW12eohY",
+        "publishedAt": "2026-10-26"
+      },
+      {
+        "id": "vid-TKuGyDoEOmo",
+        "title": "JUNGLE A-Z - ALMOST AT POSITIVE WINRATE",
+        "thumbnail": "https://i1.ytimg.com/vi/TKuGyDoEOmo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TKuGyDoEOmo",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-yeEY-G30HOw",
+        "title": "JUNGLE A-Z - I AM THE CANYON OF WILD RIFT (Portrait)",
+        "thumbnail": "https://i2.ytimg.com/vi/yeEY-G30HOw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yeEY-G30HOw",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid--ESDEaaa7Xo",
+        "title": "JUNGLE A-Z - I AM THE CANYON OF WILD RIFT",
+        "thumbnail": "https://i2.ytimg.com/vi/-ESDEaaa7Xo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-ESDEaaa7Xo",
+        "publishedAt": "2026-10-24"
+      },
+      {
+        "id": "vid-SjZQBHAwv58",
+        "title": "JUNGLE A-Z - OP JUNGLERS TODAY!!",
+        "thumbnail": "https://i4.ytimg.com/vi/SjZQBHAwv58/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SjZQBHAwv58",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-JT3Ub2rPtMQ",
+        "title": "JUNGLE A-Z - OP JUNGLERS TODAY!! (Portrait)",
+        "thumbnail": "https://i3.ytimg.com/vi/JT3Ub2rPtMQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JT3Ub2rPtMQ",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-c0VOG6IcFFc",
+        "title": "JUNGLE A-Z - BLITZCRANK JUNGLE TIME  (Portrait)",
+        "thumbnail": "https://i4.ytimg.com/vi/c0VOG6IcFFc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c0VOG6IcFFc",
+        "publishedAt": "2026-10-21"
+      },
+      {
+        "id": "vid-1SruS2u1puM",
+        "title": "JUNGLE A-Z - BLITZCRANK JUNGLE TIME",
+        "thumbnail": "https://i2.ytimg.com/vi/1SruS2u1puM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1SruS2u1puM",
+        "publishedAt": "2026-10-21"
+      },
+      {
         "id": "vid-b3tkmxOc7qM",
         "title": "JUNGLE A-Z - DISCOVERING OP JUNGLERS (Portrait)",
         "thumbnail": "https://i3.ytimg.com/vi/b3tkmxOc7qM/hqdefault.jpg",
@@ -176,62 +232,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/vqRejqxRD8c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vqRejqxRD8c",
         "publishedAt": "2026-10-17"
-      },
-      {
-        "id": "vid-bV6iqIYFvDw",
-        "title": "JUNGLE A-Z - ALISTAR JUNGLE TIME!!",
-        "thumbnail": "https://i3.ytimg.com/vi/bV6iqIYFvDw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bV6iqIYFvDw",
-        "publishedAt": "2026-10-16"
-      },
-      {
-        "id": "vid-wbyyklyoR_M",
-        "title": "JUNGLE A-Z - ALISTAR JUNGLE TIME!! (Portrait)",
-        "thumbnail": "https://i4.ytimg.com/vi/wbyyklyoR_M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wbyyklyoR_M",
-        "publishedAt": "2026-10-16"
-      },
-      {
-        "id": "vid-1xKzU5oCQbI",
-        "title": "JUNGLE A-Z WINNING WITH ALL CHAMPIONS IN THE JUNGLE",
-        "thumbnail": "https://i2.ytimg.com/vi/1xKzU5oCQbI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1xKzU5oCQbI",
-        "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-upeW1EVWtgg",
-        "title": "JUNGLE A-Z WINNING WITH ALL CHAMPIONS IN THE JUNGLE (Portrait)",
-        "thumbnail": "https://i2.ytimg.com/vi/upeW1EVWtgg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=upeW1EVWtgg",
-        "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-cEQAyeAZ19E",
-        "title": "Wild Rift: PATCH 7.3B - FINALLY YASUO BUFFS!!",
-        "thumbnail": "https://i4.ytimg.com/vi/cEQAyeAZ19E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cEQAyeAZ19E",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-AxAChXvdqp8",
-        "title": "(RANK 1 EU & NA) WINS ONLY TODAY (Portrait)",
-        "thumbnail": "https://i2.ytimg.com/vi/AxAChXvdqp8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AxAChXvdqp8",
-        "publishedAt": "2026-10-12"
-      },
-      {
-        "id": "vid-dzdeO49rKhg",
-        "title": "(RANK 1 EU & NA) WINS ONLY TODAY",
-        "thumbnail": "https://i1.ytimg.com/vi/dzdeO49rKhg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dzdeO49rKhg",
-        "publishedAt": "2026-10-12"
-      },
-      {
-        "id": "vid-ZYPTNHUBgzs",
-        "title": "(RANK 1 EU & NA) THE GOAT OF WILD RIFT IS LIVE (Portrait)",
-        "thumbnail": "https://i3.ytimg.com/vi/ZYPTNHUBgzs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZYPTNHUBgzs",
-        "publishedAt": "2026-10-10"
       }
     ]
   },
@@ -261,6 +261,27 @@
       "youtube": "https://www.youtube.com/@WildRiftLatam"
     },
     "latestVideos": [
+      {
+        "id": "vid-DeJuSRg6ZMY",
+        "title": "El mundo de los idols se mueve muy rápido. ¿Podrás tomar la captura perfecta de Nv. 5?💅",
+        "thumbnail": "https://i1.ytimg.com/vi/DeJuSRg6ZMY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DeJuSRg6ZMY",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-_bBz1JF9TU0",
+        "title": "Una para empezar el espectáculo, cuatro para robarse el corazón de público entero. Ellas son K/DA👑🔥",
+        "thumbnail": "https://i4.ytimg.com/vi/_bBz1JF9TU0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_bBz1JF9TU0",
+        "publishedAt": "2026-10-24"
+      },
+      {
+        "id": "vid-6qQELb-Wcs8",
+        "title": "Wild Rift x K/DA HEATBRINGER ft. MIYEON y SOYEON, de i-dle, Sophie Powers y Mimi Webb",
+        "thumbnail": "https://i3.ytimg.com/vi/6qQELb-Wcs8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6qQELb-Wcs8",
+        "publishedAt": "2026-10-19"
+      },
       {
         "id": "vid-OwGA9-3CPfw",
         "title": "Wild Rift x K/DA HEATBRINGER",
@@ -309,27 +330,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/qfTZF9RrfXk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qfTZF9RrfXk",
         "publishedAt": "2026-09-16"
-      },
-      {
-        "id": "vid-xfTxscqb8jA",
-        "title": "¡El camino a un sistema de clasificatorias mejorado continúa!",
-        "thumbnail": "https://i1.ytimg.com/vi/xfTxscqb8jA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xfTxscqb8jA",
-        "publishedAt": "2026-09-14"
-      },
-      {
-        "id": "vid-G1R4VhuO-HI",
-        "title": "Es una buena versión para jugar como jungla 🌴",
-        "thumbnail": "https://i4.ytimg.com/vi/G1R4VhuO-HI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G1R4VhuO-HI",
-        "publishedAt": "2026-09-14"
-      },
-      {
-        "id": "vid-NmhA2eWPXBw",
-        "title": "Los cambios de marcha son parte de todo motor que funciona bien.",
-        "thumbnail": "https://i3.ytimg.com/vi/NmhA2eWPXBw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NmhA2eWPXBw",
-        "publishedAt": "2026-09-14"
       }
     ]
   },

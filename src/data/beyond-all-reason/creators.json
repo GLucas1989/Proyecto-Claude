@@ -25,6 +25,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-UpenIb5NVBM",
+        "title": "BCCL Season 2 Round 3! BM VS APM!",
+        "thumbnail": "https://i2.ytimg.com/vi/UpenIb5NVBM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UpenIb5NVBM",
+        "publishedAt": "2026-10-26"
+      },
+      {
         "id": "vid-TJnMy23J_w0",
         "title": "XFactorLive bombing run on Autopilot --- #beyondallreasonofficial on #Twitch",
         "thumbnail": "https://i1.ytimg.com/vi/TJnMy23J_w0/hqdefault.jpg",
@@ -86,13 +93,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/fq7ogvGN1V0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fq7ogvGN1V0",
         "publishedAt": "2026-09-04"
-      },
-      {
-        "id": "vid-aAkqcjV4lNI",
-        "title": "West Basinger - Alien Scouts (RAPTORS OST - CONFLICT)",
-        "thumbnail": "https://i2.ytimg.com/vi/aAkqcjV4lNI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aAkqcjV4lNI",
-        "publishedAt": "2026-09-02"
       }
     ]
   },
@@ -121,6 +121,55 @@
     },
     "latestVideos": [
       {
+        "id": "vid-gZ541qoo9Sk",
+        "title": "Pro MEATSHIELD | Beyond All Reason | Supreme Isthmus",
+        "thumbnail": "https://i4.ytimg.com/vi/gZ541qoo9Sk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gZ541qoo9Sk",
+        "publishedAt": "2026-10-26"
+      },
+      {
+        "id": "vid-BMLSG6mBctU",
+        "title": "KING of the HILL - Beyond All Reason",
+        "thumbnail": "https://i3.ytimg.com/vi/BMLSG6mBctU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BMLSG6mBctU",
+        "publishedAt": "2026-10-26"
+      },
+      {
+        "id": "vid-oZ5IrEnMrZ4",
+        "title": "Putting on a show | KING of the HILL | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i4.ytimg.com/vi/oZ5IrEnMrZ4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oZ5IrEnMrZ4",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-lQD6D0Dnoqg",
+        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
+        "thumbnail": "https://i1.ytimg.com/vi/lQD6D0Dnoqg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lQD6D0Dnoqg",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-Q0Bb6t4PT3M",
+        "title": "Getting Sticky 8v8 | Beyond All Reason | Baryon Tar Lake",
+        "thumbnail": "https://i2.ytimg.com/vi/Q0Bb6t4PT3M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q0Bb6t4PT3M",
+        "publishedAt": "2026-10-21"
+      },
+      {
+        "id": "vid-TZqZGfCYZN8",
+        "title": "Beyond All Reason - KING of the HILL- AllReasonNoLogic",
+        "thumbnail": "https://i1.ytimg.com/vi/TZqZGfCYZN8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TZqZGfCYZN8",
+        "publishedAt": "2026-10-21"
+      },
+      {
+        "id": "vid-V1k1vVIE2CY",
+        "title": "EVIL plays | Beyond All Reason | Tabula Remake",
+        "thumbnail": "https://i3.ytimg.com/vi/V1k1vVIE2CY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V1k1vVIE2CY",
+        "publishedAt": "2026-10-19"
+      },
+      {
         "id": "vid-CtfuMgno3Mw",
         "title": "Beyond All Reason - KING of the HILL- AllReasonNoLogic",
         "thumbnail": "https://i4.ytimg.com/vi/CtfuMgno3Mw/hqdefault.jpg",
@@ -140,55 +189,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/4lVpNUgPAns/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4lVpNUgPAns",
         "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-IRU7ylYzKHg",
-        "title": "8v8 RTS GAMING Aggressively | Beyond All Reason | Hyperion Shale",
-        "thumbnail": "https://i2.ytimg.com/vi/IRU7ylYzKHg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IRU7ylYzKHg",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-bxUF28VBOb0",
-        "title": "The DIRTIEST Glitters Open | Beyond All Reason",
-        "thumbnail": "https://i3.ytimg.com/vi/bxUF28VBOb0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bxUF28VBOb0",
-        "publishedAt": "2026-10-12"
-      },
-      {
-        "id": "vid-cwCFRnBglVA",
-        "title": "KING of the HILL - Beyond All Reason",
-        "thumbnail": "https://i4.ytimg.com/vi/cwCFRnBglVA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cwCFRnBglVA",
-        "publishedAt": "2026-10-12"
-      },
-      {
-        "id": "vid-Jqh4PAQ-154",
-        "title": "When The Kings Get Out Of Control | King Of The Hill | Beyond All Reason",
-        "thumbnail": "https://i3.ytimg.com/vi/Jqh4PAQ-154/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Jqh4PAQ-154",
-        "publishedAt": "2026-10-11"
-      },
-      {
-        "id": "vid-MmuNKWsg6RI",
-        "title": "Wednesday Community Night | Beyond All Reason | AllReasonNoLogic",
-        "thumbnail": "https://i2.ytimg.com/vi/MmuNKWsg6RI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MmuNKWsg6RI",
-        "publishedAt": "2026-10-08"
-      },
-      {
-        "id": "vid-o6hBKpwfh10",
-        "title": "OP Take a 43 OS? | Beyond All Reason | Rosetta",
-        "thumbnail": "https://i4.ytimg.com/vi/o6hBKpwfh10/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o6hBKpwfh10",
-        "publishedAt": "2026-10-07"
-      },
-      {
-        "id": "vid-akwa5Ec_LcQ",
-        "title": "WHISTLERS still DOMINATE | Beyond All Reason | Bismuth Valley",
-        "thumbnail": "https://i2.ytimg.com/vi/akwa5Ec_LcQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=akwa5Ec_LcQ",
-        "publishedAt": "2026-10-05"
       }
     ]
   },

@@ -24,6 +24,20 @@
     },
     "latestVideos": [
       {
+        "id": "vid-leacxkPsDyM",
+        "title": "Diablo 4 Season 15 Still Has Secrets to Uncover",
+        "thumbnail": "https://i1.ytimg.com/vi/leacxkPsDyM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=leacxkPsDyM",
+        "publishedAt": "2026-10-24"
+      },
+      {
+        "id": "vid-P9bvEkCOGQw",
+        "title": "Diablo 4 Season 16 Revealed... And It's...",
+        "thumbnail": "https://i1.ytimg.com/vi/P9bvEkCOGQw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=P9bvEkCOGQw",
+        "publishedAt": "2026-10-22"
+      },
+      {
         "id": "vid-5sMWW5waVJU",
         "title": "No Rest for the Wicked Class System Looks INSANE",
         "thumbnail": "https://i2.ytimg.com/vi/5sMWW5waVJU/hqdefault.jpg",
@@ -78,20 +92,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/1REIEX6GtGc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1REIEX6GtGc",
         "publishedAt": "2026-09-19"
-      },
-      {
-        "id": "vid-3t018Eb8mc8",
-        "title": "Diablo 4 Season 15 Ultimate Guide",
-        "thumbnail": "https://i4.ytimg.com/vi/3t018Eb8mc8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3t018Eb8mc8",
-        "publishedAt": "2026-09-18"
-      },
-      {
-        "id": "vid-N4wnTvZbOzw",
-        "title": "Diablo 4 Season 15 Best Class Tier List (Guide)",
-        "thumbnail": "https://i3.ytimg.com/vi/N4wnTvZbOzw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N4wnTvZbOzw",
-        "publishedAt": "2026-09-15"
       }
     ]
   },
@@ -121,6 +121,62 @@
     },
     "latestVideos": [
       {
+        "id": "vid--6ARWP8sxoI",
+        "title": "Project Diablo 2 Season Launch",
+        "thumbnail": "https://i2.ytimg.com/vi/-6ARWP8sxoI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-6ARWP8sxoI",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-OSXjEitGDU8",
+        "title": "Project Diablo 2 Season Launch",
+        "thumbnail": "https://i4.ytimg.com/vi/OSXjEitGDU8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OSXjEitGDU8",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-9UMLJYJ8VP8",
+        "title": "Project Diablo 2 Season Launch",
+        "thumbnail": "https://i2.ytimg.com/vi/9UMLJYJ8VP8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9UMLJYJ8VP8",
+        "publishedAt": "2026-10-23"
+      },
+      {
+        "id": "vid-SEplAWHdpvI",
+        "title": "Path of Exile 2 Working on Guides",
+        "thumbnail": "https://i4.ytimg.com/vi/SEplAWHdpvI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SEplAWHdpvI",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-eW7UQi6X0bs",
+        "title": "Torchlight Infinite's New Season Mechanic Is Like Playing a Board Game",
+        "thumbnail": "https://i2.ytimg.com/vi/eW7UQi6X0bs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eW7UQi6X0bs",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-9j3qmziHBFk",
+        "title": "WoW Forever Leveling Practice",
+        "thumbnail": "https://i2.ytimg.com/vi/9j3qmziHBFk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9j3qmziHBFk",
+        "publishedAt": "2026-10-21"
+      },
+      {
+        "id": "vid-doXeS7CVZpY",
+        "title": "Torchlight Infinite Tartarus Season Launch",
+        "thumbnail": "https://i1.ytimg.com/vi/doXeS7CVZpY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=doXeS7CVZpY",
+        "publishedAt": "2026-10-20"
+      },
+      {
+        "id": "vid-GnY3QaMdoyw",
+        "title": "Torchlight Infinite Tartarus Season Launch",
+        "thumbnail": "https://i4.ytimg.com/vi/GnY3QaMdoyw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GnY3QaMdoyw",
+        "publishedAt": "2026-10-19"
+      },
+      {
         "id": "vid-4FhHvDSnGjc",
         "title": "Torchlight Infinite Tartarus Season Launch",
         "thumbnail": "https://i1.ytimg.com/vi/4FhHvDSnGjc/hqdefault.jpg",
@@ -133,62 +189,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/is7LCen72zg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=is7LCen72zg",
         "publishedAt": "2026-10-18"
-      },
-      {
-        "id": "vid-rQ1Qw-FUJDs",
-        "title": "Torchlight Infinite Tartarus Season Launch",
-        "thumbnail": "https://i3.ytimg.com/vi/rQ1Qw-FUJDs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rQ1Qw-FUJDs",
-        "publishedAt": "2026-10-16"
-      },
-      {
-        "id": "vid-xFwyzuevayg",
-        "title": "Torchlight Infinite Tartarus Season Launch",
-        "thumbnail": "https://i1.ytimg.com/vi/xFwyzuevayg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xFwyzuevayg",
-        "publishedAt": "2026-10-16"
-      },
-      {
-        "id": "vid-cQ2MM-_pmDI",
-        "title": "Torchlight Infinite Tartarus Season Overview",
-        "thumbnail": "https://i4.ytimg.com/vi/cQ2MM-_pmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cQ2MM-_pmDI",
-        "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-8Z59txjxXFA",
-        "title": "AION 2 Final Stream - Trying Endgame",
-        "thumbnail": "https://i1.ytimg.com/vi/8Z59txjxXFA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8Z59txjxXFA",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-8Y8zI7Nh6lc",
-        "title": "AION 2 First Time Playthrough Day 4",
-        "thumbnail": "https://i1.ytimg.com/vi/8Y8zI7Nh6lc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8Y8zI7Nh6lc",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-xs2iZif98y0",
-        "title": "AION 2 First Time Playthrough Day 3",
-        "thumbnail": "https://i1.ytimg.com/vi/xs2iZif98y0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xs2iZif98y0",
-        "publishedAt": "2026-10-12"
-      },
-      {
-        "id": "vid-MT_6se7dpPc",
-        "title": "AION 2 First Time Playthrough Day 2",
-        "thumbnail": "https://i2.ytimg.com/vi/MT_6se7dpPc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MT_6se7dpPc",
-        "publishedAt": "2026-10-11"
-      },
-      {
-        "id": "vid-T_rn-VI4b1I",
-        "title": "AION 2 First Time Player",
-        "thumbnail": "https://i1.ytimg.com/vi/T_rn-VI4b1I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T_rn-VI4b1I",
-        "publishedAt": "2026-10-11"
       }
     ]
   },
@@ -315,74 +315,74 @@
     },
     "latestVideos": [
       {
-        "id": "vid-_sBsJSA9z9E",
-        "title": "50M+ Kina Per Week! Ultimate Farming Guide (How To Use Alts) // Aion 2 Beginner Guide",
-        "thumbnail": "https://i4.ytimg.com/vi/_sBsJSA9z9E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_sBsJSA9z9E",
-        "publishedAt": "2026-10-18"
+        "id": "vid-kxeufDVfyXE",
+        "title": "OPEN WORLD ARPG! Enshrouded 1.0 Is Incredible! // First Look",
+        "thumbnail": "https://i4.ytimg.com/vi/kxeufDVfyXE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kxeufDVfyXE",
+        "publishedAt": "2026-10-25"
       },
       {
-        "id": "vid-xL4uXrGhVQw",
+        "id": "vid-dLS1IzFaXKI",
+        "title": "Aion 2 Endgame Ranger (2600+) Prepping For the Raid! // Aion 2 Livestream",
+        "thumbnail": "https://i1.ytimg.com/vi/dLS1IzFaXKI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dLS1IzFaXKI",
+        "publishedAt": "2026-10-25"
+      },
+      {
+        "id": "vid-r71UMBaHsxY",
+        "title": "Aion 2 Endgame Ranger (2700+) Prepping For the Raid! // Aion 2 Livestream",
+        "thumbnail": "https://i3.ytimg.com/vi/r71UMBaHsxY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r71UMBaHsxY",
+        "publishedAt": "2026-10-24"
+      },
+      {
+        "id": "vid-zr7M0B0WU9U",
+        "title": "New Hard Mode Dungeons! 2600+ Ranger // Aion 2 Livestream",
+        "thumbnail": "https://i3.ytimg.com/vi/zr7M0B0WU9U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zr7M0B0WU9U",
+        "publishedAt": "2026-10-24"
+      },
+      {
+        "id": "vid-WdnLK0n93JM",
+        "title": "Double Your Damage! Ultimate Damage Guide! Must Have Stats, Damage Formula & More! // Aion 2 Guide",
+        "thumbnail": "https://i4.ytimg.com/vi/WdnLK0n93JM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WdnLK0n93JM",
+        "publishedAt": "2026-10-23"
+      },
+      {
+        "id": "vid-rPj9-gl3Qhg",
+        "title": "HUGE BORDERLANDS 4 PATCH!? Big Loveless Nerfs, Buffs & More! // Borderlands 4 News",
+        "thumbnail": "https://i3.ytimg.com/vi/rPj9-gl3Qhg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rPj9-gl3Qhg",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-PTKyDpKldG0",
+        "title": "Aion 2 Endgame Grind! Farming For Crafted Bows! // Livestream",
+        "thumbnail": "https://i1.ytimg.com/vi/PTKyDpKldG0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PTKyDpKldG0",
+        "publishedAt": "2026-10-22"
+      },
+      {
+        "id": "vid-V9gpNQxeIxs",
         "title": "Aion 2 Endgame Grind! Farming For Crafted Bow! // Livestream",
-        "thumbnail": "https://i1.ytimg.com/vi/xL4uXrGhVQw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xL4uXrGhVQw",
-        "publishedAt": "2026-10-18"
+        "thumbnail": "https://i3.ytimg.com/vi/V9gpNQxeIxs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V9gpNQxeIxs",
+        "publishedAt": "2026-10-21"
+      },
+      {
+        "id": "vid-qUa2-_jQIF0",
+        "title": "HUGE NEWS! New Dungeons & More! // Aion 2 Patch Notes Breakdown",
+        "thumbnail": "https://i2.ytimg.com/vi/qUa2-_jQIF0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qUa2-_jQIF0",
+        "publishedAt": "2026-10-21"
       },
       {
         "id": "vid-xOFay0-MGQ0",
         "title": "Aion 2 Endgame Grind! Farming For Crafted Bow! // Livestream",
         "thumbnail": "https://i1.ytimg.com/vi/xOFay0-MGQ0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xOFay0-MGQ0",
-        "publishedAt": "2026-10-17"
-      },
-      {
-        "id": "vid-RVI9NouNAVU",
-        "title": "(DROPS) Aion 2 Endgame Grind! Farming For Crafted Bow! // !Maxroll !Advanced !Xidax",
-        "thumbnail": "https://i3.ytimg.com/vi/RVI9NouNAVU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RVI9NouNAVU",
-        "publishedAt": "2026-10-17"
-      },
-      {
-        "id": "vid-ZxnwJMNc4Mc",
-        "title": "FREYNA UPDATE! Big Buffs & New Weapons // The First Descendant Update!",
-        "thumbnail": "https://i3.ytimg.com/vi/ZxnwJMNc4Mc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZxnwJMNc4Mc",
-        "publishedAt": "2026-10-16"
-      },
-      {
-        "id": "vid-tVOjmY9i7nw",
-        "title": "Aion 2 Endgame Grind (2400+) Working on Guides! // Aion 2 Livestream",
-        "thumbnail": "https://i1.ytimg.com/vi/tVOjmY9i7nw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tVOjmY9i7nw",
-        "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-l-yJ3g_CLbM",
-        "title": "Aion 2 Endgame Grind (2400+) Working on Guides! // Aion 2 Livestream",
-        "thumbnail": "https://i1.ytimg.com/vi/l-yJ3g_CLbM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=l-yJ3g_CLbM",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-21BJurr0Lw4",
-        "title": "Aion 2 Endgame Grind (2400+) Working on Guides! // Aion 2 Livestream",
-        "thumbnail": "https://i3.ytimg.com/vi/21BJurr0Lw4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=21BJurr0Lw4",
-        "publishedAt": "2026-10-13"
-      },
-      {
-        "id": "vid-ncLerl3I6oM",
-        "title": "Aion 2 Endgame Grind (2400+) Working on Guides! // Aion 2 Livestream",
-        "thumbnail": "https://i3.ytimg.com/vi/ncLerl3I6oM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ncLerl3I6oM",
-        "publishedAt": "2026-10-12"
-      },
-      {
-        "id": "vid-dHIm6D2KPMc",
-        "title": "50K+ DPS! UPDATED BEST RANGER BUILD! (Macro, Stigmas & More!) // Aion 2 Ultimate Ranger Guide",
-        "thumbnail": "https://i1.ytimg.com/vi/dHIm6D2KPMc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dHIm6D2KPMc",
-        "publishedAt": "2026-10-12"
+        "publishedAt": "2026-10-20"
       }
     ]
   },
@@ -412,6 +412,41 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-AGYhI9NVDFw",
+        "title": "Diablo 4 Season 16 looks WAY BETTER than expected",
+        "thumbnail": "https://i2.ytimg.com/vi/AGYhI9NVDFw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AGYhI9NVDFw",
+        "publishedAt": "2026-10-23"
+      },
+      {
+        "id": "vid-Unw_0bxxdeo",
+        "title": "What makes Diablo 3's Pushing GREAT & Diablo 4's NOT",
+        "thumbnail": "https://i2.ytimg.com/vi/Unw_0bxxdeo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Unw_0bxxdeo",
+        "publishedAt": "2026-10-20"
+      },
+      {
+        "id": "vid-b8RIw_k11V8",
+        "title": "New ARPG \"The Dark West\" Demo today (stalling in Diablo 4 until then)",
+        "thumbnail": "https://i3.ytimg.com/vi/b8RIw_k11V8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b8RIw_k11V8",
+        "publishedAt": "2026-10-19"
+      },
+      {
+        "id": "vid-xM6hEr4I7Lw",
+        "title": "Torchlight: Infinite NEW HERO Youga 3 is a BLAST",
+        "thumbnail": "https://i1.ytimg.com/vi/xM6hEr4I7Lw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xM6hEr4I7Lw",
+        "publishedAt": "2026-10-19"
+      },
+      {
+        "id": "vid-jjMXb6hj4O8",
+        "title": "New Hero Youga 3 Full Build & Progression Guide (Torchlight: Infinite)",
+        "thumbnail": "https://i3.ytimg.com/vi/jjMXb6hj4O8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jjMXb6hj4O8",
+        "publishedAt": "2026-10-19"
+      },
       {
         "id": "vid-KsodKCu2l8s",
         "title": "Torchlight: Infinite Tartarus Season & finishing P300 in Diablo 4",
@@ -446,41 +481,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/3mCVKCJN-ME/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3mCVKCJN-ME",
         "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-JN-HoC7aGRk",
-        "title": "Return to Diablo 4, new Chars & Season 15 Feedback",
-        "thumbnail": "https://i3.ytimg.com/vi/JN-HoC7aGRk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JN-HoC7aGRk",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-vDly3-PLnz8",
-        "title": "Diablo 3 Season 40 HCSSF Wizard Rank 1 GR150",
-        "thumbnail": "https://i3.ytimg.com/vi/vDly3-PLnz8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vDly3-PLnz8",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-fCtDcuy2ILw",
-        "title": "Diablo 3 Season 40 Blast to GR150 HCSSF, Wizard Time",
-        "thumbnail": "https://i3.ytimg.com/vi/fCtDcuy2ILw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fCtDcuy2ILw",
-        "publishedAt": "2026-10-13"
-      },
-      {
-        "id": "vid-_CsLnqaqE2w",
-        "title": "Torchlight: Infinite Tartarus New Season Breakdown ft. wudijo & Palsteron",
-        "thumbnail": "https://i4.ytimg.com/vi/_CsLnqaqE2w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_CsLnqaqE2w",
-        "publishedAt": "2026-10-13"
-      },
-      {
-        "id": "vid-P7P9fh7uUFw",
-        "title": "Diablo 3 Season 40 Blast to GR150 HCSSF, Wizard Time",
-        "thumbnail": "https://i1.ytimg.com/vi/P7P9fh7uUFw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P7P9fh7uUFw",
-        "publishedAt": "2026-10-12"
       }
     ]
   }
