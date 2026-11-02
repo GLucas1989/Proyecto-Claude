@@ -23,6 +23,13 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-jS3r83SDVFs",
+        "title": "Diablo Immortal –  Tempest Has RISEN! | Spin To Win Build",
+        "thumbnail": "https://i3.ytimg.com/vi/jS3r83SDVFs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jS3r83SDVFs",
+        "publishedAt": "2026-10-30"
+      },
+      {
         "id": "vid-yOfTHdJMadc",
         "title": "Diablo Immortal – Nobody Expected Monk to Be BACK! | Grasshopper Build",
         "thumbnail": "https://i2.ytimg.com/vi/yOfTHdJMadc/hqdefault.jpg",
@@ -84,13 +91,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/6DX9Ve6QIsA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6DX9Ve6QIsA",
         "publishedAt": "2026-09-20"
-      },
-      {
-        "id": "vid-6tiOOTVoDh0",
-        "title": "Diablo Immortal – Iben Fahd’s Sanctum Just Got BETTER! | Up to 1,277 Keys!",
-        "thumbnail": "https://i3.ytimg.com/vi/6tiOOTVoDh0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6tiOOTVoDh0",
-        "publishedAt": "2026-09-17"
       }
     ]
   },
@@ -213,6 +213,20 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-eyVLo9SbBdg",
+        "title": "Zz Extends Immortal Reign to Week 5 | Diablo Immortal",
+        "thumbnail": "https://i2.ytimg.com/vi/eyVLo9SbBdg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eyVLo9SbBdg",
+        "publishedAt": "2026-11-01"
+      },
+      {
+        "id": "vid-IIetI3FFUy0",
+        "title": "Unfortunate 26.10.26 Mirrored Jewels Run | Diablo Immortal #shorts",
+        "thumbnail": "https://i2.ytimg.com/vi/IIetI3FFUy0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IIetI3FFUy0",
+        "publishedAt": "2026-10-27"
+      },
+      {
         "id": "vid-5S5Zyei7Ydo",
         "title": "Rewind: Four Out of Five of KA!ROS's Strongest PVP Fighters Entered Exalted 3 | Diablo Immortal",
         "thumbnail": "https://i2.ytimg.com/vi/5S5Zyei7Ydo/hqdefault.jpg",
@@ -267,20 +281,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/F_h5QjzseHg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=F_h5QjzseHg",
         "publishedAt": "2026-09-10"
-      },
-      {
-        "id": "vid-E8D5KtzViHM",
-        "title": "VOB Gameplay: Avalorian's Wizard and Z4Bran's Blood Knight (Sep 6, 2026) | Diablo Immortal",
-        "thumbnail": "https://i2.ytimg.com/vi/E8D5KtzViHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E8D5KtzViHM",
-        "publishedAt": "2026-09-06"
-      },
-      {
-        "id": "vid-gVZe9N78IZc",
-        "title": "BUILDER'S BEACON Demo (Boon of Colossus Ashes): Open the Elder Rift, Any Safe Zone | Diablo Immortal",
-        "thumbnail": "https://i4.ytimg.com/vi/gVZe9N78IZc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gVZe9N78IZc",
-        "publishedAt": "2026-08-30"
       }
     ]
   },
@@ -308,6 +308,41 @@
       "en"
     ],
     "latestVideos": [
+      {
+        "id": "vid-rKOQ3N0Gy_s",
+        "title": "🔴 Crusader PvP + Verge! 3 Battle Pass Giveaways!",
+        "thumbnail": "https://i3.ytimg.com/vi/rKOQ3N0Gy_s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rKOQ3N0Gy_s",
+        "publishedAt": "2026-11-02"
+      },
+      {
+        "id": "vid-sH2p0Dob2aI",
+        "title": "🔴 HALLOWEEN DUNGEONATHON! Beat 152? + 10 Battle Pass Giveaways!",
+        "thumbnail": "https://i4.ytimg.com/vi/sH2p0Dob2aI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sH2p0Dob2aI",
+        "publishedAt": "2026-11-01"
+      },
+      {
+        "id": "vid-ArB24SrwfSY",
+        "title": "🔴 Crusader Tank PvP + Dungeons! Dungeonathon Tomorrow!!",
+        "thumbnail": "https://i2.ytimg.com/vi/ArB24SrwfSY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ArB24SrwfSY",
+        "publishedAt": "2026-10-31"
+      },
+      {
+        "id": "vid-ujqbU0Yfb8Q",
+        "title": "🔴 Crusader Is BACK! Time to Get to Work!",
+        "thumbnail": "https://i2.ytimg.com/vi/ujqbU0Yfb8Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ujqbU0Yfb8Q",
+        "publishedAt": "2026-10-29"
+      },
+      {
+        "id": "vid-dL-5ZaOMqII",
+        "title": "One Wizard Build for Raids & Challenge Rifts! | Diablo Immortal",
+        "thumbnail": "https://i1.ytimg.com/vi/dL-5ZaOMqII/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dL-5ZaOMqII",
+        "publishedAt": "2026-10-26"
+      },
       {
         "id": "vid-XzZlc5_fh38",
         "title": "🔴 FINAL VOTE! What Class Will I Play Next?",
@@ -342,41 +377,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/fpY5oMA4H6Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fpY5oMA4H6Q",
         "publishedAt": "2026-10-19"
-      },
-      {
-        "id": "vid-ZeLDaJUaV4U",
-        "title": "🔴 Wizard PvP Road to Legend | Global HELLSPAWN EVENT 10/24",
-        "thumbnail": "https://i3.ytimg.com/vi/ZeLDaJUaV4U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZeLDaJUaV4U",
-        "publishedAt": "2026-10-18"
-      },
-      {
-        "id": "vid-vzD8ns1fztI",
-        "title": "HELLBANE! The Diablo Immortal Community Challenge Is Here!",
-        "thumbnail": "https://i3.ytimg.com/vi/vzD8ns1fztI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vzD8ns1fztI",
-        "publishedAt": "2026-10-17"
-      },
-      {
-        "id": "vid-p3CRzo7Z5Os",
-        "title": "🔴 Wizard PvP Road to Legend | Global HELLSPAWN EVENT 10/24",
-        "thumbnail": "https://i1.ytimg.com/vi/p3CRzo7Z5Os/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=p3CRzo7Z5Os",
-        "publishedAt": "2026-10-16"
-      },
-      {
-        "id": "vid-D9LVn7WgwBY",
-        "title": "PC Players NEED to Know About This! | Diablo Immortal",
-        "thumbnail": "https://i1.ytimg.com/vi/D9LVn7WgwBY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D9LVn7WgwBY",
-        "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-nOBnsZE8xPE",
-        "title": "🔴 Wizard PvP BEAM OR TORNADO!! + Dungeons",
-        "thumbnail": "https://i3.ytimg.com/vi/nOBnsZE8xPE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nOBnsZE8xPE",
-        "publishedAt": "2026-10-14"
       }
     ]
   }

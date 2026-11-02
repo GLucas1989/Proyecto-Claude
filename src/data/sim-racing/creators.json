@@ -21,6 +21,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-pNVcgU1Q0ls",
+        "title": "Trying NASCAR 26 For The First Time!",
+        "thumbnail": "https://i1.ytimg.com/vi/pNVcgU1Q0ls/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pNVcgU1Q0ls",
+        "publishedAt": "2026-10-30"
+      },
+      {
+        "id": "vid-8NojC3cTXcM",
+        "title": "The Chaos Never Ends - Sim Racing Stewards",
+        "thumbnail": "https://i1.ytimg.com/vi/8NojC3cTXcM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8NojC3cTXcM",
+        "publishedAt": "2026-10-29"
+      },
+      {
+        "id": "vid-zlgxr3POX2w",
+        "title": "Gran Turismo 4 On A Wheel Is Amazing",
+        "thumbnail": "https://i3.ytimg.com/vi/zlgxr3POX2w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zlgxr3POX2w",
+        "publishedAt": "2026-10-29"
+      },
+      {
+        "id": "vid-4JVrktl_pCk",
+        "title": "Gran Turismo 4 The Way It Was Meant To Be Played",
+        "thumbnail": "https://i1.ytimg.com/vi/4JVrktl_pCk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4JVrktl_pCk",
+        "publishedAt": "2026-10-26"
+      },
+      {
         "id": "vid-ywuDovNVDvk",
         "title": "We've Lost Something in Modern Sim Racing…",
         "thumbnail": "https://i2.ytimg.com/vi/ywuDovNVDvk/hqdefault.jpg",
@@ -61,34 +89,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/sMKWgzL87Ng/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sMKWgzL87Ng",
         "publishedAt": "2026-10-19"
-      },
-      {
-        "id": "vid-YJre9x4VjFo",
-        "title": "Trying Assetto Corsa Evo Freeroam - Live from Sim Expo",
-        "thumbnail": "https://i2.ytimg.com/vi/YJre9x4VjFo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YJre9x4VjFo",
-        "publishedAt": "2026-10-17"
-      },
-      {
-        "id": "vid-QWb14evEwhY",
-        "title": "OUR LAST RACE OF THE SEASON - NURBURGRING 4 HOURS ONBOARD",
-        "thumbnail": "https://i2.ytimg.com/vi/QWb14evEwhY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QWb14evEwhY",
-        "publishedAt": "2026-10-10"
-      },
-      {
-        "id": "vid-02448fQmlVs",
-        "title": "The AC Evo Situation is Strange",
-        "thumbnail": "https://i1.ytimg.com/vi/02448fQmlVs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=02448fQmlVs",
-        "publishedAt": "2026-10-08"
-      },
-      {
-        "id": "vid-V8yPWoiUNpo",
-        "title": "Reacting To The Assetto Corsa EVO Freeroam Keynote",
-        "thumbnail": "https://i3.ytimg.com/vi/V8yPWoiUNpo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V8yPWoiUNpo",
-        "publishedAt": "2026-10-07"
       }
     ]
   },
@@ -113,6 +113,41 @@
       "twitter": "Jardier"
     },
     "latestVideos": [
+      {
+        "id": "vid-6T7Cr-c9WoE",
+        "title": "When you ultimate jinx your teammate🫣🤣",
+        "thumbnail": "https://i3.ytimg.com/vi/6T7Cr-c9WoE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6T7Cr-c9WoE",
+        "publishedAt": "2026-10-31"
+      },
+      {
+        "id": "vid-oyfuMfVHv7Q",
+        "title": "6 Hours of Imola LMU Online World Endurance Championship with Ukog and Niels",
+        "thumbnail": "https://i4.ytimg.com/vi/oyfuMfVHv7Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oyfuMfVHv7Q",
+        "publishedAt": "2026-10-31"
+      },
+      {
+        "id": "vid-a5WA_CMiUIU",
+        "title": "Solo Huge Endurance Racing with 6 Hours of WEC Multiclass at Barcelona",
+        "thumbnail": "https://i2.ytimg.com/vi/a5WA_CMiUIU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=a5WA_CMiUIU",
+        "publishedAt": "2026-10-30"
+      },
+      {
+        "id": "vid-jnnqna5W1t0",
+        "title": "Bumpy Ride at Sebring with WEC Championship 2 Hours Race",
+        "thumbnail": "https://i3.ytimg.com/vi/jnnqna5W1t0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jnnqna5W1t0",
+        "publishedAt": "2026-10-29"
+      },
+      {
+        "id": "vid-DM1qyOCmxj0",
+        "title": "Full battle and Emotions in LAST lap of 24 Hours of Le Mans!😅😳",
+        "thumbnail": "https://i1.ytimg.com/vi/DM1qyOCmxj0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DM1qyOCmxj0",
+        "publishedAt": "2026-10-27"
+      },
       {
         "id": "vid-japVMWOQMS8",
         "title": "We Survived Record Breaking LMU Le Mans 24 Hour Event",
@@ -147,41 +182,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/KM7lldUtRoo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KM7lldUtRoo",
         "publishedAt": "2026-10-22"
-      },
-      {
-        "id": "vid-KSHcFl2Aq7M",
-        "title": "I Finally Tried Assetto Corsa EVO FREE ROAM",
-        "thumbnail": "https://i4.ytimg.com/vi/KSHcFl2Aq7M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KSHcFl2Aq7M",
-        "publishedAt": "2026-10-21"
-      },
-      {
-        "id": "vid-g5mxzGCRED4",
-        "title": "SimRacing Expo Talk While STARTING FROM THE BACK at Le Mans😂",
-        "thumbnail": "https://i4.ytimg.com/vi/g5mxzGCRED4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g5mxzGCRED4",
-        "publishedAt": "2026-10-19"
-      },
-      {
-        "id": "vid-ouSOHb90BhI",
-        "title": "Does Le Mans Ultimate have a DRIVER RATING problem?",
-        "thumbnail": "https://i4.ytimg.com/vi/ouSOHb90BhI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ouSOHb90BhI",
-        "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-eDfRTWVjSK0",
-        "title": "This kind of vibe🔥😍",
-        "thumbnail": "https://i2.ytimg.com/vi/eDfRTWVjSK0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eDfRTWVjSK0",
-        "publishedAt": "2026-10-15"
-      },
-      {
-        "id": "vid-DzPQuTVOafs",
-        "title": "Last Race Before SimRacing Expo - Let's Have BANG 2.4Hours of LE MANS From PITS",
-        "thumbnail": "https://i1.ytimg.com/vi/DzPQuTVOafs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DzPQuTVOafs",
-        "publishedAt": "2026-10-14"
       }
     ]
   },
@@ -298,6 +298,13 @@
     },
     "latestVideos": [
       {
+        "id": "vid-z3oiVt8mlso",
+        "title": "Double Overtake at the Monaco hairpin!",
+        "thumbnail": "https://i3.ytimg.com/vi/z3oiVt8mlso/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z3oiVt8mlso",
+        "publishedAt": "2026-11-01"
+      },
+      {
         "id": "vid-Fqjv8fSVBsU",
         "title": "This mod brings back HOCKENHEIM to F1 26!",
         "thumbnail": "https://i3.ytimg.com/vi/Fqjv8fSVBsU/hqdefault.jpg",
@@ -359,13 +366,6 @@
         "thumbnail": "https://i1.ytimg.com/vi/8PZduNazRkE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=8PZduNazRkE",
         "publishedAt": "2026-09-26"
-      },
-      {
-        "id": "vid-ED87Wtq_4OM",
-        "title": "CREATOR SERIES PENULTIMATE ROUND - 100% Bahrain Grand Prix   !Discord",
-        "thumbnail": "https://i2.ytimg.com/vi/ED87Wtq_4OM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ED87Wtq_4OM",
-        "publishedAt": "2026-09-19"
       }
     ]
   },
@@ -420,6 +420,34 @@
     },
     "latestVideos": [
       {
+        "id": "vid-SBjhJAMvvdc",
+        "title": "Asetek Initium in Le Mans Ultimate",
+        "thumbnail": "https://i4.ytimg.com/vi/SBjhJAMvvdc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SBjhJAMvvdc",
+        "publishedAt": "2026-11-02"
+      },
+      {
+        "id": "vid-nVV9ehEgsUI",
+        "title": "Finally! Any wheel on my Logitech G Pro Direct Drive  #simracingreviews",
+        "thumbnail": "https://i3.ytimg.com/vi/nVV9ehEgsUI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nVV9ehEgsUI",
+        "publishedAt": "2026-11-01"
+      },
+      {
+        "id": "vid-yUvZTtocKgo",
+        "title": "Bash HSX Shifter Review – Is This the Most Realistic Sim Racing Shifter?",
+        "thumbnail": "https://i2.ytimg.com/vi/yUvZTtocKgo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yUvZTtocKgo",
+        "publishedAt": "2026-10-29"
+      },
+      {
+        "id": "vid-klmb8jVxIQA",
+        "title": "Simnet SSQ-1 Sequential Shifter  | 360° close-up view [SIM RACING HARDWARE]",
+        "thumbnail": "https://i4.ytimg.com/vi/klmb8jVxIQA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=klmb8jVxIQA",
+        "publishedAt": "2026-10-26"
+      },
+      {
         "id": "vid-rjmp7fAs9Hc",
         "title": "PXN V99 vs Logitech G29: The Truth #simracingreviews",
         "thumbnail": "https://i3.ytimg.com/vi/rjmp7fAs9Hc/hqdefault.jpg",
@@ -460,34 +488,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/53wUij2ouGo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=53wUij2ouGo",
         "publishedAt": "2026-10-17"
-      },
-      {
-        "id": "vid-awN8LZ0LOfo",
-        "title": "Simnet SP Evo Pedals Review | PC, and Console Compatible!",
-        "thumbnail": "https://i2.ytimg.com/vi/awN8LZ0LOfo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=awN8LZ0LOfo",
-        "publishedAt": "2026-10-16"
-      },
-      {
-        "id": "vid-DuHXwVcwhos",
-        "title": "Simagic Aston Martin Valkyrie Steering Wheel Review – Features & Build Quality",
-        "thumbnail": "https://i1.ytimg.com/vi/DuHXwVcwhos/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DuHXwVcwhos",
-        "publishedAt": "2026-10-14"
-      },
-      {
-        "id": "vid-4v2kuItPxNc",
-        "title": "Simnet SP Evo Pedals in action!",
-        "thumbnail": "https://i1.ytimg.com/vi/4v2kuItPxNc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4v2kuItPxNc",
-        "publishedAt": "2026-10-13"
-      },
-      {
-        "id": "vid-1d2foRuGwmU",
-        "title": "REVOSIM RS PURE Racing Bundle | 360° close-up view [SIM RACING HARDWARE]",
-        "thumbnail": "https://i2.ytimg.com/vi/1d2foRuGwmU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1d2foRuGwmU",
-        "publishedAt": "2026-10-12"
       }
     ]
   }

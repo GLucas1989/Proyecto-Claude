@@ -69,6 +69,27 @@
     ],
     "latestVideos": [
       {
+        "id": "vid-dA3vLAVlkLM",
+        "title": "SMARTEST MOMENTS IN LEAGUE OF LEGENDS #81",
+        "thumbnail": "https://i1.ytimg.com/vi/dA3vLAVlkLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dA3vLAVlkLM",
+        "publishedAt": "2026-11-01"
+      },
+      {
+        "id": "vid-o1am3bMv1IA",
+        "title": "PERFECT PENTAKILL MOMENTS IN LEAGUE OF LEGENDS #39",
+        "thumbnail": "https://i4.ytimg.com/vi/o1am3bMv1IA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o1am3bMv1IA",
+        "publishedAt": "2026-10-30"
+      },
+      {
+        "id": "vid-yeMHWOxzqU8",
+        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #30",
+        "thumbnail": "https://i2.ytimg.com/vi/yeMHWOxzqU8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yeMHWOxzqU8",
+        "publishedAt": "2026-10-28"
+      },
+      {
         "id": "vid-PhC2CXdhK88",
         "title": "17 Minutes of Support HERO Plays...",
         "thumbnail": "https://i1.ytimg.com/vi/PhC2CXdhK88/hqdefault.jpg",
@@ -116,27 +137,6 @@
         "thumbnail": "https://i2.ytimg.com/vi/A7713bBGjkc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=A7713bBGjkc",
         "publishedAt": "2026-10-10"
-      },
-      {
-        "id": "vid-Az137TlQjVs",
-        "title": "ULTRA SATISFYING MOMENTS #51",
-        "thumbnail": "https://i2.ytimg.com/vi/Az137TlQjVs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Az137TlQjVs",
-        "publishedAt": "2026-10-08"
-      },
-      {
-        "id": "vid-ALfkmNxqV5o",
-        "title": "League of Legends MOST VIEWED Twitch Clips Of The Week! #27",
-        "thumbnail": "https://i2.ytimg.com/vi/ALfkmNxqV5o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ALfkmNxqV5o",
-        "publishedAt": "2026-10-05"
-      },
-      {
-        "id": "vid-4naTlv1_GIk",
-        "title": "FUNNIEST MOMENTS IN LEAGUE OF LEGENDS #71",
-        "thumbnail": "https://i1.ytimg.com/vi/4naTlv1_GIk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4naTlv1_GIk",
-        "publishedAt": "2026-10-02"
       }
     ]
   },
@@ -163,6 +163,27 @@
       "youtube": "https://www.youtube.com/@Royal-WildRift"
     },
     "latestVideos": [
+      {
+        "id": "vid-RgMuYmZc6fQ",
+        "title": "IS THE RANK 1 KASSADIN BETTER THAN ROYAL?!",
+        "thumbnail": "https://i3.ytimg.com/vi/RgMuYmZc6fQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RgMuYmZc6fQ",
+        "publishedAt": "2026-11-02"
+      },
+      {
+        "id": "vid-4dP6WA7ySwY",
+        "title": "Wild Rift: The Best Player in History vs The Best Player of Today",
+        "thumbnail": "https://i1.ytimg.com/vi/4dP6WA7ySwY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4dP6WA7ySwY",
+        "publishedAt": "2026-10-31"
+      },
+      {
+        "id": "vid-YejQmvBB42E",
+        "title": "Wild Rift: PATCH 7.3D - HUGE BUFFS AND NERFS!",
+        "thumbnail": "https://i2.ytimg.com/vi/YejQmvBB42E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YejQmvBB42E",
+        "publishedAt": "2026-10-28"
+      },
       {
         "id": "vid-OsbPW12eohY",
         "title": "JUNGLE A-Z - ALMOST AT POSITIVE WINRATE (Portrait)",
@@ -211,27 +232,6 @@
         "thumbnail": "https://i4.ytimg.com/vi/c0VOG6IcFFc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=c0VOG6IcFFc",
         "publishedAt": "2026-10-21"
-      },
-      {
-        "id": "vid-1SruS2u1puM",
-        "title": "JUNGLE A-Z - BLITZCRANK JUNGLE TIME",
-        "thumbnail": "https://i2.ytimg.com/vi/1SruS2u1puM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1SruS2u1puM",
-        "publishedAt": "2026-10-21"
-      },
-      {
-        "id": "vid-b3tkmxOc7qM",
-        "title": "JUNGLE A-Z - DISCOVERING OP JUNGLERS (Portrait)",
-        "thumbnail": "https://i3.ytimg.com/vi/b3tkmxOc7qM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b3tkmxOc7qM",
-        "publishedAt": "2026-10-18"
-      },
-      {
-        "id": "vid-vqRejqxRD8c",
-        "title": "JUNGLE A-Z - DISCOVERING OP JUNGLERS",
-        "thumbnail": "https://i3.ytimg.com/vi/vqRejqxRD8c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vqRejqxRD8c",
-        "publishedAt": "2026-10-17"
       }
     ]
   },
@@ -261,6 +261,34 @@
       "youtube": "https://www.youtube.com/@WildRiftLatam"
     },
     "latestVideos": [
+      {
+        "id": "vid-QWee7CEQarU",
+        "title": "¡K/DA está de vuelta en la Grieta! ¿A quién elegirás primero? 👀🔥",
+        "thumbnail": "https://i2.ytimg.com/vi/QWee7CEQarU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QWee7CEQarU",
+        "publishedAt": "2026-11-01"
+      },
+      {
+        "id": "vid-PXDH1GuTt5c",
+        "title": "Las mejores ídolas🤝O II A I O II A O. Este el remix definitivo🎧🐈",
+        "thumbnail": "https://i1.ytimg.com/vi/PXDH1GuTt5c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PXDH1GuTt5c",
+        "publishedAt": "2026-10-30"
+      },
+      {
+        "id": "vid-QULvvNulkCA",
+        "title": "Wild Rift x K/DA HEATBRINGER | Tráiler de aspecto - League of Legends: Wild Rift",
+        "thumbnail": "https://i2.ytimg.com/vi/QULvvNulkCA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QULvvNulkCA",
+        "publishedAt": "2026-10-30"
+      },
+      {
+        "id": "vid-aLnzidQRtiY",
+        "title": "No basta con ganar: hay que dar show🎤🔥",
+        "thumbnail": "https://i2.ytimg.com/vi/aLnzidQRtiY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aLnzidQRtiY",
+        "publishedAt": "2026-10-29"
+      },
       {
         "id": "vid-DeJuSRg6ZMY",
         "title": "El mundo de los idols se mueve muy rápido. ¿Podrás tomar la captura perfecta de Nv. 5?💅",
@@ -302,34 +330,6 @@
         "thumbnail": "https://i3.ytimg.com/vi/6_ByC3Aa1YU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6_ByC3Aa1YU",
         "publishedAt": "2026-10-04"
-      },
-      {
-        "id": "vid-aEq-i-p1tO4",
-        "title": "¿Dónde están los mains de Hwei? Cuéntennos cuál es su combo favorito 👀 👀",
-        "thumbnail": "https://i2.ytimg.com/vi/aEq-i-p1tO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aEq-i-p1tO4",
-        "publishedAt": "2026-10-01"
-      },
-      {
-        "id": "vid-6NHPuNQAilc",
-        "title": "Con nada más que su pincel, Hwei se apodera de la Grieta🎨⚡",
-        "thumbnail": "https://i3.ytimg.com/vi/6NHPuNQAilc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6NHPuNQAilc",
-        "publishedAt": "2026-09-23"
-      },
-      {
-        "id": "vid-mjQKyd5vuhw",
-        "title": "Versión 7.3: Escenario Principal | Tráiler de la versión",
-        "thumbnail": "https://i2.ytimg.com/vi/mjQKyd5vuhw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mjQKyd5vuhw",
-        "publishedAt": "2026-09-22"
-      },
-      {
-        "id": "vid-qfTZF9RrfXk",
-        "title": "Resumen de Hwei | Jugabilidad - League of Legends: Wild Rift",
-        "thumbnail": "https://i2.ytimg.com/vi/qfTZF9RrfXk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qfTZF9RrfXk",
-        "publishedAt": "2026-09-16"
       }
     ]
   },
